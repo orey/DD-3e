@@ -8,7 +8,7 @@ import re
 from html.parser import HTMLParser
 
 DO_NOTHING_BEGIN = ["HTML", "HEAD", "META", "STYLE", "BODY", "FONT", "P",
-                    "COL", "TR", "TD", "A"]
+                    "COL", "TR", "TD"]
 
 DO_NOTHING_END = ["HTML", "HEAD", "META", "STYLE", "BODY", "FONT",
                     "COL", "TR", "TD", "BR", "A"]
@@ -61,9 +61,8 @@ class MyHTMLParser(HTMLParser):
             self.out.write("###### ")
             return
         if (self.currenttag == "A"):
-            print("tag a")
-            print("href = " + self.currentattrs["href"])
-            self.out.write("[" + removeBlanks(data) + "](" + self.currentattrs["href"] + "]")
+            url = self.currentattrs[0][1]
+            self.out.write(" [" + url + "](" + url + ") ")
             return
         if (thetag == "BR"):
             if (self.intable):
@@ -270,7 +269,7 @@ FILES = [
 if __name__ ==  "__main__":
     for infile in FILES:
         print("Converting: " + infile)
-        outfile = "./converted/" + infile.split('.')[0] + ".md"
+        outfile = infile.split('.')[0] + ".md"
         inf  = open(infile,  "r")
         outf = open(outfile, "w")
         parser = MyHTMLParser()
