@@ -12,21 +12,21 @@ Dancing Lights
 
 Evocation [Light]
 
-**Level:**Brd 0, Sor/Wiz 0
+**Level:** Brd 0, Sor/Wiz 0
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Effect:**Up to four lights, all within a 10- ft.-radius area
+**Effect:** Up to four lights, all within a 10- ft.-radius area
 
-**Duration:**1 minute (D)
+**Duration:** 1 minute (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 Depending on the version selected, you create up to four lights that resemble lanterns or torches (and cast that amount of light), or up to four glowing spheres of light (which look like will-o’-wisps), or one faintly glowing, vaguely humanoid shape. Thedancing lightsmust stay within a 10-foot-radius area in relation to each other but otherwise move as you desire (no concentration required): forward or back, up or down, straight or turning corners, or the like. The lights can move up to 100 feet per round. A light winks out if the distance between you and it exceeds the spell’s range.
 
@@ -40,21 +40,21 @@ Darkness
 
 Evocation [Darkness]
 
-**Level:**Brd 2, Clr 2, Sor/Wiz 2
+**Level:** Brd 2, Clr 2, Sor/Wiz 2
 
-**Components:**V, M/DF
+**Components:** V, M/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Object touched
+**Target:** Object touched
 
-**Duration:**10 min./level (D)
+**Duration:** 10 min./level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 This spell causes an object to radiate shadowy illumination out to a 20-foot radius. All creatures in the area gain concealment (20% miss chance). Even creatures that can normally see in such conditions (such as with darkvision or low-light vision) have the miss chance in an area shrouded in magicaldarkness.
 
@@ -74,21 +74,21 @@ Darkvision
 
 Transmutation
 
-**Level:**Rgr 3, Sor/Wiz 2
+**Level:** Rgr 3, Sor/Wiz 2
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**1 hour/level
+**Duration:** 1 hour/level
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
-**Spell Resistance:**Yes (harmless)
+**Spell Resistance:** Yes (harmless)
 
 The subject gains the ability to see 60 feet even in total darkness. Darkvision is black and white only but otherwise like normal sight.Darkvisiondoes not grant one the ability to see in magical darkness.
 
@@ -104,21 +104,21 @@ Daylight
 
 Evocation [Light]
 
-**Level:**Brd 3, Clr 3, Drd 3, Pal 3, Sor/Wiz 3
+**Level:** Brd 3, Clr 3, Drd 3, Pal 3, Sor/Wiz 3
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Object touched
+**Target:** Object touched
 
-**Duration:**10 min./level (D)
+**Duration:** 10 min./level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 The object touched sheds light as bright as full daylight in a 60-foot radius, and dim light for an additional 60 feet beyond that. Creatures that take penalties in bright light also take them while within the radius of this magical light. Despite its name, this spell is not the equivalent of daylight for the purposes of creatures that are damaged or destroyed by bright light.
 
@@ -136,21 +136,21 @@ Daze
 
 Enchantment (Compulsion) [Mind-Affecting]
 
-**Level:**Brd 0, Sor/Wiz 0
+**Level:** Brd 0, Sor/Wiz 0
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One humanoid creature of 4 HD or less
+**Target:** One humanoid creature of 4 HD or less
 
-**Duration:**1 round
+**Duration:** 1 round
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 This enchantment clouds the mind of a humanoid creature with 4 or fewer Hit Dice so that it takes no actions. Humanoids of 5 or more HD are not affected. A dazed subject is not stunned, so attackers get no special advantage against it.
 
@@ -164,11 +164,11 @@ Daze Monster
 
 Enchantment (Compulsion) [Mind-Affecting]
 
-**Level:**Brd 2, Sor/Wiz 2
+**Level:** Brd 2, Sor/Wiz 2
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Target:**One living creature of 6 HD or less
+**Target:** One living creature of 6 HD or less
 
 This spell functions likedaze,butdaze monstercan affect any one living creature of any type. Creatures of 7 or more HD are not affected.
 
@@ -180,21 +180,21 @@ Death Knell
 
 Necromancy [Death, Evil]
 
-**Level:**Clr 2, Death 2
+**Level:** Clr 2, Death 2
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Living creature touched
+**Target:** Living creature touched
 
-**Duration:**Instantaneous/10 minutes per HD of subject; see text
+**Duration:** Instantaneous/10 minutes per HD of subject; see text
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 You draw forth the ebbing life force of a creature and use it to fuel your own power. Upon casting this spell, you touch a living creature that has –1 or fewer hit points. If the subject fails its saving throw, it dies, and you gain 1d8 temporary hit points and a +2 bonus to Strength. Additionally, your effective caster level goes up by +1, improving spell effects dependent on caster level. (This increase in effective caster level does not grant you access to more spells.) These effects last for 10 minutes per HD of the subject creature.
 
@@ -206,21 +206,21 @@ Death Ward
 
 Necromancy
 
-**Level:**Clr 4, Death 4, Drd 5, Pal 4
+**Level:** Clr 4, Death 4, Drd 5, Pal 4
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Living creature touched
+**Target:** Living creature touched
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
-**Spell Resistance:**Yes (harmless)
+**Spell Resistance:** Yes (harmless)
 
 The subject is immune to all death spells, magical death effects, energy drain, and any negative energy effects.
 
@@ -236,21 +236,21 @@ Deathwatch
 
 Necromancy [Evil]
 
-**Level:**Clr 1
+**Level:** Clr 1
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**30 ft.
+**Range:** 30 ft.
 
-**Area:**Cone-shaped emanation
+**Area:** Cone-shaped emanation
 
-**Duration:**10 min./level
+**Duration:** 10 min./level
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 Using the foul sight granted by the powers of unlife, you can determine the condition of creatures near death within the spell’s range. You instantly know whether each creature within the area is dead, fragile (alive and wounded, with 3 or fewer hit points left), fighting off death (alive with 4 or more hit points), undead, or neither alive nor dead (such as a construct).
 
@@ -264,9 +264,9 @@ Deep Slumber
 
 Enchantment (Compulsion) [Mind-Affecting]
 
-**Level:**Brd 3, Sor/Wiz 3
+**Level:** Brd 3, Sor/Wiz 3
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
 This spell functions likesleep,except that it affects 10 HD of creatures.
 
@@ -278,9 +278,9 @@ Deeper Darkness
 
 Evocation [Darkness]
 
-**Level:**Clr 3
+**Level:** Clr 3
 
-**Duration:**One day/level (D)
+**Duration:** One day/level (D)
 
 This spell functions likedarkness, except that the object radiates shadowy illumination in a 60-foot radius and thedarknesslasts longer.
 
@@ -296,21 +296,21 @@ Delay Poison
 
 Conjuration (Healing)
 
-**Level:**Brd 2, Clr 2, Drd 2, Pal 2, Rgr 1
+**Level:** Brd 2, Clr 2, Drd 2, Pal 2, Rgr 1
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**1 hour/level
+**Duration:** 1 hour/level
 
-**Saving Throw:**Fortitude negates (harmless)
+**Saving Throw:** Fortitude negates (harmless)
 
-**Spell Resistance:**Yes (harmless)
+**Spell Resistance:** Yes (harmless)
 
 The subject becomes temporarily immune to poison. Any poison in its system or any poison to which it is exposed during the spell’s duration does not affect the subject until the spell’s duration has expired.Delay poisondoes not cure any damage that poison may have already done.
 
@@ -322,9 +322,9 @@ Delayed Blast Fireball
 
 Evocation [Fire]
 
-**Level:**Sor/Wiz 7
+**Level:** Sor/Wiz 7
 
-**Duration:**5 rounds or less; see text
+**Duration:** 5 rounds or less; see text
 
 This spell functions likefireball,except that it is more powerful and can detonate up to 5 rounds after the spell is cast. The burst of flame deals 1d6 points of fire damage per caster level (maximum 20d6).
 
@@ -338,11 +338,11 @@ Demand
 
 Enchantment (Compulsion) [Mind-Affecting]
 
-**Level:**Sor/Wiz 8
+**Level:** Sor/Wiz 8
 
-**Saving Throw:**Will partial
+**Saving Throw:** Will partial
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 This spell functions likesending,but the message can also contain asuggestion(see thesuggestionspell), which the subject does its best to carry out. A successful Will save negates thesuggestioneffect but not the contact itself. Thedemand,if received, is understood even if the subject’s Intelligence score is as low as 1. If the message is impossible or meaningless according to the circumstances that exist for the subject at the time thedemandis issued, the message is understood but thesuggestionis ineffective.
 
@@ -358,21 +358,21 @@ Desecrate
 
 Evocation [Evil]
 
-**Level:**Clr 2, Evil 2
+**Level:** Clr 2, Evil 2
 
-**Components:**V, S, M, DF
+**Components:** V, S, M, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Area:**20-ft.-radius emanation
+**Area:** 20-ft.-radius emanation
 
-**Duration:**2 hours/level
+**Duration:** 2 hours/level
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 This spell imbues an area with negative energy. Each Charisma check made to turn undead within this area takes a –3 profane penalty, and every undead creature entering adesecratedarea gains a +1 profane bonus on attack rolls, damage rolls, and saving throws. An undead creature created within or summoned into such an area gains +1 hit points per HD.
 
@@ -394,21 +394,21 @@ Destruction
 
 Necromancy [Death]
 
-**Level:**Clr 7, Death 7
+**Level:** Clr 7, Death 7
 
-**Components:**V, S, F
+**Components:** V, S, F
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One creature
+**Target:** One creature
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Fortitude partial
+**Saving Throw:** Fortitude partial
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 This spell instantly slays the subject and consumes its remains (but not its equipment and possessions) utterly. If the target’s Fortitude saving throw succeeds, it instead takes 10d6 points of damage. The only way to restore life to a character who has failed to save against this spell is to usetrue resurrection, a carefully wordedwishspell followed byresurrection, ormiracle.
 
@@ -422,21 +422,21 @@ Detect Animals or Plants
 
 Divination
 
-**Level:**Drd 1, Rgr 1
+**Level:** Drd 1, Rgr 1
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Long (400 ft. + 40 ft./level)
+**Range:** Long (400 ft. + 40 ft./level)
 
-**Area:**Cone-shaped emanation
+**Area:** Cone-shaped emanation
 
-**Duration:**Concentration, up to 10 min./level (D)
+**Duration:** Concentration, up to 10 min./level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You can detect a particular kind of animal or plant in a cone emanating out from you in whatever direction you face. You must think of a kind of animal or plant when using the spell, but you can change the animal or plant kind each round. The amount of information revealed depends on how long you search a particular area or focus on a specific kind of animal or plant.
 
@@ -468,7 +468,7 @@ Detect Chaos
 
 Divination
 
-**Level:**Clr 1
+**Level:** Clr 1
 
 This spell functions likedetect evil, except that it detects the auras of chaotic creatures, clerics of chaotic deities, chaotic spells, and chaotic magic items, and you are vulnerable to an overwhelming chaotic aura if you are lawful.
 
@@ -480,21 +480,21 @@ Detect Evil
 
 Divination
 
-**Level:**Clr 1
+**Level:** Clr 1
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**60 ft.
+**Range:** 60 ft.
 
-**Area:**Cone-shaped emanation
+**Area:** Cone-shaped emanation
 
-**Duration:**Concentration, up to 10 min./ level (D)
+**Duration:** Concentration, up to 10 min./ level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You can sense the presence of evil. The amount of information revealed depends on how long you study a particular area or subject.
 
@@ -618,7 +618,7 @@ Detect Good
 
 Divination
 
-**Level:**Clr 1
+**Level:** Clr 1
 
 This spell functions likedetect evil, except that it detects the auras of good creatures, clerics or paladins of good deities, good spells, and good magic items, and you are vulnerable to an overwhelming good aura if you are evil. Healing potions, antidotes, and similar beneficial items are not good.
 
@@ -630,7 +630,7 @@ Detect Law
 
 Divination
 
-**Level:**Clr 1
+**Level:** Clr 1
 
 This spell functions likedetect evil, except that it detects the auras of lawful creatures, clerics of lawful deities, lawful spells, and lawful magic items, and you are vulnerable to an overwhelming lawful aura if you are chaotic.
 
@@ -642,21 +642,21 @@ Detect Magic
 
 Divination
 
-**Level:**Brd 0, Clr 0, Drd 0, Sor/Wiz 0
+**Level:** Brd 0, Clr 0, Drd 0, Sor/Wiz 0
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**60 ft.
+**Range:** 60 ft.
 
-**Area:**Cone-shaped emanation
+**Area:** Cone-shaped emanation
 
-**Duration:**Concentration, up to 1 min./level (D)
+**Duration:** Concentration, up to 1 min./level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You detect magical auras. The amount of information revealed depends on how long you study a particular area or subject.
 
@@ -748,21 +748,21 @@ Detect Poison
 
 Divination
 
-**Level:**Clr 0, Drd 0, Pal 1, Rgr 1, Sor/Wiz 0
+**Level:** Clr 0, Drd 0, Pal 1, Rgr 1, Sor/Wiz 0
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target or Area:**One creature, one object, or a 5-ft. cube
+**Target or Area:** One creature, one object, or a 5-ft. cube
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You determine whether a creature, object, or area has been poisoned or is poisonous. You can determine the exact type of poison with a DC 20 Wisdom check. A character with the Craft (alchemy) skill may try a DC 20 Craft (alchemy) check if the Wisdom check fails, or may try the Craft (alchemy) check prior to the Wisdom check.
 
@@ -776,21 +776,21 @@ Detect Scrying
 
 Divination
 
-**Level:**Brd 4, Sor/Wiz 4
+**Level:** Brd 4, Sor/Wiz 4
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**40 ft.
+**Range:** 40 ft.
 
-**Area:**40-ft.-radius emanation centered on you
+**Area:** 40-ft.-radius emanation centered on you
 
-**Duration:**24 hours
+**Duration:** 24 hours
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You immediately become aware of any attempt to observe you by means of a divination (scrying) spell or effect. The spell’s area radiates from you and moves as you move. You know the location of every magical sensor within the spell’s area.
 
@@ -806,21 +806,21 @@ Detect Secret Doors
 
 Divination
 
-**Level:**Brd 1, Knowledge 1, Sor/Wiz 1
+**Level:** Brd 1, Knowledge 1, Sor/Wiz 1
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**60 ft.
+**Range:** 60 ft.
 
-**Area:**Cone-shaped emanation
+**Area:** Cone-shaped emanation
 
-**Duration:**Concentration, up to 1 min./level (D)
+**Duration:** Concentration, up to 1 min./level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You can detect secret doors, compartments, caches, and so forth. Only passages, doors, or openings that have been specifically constructed to escape detection are detected by this spell. The amount of information revealed depends on how long you study a particular area or subject.
 
@@ -838,21 +838,21 @@ Detect Snares and Pits
 
 Divination
 
-**Level:**Drd 1, Rgr 1
+**Level:** Drd 1, Rgr 1
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**60 ft.
+**Range:** 60 ft.
 
-**Area:**Cone-shaped emanation
+**Area:** Cone-shaped emanation
 
-**Duration:**Concentration, up to 10 min./level (D)
+**Duration:** Concentration, up to 10 min./level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You can detect simple pits, deadfalls, and snares as well as mechanical traps constructed of natural materials. The spell does not detect complex traps, including trapdoor traps.
 
@@ -876,21 +876,21 @@ Detect Thoughts
 
 Divination [Mind-Affecting]
 
-**Level:**Brd 2, Knowledge 2, Sor/Wiz 2
+**Level:** Brd 2, Knowledge 2, Sor/Wiz 2
 
-**Components:**V, S, F/DF
+**Components:** V, S, F/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**60 ft.
+**Range:** 60 ft.
 
-**Area:**Cone-shaped emanation
+**Area:** Cone-shaped emanation
 
-**Duration:**Concentration, up to 1 min./level (D)
+**Duration:** Concentration, up to 1 min./level (D)
 
-**Saving Throw:**Will negates; see text
+**Saving Throw:** Will negates; see text
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You detect surface thoughts. The amount of information revealed depends on how long you study a particular area or subject.
 
@@ -912,21 +912,21 @@ Detect Undead
 
 Divination
 
-**Level:**Clr 1, Pal 1, Sor/Wiz 1
+**Level:** Clr 1, Pal 1, Sor/Wiz 1
 
-**Components:**V, S, M/DF
+**Components:** V, S, M/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**60 ft.
+**Range:** 60 ft.
 
-**Area:**Cone-shaped emanation
+**Area:** Cone-shaped emanation
 
-**Duration:**Concentration, up to 1 minute/ level (D)
+**Duration:** Concentration, up to 1 minute/ level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You can detect the aura that surrounds undead creatures. The amount of information revealed depends on how long you study a particular area.
 
@@ -1000,21 +1000,21 @@ Dictum
 
 Evocation [Lawful, Sonic]
 
-**Level:**Clr 7, Law 7
+**Level:** Clr 7, Law 7
 
-**Components:**V
+**Components:** V
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**40 ft.
+**Range:** 40 ft.
 
-**Area:**Nonlawful creatures in a 40-ft.-radius spread centered on you
+**Area:** Nonlawful creatures in a 40-ft.-radius spread centered on you
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None or Will negates; see text
+**Saving Throw:** None or Will negates; see text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Any nonlawful creature within the area of adictumspell suffers the following ill effects.
 
@@ -1064,21 +1064,21 @@ Dimension Door
 
 Conjuration (Teleportation)
 
-**Level:**Brd 4, Sor/Wiz 4, Travel 4
+**Level:** Brd 4, Sor/Wiz 4, Travel 4
 
-**Components:**V
+**Components:** V
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Long (400 ft. + 40 ft./level)
+**Range:** Long (400 ft. + 40 ft./level)
 
-**Target:**You and touched objects or other touched willing creatures
+**Target:** You and touched objects or other touched willing creatures
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None and Will negates (object)
+**Saving Throw:** None and Will negates (object)
 
-**Spell Resistance:**No and Yes (object)
+**Spell Resistance:** No and Yes (object)
 
 You instantly transfer yourself from your current location to any other spot within range. You always arrive at exactly the spot desired—whether by simply visualizing the area or by stating direction. After using this spell, you can’t take any other actions until your next turn. You can bring along objects as long as their weight doesn’t exceed your maximum load. You may also bring one additional willing Medium or smaller creature (carrying gear or objects up to its maximum load) or its equivalent per three caster levels. A Large creature counts as two Medium creatures, a Huge creature counts as two Large creatures, and so forth. All creatures to be transported must be in contact with one another, and at least one of those creatures must be in contact with you.
 
@@ -1094,21 +1094,21 @@ Dimensional Anchor
 
 Abjuration
 
-**Level:**Clr 4, Sor/Wiz 4
+**Level:** Clr 4, Sor/Wiz 4
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Effect:**Ray
+**Effect:** Ray
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**Yes (object)
+**Spell Resistance:** Yes (object)
 
 A green ray springs from your outstretched hand. You must make a ranged touch attack to hit the target. Any creature or object struck by the ray is covered with a shimmering emerald field that completely blocks extradimensional travel. Forms of movement barred by adimensional anchorincludeastral projection, blink, dimension door, ethereal jaunt, etherealness, gate, maze, plane shift, shadow walk, teleport,and similar spell-like or psionic abilities. The spell also prevents the use of agateorteleportation circlefor the duration of the spell.
 
@@ -1122,21 +1122,21 @@ Dimensional Lock
 
 Abjuration
 
-**Level:**Clr 8, Sor/Wiz 8
+**Level:** Clr 8, Sor/Wiz 8
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Area:**20-ft.-radius emanation centered on a point in space
+**Area:** 20-ft.-radius emanation centered on a point in space
 
-**Duration:**One day/level
+**Duration:** One day/level
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 You create a shimmering emerald barrier that completely blocks extradimensional travel. Forms of movement barred includeastral projection, blink, dimension door, ethereal jaunt, etherealness, gate, maze, plane shift, shadow walk, teleport,and similar spell-like or psionic abilities. Oncedimensional lockis in place, extradimensional travel into or out of the area is not possible.
 
@@ -1150,21 +1150,21 @@ Diminish Plants
 
 Transmutation
 
-**Level:**Drd 3, Rgr 3
+**Level:** Drd 3, Rgr 3
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**See text
+**Range:** See text
 
-**Target or Area:**See text
+**Target or Area:** See text
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 This spell has two versions.
 
@@ -1188,21 +1188,21 @@ Discern Lies
 
 Divination
 
-**Level:**Clr 4, Pal 3
+**Level:** Clr 4, Pal 3
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Targets:**One creature/level, no two of which can be more than 30 ft. apart
+**Targets:** One creature/level, no two of which can be more than 30 ft. apart
 
-**Duration:**Concentration, up to 1 round/level
+**Duration:** Concentration, up to 1 round/level
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 Each round, you concentrate on one subject, who must be within range. You know if the subject deliberately and knowingly speaks a lie by discerning disturbances in its aura caused by lying. The spell does not reveal the truth, uncover unintentional inaccuracies, or necessarily reveal evasions.
 
@@ -1216,21 +1216,21 @@ Discern Location
 
 Divination
 
-**Level:**Clr 8, Knowledge 8, Sor/Wiz 8
+**Level:** Clr 8, Knowledge 8, Sor/Wiz 8
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**10 minutes
+**Casting Time:** 10 minutes
 
-**Range:**Unlimited
+**Range:** Unlimited
 
-**Target:**One creature or object
+**Target:** One creature or object
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 Adiscern locationspell is among the most powerful means of locating creatures or objects. Nothing short of amind blankspell or the direct intervention of a deity keeps you from learning the exact location of a single individual or object.Discern locationcircumvents normal means of protection from scrying or location. The spell reveals the name of the creature or object’s location (place, name, business name, building name, or the like), community, county (or similar political division), country, continent, and the plane of existence where the target lies.
 
@@ -1244,17 +1244,17 @@ Disguise Self
 
 Illusion (Glamer)
 
-**Level:**Brd 1, Sor/Wiz 1, Trickery 1
+**Level:** Brd 1, Sor/Wiz 1, Trickery 1
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**10 min./level (D)
+**Duration:** 10 min./level (D)
 
 You make yourself—including clothing, armor, weapons, and equipment—look different. You can seem 1 foot shorter or taller, thin, fat, or in between. You cannot change your body type. Otherwise, the extent of the apparent change is up to you. You could add or obscure a minor feature or look like an entirely different person.
 
@@ -1272,21 +1272,21 @@ Disintegrate
 
 Transmutation
 
-**Level:**Destruction 7, Sor/Wiz 6
+**Level:** Destruction 7, Sor/Wiz 6
 
-**Components:**V, S, M/DF
+**Components:** V, S, M/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Effect:**Ray
+**Effect:** Ray
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Fortitude partial (object)
+**Saving Throw:** Fortitude partial (object)
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 A thin, green ray springs from your pointing finger. You must make a successful ranged touch attack to hit. Any creature struck by the ray takes 2d6 points of damage per caster level (to a maximum of 40d6). Any creature reduced to 0 or fewer hit points by this spell is entirely disintegrated, leaving behind only a trace of fine dust. A disintegrated creature’s equipment is unaffected.
 
@@ -1306,21 +1306,21 @@ Dismissal
 
 Abjuration
 
-**Level:**Clr 4, Sor/Wiz 5
+**Level:** Clr 4, Sor/Wiz 5
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One extraplanar creature
+**Target:** One extraplanar creature
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Will negates; see text
+**Saving Throw:** Will negates; see text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 This spell forces an extraplanar creature back to its proper plane if it fails a special Will save (DC = spell’s save DC – creature’s HD + your caster level). If the spell is successful, the creature is instantly whisked away, but there is a 20% chance of actually sending the subject to a plane other than its own.
 
@@ -1332,7 +1332,7 @@ Dispel Chaos
 
 Abjuration [Lawful]
 
-**Level:**Clr 5, Law 5, Pal 4
+**Level:** Clr 5, Law 5, Pal 4
 
 This spell functions likedispel evil, except that you are surrounded by constant, blue, lawful energy, and the spell affects chaotic creatures and spells rather than evil ones.
 
@@ -1344,21 +1344,21 @@ Dispel Evil
 
 Abjuration [Good]
 
-**Level:**Clr 5, Good 5, Pal 4
+**Level:** Clr 5, Good 5, Pal 4
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target or Targets:**You and a touched evil creature from another plane; or you and an enchantment or evil spell on a touched creature or object
+**Target or Targets:** You and a touched evil creature from another plane; or you and an enchantment or evil spell on a touched creature or object
 
-**Duration:**1 round/level or until discharged, whichever comes first
+**Duration:** 1 round/level or until discharged, whichever comes first
 
-**Saving Throw:**See text
+**Saving Throw:** See text
 
-**Spell Resistance:**See text
+**Spell Resistance:** See text
 
 Shimmering, white, holy energy surrounds you. This power has three effects.
 
@@ -1376,7 +1376,7 @@ Dispel Good
 
 Abjuration [Evil]
 
-**Level:**Clr 5, Evil 5
+**Level:** Clr 5, Evil 5
 
 This spell functions likedispel evil, except that you are surrounded by dark, wavering, unholy energy, and the spell affects good creatures and spells rather than evil ones.
 
@@ -1388,7 +1388,7 @@ Dispel Law
 
 Abjuration [Chaotic]
 
-**Level:**Chaos 5, Clr 5
+**Level:** Chaos 5, Clr 5
 
 This spell functions likedispel evil, except that you are surrounded by flickering, yellow, chaotic energy, and the spell affects lawful creatures and spells rather than evil ones.
 
@@ -1400,21 +1400,21 @@ Dispel Magic
 
 Abjuration
 
-**Level:**Brd 3, Clr 3, Drd 4, Magic 3, Pal 3, Sor/Wiz 3
+**Level:** Brd 3, Clr 3, Drd 4, Magic 3, Pal 3, Sor/Wiz 3
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Target or Area:**One spellcaster, creature, or object; or 20-ft.-radius burst
+**Target or Area:** One spellcaster, creature, or object; or 20-ft.-radius burst
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You can usedispel magicto end ongoing spells that have been cast on a creature or object, to temporarily suppress the magical abilities of a magic item, to end ongoing spells (or at least their effects) within an area, or to counter another spellcaster’s spell. A dispelled spell ends as if its duration had expired. Some spells, as detailed in their descriptions, can’t be defeated bydispel magic.Dispel magiccan dispel (but not counter) spell-like effects just as it does spells.
 
@@ -1454,7 +1454,7 @@ Dispel Magic, Greater
 
 Abjuration
 
-**Level:**Brd 5, Clr 6, Drd 6, Sor/Wiz 6
+**Level:** Brd 5, Clr 6, Drd 6, Sor/Wiz 6
 
 This spell functions likedispel magic, except that the maximum caster level on your dispel check is +20 instead of +10.
 
@@ -1468,21 +1468,21 @@ Displacement
 
 Illusion (Glamer)
 
-**Level:**Brd 3, Sor/Wiz 3
+**Level:** Brd 3, Sor/Wiz 3
 
-**Components:**V, M
+**Components:** V, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**1 round/level (D)
+**Duration:** 1 round/level (D)
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
-**Spell Resistance:**Yes (harmless)
+**Spell Resistance:** Yes (harmless)
 
 The subject of this spell appears to be about 2 feet away from its true location. The creature benefits from a 50% miss chance as if it had total concealment. However, unlike actual total concealment,displacementdoes not prevent enemies from targeting the creature normally.True seeingreveals its true location.
 
@@ -1496,21 +1496,21 @@ Disrupt Undead
 
 Necromancy
 
-**Level:**Sor/Wiz 0
+**Level:** Sor/Wiz 0
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Effect:**Ray
+**Effect:** Ray
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 You direct a ray of positive energy. You must make a ranged touch attack to hit, and if the ray hits an undead creature, it deals 1d6 points of damage to it.
 
@@ -1522,21 +1522,21 @@ Disrupting Weapon
 
 Transmutation
 
-**Level:**Clr 5
+**Level:** Clr 5
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Targets:**One melee weapon
+**Targets:** One melee weapon
 
-**Duration:**1 round/level
+**Duration:** 1 round/level
 
-**Saving Throw:**Will negates (harmless, object); see text
+**Saving Throw:** Will negates (harmless, object); see text
 
-**Spell Resistance:**Yes (harmless, object)
+**Spell Resistance:** Yes (harmless, object)
 
 This spell makes a melee weapon deadly to undead. Any undead creature with HD equal to or less than your caster level must succeed on a Will save or be destroyed utterly if struck in combat with this weapon. Spell resistance does not apply against the destruction effect.
 
@@ -1548,17 +1548,17 @@ Divination
 
 Divination
 
-**Level:**Clr 4, Knowledge 4
+**Level:** Clr 4, Knowledge 4
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**10 minutes
+**Casting Time:** 10 minutes
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
 Similar toaugurybut more powerful, adivinationspell can provide you with a useful piece of advice in reply to a question concerning a specific goal, event, or activity that is to occur within one week. The advice can be as simple as a short phrase, or it might take the form of a cryptic rhyme or omen. If your party doesn’t act on the information, the conditions may change so that the information is no longer useful. The base chance for a correctdivinationis 70% + 1% per caster level, to a maximum of 90%. If the dice roll fails, you know the spell failed, unless specific magic yielding false information is at work.
 
@@ -1574,17 +1574,17 @@ Divine Favor
 
 Evocation
 
-**Level:**Clr 1, Pal 1
+**Level:** Clr 1, Pal 1
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 minute
+**Duration:** 1 minute
 
 Calling upon the strength and wisdom of a deity, you gain a +1 luck bonus on attack and weapon damage rolls for every three caster levels you have (at least +1, maximum +6). The bonus doesn’t apply to spell damage.
 
@@ -1596,17 +1596,17 @@ Divine Power
 
 Evocation
 
-**Level:**Clr 4, War 4
+**Level:** Clr 4, War 4
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 round/level
+**Duration:** 1 round/level
 
 Calling upon the divine power of your patron, you imbue yourself with strength and skill in combat. Your base attack bonus becomes equal to your character level (which may give you additional attacks), you gain a +6 enhancement bonus to Strength, and you gain 1 temporary hit point per caster level.
 
@@ -1618,21 +1618,21 @@ Dominate Animal
 
 Enchantment (Compulsion) [Mind-Affecting]
 
-**Level:**Animal 3, Drd 3
+**Level:** Animal 3, Drd 3
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 round
+**Casting Time:** 1 round
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One animal
+**Target:** One animal
 
-**Duration:**1 round/level
+**Duration:** 1 round/level
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 You can enchant an animal and direct it with simple commands such as “Attack,” “Run,” and “Fetch.” Suicidal or self-destructive commands (including an order to attack a creature two or more size categories larger than thedominatedanimal) are simply ignored.
 
@@ -1646,9 +1646,9 @@ Dominate Monster
 
 Enchantment (Compulsion) [Mind-Affecting]
 
-**Level:**Sor/Wiz 9
+**Level:** Sor/Wiz 9
 
-**Target:**One creature
+**Target:** One creature
 
 This spell functions likedominate person,except that the spell is not restricted by creature type.
 
@@ -1660,21 +1660,21 @@ Dominate Person
 
 Enchantment (Compulsion) [Mind-Affecting]
 
-**Level:**Brd 4, Sor/Wiz 5
+**Level:** Brd 4, Sor/Wiz 5
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 round
+**Casting Time:** 1 round
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One humanoid
+**Target:** One humanoid
 
-**Duration:**One day/level
+**Duration:** One day/level
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 You can control the actions of any humanoid creature through a telepathic link that you establish with the subject’s mind.
 
@@ -1700,21 +1700,21 @@ Doom
 
 Necromancy [Fear, Mind-Affecting]
 
-**Level:**Clr 1
+**Level:** Clr 1
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Target:**One living creature
+**Target:** One living creature
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 This spell fills a single subject with a feeling of horrible dread that causes it to become shaken.
 
@@ -1726,21 +1726,21 @@ Dream
 
 Illusion (Phantasm) [Mind-Affecting]
 
-**Level:**Brd 5, Sor/Wiz 5
+**Level:** Brd 5, Sor/Wiz 5
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 minute
+**Casting Time:** 1 minute
 
-**Range:**Unlimited
+**Range:** Unlimited
 
-**Target:**One living creature touched
+**Target:** One living creature touched
 
-**Duration:**See text
+**Duration:** See text
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 You, or a messenger touched by you, sends a phantasmal message to others in the form of a dream. At the beginning of the spell, you must name the recipient or identify him or her by some title that leaves no doubt as to identity. The messenger then enters a trance, appears in the intended recipient’s dream, and delivers the message. The message can be of any length, and the recipient remembers it perfectly upon waking. The communication is one-way. The recipient cannot ask questions or offer information, nor can the messenger gain any information by observing the dreams of the recipient.
 
@@ -1760,21 +1760,21 @@ Eagle’s Splendor
 
 Transmutation
 
-**Level:**Brd 2, Clr 2, Pal 2, Sor/Wiz 2
+**Level:** Brd 2, Clr 2, Pal 2, Sor/Wiz 2
 
-**Components:**V, S, M/DF
+**Components:** V, S, M/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 The transmuted creature becomes more poised, articulate, and personally forceful. The spell grants a +4 enhancement bonus to Charisma, adding the usual benefits to Charisma-based skill checks and other uses of the Charisma modifier. Sorcerers and bards (and other spellcasters who rely on Charisma) affected by this spell do not gain any additional bonus spells for the increased Charisma, but the save DCs for spells they cast while under this spell’s effect do increase.
 
@@ -1788,11 +1788,11 @@ Eagle’s Splendor, Mass
 
 Transmutation
 
-**Level:**Brd 6, Clr 6, Sor/Wiz 6
+**Level:** Brd 6, Clr 6, Sor/Wiz 6
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One creature/level, no two of which can be more than 30 ft. apart
+**Target:** One creature/level, no two of which can be more than 30 ft. apart
 
 This spell functions likeeagle’s splendor, except that it affects multiple creatures.
 
@@ -1804,21 +1804,21 @@ Earthquake
 
 Evocation [Earth]
 
-**Level:**Clr 8, Destruction 8, Drd 8, Earth 7
+**Level:** Clr 8, Destruction 8, Drd 8, Earth 7
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Long (400 ft. + 40 ft./level)
+**Range:** Long (400 ft. + 40 ft./level)
 
-**Area:**80-ft.-radius spread (S)
+**Area:** 80-ft.-radius spread (S)
 
-**Duration:**1 round
+**Duration:** 1 round
 
-**Saving Throw:**See text
+**Saving Throw:** See text
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 When you castearthquake,an intense but highly localized tremor rips the ground. The shock knocks creatures down, collapses structures, opens cracks in the ground, and more. The effect lasts for 1 round, during which time creatures on the ground can’t move or attack. A spellcaster on the ground must make a Concentration check (DC 20 + spell level) or lose any spell he or she tries to cast. The earthquake affects all terrain, vegetation, structures, and creatures in the area. The specific effect of anearthquakespell depends on the nature of the terrain where it is cast.
 
@@ -1842,21 +1842,21 @@ Elemental Swarm
 
 Conjuration (Summoning) [see text]
 
-**Level:**Air 9, Drd 9, Earth 9, Fire 9, Water 9
+**Level:** Air 9, Drd 9, Earth 9, Fire 9, Water 9
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**10 minutes
+**Casting Time:** 10 minutes
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Effect:**Two or more summoned creatures, no two of which can be more than 30 ft. apart
+**Effect:** Two or more summoned creatures, no two of which can be more than 30 ft. apart
 
-**Duration:**10 min./level (D)
+**Duration:** 10 min./level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 This spell opens a portal to an Elemental Plane and summons elementals from it. A druid can choose the plane (Air, Earth, Fire, or Water); a cleric opens a portal to the plane matching his domain.
 
@@ -1874,21 +1874,21 @@ Endure Elements
 
 Abjuration
 
-**Level:**Clr 1, Drd 1, Pal 1, Rgr 1, Sor/Wiz 1, Sun 1
+**Level:** Clr 1, Drd 1, Pal 1, Rgr 1, Sor/Wiz 1, Sun 1
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**24 hours
+**Duration:** 24 hours
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
-**Spell Resistance:**Yes (harmless)
+**Spell Resistance:** Yes (harmless)
 
 A creature protected byendure elementssuffers no harm from being in a hot or cold environment. It can exist comfortably in conditions between –50 and 140 degrees Fahrenheit without having to make Fortitude saves). The creature’s equipment is likewise protected.
 
@@ -1902,9 +1902,9 @@ Energy Drain
 
 Necromancy
 
-**Level:**Clr 9, Sor/Wiz 9
+**Level:** Clr 9, Sor/Wiz 9
 
-**Saving Throw:**Fortitude partial; see text forenervation
+**Saving Throw:** Fortitude partial; see text forenervation
 
 This spell functions likeenervation,except that the creature struck gains 2d4 negative levels, and the negative levels last longer.
 
@@ -1920,21 +1920,21 @@ Enervation
 
 Necromancy
 
-**Level:**Sor/Wiz 4
+**Level:** Sor/Wiz 4
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Effect:**Ray of negative energy
+**Effect:** Ray of negative energy
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 You point your finger and utter the incantation, releasing a black ray of crackling negative energy that suppresses the life force of any living creature it strikes. You must make a ranged touch attack to hit. If the attack succeeds, the subject gains 1d4 negative levels.
 
@@ -1954,21 +1954,21 @@ Enlarge Person
 
 Transmutation
 
-**Level:**Sor/Wiz 1, Strength 1
+**Level:** Sor/Wiz 1, Strength 1
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 round
+**Casting Time:** 1 round
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One humanoid creature
+**Target:** One humanoid creature
 
-**Duration:**1 min./level (D)
+**Duration:** 1 min./level (D)
 
-**Saving Throw:**Fortitude negates
+**Saving Throw:** Fortitude negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 This spell causes instant growth of a humanoid creature, doubling its height and multiplying its weight by 8. This increase changes the creature’s size category to the next larger one. The target gains a +2 size bonus to Strength, a –2 size penalty to Dexterity (to a minimum of 1), and a –1 penalty on attack rolls and AC due to its increased size.
 
@@ -1994,9 +1994,9 @@ Enlarge Person, Mass
 
 Transmutation
 
-**Level:**Sor/Wiz 4
+**Level:** Sor/Wiz 4
 
-**Target:**One humanoid creature/level, no two of which can be more than 30 ft. apart
+**Target:** One humanoid creature/level, no two of which can be more than 30 ft. apart
 
 This spell functions likeenlarge person, except that it affects multiple creatures.
 
@@ -2008,21 +2008,21 @@ Entangle
 
 Transmutation
 
-**Level:**Drd 1, Plant 1, Rgr 1
+**Level:** Drd 1, Plant 1, Rgr 1
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Long (400 ft. + 40 ft./level)
+**Range:** Long (400 ft. + 40 ft./level)
 
-**Area:**Plants in a 40-ft.-radius spread
+**Area:** Plants in a 40-ft.-radius spread
 
-**Duration:**1 min./level (D)
+**Duration:** 1 min./level (D)
 
-**Saving Throw:**Reflex partial; see text
+**Saving Throw:** Reflex partial; see text
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 Grasses, weeds, bushes, and even trees wrap, twist, and entwine about creatures in the area or those that enter the area, holding them fast and causing them to become entangled. The creature can break free and move half its normal speed by using a full-round action to make a DC 20 Strength check or a DC 20 Escape Artist check. A creature that succeeds on a Reflex save is not entangled but can still move at only half speed through the area. Each round on your turn, the plants once again attempt to entangle all creatures that have avoided or escaped entanglement.
 
@@ -2036,21 +2036,21 @@ Enthrall
 
 Enchantment (Charm) [Language Dependent, Mind-Affecting, Sonic]
 
-**Level:**Brd 2, Clr 2
+**Level:** Brd 2, Clr 2
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 round
+**Casting Time:** 1 round
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Targets:**Any number of creatures
+**Targets:** Any number of creatures
 
-**Duration:**1 hour or less
+**Duration:** 1 hour or less
 
-**Saving Throw:**Will negates; see text
+**Saving Throw:** Will negates; see text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 If you have the attention of a group of creatures, you can use this spell to hold them spellbound. To cast the spell, you must speak or sing without interruption for 1 full round. Thereafter, those affected give you their undivided attention, ignoring their surroundings. They are considered to have an attitude of friendly while under the effect of the spell. Any potentially affected creature of a race or religion unfriendly to yours gets a +4 bonus on the saving throw.
 
@@ -2070,17 +2070,17 @@ Entropic Shield
 
 Abjuration
 
-**Level:**Clr 1, Luck 1
+**Level:** Clr 1, Luck 1
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 min./level (D)
+**Duration:** 1 min./level (D)
 
 A magical field appears around you, glowing with a chaotic blast of multicolored hues. This field deflects incoming arrows, rays, and other ranged attacks. Each ranged attack directed at you for which the attacker must make an attack roll has a 20% miss chance (similar to the effects of concealment). Other attacks that simply work at a distance are not affected.
 
@@ -2092,21 +2092,21 @@ Erase
 
 Transmutation
 
-**Level:**Brd 1, Sor/Wiz 1
+**Level:** Brd 1, Sor/Wiz 1
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One scroll or two pages
+**Target:** One scroll or two pages
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**See text
+**Saving Throw:** See text
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 Eraseremoves writings of either magical or mundane nature from a scroll or from one or two pages of paper, parchment, or similar surfaces. With this spell, you can removeexplosive runes,aglyph of warding,asepia snake sigil,or anarcane mark, but notillusory scriptor asymbolspell. Nonmagical writing is automatically erased if you touch it and no one else is holding it. Otherwise, the chance of erasing nonmagical writing is 90%.
 
@@ -2120,17 +2120,17 @@ Ethereal Jaunt
 
 Transmutation
 
-**Level:**Clr 7, Sor/Wiz 7
+**Level:** Clr 7, Sor/Wiz 7
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 round/level (D)
+**Duration:** 1 round/level (D)
 
 You become ethereal, along with your equipment. For the duration of the spell, you are in a place called the Ethereal Plane, which overlaps the normal, physical, Material Plane. When the spell expires, you return to material existence.
 
@@ -2150,15 +2150,15 @@ Etherealness
 
 Transmutation
 
-**Level:**Clr 9, Sor/Wiz 9
+**Level:** Clr 9, Sor/Wiz 9
 
-**Range:**Touch; see text
+**Range:** Touch; see text
 
-**Targets:**You and one other touched creature per three levels
+**Targets:** You and one other touched creature per three levels
 
-**Duration:**1 min./level (D)
+**Duration:** 1 min./level (D)
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 This spell functions likeethereal jaunt,except that you and other willing creatures joined by linked hands (along with their equipment) become ethereal. Besides yourself, you can bring one creature per three caster levels to the Ethereal Plane. Once ethereal, the subjects need not stay together.
 
@@ -2172,17 +2172,17 @@ Expeditious Retreat
 
 Transmutation
 
-**Level:**Brd 1, Sor/Wiz 1
+**Level:** Brd 1, Sor/Wiz 1
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 min./level (D)
+**Duration:** 1 min./level (D)
 
 This spell increases your base land speed by 30 feet. (This adjustment is treated as an enhancement bonus.) There is no effect on other modes of movement, such as burrow, climb, fly, or swim. As with any effect that increases your speed, this spell affects your jumping distance (see the Jump skill).
 
@@ -2194,21 +2194,21 @@ Explosive Runes
 
 Abjuration [Force]
 
-**Level:**Sor/Wiz 3
+**Level:** Sor/Wiz 3
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**One touched object weighing no more than 10 lb.
+**Target:** One touched object weighing no more than 10 lb.
 
-**Duration:**Permanent until discharged (D)
+**Duration:** Permanent until discharged (D)
 
-**Saving Throw:**See text
+**Saving Throw:** See text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 You trace these mystic runes upon a book, map, scroll, or similar object bearing written information. Therunesdetonate when read, dealing 6d6 points of force damage. Anyone next to therunes(close enough to read them) takes the full damage with no saving throw; any other creature within 10 feet of therunesis entitled to a Reflex save for half damage. The object on which theruneswere written also takes full damage (no saving throw).
 
@@ -2224,21 +2224,21 @@ Eyebite
 
 Necromancy [Evil]
 
-**Level:**Brd 6, Sor/Wiz 6
+**Level:** Brd 6, Sor/Wiz 6
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One living creature
+**Target:** One living creature
 
-**Duration:**1 round per three levels; see text
+**Duration:** 1 round per three levels; see text
 
-**Saving Throw:**Fortitude negates
+**Saving Throw:** Fortitude negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Each round, you may target a single living creature, striking it with waves of evil power. Depending on the target’s HD, this attack has as many as three effects.
 

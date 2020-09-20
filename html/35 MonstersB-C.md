@@ -164,21 +164,21 @@ Barghests can claw and bite, no matter what their form, and usually disdain weap
 
 A barghest’s natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming damage reduction. Its natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
 
-**Spell-Like Abilities:**At will—blink, levitate, misdirection(DC 14),rage(DC 15); 1/day—charm monster(DC 16),crushing despair(DC 16),dimension door.Caster level equals the barghest’s HD.
+**Spell-Like Abilities:** At will—blink, levitate, misdirection(DC 14),rage(DC 15); 1/day—charm monster(DC 16),crushing despair(DC 16),dimension door.Caster level equals the barghest’s HD.
 
 The save DCs are Charisma-based.
 
-**Feed (Su):**When a barghest slays a humanoid opponent, it can feed on the corpse, devouring both flesh and life force, as a full-round action. Feeding destroys the victim’s body and prevents any form of raising or resurrection that requires part of the corpse. There is a 50% chance that awish, miracle,ortrue resurrectionspell can restore a devoured victim to life. Check once for each destroyed creature. If the check fails, the creature cannot be brought back to life by mortal magic.
+**Feed (Su):** When a barghest slays a humanoid opponent, it can feed on the corpse, devouring both flesh and life force, as a full-round action. Feeding destroys the victim’s body and prevents any form of raising or resurrection that requires part of the corpse. There is a 50% chance that awish, miracle,ortrue resurrectionspell can restore a devoured victim to life. Check once for each destroyed creature. If the check fails, the creature cannot be brought back to life by mortal magic.
 
 A barghest advances in Hit Dice by consuming corpses in this fashion. For every three suitable corpses a barghest devours, it gains 1 Hit Die, and its Strength, Constitution, and natural armor increase by +1. Its attack bonus and saves improve as normal for an outsider of its Hit Dice, and it gains skill points, feats, and ability score improvements normally.
 
 The barghest only advances by consuming the corpses of creatures whose Hit Dice or levels are equal to or greater than its own current total. A barghest that reaches 9 Hit Dice through feeding immediately becomes a greater barghest upon completion of the act.
 
-**Change Shape (Su):**A barghest can assume the shape of a goblin or a wolf as a standard action. In goblin form, a barghest cannot use its natural weapons but can wield weapons and wear armor. In wolf form, a barghest loses its claw attacks but retains its bite attack.
+**Change Shape (Su):** A barghest can assume the shape of a goblin or a wolf as a standard action. In goblin form, a barghest cannot use its natural weapons but can wield weapons and wear armor. In wolf form, a barghest loses its claw attacks but retains its bite attack.
 
-**Pass Without Trace (Ex):**A barghest in wolf form can use pass without trace (as the spell) as a free action.
+**Pass Without Trace (Ex):** A barghest in wolf form can use pass without trace (as the spell) as a free action.
 
-**Skills:***A barghest in wolf form gains a +4 circumstance bonus on Hide checks.
+**Skills:** *A barghest in wolf form gains a +4 circumstance bonus on Hide checks.
 
 
 
@@ -190,7 +190,7 @@ A barghest that reaches 9 Hit Dice through feeding becomes a greater barghest. T
 
 A greater barghest can reach a maximum of 18 Hit Dice through feeding.
 
-**Spell-Like Abilities:**In addition to the spelllike abilities all barghests possess, a greater barghest gains the following abilities. At will—invisibility sphere;1/day—mass bull’s strength,mass enlarge.Caster level equals the greater barghest’s HD.
+**Spell-Like Abilities:** In addition to the spelllike abilities all barghests possess, a greater barghest gains the following abilities. At will—invisibility sphere;1/day—mass bull’s strength,mass enlarge.Caster level equals the greater barghest’s HD.
 
 COMBAT
 
@@ -350,9 +350,9 @@ COMBAT
 
 A basilisk relies on its gaze attack, biting only when opponents come within reach. Though it has eight legs, its slow metabolism renders it relatively sluggish, so it does not expend energy unnecessarily. Intruders who flee a basilisk rather than fight can expect, at best, a halfhearted pursuit. These creatures tend to spend most of their time lying in wait for prey, which includes small mammals, birds, reptiles, and similar creatures.
 
-**Petrifying Gaze (Su):**Turn to stone permanently, range 30 feet; Fortitude DC 13 negates. The save DC is Charisma-based.
+**Petrifying Gaze (Su):** Turn to stone permanently, range 30 feet; Fortitude DC 13 negates. The save DC is Charisma-based.
 
-**Skills:***The basilisk’s dull coloration and its ability to remain motionless for long periods of time grant it a +4 racial bonus on Hide checks in natural settings.
+**Skills:** *The basilisk’s dull coloration and its ability to remain motionless for long periods of time grant it a +4 racial bonus on Hide checks in natural settings.
 
 
 
@@ -366,7 +366,7 @@ The save DC for the abyssal greater basilisk’s petrifying gaze (DC 21) is adju
 
 An abyssal greater basilisk’s natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
 
-**Smite Good (Su):**Once per day an abyssal greater basilisk can make a normal melee attack to deal an extra 18 points of damage against a good foe.
+**Smite Good (Su):** Once per day an abyssal greater basilisk can make a normal melee attack to deal an extra 18 points of damage against a good foe.
 
 
 
@@ -474,17 +474,17 @@ COMBAT
 
 A behir usually bites and grabs its prey first, then either swallows or constricts the opponent. It can employ its claws only against foes caught in its coils. If beset by a large number of foes, it uses its breath weapon.
 
-**Breath Weapon (Su):**20-foot line, once every 10 rounds, damage 7d6 electricity, Reflex DC 19 half. The save DC is Constitution-based.
+**Breath Weapon (Su):** 20-foot line, once every 10 rounds, damage 7d6 electricity, Reflex DC 19 half. The save DC is Constitution-based.
 
-**Constrict (Ex):**A behir deals 2d8+8 points of damage with a successful grapple check. It can make six rake attacks against a grappled foe as well.
+**Constrict (Ex):** A behir deals 2d8+8 points of damage with a successful grapple check. It can make six rake attacks against a grappled foe as well.
 
-**Improved Grab (Ex):**To use this ability, a behir must hit a creature of any size with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity.
+**Improved Grab (Ex):** To use this ability, a behir must hit a creature of any size with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity.
 
 If it wins the grapple check, it it establishes a hold and can attempt to constrict the opponent or swallow the opponent in the following round.
 
-**Rake (Ex):**Six claws, attack bonus +15 melee, damage 1d4+4.
+**Rake (Ex):** Six claws, attack bonus +15 melee, damage 1d4+4.
 
-**Swallow Whole (Ex):**A behir can try to swallow a grabbed Medium or smaller opponent by making a successful grapple check.
+**Swallow Whole (Ex):** A behir can try to swallow a grabbed Medium or smaller opponent by making a successful grapple check.
 
 A behir that swallows an opponent can use its Cleave feat to bite and grab another opponent.
 
@@ -492,7 +492,7 @@ A swallowed creature takes 2d8+8 points of bludgeoning damage and 8 points of ac
 
 A behir’s gizzard can hold 2 Medium, 8 Small, 32 Tiny, or 128 Diminutive or smaller opponents.
 
-**Skills:**Behirs have a +8 racial bonus on Climb checks and can always choose to take 10 on Climb checks, even if rushed or threatened.
+**Skills:** Behirs have a +8 racial bonus on Climb checks and can always choose to take 10 on Climb checks, even if rushed or threatened.
 
 
 
@@ -600,11 +600,11 @@ COMBAT
 
 In most cases, a belker fights with its nasty claws and painful bite.
 
-**Smoke Claws (Ex):**A belker in smoke form (see below) can engulf opponents by moving on top of them. It fills the air around one Medium or smaller opponent without provoking an attack of opportunity. The target must succeed on a DC 14 Fortitude save or inhale part of the creature. The save DC is Constitution-based. Smoke inside the victim solidifies into a claw and begins to rip at the surrounding organs, dealing 3d4 points of damage per round. An affected creature can attempt another Fortitude save each subsequent round to cough out the semivaporous menace.
+**Smoke Claws (Ex):** A belker in smoke form (see below) can engulf opponents by moving on top of them. It fills the air around one Medium or smaller opponent without provoking an attack of opportunity. The target must succeed on a DC 14 Fortitude save or inhale part of the creature. The save DC is Constitution-based. Smoke inside the victim solidifies into a claw and begins to rip at the surrounding organs, dealing 3d4 points of damage per round. An affected creature can attempt another Fortitude save each subsequent round to cough out the semivaporous menace.
 
-**Smoke Form (Su):**Most of the time a belker is more or less solid, but at will it can assume smoke form. It can switch forms once per round as a free action and can spend up to 20 rounds per day in smoke form. A belker in smoke form can fly at a speed of 50 feet (perfect). The ability is otherwise similar to agaseous formspell (caster level 7th).
+**Smoke Form (Su):** Most of the time a belker is more or less solid, but at will it can assume smoke form. It can switch forms once per round as a free action and can spend up to 20 rounds per day in smoke form. A belker in smoke form can fly at a speed of 50 feet (perfect). The ability is otherwise similar to agaseous formspell (caster level 7th).
 
-**Skills:**Belkers have a +4 racial bonus on Move Silently checks.
+**Skills:** Belkers have a +4 racial bonus on Move Silently checks.
 
 
 
@@ -712,9 +712,9 @@ COMBAT
 
 Blink dogs hunt in packs, teleporting in a seemingly random fashion until they surround their prey, allowing some of them to take advantage of flanking.
 
-**Blink (Su):**A blink dog can useblinkas the spell (caster level 8th), and can evoke or end the effect as a free action.
+**Blink (Su):** A blink dog can useblinkas the spell (caster level 8th), and can evoke or end the effect as a free action.
 
-**Dimension Door (Su):**A blink dog can teleport, asdimension door(caster level 8th), once per round as a free action. The ability affects only the blink dog, which never appears within a solid object and can act immediately after teleporting.
+**Dimension Door (Su):** A blink dog can teleport, asdimension door(caster level 8th), once per round as a free action. The ability affects only the blink dog, which never appears within a solid object and can act immediately after teleporting.
 
 
 
@@ -820,9 +820,9 @@ A bodak retains fleeting memories of its past life and can speak Common (or some
 
 COMBAT
 
-**Death Gaze (Su):**Death, range 30 feet, Fortitude DC 15 negates. Humanoids who die from this attack are transformed into bodaks 24 hours later. The save DC is Charisma-based.
+**Death Gaze (Su):** Death, range 30 feet, Fortitude DC 15 negates. Humanoids who die from this attack are transformed into bodaks 24 hours later. The save DC is Charisma-based.
 
-**Vulnerability to Sunlight (Ex):**Bodaks loathe sunlight, for its merest touch burns their impure flesh. Each round of exposure to the direct rays of the sun deals 1 point of damage to the creature.
+**Vulnerability to Sunlight (Ex):** Bodaks loathe sunlight, for its merest touch burns their impure flesh. Each round of exposure to the direct rays of the sun deals 1 point of damage to the creature.
 
 
 
@@ -932,15 +932,15 @@ Bralanis prefer the scimitar and bow, the weapons of the desert nomads they most
 
 A bralani’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and good-aligned for the purpose of overcoming damage reduction.
 
-**Spell-Like Abilities:**At will—blur, charm person(DC 13),gust of wind(DC 14),mirror image, wind wall;2/day—lightning bolt(DC 15),cure serious wounds(DC 15). Caster level 6th. The save DCs are Charisma-based.
+**Spell-Like Abilities:** At will—blur, charm person(DC 13),gust of wind(DC 14),mirror image, wind wall;2/day—lightning bolt(DC 15),cure serious wounds(DC 15). Caster level 6th. The save DCs are Charisma-based.
 
-**Whirlwind Blast (Su):**When in whirlwind form, a bralani can attack with a scouring blast of wind, dealing 3d6 points of damage in a 20-foot line (Reflex DC 16 half ). The save DC is Constitution-based.
+**Whirlwind Blast (Su):** When in whirlwind form, a bralani can attack with a scouring blast of wind, dealing 3d6 points of damage in a 20-foot line (Reflex DC 16 half ). The save DC is Constitution-based.
 
-**Alternate Form (Su):**A bralani can shift between its humanoid and whirlwind forms as a standard action. In humanoid form, it cannot fly or use its whirlwind blast, but it can use its spell-like abilities and its weapons. In whirlwind form, it can fly, make slam attacks and whirlwind blast attacks, and use spell-like abilities.
+**Alternate Form (Su):** A bralani can shift between its humanoid and whirlwind forms as a standard action. In humanoid form, it cannot fly or use its whirlwind blast, but it can use its spell-like abilities and its weapons. In whirlwind form, it can fly, make slam attacks and whirlwind blast attacks, and use spell-like abilities.
 
 A bralani remains in one form until it chooses to assume a new one. A change in form cannot be dispelled, nor does the bralani revert to any particular form when killed. Atrue seeingspell, however, reveals both forms simultaneously.
 
-**Tongues (Su):**Bralanis can speak with any creature that has a language, as though using atonguesspell (caster level 14th). This ability is always active.
+**Tongues (Su):** Bralanis can speak with any creature that has a language, as though using atonguesspell (caster level 14th). This ability is always active.
 
 
 
@@ -1048,7 +1048,7 @@ Bugbears prefer to ambush opponents whenever possible. When hunting, they normal
 
 Bugbear attacks are coordinated, and their tactics are sound if not brilliant.
 
-**Skills:**Bugbears have a +4 racial bonus on Move Silently checks.
+**Skills:** Bugbears have a +4 racial bonus on Move Silently checks.
 
 BUGBEARS AS CHARACTERS
 
@@ -1184,7 +1184,7 @@ A bulette attacks anything it regards as edible, choosing the easiest or closest
 
 When it senses something edible (that is, senses movement), it breaks to the surface, crest first, and begins its attack.
 
-**Leap (Ex):**A bulette can jump into the air during combat. This allows it to make four claw attacks instead of two, each with a +15 attack bonus, but it cannot bite.
+**Leap (Ex):** A bulette can jump into the air during combat. This allows it to make four claw attacks instead of two, each with a +15 attack bonus, but it cannot bite.
 
 
 
@@ -1202,13 +1202,13 @@ CREATING A CELESTIAL CREATURE
 
 A celestial creature uses all the base creature’s statistics and abilities except as noted here. Do not recalculate the creature’s Hit Dice, base attack bonus, saves, or skill points if its type changes.
 
-**Size and Type:**Animals or vermin with this template become magical beasts, but otherwise the creature type is unchanged. Size is unchanged. Celestial creatures encountered on the Material Plane have the extraplanar subtype.
+**Size and Type:** Animals or vermin with this template become magical beasts, but otherwise the creature type is unchanged. Size is unchanged. Celestial creatures encountered on the Material Plane have the extraplanar subtype.
 
-**Special Attacks:**A celestial creature retains all the special attacks of the base creature and also gains the following attack.
+**Special Attacks:** A celestial creature retains all the special attacks of the base creature and also gains the following attack.
 
 Smite Evil (Su):Once per day a celestial creature can make a normal melee attack to deal extra damage equal to its HD (maximum of +20) against an evil foe.
 
-**Special Qualities:**A celestial creature retains all the special qualities of the base creature and also gains the following qualities.
+**Special Qualities:** A celestial creature retains all the special qualities of the base creature and also gains the following qualities.
 
 —Darkvision out to 60 feet.
 
@@ -1260,15 +1260,15 @@ If the base creature already has one or more of these special qualities, use the
 
 If a celestial creature gains damage reduction, its natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
 
-**Abilities:**Same as the base creature, but Intelligence is at least 3.
+**Abilities:** Same as the base creature, but Intelligence is at least 3.
 
-**Environment:**Any good-aligned plane.
+**Environment:** Any good-aligned plane.
 
-**Challenge Rating:**HD 3 or less, as base creature; HD 4 to 7, as base creature +1; HD 8 or more, as base creature +2.
+**Challenge Rating:** HD 3 or less, as base creature; HD 4 to 7, as base creature +1; HD 8 or more, as base creature +2.
 
-**Alignment:**Always good (any).
+**Alignment:** Always good (any).
 
-**Level Adjustment:**Same as the base creature +2.
+**Level Adjustment:** Same as the base creature +2.
 
 
 
@@ -1512,7 +1512,7 @@ For all its fearsome appearances, whether it has claws, fangs, pincers, tentacle
 
 A chaos beast’s claw attacks, as well as any weapons it wields, are treated as chaotic-aligned for the purpose of overcoming damage reduction.
 
-**Corporeal Instability (Su):**A blow from a chaos beast against a living creature can cause a terrible transformation. The creature must succeed on a DC 15 Fortitude save or become a spongy, amorphous mass. Unless the victim manages to control the effect (see below), its shape melts, flows, writhes, and boils. The save DC is Constitution-based.
+**Corporeal Instability (Su):** A blow from a chaos beast against a living creature can cause a terrible transformation. The creature must succeed on a DC 15 Fortitude save or become a spongy, amorphous mass. Unless the victim manages to control the effect (see below), its shape melts, flows, writhes, and boils. The save DC is Constitution-based.
 
 An affected creature is unable to hold or use any item. Clothing, armor, rings, and helmets become useless. Large items worn or carried—armor, backpacks, even shirts—hamper more than help, reducing the victim’s Dexterity score by 4. Soft or misshapen feet and legs reduce speed to 10 feet or one-quarter normal, whichever is less. Searing pain courses along the nerves, so strong that the victim cannot act coherently. The victim cannot cast spells or use magic items, and it attacks blindly, unable to distinguish friend from foe (–4 penalty on attack rolls and a 50% miss chance, regardless of the attack roll).
 
@@ -1522,7 +1522,7 @@ A victim can regain its own shape by taking a standard action to attempt a DC 15
 
 Corporeal instability is not a disease or a curse and so is hard to remove. Ashapechangeorstoneskinspell does not cure an afflicted creature but fixes its form for the duration of the spell. Arestoration, heal,orgreater restorationspell removes the affliction (a separaterestorationis necessary to restore any drained points of Wisdom).
 
-**Immunity to Transformation (Ex):**No mortal magic can permanently affect or fix a chaos beast’s form. Effects such as polymorphing or petrification force the creature into a new shape, but at the start of its next turn it immediately returns to its mutable form as a free action.
+**Immunity to Transformation (Ex):** No mortal magic can permanently affect or fix a chaos beast’s form. Effects such as polymorphing or petrification force the creature into a new shape, but at the start of its next turn it immediately returns to its mutable form as a free action.
 
 
 
@@ -1630,7 +1630,7 @@ COMBAT
 
 The chimera prefers to surprise prey. It often swoops down from the sky or lies concealed until it charges. The dragon head can loose a breath weapon instead of biting. Several chimeras attack in concert.
 
-**Breath Weapon (Su):**A chimera’s breath weapon depends on the color of its dragon head, as summarized on the table below. Regardless of its type, a chimera’s breath weapon is usable once every 1d4 rounds, deals 3d8 points of damage, and allows a DC 17 Reflex save for half damage. The save DC is Constitution-based.
+**Breath Weapon (Su):** A chimera’s breath weapon depends on the color of its dragon head, as summarized on the table below. Regardless of its type, a chimera’s breath weapon is usable once every 1d4 rounds, deals 3d8 points of damage, and allows a DC 17 Reflex save for half damage. The save DC is Constitution-based.
 
 To determine a chimera’s head color and breath weapon randomly, roll 1d10 and consult the table below.
 
@@ -1674,11 +1674,11 @@ To determine a chimera’s head color and breath weapon randomly, roll 1d10 and 
 
 ![35 MonstersB-C-Table14.png](35 MonstersB-C-Table14.png)
 
-**Skills:**A chimera’s three heads give it a +2 racial bonus on Spot and Listen checks.
+**Skills:** A chimera’s three heads give it a +2 racial bonus on Spot and Listen checks.
 
 *In areas of scrubland or brush, a chimera gains a +4 racial bonus on Hide checks.
 
-**Carrying Capacity:**A light load for a chimera is up to 348 pounds; a medium load, 349–699 pounds, and a heavy load, 700–1,050 pounds.
+**Carrying Capacity:** A light load for a chimera is up to 348 pounds; a medium load, 349–699 pounds, and a heavy load, 700–1,050 pounds.
 
 
 
@@ -1786,13 +1786,13 @@ COMBAT
 
 A choker likes to perch near the ceiling, often at intersections, archways, wells, or staircases, and reach down to attack its prey. A choker attacks creatures of almost any size, but prefers lone prey of its size or larger. If one is very hungry, it may attack a group, but it waits to grab the last creature in line.
 
-**Constrict (Ex):**A choker deals 1d3+3 points of damage with a successful grapple check against a Large or smaller creature. Because it seizes its victim by the neck, a creature in the choker’s grasp cannot speak or cast spells with verbal components.
+**Constrict (Ex):** A choker deals 1d3+3 points of damage with a successful grapple check against a Large or smaller creature. Because it seizes its victim by the neck, a creature in the choker’s grasp cannot speak or cast spells with verbal components.
 
-**Improved Grab (Ex):**To use this ability, a choker must hit a Large or smaller opponent with a tentacle attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can constrict. Chokers receive a +4 racial bonus on grapple checks, which is already included in the statistics block.
+**Improved Grab (Ex):** To use this ability, a choker must hit a Large or smaller opponent with a tentacle attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can constrict. Chokers receive a +4 racial bonus on grapple checks, which is already included in the statistics block.
 
-**Quickness (Su):**Although not particularly dexterous, a choker is supernaturally quick. It can take an extra standard action or move action during its turn each round.
+**Quickness (Su):** Although not particularly dexterous, a choker is supernaturally quick. It can take an extra standard action or move action during its turn each round.
 
-**Skills:**A chokers has a +8 racial bonus on Climb checks and can always choose to take 10 on Climb checks, even if rushed or threatened.
+**Skills:** A chokers has a +8 racial bonus on Climb checks and can always choose to take 10 on Climb checks, even if rushed or threatened.
 
 
 
@@ -1900,15 +1900,15 @@ COMBAT
 
 A chuul prefers to wait by the shore, submerged in murky water, until it hears nearby prey (in or out of the water) that it can attack with surprise. A chuul grabs with its claws and constricts its foe, then passes the opponent to its paralytic tentacles. It tries to always have one claw free, so if it faces a large number of opponents, it drops a paralyzed or dead victim and continues attempting to grab, constrict, and paralyze the rest.
 
-**Constrict (Ex):**On a successful grapple check, a chuul deals 3d6+5 points of damage.
+**Constrict (Ex):** On a successful grapple check, a chuul deals 3d6+5 points of damage.
 
-**Improved Grab (Ex):**To use this ability, a chuul must hit with a claw attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can constrict or on its next turn transfer a grabbed opponent to its tentacles.
+**Improved Grab (Ex):** To use this ability, a chuul must hit with a claw attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can constrict or on its next turn transfer a grabbed opponent to its tentacles.
 
-**Paralytic Tentacles (Ex):**A chuul can transfer grabbed victims from a claw to its ten- tacles as a move action. The tentacles grapple with the same strength as the claw but deal no damage. However, they exude a paralytic secretion. Anyone held in the tentacles must succeed on a DC 19 Fortitude save each round on the chuul’s turn or be paralyzed for 6 rounds. The save DC is Constitution-based. While held in the tentacles, paralyzed or not, a victim automatically takes 1d8+2 points of damage each round from the creature’s mandibles.
+**Paralytic Tentacles (Ex):** A chuul can transfer grabbed victims from a claw to its ten- tacles as a move action. The tentacles grapple with the same strength as the claw but deal no damage. However, they exude a paralytic secretion. Anyone held in the tentacles must succeed on a DC 19 Fortitude save each round on the chuul’s turn or be paralyzed for 6 rounds. The save DC is Constitution-based. While held in the tentacles, paralyzed or not, a victim automatically takes 1d8+2 points of damage each round from the creature’s mandibles.
 
-**Amphibious (Ex):**Although chuuls are aquatic, they can survive indefinitely on land.
+**Amphibious (Ex):** Although chuuls are aquatic, they can survive indefinitely on land.
 
-**Skills:**A chuul has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.
+**Skills:** A chuul has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.
 
 
 
@@ -2018,7 +2018,7 @@ COMBAT
 
 Cloakers usually lie still, watching and listening for prey. If facing a single opponent, a cloaker uses its engulf attack. Against multiple foes, it lashes with its tail in concert with its moan and shadow shift abilities to reduce the opposition’s numbers, then engulfs a survivor. Multiple cloakers usually split up, leaving one or two behind to use special abilities while the rest make melee attacks.
 
-**Moan (Ex):**A cloaker can emit a dangerous subsonic moan as a standard action. By changing the frequency, the cloaker can cause one of four effects. Cloakers are immune to these sonic, mindaffecting attacks. Unless otherwise specified, a creature that successfully saves against one of these effects cannot be affected by the same moan effect from the same cloaker for 24 hours. All save DCs for moan effects are Charisma-based.
+**Moan (Ex):** A cloaker can emit a dangerous subsonic moan as a standard action. By changing the frequency, the cloaker can cause one of four effects. Cloakers are immune to these sonic, mindaffecting attacks. Unless otherwise specified, a creature that successfully saves against one of these effects cannot be affected by the same moan effect from the same cloaker for 24 hours. All save DCs for moan effects are Charisma-based.
 
 Unnerve:Anyone within a 60-foot spread automatically takes a –2 penalty on attack and damage rolls. Those forced to hear the moan for more than 6 consecutive rounds must succeed on a DC 15 Will save or enter a trance, unable to attack or defend themselves until the moaning stops.
 
@@ -2030,11 +2030,11 @@ Affected characters fall prone and become nauseated for 1d4+1 rounds.
 
 Stupor:A single creature within 30 feet of the cloaker must succeed on a DC 15 Fortitude save or be affected as though by ahold monsterspell for 5 rounds. Even after a successful save, the creature must repeat the save if the cloaker uses this effect again.
 
-**Engulf (Ex):**A cloaker can try to wrap a Medium or smaller creature in its body as a standard action. The cloaker attempts a grapple that does not provoke an attack of opportunity. If it wins the grapple check, it establishes a hold and bites the engulfed victim with a +4 bonus on its attack roll. It can still use its whiplike tail to strike at other targets.
+**Engulf (Ex):** A cloaker can try to wrap a Medium or smaller creature in its body as a standard action. The cloaker attempts a grapple that does not provoke an attack of opportunity. If it wins the grapple check, it establishes a hold and bites the engulfed victim with a +4 bonus on its attack roll. It can still use its whiplike tail to strike at other targets.
 
 Attacks that hit an engulfing cloaker deal half their damage to the monster and half to the trapped victim.
 
-**Shadow Shift (Su):**A cloaker can manipulate shadows. This ability is effective only in shadowy areas and has three possible effects.
+**Shadow Shift (Su):** A cloaker can manipulate shadows. This ability is effective only in shadowy areas and has three possible effects.
 
 Obscure Vision:The cloaker gains concealment (20% miss chance) for 1d4 rounds.
 
@@ -2146,7 +2146,7 @@ COMBAT
 
 A cockatrice fiercely attacks anything that it deems a threat to itself or its lair. Flocks of cockatrices do their utmost to overwhelm and confuse their foes, and sometimes fly directly into their opponents’ faces.
 
-**Petrification (Su):**Creatures hit by a cockatrice’s bite attack must succeed on a DC 12 Fortitude save or instantly turn to stone. The save DC is Constitution-based. Cockatrices have immunity to the petrification ability of other cockatrices, but other petrification attacks affect them normally.
+**Petrification (Su):** Creatures hit by a cockatrice’s bite attack must succeed on a DC 12 Fortitude save or instantly turn to stone. The save DC is Constitution-based. Cockatrices have immunity to the petrification ability of other cockatrices, but other petrification attacks affect them normally.
 
 
 
@@ -2254,23 +2254,23 @@ COMBAT
 
 A couatl uses itsdetect thoughtsability on any creature that arouses its suspicions. Since it is highly intelligent, a couatl usually casts spells from a distance before closing. If more than one couatl is involved, they discuss their strategy before a battle.
 
-**Constrict (Ex):**A couatl deals 2d8+6 points of damage with a successful grapple check.
+**Constrict (Ex):** A couatl deals 2d8+6 points of damage with a successful grapple check.
 
-**Improved Grab (Ex):**To use this ability, a couatl must hit a creature of up to two size categories larger with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can constrict.
+**Improved Grab (Ex):** To use this ability, a couatl must hit a creature of up to two size categories larger with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can constrict.
 
-**Poison (Ex)**: Injury, Fortitude DC 16, initial damage 2d4 Str, secondary damage 4d4 Str.
+**Poison (Ex)** : Injury, Fortitude DC 16, initial damage 2d4 Str, secondary damage 4d4 Str.
 
 The save DC is Constitution-based.
 
-**Psionics (Sp):**At will—detect chaos, detect evil, detect good, detect law, detect thoughts(DC 15),invisibility, plane shift(DC 20),polymorph(self only). Effective caster level 9th. The save DCs are Charisma-based.
+**Psionics (Sp):** At will—detect chaos, detect evil, detect good, detect law, detect thoughts(DC 15),invisibility, plane shift(DC 20),polymorph(self only). Effective caster level 9th. The save DCs are Charisma-based.
 
-**Spells:**A couatl casts spells as a 9th-level sorcerer.
+**Spells:** A couatl casts spells as a 9th-level sorcerer.
 
 It can choose its spells known from the sorcerer list, the cleric list, and from the lists for the Air, Good, and Law domains. The cleric spells and domain spells are considered arcane spells for a couatl, meaning that the creature does not need a divine focus to cast them.
 
 Typical Spells Known(6/7/7/7/4; save DC 13 + spell level): 0—cure minor wounds, daze, disrupt undead, light, obscuring mist, ray of frost, read magic, resistance;1st—endure elements, mage armor, protection from chaos, true strike, wind wall;2nd—cure moderate wounds, eagle’s splendor, scorching ray, silence;3rd—gaseous form, magic circle against evil, summon monster III;4th—charm monster, freedom of movement.
 
-**Ethereal Jaunt (Su):**This ability works like theethereal jauntspell (caster level 16th).
+**Ethereal Jaunt (Su):** This ability works like theethereal jauntspell (caster level 16th).
 
-**Telepathy (Su):**A couatl can communicate telepathically with any creature within 90 feet that has an Intelligence score. The creature can respond to the couatl if it wishes—no common language is needed.
+**Telepathy (Su):** A couatl can communicate telepathically with any creature within 90 feet that has an Intelligence score. The creature can respond to the couatl if it wishes—no common language is needed.
 

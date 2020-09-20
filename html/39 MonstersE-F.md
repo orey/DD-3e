@@ -112,9 +112,9 @@ A giant eagle typically attacks from a great height, diving earthward at tremend
 
 A solitary giant eagle is typically hunting or patrolling in the vicinity of its nest and generally ignores creatures that do not appear threatening. A mated pair attacks in concert, making repeated diving attacks to drive away intruders, and fights to the death to defend their nest or hatchlings.
 
-**Evasion (Ex):**With a successful Reflex save against an attack that allows a Reflex save for half damage, a giant eagle takes no damage.
+**Evasion (Ex):** With a successful Reflex save against an attack that allows a Reflex save for half damage, a giant eagle takes no damage.
 
-**Skills:**Giant eagles have a +4 racial bonus on Spot checks.
+**Skills:** Giant eagles have a +4 racial bonus on Spot checks.
 
 TRAINING A GIANT EAGLE
 
@@ -530,9 +530,9 @@ Combat
 
 Their rapid speed makes air elementals useful on vast battlefields or in extended aerial combat.
 
-**Air Mastery (Ex):**Airborne creatures take a –1 penalty on attack and damage rolls against an air elemental.
+**Air Mastery (Ex):** Airborne creatures take a –1 penalty on attack and damage rolls against an air elemental.
 
-**Whirlwind (Su):**The elemental can transform itself into a whirlwind once every 10 minutes and remain in that form for up to 1 round for every 2 HD it has. In this form, the elemental can move through the air or along a surface at its fly speed.
+**Whirlwind (Su):** The elemental can transform itself into a whirlwind once every 10 minutes and remain in that form for up to 1 round for every 2 HD it has. In this form, the elemental can move through the air or along a surface at its fly speed.
 
 The whirlwind is 5 feet wide at the base, up to 30 feet wide at the top, and up to 50 feet tall, depending on the elemental’s size. The elemental controls the exact height, but it must be at least 10 feet.
 
@@ -1048,11 +1048,11 @@ Combat
 
 Though an earth elemental moves slowly, it is a relentless opponent. It can travel though solid ground or stone as easily as humans walk on the earth’s surface. It cannot swim, however, and must either walk around a body of water or go through the ground under it. An earth elemental can move along the bottom of a body of water but prefers not to.
 
-**Earth Mastery (Ex):**An earth elemental gains a +1 bonus on attack and damage rolls if both it and its foe are touching the ground. If an opponent is airborne or waterborne, the elemental takes a –4 penalty on attack and damage rolls. (These modifiers are not included in the statistics block.)
+**Earth Mastery (Ex):** An earth elemental gains a +1 bonus on attack and damage rolls if both it and its foe are touching the ground. If an opponent is airborne or waterborne, the elemental takes a –4 penalty on attack and damage rolls. (These modifiers are not included in the statistics block.)
 
-**Push (Ex):**An earth elemental can start a bull rush maneuver without provoking an attack of opportunity. The combat modifiers given in Earth Mastery, above, also apply to the elemental’s opposed Strength checks.
+**Push (Ex):** An earth elemental can start a bull rush maneuver without provoking an attack of opportunity. The combat modifiers given in Earth Mastery, above, also apply to the elemental’s opposed Strength checks.
 
-**Earth Glide (Ex):**An earth elemental can glide through stone, dirt, or almost any other sort of earth except metal as easily as a fish swims through water. Its burrowing leaves behind no tunnel or hole, nor does it create any ripple or other signs of its presence. Amove earthspell cast on an area containing a burrowing earth elemental flings the elemental back 30 feet, stunning the creature for 1 round unless it succeeds on a DC 15 Fortitude save.
+**Earth Glide (Ex):** An earth elemental can glide through stone, dirt, or almost any other sort of earth except metal as easily as a fish swims through water. Its burrowing leaves behind no tunnel or hole, nor does it create any ripple or other signs of its presence. Amove earthspell cast on an area containing a burrowing earth elemental flings the elemental back 30 feet, stunning the creature for 1 round unless it succeeds on a DC 15 Fortitude save.
 
 
 
@@ -1506,7 +1506,7 @@ Combat
 
 A fire elemental is a fierce opponent that attacks its enemies directly and savagely. It takes joy in burning the creatures and objects of the Material Plane to ashes.
 
-**Burn (Ex):**A fire elemental’s slam attack deals bludgeoning damage plus fire damage from the elemental’s flaming body. Those hit by a fire elemental‘s slam attack also must succeed on a Reflex save or catch on fire. The flame burns for 1d4 rounds. The save DC varies with the elemental’s size (see the table below). A burning creature can take a move action to put out the flame. The save DC is Constitution- based.
+**Burn (Ex):** A fire elemental’s slam attack deals bludgeoning damage plus fire damage from the elemental’s flaming body. Those hit by a fire elemental‘s slam attack also must succeed on a Reflex save or catch on fire. The flame burns for 1d4 rounds. The save DC varies with the elemental’s size (see the table below). A burning creature can take a move action to put out the flame. The save DC is Constitution- based.
 
 Creatures hitting a fire elemental with natural weapons or unarmed attacks take fire damage as though hit by the elemental’s attack, and also catch on fire unless they succeed on a Reflex save.
 
@@ -1970,13 +1970,13 @@ Combat
 
 A water elemental prefers to fight in a large body of water where it can disappear beneath the waves and suddenly swell up behind its opponents.
 
-**Water Mastery (Ex):**A water elemental gains a +1 bonus on attack and damage rolls if both it and its opponent are touching water. If the opponent or the elemental is touching the ground, the elemental takes a –4 penalty on attack and damage rolls. (These modifiers are not included in the statistics block.)
+**Water Mastery (Ex):** A water elemental gains a +1 bonus on attack and damage rolls if both it and its opponent are touching water. If the opponent or the elemental is touching the ground, the elemental takes a –4 penalty on attack and damage rolls. (These modifiers are not included in the statistics block.)
 
 A water elemental can be a serious threat to a ship that crosses its path. An elemental can easily overturn small craft (5 feet of length per Hit Die of the elemental) and stop larger vessels (10 feet long per HD). Even large ships (20 feet long per HD) can be slowed to half speed.
 
-**Drench (Ex):**The elemental’s touch puts out torches, campfires, exposed lanterns, and other open flames of nonmagical origin if these are of Large size or smaller. The creature can dispel magical fire it touches asdispel magic(caster level equals elemental’s HD).
+**Drench (Ex):** The elemental’s touch puts out torches, campfires, exposed lanterns, and other open flames of nonmagical origin if these are of Large size or smaller. The creature can dispel magical fire it touches asdispel magic(caster level equals elemental’s HD).
 
-**Vortex (Su):**The elemental can transform itself into a whirlpool once every 10 minutes, provided it is underwater, and remain in that form for up to 1 round for every 2 HD it has. In vortex form, the elemental can move through the water or along the bottom at its swim speed. The vortex is 5 feet wide at the base, up to 30 feet wide at the top, and 10 feet or more tall, depending on the elemental’s size. The elemental controls the exact height, but it must be at least 10 feet.
+**Vortex (Su):** The elemental can transform itself into a whirlpool once every 10 minutes, provided it is underwater, and remain in that form for up to 1 round for every 2 HD it has. In vortex form, the elemental can move through the water or along the bottom at its swim speed. The vortex is 5 feet wide at the base, up to 30 feet wide at the top, and 10 feet or more tall, depending on the elemental’s size. The elemental controls the exact height, but it must be at least 10 feet.
 
 The elemental’s movement while in vortex form does not provoke attacks of opportunity, even if the elemental enters the space another creature occupies. Another creature might be caught in the vortex if it touches or enters the vortex, or if the elemental moves into or through the creature’s space.
 
@@ -2264,7 +2264,7 @@ Elves are cautious warriors and take time to analyze their opponents and the loc
 
 They prefer longbows, shortbows, rapiers, and longswords. In melee, elves are graceful and deadly, using complex maneuvers that are beautiful to observe. Their wizards often usesleepspells during combat because these won’t affect other elves.
 
-**Elf Traits (Ex):**Elves possess the following racial traits.
+**Elf Traits (Ex):** Elves possess the following racial traits.
 
 —+2 Dexterity, –2 Constitution.
 
@@ -2300,7 +2300,7 @@ The above information describes the high elf, the most common variety. There are
 
 Half-elves are not truly an elf subrace, but they are often mistaken for elves. Half-elves usually inherit a good blend of their parents’ physical characteristics.
 
-**Half-Elf Traits (Ex):**Half-elves possess the following racial traits.
+**Half-Elf Traits (Ex):** Half-elves possess the following racial traits.
 
 —Medium size.
 
@@ -2330,7 +2330,7 @@ Also called sea elves, these creatures are waterbreathing cousins to land-dwelli
 
 Aquatic elves fight underwater with tridents, spears, and nets.
 
-**Aquatic Elf Traits (Ex):**These traits are in addition to the high elf traits, except where noted.
+**Aquatic Elf Traits (Ex):** These traits are in addition to the high elf traits, except where noted.
 
 —+2 Dexterity, –2 Intelligence. These adjustments replace the high elf ’s ability score adjustments.
 
@@ -2356,9 +2356,9 @@ White is the most common hair color among drow, but almost any pale shade is pos
 
 Drow usually coat their arrows with a potent venom.
 
-**Poison (Ex):**An opponent hit by a drow’s poisoned weapon must succeed on a DC 13 Fortitude save or fall unconscious. After 1 minute, the subject must succeed on another DC 13 Fortitude save or remain unconscious for 2d4 hours. A typical drow carries 1d4–1 doses of drow knockout poison. Drow typically coat arrows and crossbow bolts with this poison, but it can also be applied to a melee weapon. Note that drow have no special ability to apply poison without risking being poisoned themselves. Since this poison is not a magical effect, drow and other elves are susceptible to it.
+**Poison (Ex):** An opponent hit by a drow’s poisoned weapon must succeed on a DC 13 Fortitude save or fall unconscious. After 1 minute, the subject must succeed on another DC 13 Fortitude save or remain unconscious for 2d4 hours. A typical drow carries 1d4–1 doses of drow knockout poison. Drow typically coat arrows and crossbow bolts with this poison, but it can also be applied to a melee weapon. Note that drow have no special ability to apply poison without risking being poisoned themselves. Since this poison is not a magical effect, drow and other elves are susceptible to it.
 
-**Drow Traits (Ex):**These traits are in addition to the high elf traits, except where noted.
+**Drow Traits (Ex):** These traits are in addition to the high elf traits, except where noted.
 
 —+2 Intelligence, +2 Charisma.
 
@@ -2392,7 +2392,7 @@ Challenge Rating: Drow with levels in NPC classes have a CR equal to their chara
 
 Taller and grander in physical appearance than others of their race, gray elves have a reputation for being aloof and arrogant (even by elven standards). They have either silver hair and amber eyes or pale golden hair and violet eyes. They prefer clothing of white, silver, yellow, or gold, with cloaks of deep blue or purple.
 
-**Gray Elf Traits (Ex):**These traits are in addition to the high elf traits.
+**Gray Elf Traits (Ex):** These traits are in addition to the high elf traits.
 
 —+2 Intelligence, –2 Strength.
 
@@ -2404,7 +2404,7 @@ Taller and grander in physical appearance than others of their race, gray elves 
 
 Wild elvesare barbaric and tribal. Wild elves’ hair color ranges from black to light brown, lightening to silvery white with age. They dress in simple clothing of animal skins and basic plant weaves.
 
-**Wild Elf Traits (Ex):**These traits are in addition to the high elf traits, except where noted.
+**Wild Elf Traits (Ex):** These traits are in addition to the high elf traits, except where noted.
 
 —+2 Dexterity, –2 Intelligence. These adjustments replace the high elf ’s ability score adjustments.
 
@@ -2418,7 +2418,7 @@ Wild elvesare barbaric and tribal. Wild elves’ hair color ranges from black to
 
 Their hair color ranges from yellow to a coppery red, and they are more muscular than other elves. Their clothing is in dark shades of green and earth tones to better blend in with their natural surroundings.
 
-**Wood Elf Traits (Ex):**These traits are in addition to the high elf traits, except where noted.
+**Wood Elf Traits (Ex):** These traits are in addition to the high elf traits, except where noted.
 
 —+2 Strength, –2 Intelligence.
 
@@ -2532,11 +2532,11 @@ An ethereal filcher prowls about, using its ethereal jaunt ability to move about
 
 Any number of simple ruses can blunt a filcher’s attack.
 
-**Detect Magic (Su):**Ethereal filchers can detect magic as the spell (caster level 5th) at will.
+**Detect Magic (Su):** Ethereal filchers can detect magic as the spell (caster level 5th) at will.
 
-**Ethereal Jaunt (Su):**An ethereal filcher can shift from the Ethereal Plane to the Material Plane as part of any move action, and shift back again as a free action. It can remain on the Ethereal Plane for 1 round before returning to the Material Plane. The ability is otherwise identical with theethereal jauntspell (caster level 15th).
+**Ethereal Jaunt (Su):** An ethereal filcher can shift from the Ethereal Plane to the Material Plane as part of any move action, and shift back again as a free action. It can remain on the Ethereal Plane for 1 round before returning to the Material Plane. The ability is otherwise identical with theethereal jauntspell (caster level 15th).
 
-**Skills:**Ethereal filchers have a +8 racial bonus on Sleight of Hand checks, and a +4 racial bonus on Listen and Spot checks.
+**Skills:** Ethereal filchers have a +8 racial bonus on Sleight of Hand checks, and a +4 racial bonus on Listen and Spot checks.
 
 
 
@@ -2644,9 +2644,9 @@ COMBAT
 
 Once a marauder locates prey, it shifts to the Material Plane to attack, attempting to catch its victim flat-footed. The creature bites its victim, then retreats quickly back to the Ethereal Plane. When badly hurt or wounded, a marauder escapes to its home plane rather than continuing the fight.
 
-**Ethereal Jaunt (Su):**An ethereal marauder can shift from the Ethereal Plane to the Material Plane as a free action, and shift back again as a move action. The ability is otherwise identical with theethereal jauntspell (caster level 15th).
+**Ethereal Jaunt (Su):** An ethereal marauder can shift from the Ethereal Plane to the Material Plane as a free action, and shift back again as a move action. The ability is otherwise identical with theethereal jauntspell (caster level 15th).
 
-**Skills:**Ethereal marauders have a +2 racial bonus on Listen, Move Silently, and Spot checks.
+**Skills:** Ethereal marauders have a +2 racial bonus on Listen, Move Silently, and Spot checks.
 
 
 
@@ -2754,9 +2754,9 @@ COMBAT
 
 Ettercaps are not brave creatures, but their cunning traps often ensure that the enemy never draws a weapon. When an ettercap does engage its enemies, it attacks with its keen-edged claws and venomous bite. It usually will not come within melee reach of any foe that is still able to move.
 
-**Poison (Ex):**Injury, Fortitude DC 15, initial damage 1d6 Dex, secondary damage 2d6 Dex. The save DC is Constitution based and includes a +2 racial bonus.
+**Poison (Ex):** Injury, Fortitude DC 15, initial damage 1d6 Dex, secondary damage 2d6 Dex. The save DC is Constitution based and includes a +2 racial bonus.
 
-**Web (Ex):**An ettercap can throw a web eight times per day. This is similar to an attack with a net but has a maximum range of 50 feet, with a range increment of 10 feet, and is effective against targets of up to Medium size. The web anchors the target in place, allowing no movement.
+**Web (Ex):** An ettercap can throw a web eight times per day. This is similar to an attack with a net but has a maximum range of 50 feet, with a range increment of 10 feet, and is effective against targets of up to Medium size. The web anchors the target in place, allowing no movement.
 
 An entangled creature can escape with a DC 13 Escape Artist check or burst the web with a DC 17 Strength check. The check DCs are Constitution-based, and the Strength check DC includes a +4 racial bonus. The web has 6 hit points, hardness 0, and takes double damage from fire.
 
@@ -2764,7 +2764,7 @@ Ettercaps can also create sheets of sticky webbing from 5 to 60 feet square. The
 
 An ettercap can move across its own sheet web at its climb speed and can determine the exact location of any creature touching the web.
 
-**Skills:**Ettercaps have a +4 racial bonus on Craft (trapmaking), Hide, and Spot checks. They have a +8 racial bonus on Climb checks and can always choose to take 10 on Climb checks, even if rushed or threatened.
+**Skills:** Ettercaps have a +4 racial bonus on Craft (trapmaking), Hide, and Spot checks. They have a +8 racial bonus on Climb checks and can always choose to take 10 on Climb checks, even if rushed or threatened.
 
 
 
@@ -2876,7 +2876,7 @@ Though ettins aren’t very intelligent, they are cunning fighters.
 
 They prefer to ambush their victims rather than charge into a straight fight, but once the battle has started, an ettin usually fights furiously until all enemies are dead.
 
-**Superior Two-Weapon Fighting (Ex):**An ettin fights with a morningstar or javelin in each hand. Because each of its two heads controls an arm, the ettin does not take a penalty on attack or damage rolls for attacking with two weapons.
+**Superior Two-Weapon Fighting (Ex):** An ettin fights with a morningstar or javelin in each hand. Because each of its two heads controls an arm, the ettin does not take a penalty on attack or damage rolls for attacking with two weapons.
 
 Skills: An ettin’s two heads give it a +2 racial bonus on Listen, Spot, and Search checks.
 
@@ -2900,13 +2900,13 @@ hereafter as the base creature).
 
 A fiendish creature uses all the base creature’s statistics and abilities except as noted here. Do not recalculate the creature’s Hit Dice, base attack bonus, saves, or skill points if its type changes.
 
-**Size and Type:**Animals or vermin with this template become magical beasts, but otherwise the creature type is unchanged. Size is unchanged. Fiendish creatures encountered on the Material Plane have the extraplanar subtype.
+**Size and Type:** Animals or vermin with this template become magical beasts, but otherwise the creature type is unchanged. Size is unchanged. Fiendish creatures encountered on the Material Plane have the extraplanar subtype.
 
-**Special Attacks:**A fiendish creature retains all the special attacks of the base creature and also gains the following special attack.
+**Special Attacks:** A fiendish creature retains all the special attacks of the base creature and also gains the following special attack.
 
-**Smite Good (Su):**Once per day the creature can make a normal melee attack to deal extra damage equal to its HD total (maximum of +20) against a good foe.
+**Smite Good (Su):** Once per day the creature can make a normal melee attack to deal extra damage equal to its HD total (maximum of +20) against a good foe.
 
-**Special Qualities:**A fiendish creature retains all the special qualities of the base creature and also gains the following.
+**Special Qualities:** A fiendish creature retains all the special qualities of the base creature and also gains the following.
 
 —Darkvision out to 60 feet.
 
@@ -2920,17 +2920,17 @@ If the base creature already has one or more of these special qualities, use the
 
 If a fiendish creature gains damage reduction, its natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
 
-**Abilities:**Same as the base creature, but Intelligence is at least 3.
+**Abilities:** Same as the base creature, but Intelligence is at least 3.
 
-**Environment:**Any evil-aligned plane.
+**Environment:** Any evil-aligned plane.
 
-**Challenge Rating:**HD 3 or less, as base creature; HD 4 to 7, as
+**Challenge Rating:** HD 3 or less, as base creature; HD 4 to 7, as
 
 base creature +1; HD 8 or more, as base creature +2.
 
-**Alignment:**Always evil (any).
+**Alignment:** Always evil (any).
 
-**Level Adjustment:**Same as the base creature +2.
+**Level Adjustment:** Same as the base creature +2.
 
 
 
@@ -3316,7 +3316,7 @@ COMBAT
 
 Formians are generally aggressive, seeking to subdue all they encounter. If they perceive even the slightest threat to their hive-city or to their queen, they attack immediately and fight to the death. Any formian also attacks immediately if ordered to do so by a superior.
 
-**Hive Mind (Ex):**All formians within 50 miles of their queen are in constant communication. If one is aware of a particular danger, they all are. If one in a group is not flatfooted, none of them are. No formian in a group is considered flanked unless all of them are.
+**Hive Mind (Ex):** All formians within 50 miles of their queen are in constant communication. If one is aware of a particular danger, they all are. If one in a group is not flatfooted, none of them are. No formian in a group is considered flanked unless all of them are.
 
 WORKER
 
@@ -3330,9 +3330,9 @@ Formian workers fight only to defend their hive-cities, using their mandibled bi
 
 A formian worker’s natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming damage reduction.
 
-**Cure Serious Wounds****(Sp):**Eight workers together can heal a creature’s wounds as though using thecure serious woundsspell (caster level 7th). This is a full-round action for all eight workers.
+**Cure Serious Wounds** **(Sp):** Eight workers together can heal a creature’s wounds as though using thecure serious woundsspell (caster level 7th). This is a full-round action for all eight workers.
 
-**Make Whole****(Sp):**Three workers together can repair an object as though using themake wholespell (caster level 7th). This is a fullround action for all three workers.
+**Make Whole** **(Sp):** Three workers together can repair an object as though using themake wholespell (caster level 7th). This is a fullround action for all three workers.
 
 WARRIOR
 
@@ -3346,7 +3346,7 @@ Warriors are wicked combatants, using claws, bite, and a poisonous sting all at 
 
 A formian warrior’s natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming damage reduction.
 
-**Poison (Ex):**Injury, Fortitude DC 14, initial and secondary damage 1d6 Str. The save DC is Constitution-based.
+**Poison (Ex):** Injury, Fortitude DC 14, initial and secondary damage 1d6 Str. The save DC is Constitution-based.
 
 TASKMASTER
 
@@ -3360,11 +3360,11 @@ Taskmasters rely on their dominated slaves to fight for them if at all possible.
 
 A formian taskmaster’s natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming damage reduction.
 
-**Dominate Monster (Su):**A taskmaster can use adominate monsterability as the spell from a 10th-level caster (Will DC 17 negates), although the subject may be of any kind and may be up to Large size. Creatures that successfully save cannot be affected by the same taskmaster’s dominate monster ability for 24 hours. A single taskmaster can dominate up to four subjects at a time. The save DC is Charisma-based.
+**Dominate Monster (Su):** A taskmaster can use adominate monsterability as the spell from a 10th-level caster (Will DC 17 negates), although the subject may be of any kind and may be up to Large size. Creatures that successfully save cannot be affected by the same taskmaster’s dominate monster ability for 24 hours. A single taskmaster can dominate up to four subjects at a time. The save DC is Charisma-based.
 
-**Dominated Creature (Ex):**A taskmaster is never encountered alone. One dominated nonformian creature always accompanies it (choose or determine randomly any creature of CR 4).
+**Dominated Creature (Ex):** A taskmaster is never encountered alone. One dominated nonformian creature always accompanies it (choose or determine randomly any creature of CR 4).
 
-**Poison (Ex):**Injury, Fortitude DC 15, initial and secondary damage 1d6 Str. The save DC is Constitution-based.
+**Poison (Ex):** Injury, Fortitude DC 15, initial and secondary damage 1d6 Str. The save DC is Constitution-based.
 
 MYRMARCH
 
@@ -3384,9 +3384,9 @@ They fight intelligently, aiding those under them (if any such are present) and 
 
 A formian myrmarch’s natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming damage reduction.
 
-**Poison (Ex):**Injury, Fortitude DC 20, initial and secondary damage 2d6 Dex. The save DC is Constitution-based.
+**Poison (Ex):** Injury, Fortitude DC 20, initial and secondary damage 2d6 Dex. The save DC is Constitution-based.
 
-**Spell-Like Abilities:**At will—charm monster(DC 17),clairaudience/ clairvoyance, detect chaos, detect thoughts(DC 15),magic circle against chaos,greater teleport;1/day—dictum(DC 20),order’s wrath(DC 17). Caster level 12th. The save DCs are Charisma-based.
+**Spell-Like Abilities:** At will—charm monster(DC 17),clairaudience/ clairvoyance, detect chaos, detect thoughts(DC 15),magic circle against chaos,greater teleport;1/day—dictum(DC 20),order’s wrath(DC 17). Caster level 12th. The save DCs are Charisma-based.
 
 QUEEN
 
@@ -3402,13 +3402,13 @@ The queen does not fight. She has no ability to move. If necessary, a team of wo
 
 Despite her utter lack of physical activity, the queen can cast spells and use spell-like abilities to great effect in her own defense as well as the defense of the hive-city.
 
-**Spells:**The queen casts arcane spells as a 17th-level sorcerer.
+**Spells:** The queen casts arcane spells as a 17th-level sorcerer.
 
 Typical Sorcerer Spells Known(6/8/7/7/7/7/6/6/4, base save DC 15 + spell level): 0—acid splash, arcane mark, daze, detect magic, light, mage hand, read magic, resistance, touch of fatigue;1st—comprehend languages, identify, mage armor, magic missile, shield;2nd—hypnotic pattern, invisibility, protection from arrows, resist energy, scorching ray;3rd—dispel magic, heroism, nondetection, slow;4th—confusion, detect scrying, black tentacles, scrying;5th—cone of cold, dismissal, teleport, wall of force;6th—analyze dweomer, geas/quest, repulsion;7th—summon monster VII, vision, waves of exhaustion;8th—prismatic wall, temporal stasis.
 
-**Spell-Like Abilities:**At will—calm emotions(DC 17),charm monster(DC 19),clairaudience/clairvoyance, detect chaos, detect thoughts, dictum(DC 22),divination, hold monster(DC 20),magic circle against chaos, order’s wrath(DC 19),shield of law(DC 23),true seeing.Caster level 17th. The save DCs are Charisma-based.
+**Spell-Like Abilities:** At will—calm emotions(DC 17),charm monster(DC 19),clairaudience/clairvoyance, detect chaos, detect thoughts, dictum(DC 22),divination, hold monster(DC 20),magic circle against chaos, order’s wrath(DC 19),shield of law(DC 23),true seeing.Caster level 17th. The save DCs are Charisma-based.
 
-**Telepathy (Su):**The queen can communicate telepathically with any intelligent creature within 50 miles whosepresence she is aware of.
+**Telepathy (Su):** The queen can communicate telepathically with any intelligent creature within 50 miles whosepresence she is aware of.
 
 
 
@@ -3518,15 +3518,15 @@ Frost worms lurk under the snow, waiting for prey to come near.
 
 They begin an attack with a trill and then set upon helpless prey with their bite.
 
-**Trill (Su):**A frost worm can emit a noise that forces its prey to stand motionless. This sonic mind-affecting compulsion affects all creatures other than frost worms within a 100-foot radius. Creatures must succeed on a DC 17 Will save or be stunned for as long as the worm trills and for 1d4 rounds thereafter, even if they are attacked. However, if attacked or violently shaken (a full-round action), a victim is allowed another saving throw. Once a creature has resisted or broken the effect, it cannot be affected again by that same frost worm’s trill for 24 hours. The effect’s caster level is 14th. The save DC is Charisma-based.
+**Trill (Su):** A frost worm can emit a noise that forces its prey to stand motionless. This sonic mind-affecting compulsion affects all creatures other than frost worms within a 100-foot radius. Creatures must succeed on a DC 17 Will save or be stunned for as long as the worm trills and for 1d4 rounds thereafter, even if they are attacked. However, if attacked or violently shaken (a full-round action), a victim is allowed another saving throw. Once a creature has resisted or broken the effect, it cannot be affected again by that same frost worm’s trill for 24 hours. The effect’s caster level is 14th. The save DC is Charisma-based.
 
-**Cold (Ex):**A frost worm’s body generates intense cold, causing opponents to take an extra 1d8 points of cold damage every time the creature succeeds on a bite attack. Creatures attacking a frost worm unarmed or with natural weapons take this same cold damage each time one of their attacks hits.
+**Cold (Ex):** A frost worm’s body generates intense cold, causing opponents to take an extra 1d8 points of cold damage every time the creature succeeds on a bite attack. Creatures attacking a frost worm unarmed or with natural weapons take this same cold damage each time one of their attacks hits.
 
-**Breath Weapon (Su):**30-foot cone, once per hour, damage 15d6 cold, Reflex DC 22 half. Opponents held motionless by the frost worm’s trill get no saving throw. The save DC is Constitution-based.
+**Breath Weapon (Su):** 30-foot cone, once per hour, damage 15d6 cold, Reflex DC 22 half. Opponents held motionless by the frost worm’s trill get no saving throw. The save DC is Constitution-based.
 
-**Death Throes (Ex):**When killed, a frost worm turns to ice and shatters in an explosion that deals 12d6 points of cold damage and 8d6 points of piercing damage to everything within 100 feet (Reflex half DC 22). The save DC is Constitution-based.
+**Death Throes (Ex):** When killed, a frost worm turns to ice and shatters in an explosion that deals 12d6 points of cold damage and 8d6 points of piercing damage to everything within 100 feet (Reflex half DC 22). The save DC is Constitution-based.
 
-**Skills:***A frost worm, due to its coloration and its affinity for burying itself in the snow, has a +10 racial bonus on Hide checks in its native environment.
+**Skills:** *A frost worm, due to its coloration and its affinity for burying itself in the snow, has a +10 racial bonus on Hide checks in its native environment.
 
 
 
@@ -3690,7 +3690,7 @@ Combat
 
 A shrieker has no means of attack. Instead, it lures prey to its vicinity by emitting a loud noise.
 
-**Shriek (Ex):**Movement or a light source within 10 feet of a shrieker causes the fungus to emit a piercing sound that lasts for 1d3 rounds. The sound attracts nearby creatures that are disposed to investigate it. Some creatures that live near shriekers come to learn that the fungus’s noise means there is food nearby.
+**Shriek (Ex):** Movement or a light source within 10 feet of a shrieker causes the fungus to emit a piercing sound that lasts for 1d3 rounds. The sound attracts nearby creatures that are disposed to investigate it. Some creatures that live near shriekers come to learn that the fungus’s noise means there is food nearby.
 
 VIOLET FUNGUS
 
@@ -3702,5 +3702,5 @@ Combat
 
 A violet fungus flails about with its tentacles at living creatures that come within its reach.
 
-**Poison (Ex):**Injury, Fortitude DC 14, initial and secondary damage 1d4 Str and 1d4 Con. The save DC is Constitution-based.
+**Poison (Ex):** Injury, Fortitude DC 14, initial and secondary damage 1d4 Str and 1d4 Con. The save DC is Constitution-based.
 

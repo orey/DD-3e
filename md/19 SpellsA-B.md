@@ -12,21 +12,21 @@ Acid Arrow
 
 Conjuration (Creation) [Acid]
 
-**Level:**Sor/Wiz 2
+**Level:** Sor/Wiz 2
 
-**Components:**V, S, M, F
+**Components:** V, S, M, F
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Long (400 ft. + 40 ft./level)
+**Range:** Long (400 ft. + 40 ft./level)
 
-**Effect:**One arrow of acid
+**Effect:** One arrow of acid
 
-**Duration:**1 round + 1 round per three levels
+**Duration:** 1 round + 1 round per three levels
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 A magical arrow of acid springs from your hand and speeds to its target. You must succeed on a ranged touch attack to hit your target. The arrow deals 2d4 points of acid damage with no splash damage. For every three caster levels (to a maximum of 18th), the acid, unless somehow neutralized, lasts for another round, dealing another 2d4 points of damage in that round.
 
@@ -42,21 +42,21 @@ Acid Fog
 
 Conjuration (Creation) [Acid]
 
-**Level:**Sor/Wiz 6, Water 7
+**Level:** Sor/Wiz 6, Water 7
 
-**Components:**V, S, M/DF
+**Components:** V, S, M/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Effect:**Fog spreads in 20-ft. radius, 20 ft. high
+**Effect:** Fog spreads in 20-ft. radius, 20 ft. high
 
-**Duration:**1 round/level
+**Duration:** 1 round/level
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 Acid fogcreates a billowing mass of misty vapors similar to that produced by asolid fogspell. In addition to slowing creatures down and obscuring sight, this spell’s vapors are highly acidic. Each round on your turn, starting when you cast the spell, the fog deals 2d6 points of acid damage to each creature and object within it.
 
@@ -70,21 +70,21 @@ Acid Splash
 
 Conjuration (Creation) [Acid]
 
-**Level:**Sor/Wiz 0
+**Level:** Sor/Wiz 0
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Effect:**One missile of acid
+**Effect:** One missile of acid
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You fire a small orb of acid at the target. You must succeed on a ranged touch attack to hit your target. The orb deals 1d3 points of acid damage.
 
@@ -96,21 +96,21 @@ Aid
 
 Enchantment (Compulsion) [Mind-Affecting]
 
-**Level:**Clr 2, Good 2, Luck 2
+**Level:** Clr 2, Good 2, Luck 2
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Living creature touched
+**Target:** Living creature touched
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**Yes (harmless)
+**Spell Resistance:** Yes (harmless)
 
 Aidgrants the target a +1 morale bonus on attack rolls and saves against fear effects, plus temporary hit points equal to 1d8 + caster level (to a maximum of 1d8+10 temporary hit points at caster level 10th).
 
@@ -122,21 +122,21 @@ Air Walk
 
 Transmutation [Air]
 
-**Level:**Air 4, Clr 4, Drd 4
+**Level:** Air 4, Clr 4, Drd 4
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature (Gargantuan or smaller) touched
+**Target:** Creature (Gargantuan or smaller) touched
 
-**Duration:**10 min./level
+**Duration:** 10 min./level
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**Yes (harmless)
+**Spell Resistance:** Yes (harmless)
 
 The subject can tread on air as if walking on solid ground. Moving upward is similar to walking up a hill. The maximum upward or downward angle possible is 45 degrees, at a rate equal to one-half the air walker’s normal speed.
 
@@ -154,21 +154,21 @@ Alarm
 
 Abjuration
 
-**Level:**Brd 1, Rgr 1, Sor/Wiz 1
+**Level:** Brd 1, Rgr 1, Sor/Wiz 1
 
-**Components:**V, S, F/DF
+**Components:** V, S, F/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Area:**20-ft.-radius emanation centered on a point in space
+**Area:** 20-ft.-radius emanation centered on a point in space
 
-**Duration:**2 hours/level (D)
+**Duration:** 2 hours/level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 Alarmsounds a mental or audible alarm each time a creature of Tiny or larger size enters the warded area or touches it. A creature that speaks the password (determined by you at the time of casting) does not set off thealarm. You decide at the time of casting whether thealarmwill be mental or audible.
 
@@ -192,21 +192,21 @@ Align Weapon
 
 Transmutation [see text]
 
-**Level:**Clr 2
+**Level:** Clr 2
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Weapon touched or fifty projectiles (all of which must be in contact with each other at the time of casting)
+**Target:** Weapon touched or fifty projectiles (all of which must be in contact with each other at the time of casting)
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**Will negates (harmless, object)
+**Saving Throw:** Will negates (harmless, object)
 
-**Spell Resistance:**Yes (harmless, object)
+**Spell Resistance:** Yes (harmless, object)
 
 Align weaponmakes a weapon good, evil, lawful, or chaotic, as you choose. A weapon that is aligned can bypass the damage reduction of certain creatures. This spell has no effect on a weapon that already has an alignment.
 
@@ -222,17 +222,17 @@ Alter Self
 
 Transmutation
 
-**Level:**Brd 2, Sor/Wiz 2
+**Level:** Brd 2, Sor/Wiz 2
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**10 min./level (D)
+**Duration:** 10 min./level (D)
 
 You assume the form of a creature of the same type as your normal form. The new form must be within one size category of your normal size. The maximum HD of an assumed form is equal to your caster level, to a maximum of 5 HD at 5th level. You can change into a member of your own kind or even into yourself.
 
@@ -260,21 +260,21 @@ Analyze Dweomer
 
 Divination
 
-**Level:**Brd 6, Sor/Wiz 6
+**Level:** Brd 6, Sor/Wiz 6
 
-**Components:**V, S, F
+**Components:** V, S, F
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Targets:**One object or creature per caster level
+**Targets:** One object or creature per caster level
 
-**Duration:**1 round/level (D)
+**Duration:** 1 round/level (D)
 
-**Saving Throw:**None or Will negates; see text
+**Saving Throw:** None or Will negates; see text
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You discern all spells and magical properties present in a number of creatures or objects. Each round, you may examine a single creature or object that you can see as a free action. In the case of a magic item, you learn its functions, how to activate its functions (if appropriate), and how many charges are left (if it uses charges). In the case of an object or creature with active spells cast upon it, you learn each spell, its effect, and its caster level.
 
@@ -292,21 +292,21 @@ Animal Growth
 
 Transmutation
 
-**Level:**Drd 5, Rgr 4, Sor/Wiz 5
+**Level:** Drd 5, Rgr 4, Sor/Wiz 5
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Targets:**Up to one animal (Gargantuan or smaller) per two levels, no two of which can be more than 30 ft. apart
+**Targets:** Up to one animal (Gargantuan or smaller) per two levels, no two of which can be more than 30 ft. apart
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**Fortitude negates
+**Saving Throw:** Fortitude negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 A number of animals grow to twice their normal size and eight times their normal weight. This alteration changes each animal’s size category to the next largest, grants it a +8 size bonus to Strength and a +4 size bonus to Constitution (and thus an extra 2 hit points per HD), and imposes a –2 size penalty to Dexterity. The creature’s existing natural armor bonus increases by 2. The size change also affects the animal’s modifier to AC and attack rolls and its base damage. The animal’s space and reach change as appropriate to the new size, but its speed does not change.
 
@@ -328,21 +328,21 @@ Animal Messenger
 
 Enchantment (Compulsion) [Mind-Affecting]
 
-**Level:**Brd 2, Drd 2, Rgr 1
+**Level:** Brd 2, Drd 2, Rgr 1
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One Tiny animal
+**Target:** One Tiny animal
 
-**Duration:**One day/level
+**Duration:** One day/level
 
-**Saving Throw:**None; see text
+**Saving Throw:** None; see text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 You compel a Tiny animal to go to a spot you designate. The most common use for this spell is to get an animal to carry a message to your allies. The animal cannot be one tamed or trained by someone else, including such creatures as familiars and animal companions.
 
@@ -360,21 +360,21 @@ Animal Shapes
 
 Transmutation
 
-**Level:**Animal 7, Drd 8
+**Level:** Animal 7, Drd 8
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Targets:**Up to one willing creature per level, all within 30 ft. of each other
+**Targets:** Up to one willing creature per level, all within 30 ft. of each other
 
-**Duration:**1 hour/level (D)
+**Duration:** 1 hour/level (D)
 
-**Saving Throw:**None; see text
+**Saving Throw:** None; see text
 
-**Spell Resistance:**Yes (harmless)
+**Spell Resistance:** Yes (harmless)
 
 Aspolymorph,except you polymorph up to one willing creature per caster level into an animal of your choice; the spell has no effect on unwilling creatures. All creatures must take the same kind of animal form. Recipients remain in the animal form until the spell expires or until you dismiss it for all recipients. In addition, an individual subject may choose to resume its normal form as a full-round action; doing so ends the spell for that subject alone. The maximum HD of an assumed form is equal to the subject’s HD or your caster level, whichever is lower, to a maximum of 20 HD at 20th level.
 
@@ -386,21 +386,21 @@ Animal Trance
 
 Enchantment (Compulsion) [Mind-Affecting, Sonic]
 
-**Level:**Brd 2, Drd 2
+**Level:** Brd 2, Drd 2
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Targets:**Animals or magical beasts with Intelligence 1 or 2
+**Targets:** Animals or magical beasts with Intelligence 1 or 2
 
-**Duration:**Concentration
+**Duration:** Concentration
 
-**Saving Throw:**Will negates; see text
+**Saving Throw:** Will negates; see text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Your swaying motions and music (or singing, or chanting) compel animals and magical beasts to do nothing but watch you. Only a creature with an Intelligence score of 1 or 2 can be fascinated by this spell. Roll 2d6 to determine the total number of HD worth of creatures that you fascinate. The closest targets are selected first until no more targets within range can be affected.
 
@@ -414,21 +414,21 @@ Animate Dead
 
 Necromancy [Evil]
 
-**Level:**Clr 3, Death 3, Sor/Wiz 4
+**Level:** Clr 3, Death 3, Sor/Wiz 4
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Targets:**One or more corpses touched
+**Targets:** One or more corpses touched
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 This spell turns the bones or bodies of dead creatures into undead skeletons or zombies that follow your spoken commands.
 
@@ -452,21 +452,21 @@ Animate Objects
 
 Transmutation
 
-**Level:**Brd 6, Chaos 6, Clr 6
+**Level:** Brd 6, Chaos 6, Clr 6
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Targets:**One Small object per caster level; see text
+**Targets:** One Small object per caster level; see text
 
-**Duration:**1 round/level
+**Duration:** 1 round/level
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You imbue inanimate objects with mobility and a semblance of life. Each such animated object then immediately attacks whomever or whatever you initially designate.
 
@@ -484,21 +484,21 @@ Animate Plants
 
 Transmutation
 
-**Level:**Drd 7, Plant 7
+**Level:** Drd 7, Plant 7
 
-**Components:**V
+**Components:** V
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Targets:**One Large plant per three caster levels or all plants within range; see text
+**Targets:** One Large plant per three caster levels or all plants within range; see text
 
-**Duration:**1 round/level or 1 hour/level; see text
+**Duration:** 1 round/level or 1 hour/level; see text
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You imbue inanimate plants with mobility and a semblance of life. Each animated plant then immediately attacks whomever or whatever you initially designate as though it were an animated object of the appropriate size category. You may animate one Large or smaller plant, or an equivalent number of larger plants, per three caster levels. A Huge plant counts as two Large or smaller plants, a Gargantuan plant as four, and a Colossal plant as eight. You can change the designated target or targets as a move action, as if directing an active spell.
 
@@ -516,21 +516,21 @@ Animate Rope
 
 Transmutation
 
-**Level:**Brd 1, Sor/Wiz 1
+**Level:** Brd 1, Sor/Wiz 1
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Target:**One ropelike object, length up to 50 ft. + 5 ft./level; see text
+**Target:** One ropelike object, length up to 50 ft. + 5 ft./level; see text
 
-**Duration:**1 round/level
+**Duration:** 1 round/level
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You can animate a nonliving ropelike object. The maximum length assumes a rope with a 1-inch diameter.
 
@@ -554,21 +554,21 @@ Antilife Shell
 
 Abjuration
 
-**Level:**Animal 6, Clr 6, Drd 6
+**Level:** Animal 6, Clr 6, Drd 6
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 round
+**Casting Time:** 1 round
 
-**Range:**10 ft.
+**Range:** 10 ft.
 
-**Area:**10-ft.-radius emanation, centered on you
+**Area:** 10-ft.-radius emanation, centered on you
 
-**Duration:**10 min./level (D)
+**Duration:** 10 min./level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 You bring into being a mobile, hemispherical energy field that prevents the entrance of most types of living creatures.
 
@@ -584,21 +584,21 @@ Antimagic Field
 
 Abjuration
 
-**Level:**Clr 8, Magic 6, Protection 6, Sor/Wiz 6
+**Level:** Clr 8, Magic 6, Protection 6, Sor/Wiz 6
 
-**Components:**V, S, M/DF
+**Components:** V, S, M/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**10 ft.
+**Range:** 10 ft.
 
-**Area:**10-ft.-radius emanation, centered on you
+**Area:** 10-ft.-radius emanation, centered on you
 
-**Duration:**10 min./level (D)
+**Duration:** 10 min./level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**See text
+**Spell Resistance:** See text
 
 An invisible barrier surrounds you and moves with you. The space within this barrier is impervious to most magical effects, including spells, spell-like abilities, and supernatural abilities. Likewise, it prevents the functioning of any magic items or spells within its confines.
 
@@ -622,21 +622,21 @@ Antipathy
 
 Enchantment (Compulsion) [Mind-Affecting]
 
-**Level:**Drd 9, Sor/Wiz 8
+**Level:** Drd 9, Sor/Wiz 8
 
-**Components:**V, S, M/DF
+**Components:** V, S, M/DF
 
-**Casting Time:**1 hour
+**Casting Time:** 1 hour
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One location (up to a 10-ft. cube/level) or one object
+**Target:** One location (up to a 10-ft. cube/level) or one object
 
-**Duration:**2 hours/level (D)
+**Duration:** 2 hours/level (D)
 
-**Saving Throw:**Will partial
+**Saving Throw:** Will partial
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 You cause an object or location to emanate magical vibrations that repel either a specific kind of intelligent creature or creatures of a particular alignment, as defined by you. The kind of creature to be affected must be named specifically. A creature subtype is not specific enough. Likewise, the specific alignment to be repelled must be named.
 
@@ -656,21 +656,21 @@ Antiplant Shell
 
 Abjuration
 
-**Level:**Drd 4
+**Level:** Drd 4
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**10 ft.
+**Range:** 10 ft.
 
-**Area:**10-ft.-radius emanation, centered on you
+**Area:** 10-ft.-radius emanation, centered on you
 
-**Duration:**10 min./level (D)
+**Duration:** 10 min./level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Theantiplant shellspell creates an invisible, mobile barrier that keeps all creatures within the shell protected from attacks by plant creatures or animated plants. As with many abjuration spells, forcing the barrier against creatures that the spell keeps at bay strains and collapses the field.
 
@@ -682,21 +682,21 @@ Arcane Eye
 
 Divination (Scrying)
 
-**Level:**Sor/Wiz 4
+**Level:** Sor/Wiz 4
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**10 minutes
+**Casting Time:** 10 minutes
 
-**Range:**Unlimited
+**Range:** Unlimited
 
-**Effect:**Magical sensor
+**Effect:** Magical sensor
 
-**Duration:**1 min./level (D)
+**Duration:** 1 min./level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You create an invisible magical sensor that sends you visual information. You can create thearcane eyeat any point you can see, but it can then travel outside your line of sight without hindrance. Anarcane eyetravels at 30 feet per round (300 feet per minute) if viewing an area ahead as a human would (primarily looking at the floor) or 10 feet per round (100 feet per minute) if examining the ceiling and walls as well as the floor ahead. It sees exactly as you would see if you were there.
 
@@ -714,21 +714,21 @@ Arcane Lock
 
 Abjuration
 
-**Level:**Sor/Wiz 2
+**Level:** Sor/Wiz 2
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**The door, chest, or portal touched, up to 30 sq. ft./level in size
+**Target:** The door, chest, or portal touched, up to 30 sq. ft./level in size
 
-**Duration:**Permanent
+**Duration:** Permanent
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 Anarcane lockspell cast upon a door, chest, or portal magically locks it. You can freely pass your ownarcane lockwithout affecting it; otherwise, a door or object secured with this spell can be opened only by breaking in or with a successfuldispel magicorknockspell. Add 10 to the normal DC to break open a door or portal affected by this spell. (Aknockspell does not remove anarcane lock;it only suppresses the effect for 10 minutes.)
 
@@ -742,21 +742,21 @@ Arcane Mark
 
 Universal
 
-**Level:**Sor/Wiz 0
+**Level:** Sor/Wiz 0
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**0 ft.
+**Range:** 0 ft.
 
-**Effect:**One personal rune or mark, all of which must fit within 1 sq. ft.
+**Effect:** One personal rune or mark, all of which must fit within 1 sq. ft.
 
-**Duration:**Permanent
+**Duration:** Permanent
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 This spell allows you to inscribe your personal rune or mark, which can consist of no more than six characters. The writing can be visible or invisible. Anarcane markspell enables you to etch the rune upon any substance without harm to the material upon which it is placed. If an invisible mark is made, adetect magicspell causes it to glow and be visible, though not necessarily understandable.
 
@@ -774,17 +774,17 @@ Arcane Sight
 
 Divination
 
-**Level:**Sor/Wiz 3
+**Level:** Sor/Wiz 3
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 min./level (D)
+**Duration:** 1 min./level (D)
 
 This spell makes your eyes glow blue and allows you to see magical auras within 120 feet of you. The effect is similar to that of adetect magicspell, butarcane sightdoes not require concentration and discerns aura location and power more quickly.
 
@@ -802,7 +802,7 @@ Arcane Sight, Greater
 
 Divination
 
-**Level:**Sor/Wiz 7
+**Level:** Sor/Wiz 7
 
 This spell functions likearcane sight,except that you automatically know which spells or magical effects are active upon any individual or object you see.
 
@@ -818,21 +818,21 @@ Astral Projection
 
 Necromancy
 
-**Level:**Clr 9, Sor/Wiz 9, Travel 9
+**Level:** Clr 9, Sor/Wiz 9, Travel 9
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**30 minutes
+**Casting Time:** 30 minutes
 
-**Range:**Touch
+**Range:** Touch
 
-**Targets:**You plus one additional willing creature touched per two caster levels
+**Targets:** You plus one additional willing creature touched per two caster levels
 
-**Duration:**See text
+**Duration:** See text
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 By freeing your spirit from your physical body, this spell allows you to project an astral body onto another plane altogether.
 
@@ -854,21 +854,21 @@ Atonement
 
 Abjuration
 
-**Level:**Clr 5, Drd 5
+**Level:** Clr 5, Drd 5
 
-**Components:**V, S, M, F, DF, XP
+**Components:** V, S, M, F, DF, XP
 
-**Casting Time:**1 hour
+**Casting Time:** 1 hour
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Living creature touched
+**Target:** Living creature touched
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 This spell removes the burden of evil acts or misdeeds from the subject. The creature seeking atonement must be truly repentant and desirous of setting right its misdeeds. If the atoning creature committed the evil act unwittingly or under some form of compulsion,atonementoperates normally at no cost to you. However, in the case of a creature atoning for deliberate misdeeds and acts of a knowing and willful nature, you must intercede with your deity (requiring you to expend 500 XP) in order to expunge the subject’s burden. Many casters first assign a subject of this sort a quest (seegeas/quest) or similar penance to determine whether the creature is truly contrite before casting theatonementspell on its behalf.
 
@@ -900,17 +900,17 @@ Augury
 
 Divination
 
-**Level:**Clr 2
+**Level:** Clr 2
 
-**Components:**V, S, M, F
+**Components:** V, S, M, F
 
-**Casting Time:**1 minute
+**Casting Time:** 1 minute
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
 Anaugurycan tell you whether a particular action will bring good or bad results for you in the immediate future.
 
@@ -940,21 +940,21 @@ Awaken
 
 Transmutation
 
-**Level:**Drd 5
+**Level:** Drd 5
 
-**Components:**V, S, DF, XP
+**Components:** V, S, DF, XP
 
-**Casting Time:**24 hours
+**Casting Time:** 24 hours
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Animal or tree touched
+**Target:** Animal or tree touched
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 You awaken a tree or animal to humanlike sentience. To succeed, you must make a Will save (DC 10 + the animal’s current HD, or the HD the tree will have once awakened).
 
@@ -976,21 +976,21 @@ Baleful Polymorph
 
 Transmutation
 
-**Level:**Drd 5, Sor/Wiz 5
+**Level:** Drd 5, Sor/Wiz 5
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One creature
+**Target:** One creature
 
-**Duration:**Permanent
+**Duration:** Permanent
 
-**Saving Throw:**Fortitude negates, Will partial; see text
+**Saving Throw:** Fortitude negates, Will partial; see text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Aspolymorph,except that you change the subject into a Small or smaller animal of no more than 1 HD. If the new form would prove fatal to the creature the subject gets a +4 bonus on the save.
 
@@ -1006,21 +1006,21 @@ Bane
 
 Enchantment (Compulsion) [Fear, Mind-Affecting]
 
-**Level:**Clr 1
+**Level:** Clr 1
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**50 ft.
+**Range:** 50 ft.
 
-**Area:**All enemies within 50 ft.
+**Area:** All enemies within 50 ft.
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Banefills your enemies with fear and doubt. Each affected creature takes a –1 penalty on attack rolls and a –1 penalty on saving throws against fear effects.
 
@@ -1034,21 +1034,21 @@ Banishment
 
 Abjuration
 
-**Level:**Clr 6, Sor/Wiz 7
+**Level:** Clr 6, Sor/Wiz 7
 
-**Components:**V, S, F
+**Components:** V, S, F
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Targets:**One or more extraplanar creatures, no two of which can be more than 30 ft. apart
+**Targets:** One or more extraplanar creatures, no two of which can be more than 30 ft. apart
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Abanishmentspell is a more powerful version of thedismissalspell. It enables you to force extraplanar creatures out of your home plane. As many as 2 Hit Dice of creatures per caster level can be banished.
 
@@ -1066,21 +1066,21 @@ Barkskin
 
 Transmutation
 
-**Level:**Drd 2, Rgr 2, Plant 2
+**Level:** Drd 2, Rgr 2, Plant 2
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Living creature touched
+**Target:** Living creature touched
 
-**Duration:**10 min./level
+**Duration:** 10 min./level
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**Yes (harmless)
+**Spell Resistance:** Yes (harmless)
 
 Barkskintoughens a creature’s skin. The effect grants a +2 enhancement bonus to the creature’s existing natural armor bonus. This enhancement bonus increases by 1 for every three caster levels above 3rd, to a maximum of +5 at caster level 12th.
 
@@ -1094,21 +1094,21 @@ Bear’s Endurance
 
 Transmutation
 
-**Level:**Clr 2, Drd 2, Rgr 2, Sor/Wiz 2
+**Level:** Clr 2, Drd 2, Rgr 2, Sor/Wiz 2
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 The affected creature gains greater vitality and stamina. The spell grants the subject a +4 enhancement bonus to Constitution, which adds the usual benefits to hit points, Fortitude saves, Constitution checks, and so forth.
 
@@ -1122,11 +1122,11 @@ Bear’s Endurance, Mass
 
 Transmutation
 
-**Level:**Clr 6, Drd 6, Sor/Wiz 6
+**Level:** Clr 6, Drd 6, Sor/Wiz 6
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Targets:**One creature/level, no two of which can be more than 30 ft. apart
+**Targets:** One creature/level, no two of which can be more than 30 ft. apart
 
 Mass bear ’s enduranceworks likebear ’s endurance, except that it affects multiple creatures.
 
@@ -1138,21 +1138,21 @@ Bestow Curse
 
 Necromancy
 
-**Level:**Clr 3, Sor/Wiz 4
+**Level:** Clr 3, Sor/Wiz 4
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**Permanent
+**Duration:** Permanent
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 You place a curse on the subject. Choose one of the following three effects.
 
@@ -1176,21 +1176,21 @@ Binding
 
 Enchantment (Compulsion) [Mind-Affecting]
 
-**Level:**Sor/Wiz 8
+**Level:** Sor/Wiz 8
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**One minute
+**Casting Time:** One minute
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One living creature
+**Target:** One living creature
 
-**Duration:**See text (D)
+**Duration:** See text (D)
 
-**Saving Throw:**Will negates; see text
+**Saving Throw:** Will negates; see text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Abindingspell creates a magical restraint to hold a creature. The target gets an initial saving throw only if its Hit Dice equal at least one-half your caster level.
 
@@ -1228,21 +1228,21 @@ Black Tentacles
 
 Conjuration (Creation)
 
-**Level:**Sor/Wiz 4
+**Level:** Sor/Wiz 4
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Area:**20-ft.-radius spread
+**Area:** 20-ft.-radius spread
 
-**Duration:**1 round/level (D)
+**Duration:** 1 round/level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 This spell conjures a field of rubbery black tentacles, each 10 feet long. These waving members seem to spring forth from the earth, floor, or whatever surface is underfoot—including water. They grasp and entwine around creatures that enter the area, holding them fast and crushing them with great strength.
 
@@ -1262,21 +1262,21 @@ Blade Barrier
 
 Evocation [Force]
 
-**Level:**Clr 6, Good 6, War 6
+**Level:** Clr 6, Good 6, War 6
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Effect:**Wall of whirling blades up to 20 ft. long/ level, or a ringed wall of whirling blades with a radius of up to 5 ft. per two levels; either form 20 ft. high
+**Effect:** Wall of whirling blades up to 20 ft. long/ level, or a ringed wall of whirling blades with a radius of up to 5 ft. per two levels; either form 20 ft. high
 
-**Duration:**1 min./level (D)
+**Duration:** 1 min./level (D)
 
-**Saving Throw:**Reflex half or Reflex negates; see text
+**Saving Throw:** Reflex half or Reflex negates; see text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 An immobile, vertical curtain of whirling blades shaped of pure force springs into existence. Any creature passing through the wall takes 1d6 points of damage per caster level (maximum 15d6), with a Reflex save for half damage.
 
@@ -1292,21 +1292,21 @@ Blasphemy
 
 Evocation [Evil, Sonic]
 
-**Level:**Clr 7, Evil 7
+**Level:** Clr 7, Evil 7
 
-**Components:**V
+**Components:** V
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**40 ft.
+**Range:** 40 ft.
 
-**Area:**Nonevil creatures in a 40-ft.-radius spread centered on you
+**Area:** Nonevil creatures in a 40-ft.-radius spread centered on you
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None or Will negates; see text
+**Saving Throw:** None or Will negates; see text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Any nonevil creature within the area of ablasphemyspell suffers the following ill effects.
 
@@ -1358,21 +1358,21 @@ Bless
 
 Enchantment (Compulsion) [Mind-Affecting]
 
-**Level:**Clr 1, Pal 1
+**Level:** Clr 1, Pal 1
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**50 ft.
+**Range:** 50 ft.
 
-**Area:**The caster and all allies within a 50-ft. burst, centered on the caster
+**Area:** The caster and all allies within a 50-ft. burst, centered on the caster
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**Yes (harmless)
+**Spell Resistance:** Yes (harmless)
 
 Blessfills your allies with courage. Each ally gains a +1 morale bonus on attack rolls and on saving throws against fear effects.
 
@@ -1386,21 +1386,21 @@ Bless Water
 
 Transmutation [Good]
 
-**Level:**Clr 1, Pal 1
+**Level:** Clr 1, Pal 1
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 minute
+**Casting Time:** 1 minute
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Flask of water touched
+**Target:** Flask of water touched
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Will negates (object)
+**Saving Throw:** Will negates (object)
 
-**Spell Resistance:**Yes (object)
+**Spell Resistance:** Yes (object)
 
 This transmutation imbues a flask (1 pint) of water with positive energy, turning it into holy water.
 
@@ -1414,21 +1414,21 @@ Bless Weapon
 
 Transmutation
 
-**Level:**Pal 1
+**Level:** Pal 1
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Weapon touched
+**Target:** Weapon touched
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 This transmutation makes a weapon strike true against evil foes. The weapon is treated as having a +1 enhancement bonus for the purpose of bypassing the damage reduction of evil creatures or striking evil incorporeal creatures (though the spell doesn’t grant an actual enhancement bonus). The weapon also becomes good, which means it can bypass the damage reduction of certain creatures. (This effect overrides and suppresses any other alignment the weapon might have.) Individual arrows or bolts can be transmuted, but affected projectile weapons (such as bows) don’t confer the benefit to the projectiles they shoot.
 
@@ -1442,19 +1442,19 @@ Blight
 
 Necromancy
 
-**Level:**Drd 4, Sor/Wiz 5
+**Level:** Drd 4, Sor/Wiz 5
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Fortitude half; see text
+**Saving Throw:** Fortitude half; see text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 This spell withers a single plant of any size. An affected plant creature takes 1d6 points of damage per level (maximum 15d6) and may attempt a Fortitude saving throw for half damage. A plant that isn’t a creature doesn’t receive a save and immediately withers and dies.
 
@@ -1468,21 +1468,21 @@ Blindness/Deafness
 
 Necromancy
 
-**Level:**Brd 2, Clr 3, Sor/Wiz 2
+**Level:** Brd 2, Clr 3, Sor/Wiz 2
 
-**Components:**V
+**Components:** V
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Target:**One living creature
+**Target:** One living creature
 
-**Duration:**Permanent (D)
+**Duration:** Permanent (D)
 
-**Saving Throw:**Fortitude negates
+**Saving Throw:** Fortitude negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 You call upon the powers of unlife to render the subject blinded or deafened, as you choose.
 
@@ -1494,17 +1494,17 @@ Blink
 
 Transmutation
 
-**Level:**Brd 3, Sor/Wiz 3
+**Level:** Brd 3, Sor/Wiz 3
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 round/level (D)
+**Duration:** 1 round/level (D)
 
 You “blink” back and forth between the Material Plane and the Ethereal Plane. You look as though you’re winking in and out of reality very quickly and at random.
 
@@ -1538,21 +1538,21 @@ Blur
 
 Illusion (Glamer)
 
-**Level:**Brd 2,Sor/Wiz 2
+**Level:** Brd 2,Sor/Wiz 2
 
-**Components:**V
+**Components:** V
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**1 min./level (D)
+**Duration:** 1 min./level (D)
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
-**Spell Resistance:**Yes (harmless)
+**Spell Resistance:** Yes (harmless)
 
 The subject’s outline appears blurred, shifting and wavering. This distortion grants the subject concealment (20% miss chance).
 
@@ -1568,21 +1568,21 @@ Break Enchantment
 
 Abjuration
 
-**Level:**Brd 4, Clr 5, Luck 5, Pal 4, Sor/Wiz 5
+**Level:** Brd 4, Clr 5, Luck 5, Pal 4, Sor/Wiz 5
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 minute
+**Casting Time:** 1 minute
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Targets:**Up to one creature per level, all within 30 ft. of each other
+**Targets:** Up to one creature per level, all within 30 ft. of each other
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**See text
+**Saving Throw:** See text
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 This spell frees victims from enchantments, transmutations, and curses.Break enchantmentcan reverse even an instantaneous effect. For each such effect, you make a caster level check (1d20 + caster level, maximum +15) against a DC of 11 + caster level of the effect. Success means that the creature is free of the spell, curse, or effect. For a cursed magic item, the DC is 25.
 
@@ -1598,21 +1598,21 @@ Bull’s Strength
 
 Transmutation
 
-**Level:**Clr 2, Drd 2, Pal 2, Sor/Wiz 2, Strength 2
+**Level:** Clr 2, Drd 2, Pal 2, Sor/Wiz 2, Strength 2
 
-**Components:**V, S, M/DF
+**Components:** V, S, M/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
-**Spell Resistance:**Yes (harmless)
+**Spell Resistance:** Yes (harmless)
 
 The subject becomes stronger. The spell grants a +4 enhancement bonus to Strength, adding the usual benefits to melee attack rolls, melee damage rolls, and other uses of the Strength modifier.
 
@@ -1626,11 +1626,11 @@ Bull’s Strength, Mass
 
 Transmutation
 
-**Level:**Clr 6, Drd 6, Sor/Wiz 6
+**Level:** Clr 6, Drd 6, Sor/Wiz 6
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Targets:**One creature/level, no two of which can be more than 30 ft. apart
+**Targets:** One creature/level, no two of which can be more than 30 ft. apart
 
 This spell functions likebull’s strength, except that it affects multiple creatures.
 
@@ -1642,21 +1642,21 @@ Burning Hands
 
 Evocation [Fire]
 
-**Level:**Fire 1, Sor/Wiz 1
+**Level:** Fire 1, Sor/Wiz 1
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**15 ft.
+**Range:** 15 ft.
 
-**Area:**Cone-shaped burst
+**Area:** Cone-shaped burst
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Reflex half
+**Saving Throw:** Reflex half
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 A cone of searing flame shoots from your fingertips. Any creature in the area of the flames takes 1d4 points of fire damage per caster level (maximum 5d4). Flammable materials burn if the flames touch them. A character can extinguish burning items as a full-round action.
 

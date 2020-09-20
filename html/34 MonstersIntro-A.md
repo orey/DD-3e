@@ -70,7 +70,7 @@ If any attacks also have some special effect other than damage, that information
 
 Unless noted otherwise, creatures using natural weapons deal double damage on critical hits.
 
-**Manufactured Weapons:**Creatures that use swords, bows, spears, and the like follow the same rules as characters do. The bonus for attacks with two-handed weapons is 1-1/2 times the creature’s Strength modifier (if it is a bonus), and is given first. Offhand weapons add only 1/2 the Strength bonus and are given second in the parentheses.
+**Manufactured Weapons:** Creatures that use swords, bows, spears, and the like follow the same rules as characters do. The bonus for attacks with two-handed weapons is 1-1/2 times the creature’s Strength modifier (if it is a bonus), and is given first. Offhand weapons add only 1/2 the Strength bonus and are given second in the parentheses.
 
 ## Space/Reach
 
@@ -92,11 +92,11 @@ This line gives the creature’s Fortitude, Reflex, and Will save modifiers.
 
 This line lists the creature’s ability scores, in the customary order: Str, Dex, Con, Int, Wis, Cha. Except where noted otherwise, each creature is assumed to have the standard array of ability scores before racial adjustments (all 11s and 10s). To determine any creature’s racial ability adjustments, subtract 10 from any even-numbered ability score and subtract 11 from any odd-numbered score. (Exceptions are noted in the Combat section of a creature’s descriptive text.)
 
-**Strength:**Quadrupeds can carry heavier loads than bipeds can. Any creature with four or more motive limbs can carry a load as a quadruped, even if it does not necessarily use all the limbs at once.
+**Strength:** Quadrupeds can carry heavier loads than bipeds can. Any creature with four or more motive limbs can carry a load as a quadruped, even if it does not necessarily use all the limbs at once.
 
-**Intelligence:**A creature can speak all the languages mentioned in its description, plus one additional language per point of Intelligence bonus. Any creature with an Intelligence score of 3 or higher understands at least one language (Common, unless noted otherwise).
+**Intelligence:** A creature can speak all the languages mentioned in its description, plus one additional language per point of Intelligence bonus. Any creature with an Intelligence score of 3 or higher understands at least one language (Common, unless noted otherwise).
 
-**Nonabilities:**Some creatures lack certain ability scores. These creatures do not have an ability score of 0—they lack the ability altogether. The modifier for a nonability is +0.
+**Nonabilities:** Some creatures lack certain ability scores. These creatures do not have an ability score of 0—they lack the ability altogether. The modifier for a nonability is +0.
 
 ## Skills
 
@@ -106,7 +106,7 @@ The Skills section of the creature’s description recaps racial bonuses and oth
 
 An asterisk (*) beside the relevant score and in the Skills section of the descriptive text indicates a conditional adjustment, one that applies only in certain situations.
 
-**Natural Tendencies:**Some creatures simply aren’t made for certain types of physical activity. If it seems clear that a particular creature simply is not made for a particular physical activity, that creature takes a –8 penalty on skill checks that defy its natural tendencies.
+**Natural Tendencies:** Some creatures simply aren’t made for certain types of physical activity. If it seems clear that a particular creature simply is not made for a particular physical activity, that creature takes a –8 penalty on skill checks that defy its natural tendencies.
 
 In extreme circumstances the creature fails the check automatically.
 
@@ -298,17 +298,17 @@ COMBAT
 
 An aboleth attacks by flailing with its long, slimy tentacles, though it prefers to fight from a distance using its illusion powers.
 
-**Enslave (Su):**Three times per day, an aboleth can attempt to enslave any one living creature within 30 feet. The target must succeed on a DC 17 Will save or be affected as though by adominate personspell (caster level 16th). An enslaved creature obeys the aboleth’s telepathic commands until freed byremove curse,and can attempt a new Will save every 24 hours to break free. The control is also broken if the aboleth dies or travels more than 1 mile from its slave. The save DC is Charisma-based.
+**Enslave (Su):** Three times per day, an aboleth can attempt to enslave any one living creature within 30 feet. The target must succeed on a DC 17 Will save or be affected as though by adominate personspell (caster level 16th). An enslaved creature obeys the aboleth’s telepathic commands until freed byremove curse,and can attempt a new Will save every 24 hours to break free. The control is also broken if the aboleth dies or travels more than 1 mile from its slave. The save DC is Charisma-based.
 
-**Psionics (Sp):**At will—hypnotic pattern(DC 15),illusory wall(DC 17),mirage arcana(DC 18),persistent image(DC 18),programmed image(DC 19),project image(DC 20),veil(DC 19). Effective caster level 16th. The save DCs are Charisma-based.
+**Psionics (Sp):** At will—hypnotic pattern(DC 15),illusory wall(DC 17),mirage arcana(DC 18),persistent image(DC 18),programmed image(DC 19),project image(DC 20),veil(DC 19). Effective caster level 16th. The save DCs are Charisma-based.
 
-**Slime (Ex):**A blow from an aboleth’s tentacle can cause a terrible affliction. A creature hit by a tentacle must succeed on a DC 19 Fortitude save or begin to transform over the next 1d4+1 minutes, the skin gradually becoming a clear, slimy membrane. An afflicted creature must remain moistened with cool, fresh water or take 1d12 points of damage every 10 minutes. The slime reduces the creature’s natural armor bonus by 1 (but never to less than 0). The save DC is Constitution-based.
+**Slime (Ex):** A blow from an aboleth’s tentacle can cause a terrible affliction. A creature hit by a tentacle must succeed on a DC 19 Fortitude save or begin to transform over the next 1d4+1 minutes, the skin gradually becoming a clear, slimy membrane. An afflicted creature must remain moistened with cool, fresh water or take 1d12 points of damage every 10 minutes. The slime reduces the creature’s natural armor bonus by 1 (but never to less than 0). The save DC is Constitution-based.
 
 Aremove diseasespell cast before the transformation is complete will restore an afflicted creature to normal. Afterward, however, only ahealormass healspell can reverse the affliction.
 
-**Mucus Cloud (Ex):**An aboleth underwater surrounds itself with a viscous cloud of mucus roughly 1 foot thick. Any creature coming into contact with and inhaling this substance must succeed on a DC 19 Fortitude save or lose the ability to breathe air for the next 3 hours. An affected creature suffocates in 2d6 minutes if removed from the water. Renewed contact with the mucus cloud and failing another Fortitude save continues the effect for another 3 hours. The save DC is Constitution-based.
+**Mucus Cloud (Ex):** An aboleth underwater surrounds itself with a viscous cloud of mucus roughly 1 foot thick. Any creature coming into contact with and inhaling this substance must succeed on a DC 19 Fortitude save or lose the ability to breathe air for the next 3 hours. An affected creature suffocates in 2d6 minutes if removed from the water. Renewed contact with the mucus cloud and failing another Fortitude save continues the effect for another 3 hours. The save DC is Constitution-based.
 
-**Skills:**An aboleth has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.
+**Skills:** An aboleth has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.
 
 
 
@@ -432,7 +432,7 @@ In close combat, an achaierai lashes out with two of its four legs and snaps wit
 
 An achaierai’s natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawfulaligned for the purpose of overcoming damage reduction.
 
-**Black Cloud (Ex):**Up to three times per day an achaierai can release a choking, toxic black cloud.
+**Black Cloud (Ex):** Up to three times per day an achaierai can release a choking, toxic black cloud.
 
 Those other than achaierai within 10 feet instantly take 2d6 points of damage. They must also succeed on a DC 15 Fortitude save or be affected for 3 hours as though by aninsanityspell (caster level 16th). The save DC is Constitution-based.
 
@@ -542,13 +542,13 @@ COMBAT
 
 An allip is unable to cause physical harm, although it doesn’t appear to know that. It keeps flailing away at enemies, yet it inflicts no wounds.
 
-**Babble (Su):**An allip constantly mutters and whines to itself, creating a hypnotic effect. All sane creatures within 60 feet of the allip must succeed on a DC 16 Will save or be affected as though by ahypnotismspell for 2d4 rounds. This is a sonic mind-affecting compulsion effect.
+**Babble (Su):** An allip constantly mutters and whines to itself, creating a hypnotic effect. All sane creatures within 60 feet of the allip must succeed on a DC 16 Will save or be affected as though by ahypnotismspell for 2d4 rounds. This is a sonic mind-affecting compulsion effect.
 
 Creatures that successfully save cannot be affected by the same allip’s babble for 24 hours. The save DC is Charisma-based.
 
-**Madness (Su):**Anyone targeting an allip with a thought detection, mind control, or telepathic ability makes direct contact with its tortured mind and takes 1d4 points of Wisdom damage.
+**Madness (Su):** Anyone targeting an allip with a thought detection, mind control, or telepathic ability makes direct contact with its tortured mind and takes 1d4 points of Wisdom damage.
 
-**Wisdom Drain (Su):**An allip causes 1d4 points of Wisdom drain each time it hits with its incorporeal touch attack. On each such successful attack, it gains 5 temporary hit points.
+**Wisdom Drain (Su):** An allip causes 1d4 points of Wisdom drain each time it hits with its incorporeal touch attack. On each such successful attack, it gains 5 temporary hit points.
 
 
 
@@ -568,7 +568,7 @@ COMBAT
 
 In combat, most angels make full use of their mobility and their ability to attack at a distance.
 
-**Angel Traits:**An angel possesses the following traits (unless otherwise noted in a creature’s entry).
+**Angel Traits:** An angel possesses the following traits (unless otherwise noted in a creature’s entry).
 
 —Darkvision out to 60 feet and low-light vision.
 
@@ -688,11 +688,11 @@ An astral deva is not afraid to enter melee combat. It takes a fierce joy in bas
 
 An astral deva’s natural weapons, as well as any weapons it wields, are treated as good-aligned for the purpose of overcoming damage reduction.
 
-**Spell-Like Abilities:**At will—aid, continual flame, detect evil, discern lies(DC 19),dispel evil(DC 20),dispel magic, holy aura(DC 23),holy smite(DC 19),holy word(DC 22),invisibility(self only),plane shift(DC 22),polymorph(self only),remove curse(DC 18),remove disease(DC 18),remove fear(DC 16); 7/day—cure light wounds(DC 16),see invisibility;1/day—blade barrier(DC 21),heal(DC 21). Caster level 12th. The save DCs are Charisma-based.
+**Spell-Like Abilities:** At will—aid, continual flame, detect evil, discern lies(DC 19),dispel evil(DC 20),dispel magic, holy aura(DC 23),holy smite(DC 19),holy word(DC 22),invisibility(self only),plane shift(DC 22),polymorph(self only),remove curse(DC 18),remove disease(DC 18),remove fear(DC 16); 7/day—cure light wounds(DC 16),see invisibility;1/day—blade barrier(DC 21),heal(DC 21). Caster level 12th. The save DCs are Charisma-based.
 
-**Stun (Su):**If an astral deva strikes an opponent twice in one round with its mace, that creature must succeed on a DC 22 Fortitude save or be stunned for 1d6 rounds. The save DC is Strength-based.
+**Stun (Su):** If an astral deva strikes an opponent twice in one round with its mace, that creature must succeed on a DC 22 Fortitude save or be stunned for 1d6 rounds. The save DC is Strength-based.
 
-**Uncanny Dodge (Ex):**An astral deva retains its Dexterity bonus to AC when flat-footed, and it cannot be flanked except by a rogue of at least 16th level. It can flank characters with the uncanny dodge ability as if it were a 12th-level rogue.
+**Uncanny Dodge (Ex):** An astral deva retains its Dexterity bonus to AC when flat-footed, and it cannot be flanked except by a rogue of at least 16th level. It can flank characters with the uncanny dodge ability as if it were a 12th-level rogue.
 
 
 
@@ -800,13 +800,13 @@ Despite their vast array of magical powers, planetars are likely to wade into me
 
 A planetar’s natural weapons, as well as any weapons it wields, are treated as good-aligned for the purpose of overcoming damage reduction.
 
-**Regeneration:**A planetar takes damage from evil-aligned weapons and from spells and effects with the evil descriptor.
+**Regeneration:** A planetar takes damage from evil-aligned weapons and from spells and effects with the evil descriptor.
 
-**Spell-Like Abilities:**At will—continual flame, dispel magic, holy smite(DC 20),invisibility(self only),lesser restoration(DC 18),remove curse(DC 19),remove disease(DC 19),remove fear(DC 17),speak with dead(DC 19); 3/day—blade barrier(DC 22),flame strike(DC 21),polymorph(self only),power word stun, raise dead,waves of fatigue; 1/day—earthquake(DC 24),greater restoration(DC 23),mass charm monster(DC 24), waves of exhaustion. Caster level 17th. The save DCs are Charisma-based.
+**Spell-Like Abilities:** At will—continual flame, dispel magic, holy smite(DC 20),invisibility(self only),lesser restoration(DC 18),remove curse(DC 19),remove disease(DC 19),remove fear(DC 17),speak with dead(DC 19); 3/day—blade barrier(DC 22),flame strike(DC 21),polymorph(self only),power word stun, raise dead,waves of fatigue; 1/day—earthquake(DC 24),greater restoration(DC 23),mass charm monster(DC 24), waves of exhaustion. Caster level 17th. The save DCs are Charisma-based.
 
 The following abilities are always active on the planetar’s person, as the spells (caster level 17th):detect evil, detect snares and pits, discern lies(DC 20),see invisibility, andtrue seeing. They can be dispelled, but the planetar can reactivate them as a free action.
 
-**Spells:**Planetars can cast divine spells as 17th-level clerics. A planetar has access to two of the following domains: Air, Destruction, Good, Law, or War (plus any others from its deity). The save DCs are Wisdom-based.
+**Spells:** Planetars can cast divine spells as 17th-level clerics. A planetar has access to two of the following domains: Air, Destruction, Good, Law, or War (plus any others from its deity). The save DCs are Wisdom-based.
 
 Typical Cleric Spells Prepared(6/8/8/7/7/6/6/4/3/2; save DC 16 + spell level): 0—create water, detect magic, guidance,resistance(2),virtue;1st—bless(2),cause fear, divine favor(2),entropic shield, inflict light wounds*,shield of faith;2nd—aid*, align weapon, bear ’s endurance,bull’s strength(2),consecrate, eagle’s splendor, hold person;3rd—contagion*, daylight, invisibility purge,prayer(2),summon monster III, wind wall;4th—death ward,dismissal,inflict critical wounds*,neutralize poison(2),summon monster IV;5th—break enchantment, circle of doom*,dispel evil, mark of justice, plane shift, righteous might;6th—banishment, greater dispel magic, harm*, heal, heroes’ feast, mass cure moderate wounds;7th—dictum, disintegrate*, holy word,regenerate;8th—holy aura*, mass cure critical wounds, shield of law; 9th—implosion, summon monster IX (good)*.
 
@@ -920,13 +920,13 @@ Even more fearsome than their+5 dancing greatswordsare their+2 composite longbow
 
 A solar’s natural weapons, as well as any weapons it wields, are treated as good-aligned and epic for the purpose of overcoming damage reduction.
 
-**Regeneration (Ex):**A solar takes normal damage from epic evil-aligned weapons, and from spells or effects with the evil descriptor.
+**Regeneration (Ex):** A solar takes normal damage from epic evil-aligned weapons, and from spells or effects with the evil descriptor.
 
-**Spell-Like Abilities:**At will—aid, animate objects, commune, continual flame, dimensional anchor, greater dispel magic, holy smite(DC 21), imprisonment(DC 26),invisibility(self only),lesser restoration(DC 19),polymorph(self only)power word stun, remove curse(DC 20),remove disease(DC 20),remove fear(DC 18),resist energy, summon monster VII, speak with dead(DC 20), waves of fatigue; 3/day—blade barrier(DC 23),earthquake(DC 25),heal(DC 23),mass charm monster(DC 25),permanency, resurrection, waves of exhaustion; 1/day—greater restoration(DC 24),power word blind,power word kill,power word stun, prismatic spray(DC 24),wish. Caster level 20th. The save DCs are Charisma-based.
+**Spell-Like Abilities:** At will—aid, animate objects, commune, continual flame, dimensional anchor, greater dispel magic, holy smite(DC 21), imprisonment(DC 26),invisibility(self only),lesser restoration(DC 19),polymorph(self only)power word stun, remove curse(DC 20),remove disease(DC 20),remove fear(DC 18),resist energy, summon monster VII, speak with dead(DC 20), waves of fatigue; 3/day—blade barrier(DC 23),earthquake(DC 25),heal(DC 23),mass charm monster(DC 25),permanency, resurrection, waves of exhaustion; 1/day—greater restoration(DC 24),power word blind,power word kill,power word stun, prismatic spray(DC 24),wish. Caster level 20th. The save DCs are Charisma-based.
 
 The following abilities are always active on a solar’s person, as the spells (caster level 20th):detect evil, detect snares and pits, discern lies(DC 21),see invisibility, true seeing. They can be dispelled, but the solar can reactivate them as a free action.
 
-**Spells:**Solars can cast divine spells as 20th-level clerics. A solar has access to two of the following domains: Air, Destruction, Good, Law, or War (plus any others from its deity). The save DCs are Wisdom-based.
+**Spells:** Solars can cast divine spells as 20th-level clerics. A solar has access to two of the following domains: Air, Destruction, Good, Law, or War (plus any others from its deity). The save DCs are Wisdom-based.
 
 Typical Cleric Spells Prepared(6/8/8/8/7/7/6/6/5/5; save DC 17 + spell level): 0—create water, detect magic, guidance(2),resistance(2); 1st—bless(2),cause fear, divine favor(2),entropic shield, obscuring mist*,shield of faith;2nd—align weapon, bear’s endurance(2),bull’s strength(2),consecrate, eagle’s splendor, spiritual weapon*; 3rd—daylight, invisibility purge, magic circle against evil, magic vestment*,prayer(2),protection from energy, wind wall;4th—death ward(2),dismissal(2),divine power*,neutralize poison(2); 5th—break enchantment, control winds*,dispel evil, plane shift, righteous might(2),symbol of pain;6th—banishment, chain lightning*,heroes’ feast, mass cure moderate wounds, undeath to death, word of recall;7th—control weather*,destruction, dictum, ethereal jaunt, holy word, regenerate;8th—fire storm, holy aura, mass cure critical wounds(2),whirlwind*; 9th—etherealness, elemental swarm (air)*, mass heal, miracle, storm of vengeance.
 
@@ -1432,21 +1432,21 @@ Animated objects fight only as directed by the animator. They follow orders with
 
 An animated object can have one or more of the following special abilities, depending on its form.
 
-**Blind (Ex):**A sheetlike animated object such as a carpet or tapestry can grapple an opponent up to three sizes larger than itself. The object makes a normal grapple check. If it wins, it wraps itself around the opponent’s head, causing that creature to be blinded until removed.
+**Blind (Ex):** A sheetlike animated object such as a carpet or tapestry can grapple an opponent up to three sizes larger than itself. The object makes a normal grapple check. If it wins, it wraps itself around the opponent’s head, causing that creature to be blinded until removed.
 
-**Constrict (Ex):**A flexible animated object such as a rope, vine, or rug deals damage equal to its slam damage value plus 1- 1/2 times its Strength bonus with a successful grapple check against a creature up to one size larger than itself.
+**Constrict (Ex):** A flexible animated object such as a rope, vine, or rug deals damage equal to its slam damage value plus 1- 1/2 times its Strength bonus with a successful grapple check against a creature up to one size larger than itself.
 
 An object of at least Large size can make constriction attacks against multiple creatures at once, if they all are at least two sizes smaller than the object and can fit under it.
 
-**Hardness (Ex):**An animated object has the same hardness it had before it was animated.
+**Hardness (Ex):** An animated object has the same hardness it had before it was animated.
 
-**Improved Speed (Ex):**The base land speed given in the statistics block assume that an animated object lurches, rocks, or slithers along.
+**Improved Speed (Ex):** The base land speed given in the statistics block assume that an animated object lurches, rocks, or slithers along.
 
 Objects with two legs (statues, ladders) or a similar shape that allows faster movement have a +10 foot bonus to speed. Objects with multiple legs (tables, chairs) have a +20 foot bonus to speed. Wheeled objects have a +40 foot bonus to speed.
 
 Objects might have additional modes of movement. A wooden object can float and has a swim speed equal to half its land speed. A rope or similar sinuous object has a climb speed equal to half its land speed. A sheetlike object can fly (clumsy maneuverability) at half its normal speed.
 
-**Trample (Ex):**An animated object of at least Large size and with a hardness of at least 10 can trample creatures two or more sizes smaller than itself, dealing damage equal to the object’s slam damage + 1-1/2 times its Strength bonus. Opponents who do not make attacks of opportunity against the object can attempt Reflex saves (DC 10 + 1/2 object’s HD + object’s Str modifier) to halve the damage.
+**Trample (Ex):** An animated object of at least Large size and with a hardness of at least 10 can trample creatures two or more sizes smaller than itself, dealing damage equal to the object’s slam damage + 1-1/2 times its Strength bonus. Opponents who do not make attacks of opportunity against the object can attempt Reflex saves (DC 10 + 1/2 object’s HD + object’s Str modifier) to halve the damage.
 
 
 
@@ -1556,9 +1556,9 @@ An ankheg usually lies 5 to 10 feet below the surface until its antennae detect 
 
 Clusters of ankhegs share the same territory but do not cooperate.
 
-**Improved Grab (Ex):**To use this ability, an ankheg must hit with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If the ankheg is damaged after grabbing its prey, it retreats backward down its tunnel at its land speed (not its burrow speed), dragging the victim with it.
+**Improved Grab (Ex):** To use this ability, an ankheg must hit with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If the ankheg is damaged after grabbing its prey, it retreats backward down its tunnel at its land speed (not its burrow speed), dragging the victim with it.
 
-**Spit Acid (Ex):**30-ft. line, once every 6 hours; damage 4d4 acid, Reflex DC 14 half. One such attack depletes the ankheg’s acid supply for 6 hours. It cannot spit acid or deal acid damage during this time. The save DC is Constitution-based.
+**Spit Acid (Ex):** 30-ft. line, once every 6 hours; damage 4d4 acid, Reflex DC 14 half. One such attack depletes the ankheg’s acid supply for 6 hours. It cannot spit acid or deal acid damage during this time. The save DC is Constitution-based.
 
 An ankheg does not use this ability unless it is desperate or frustrated. It most often spits acid when reduced to fewer than half its full normal hit points or when it has not successfully grabbed an opponent.
 
@@ -1670,23 +1670,23 @@ COMBAT
 
 An aranea avoids physical combat and uses its webs and spells when it can. In a battle, it tries to immobilize or distract the most aggressive opponents first. Araneas often subdue opponents for ransom.
 
-**Poison (Ex):**Injury, Fortitude DC 13, initial damage 1d6 Str, secondary damage 2d6 Str. The save DC is Constitution-based.
+**Poison (Ex):** Injury, Fortitude DC 13, initial damage 1d6 Str, secondary damage 2d6 Str. The save DC is Constitution-based.
 
-**Spells:**An aranea casts spells as a 3rd-level sorcerer. It prefers illusions and enchantments and avoids fire spells.
+**Spells:** An aranea casts spells as a 3rd-level sorcerer. It prefers illusions and enchantments and avoids fire spells.
 
 Typical Sorcerer Spells Known(6/6; save DC 12 + spell level): 0—daze, detect magic, ghost sound, light, resistance;1st—mage armor, silent image, sleep.
 
-**Web (Ex):**In spider or hybrid form (see below), an aranea can throw a web up to six times per day. This is similar to an attack with a net but has a maximum range of 50 feet, with a range increment of 10 feet, and is effective against targets of up to Large size. The web anchors the target in place, allowing no movement.
+**Web (Ex):** In spider or hybrid form (see below), an aranea can throw a web up to six times per day. This is similar to an attack with a net but has a maximum range of 50 feet, with a range increment of 10 feet, and is effective against targets of up to Large size. The web anchors the target in place, allowing no movement.
 
 An entangled creature can escape with a DC 13 Escape Artist check or burst the web with a DC 17 Strength check. The check DCs are Constitution-based, and the Strength check DC includes a +4 racial bonus. The web has 6 hit points, hardness 0, and takes double damage from fire.
 
-**Change Shape (Su):**An aranea’s natural form is that of a Medium monstrous spider. It can assume two other forms. The first is a unique Small or Medium humanoid; an aranea in its humanoid form always assumes the same appearance and traits, much as a lycanthrope would. In humanoid form, an aranea cannot use its bite attack, webs, or poison.
+**Change Shape (Su):** An aranea’s natural form is that of a Medium monstrous spider. It can assume two other forms. The first is a unique Small or Medium humanoid; an aranea in its humanoid form always assumes the same appearance and traits, much as a lycanthrope would. In humanoid form, an aranea cannot use its bite attack, webs, or poison.
 
 The second form is a Medium spider–humanoid hybrid. In hybrid form, an aranea looks like a Medium humanoid at first glance, but a DC 18 Spot check reveals the creature’s fangs and spinnerets. The aranea retains its bite attack, webs, and poison in this form, and can also wield weapons or wear armor. When in hybrid form, an aranea’s speed is 30 feet (6 squares).
 
 An aranea remains in one form until it chooses to assume a new one. A change in form cannot be dispelled, nor does an aranea revert to its natural form when killed. Atrue seeingspell, however, reveals its natural form if it is in humanoid or hybrid form.
 
-**Skills:**Araneas have a +2 racial bonus on Jump, Listen, and Spot checks. They have a +8 racial bonus on Climb checks and can always choose to take 10 on Climb checks even if rushed or threatened.
+**Skills:** Araneas have a +2 racial bonus on Jump, Listen, and Spot checks. They have a +8 racial bonus on Climb checks and can always choose to take 10 on Climb checks even if rushed or threatened.
 
 
 
@@ -1702,7 +1702,7 @@ COMBAT
 
 Archons generally prefer to meet a foe head-on if it is prudent to do so, but if outmatched, they do what they can to even the odds (usually by employing hit-and run tactics or standing off and engaging a foe with magic before moving into melee).
 
-**Archon Traits:**An archon possesses the following traits (unless otherwise noted in a creature’s entry).
+**Archon Traits:** An archon possesses the following traits (unless otherwise noted in a creature’s entry).
 
 —Darkvision out to 60 feet and low-light vision.
 
@@ -1822,11 +1822,11 @@ Lantern archons appear as floating balls of light that glow about as brightly as
 
 A lantern archon has little reason to get within melee range. It usually hovers just close enough to bring the enemy within its aura of menace, then blasts away with its light rays. Lantern archons prefer to concentrate on a single opponent, seeking to reduce enemy numbers quickly.
 
-**Aura of Menace (Su):**Will DC 12 negates.
+**Aura of Menace (Su):** Will DC 12 negates.
 
-**Light Ray (Ex):**A lantern archon’s light rays have a range of 30 feet. This attack overcomes damage reduction of any type.
+**Light Ray (Ex):** A lantern archon’s light rays have a range of 30 feet. This attack overcomes damage reduction of any type.
 
-**Spell-Like Abilities:**At will—aid, detect evil, continual flame.Caster level 3rd.
+**Spell-Like Abilities:** At will—aid, detect evil, continual flame.Caster level 3rd.
 
 
 
@@ -1984,13 +1984,13 @@ Hound archons prefer to attack with their natural weapons but occasionally use g
 
 A hound archon’s natural weapons, as well as any weapons it wields, are treated as good-aligned and lawful-aligned for the purpose of overcoming damage reduction.
 
-**Spell-Like Abilities:**At will—aid, continual flame, detect evil, message.Caster level 6th.
+**Spell-Like Abilities:** At will—aid, continual flame, detect evil, message.Caster level 6th.
 
-**Aura of Menace (Su):**Will DC 16 negates.
+**Aura of Menace (Su):** Will DC 16 negates.
 
-**Change Shape (Su):**A hound archon can assume any canine form of Small to Large size. While in canine form, the hound archon loses its bite, slam, and greatsword attacks, but gains the bite attack of the form it chooses. For the purposes of this ability, canines include any doglike or wolflike animal of the animal type.
+**Change Shape (Su):** A hound archon can assume any canine form of Small to Large size. While in canine form, the hound archon loses its bite, slam, and greatsword attacks, but gains the bite attack of the form it chooses. For the purposes of this ability, canines include any doglike or wolflike animal of the animal type.
 
-**Skills:***While in canine form, a hound archon gains a +4 circumstance bonus on Hide and Survival checks.
+**Skills:** *While in canine form, a hound archon gains a +4 circumstance bonus on Hide and Survival checks.
 
 
 
@@ -2004,17 +2004,17 @@ COMBAT
 
 Hound archon heroes have over time developed a love for their weapons. They prefer to use theirholy greatswordsover their bite and slam attacks.
 
-**Spell-Like Abilities:**At will—aid, continual flame, detect evil, message.Caster level 6th.
+**Spell-Like Abilities:** At will—aid, continual flame, detect evil, message.Caster level 6th.
 
-**Aura of Menace (Su):**The save DC for the hound archon hero’s aura of menace (DC 18) is adjusted for its higher Charisma score.
+**Aura of Menace (Su):** The save DC for the hound archon hero’s aura of menace (DC 18) is adjusted for its higher Charisma score.
 
-**Smite Evil (Su):**Three times per day a hound archon hero can make a normal melee attack with a +3 bonus that deals an extra 11 points of damage against an evil foe.
+**Smite Evil (Su):** Three times per day a hound archon hero can make a normal melee attack with a +3 bonus that deals an extra 11 points of damage against an evil foe.
 
-**Change Shape (Su):**A hound archon hero can assume any canine form of Small to Large size. While in canine form, the hound archon loses its bite, slam, and greatsword attacks, but gains the biteattack of the form it chooses. For the purposes of this ability, canines include any doglike or wolflike animal of the animal type.
+**Change Shape (Su):** A hound archon hero can assume any canine form of Small to Large size. While in canine form, the hound archon loses its bite, slam, and greatsword attacks, but gains the biteattack of the form it chooses. For the purposes of this ability, canines include any doglike or wolflike animal of the animal type.
 
-**Skills:***While in canine form, a hound archon hero gains a +4 circumstance bonus on Hide and Survival checks.
+**Skills:** *While in canine form, a hound archon hero gains a +4 circumstance bonus on Hide and Survival checks.
 
-**Paladin Abilities:**Aura of courage, aura of good,detect evil, divine grace, divine health, lay on hands (33 points/day),remove disease2/week, special mount (juvenile bronze dragon).
+**Paladin Abilities:** Aura of courage, aura of good,detect evil, divine grace, divine health, lay on hands (33 points/day),remove disease2/week, special mount (juvenile bronze dragon).
 
 Typical Paladin Spells Prepared(2/2; save DC 12 + spell level): 1st—divine favor,protection from evil;2nd—bull’s strength, eagle’s splendor.
 
@@ -2170,17 +2170,17 @@ A trumpet archon usually disdains physical combat, preferring to obliterate foes
 
 A trumpet archon’s natural weapons, as well as any weapons it wields, are treated as good-aligned and lawful-aligned for the purpose of overcoming damage reduction.
 
-**Spell-Like Abilities:**At will—detect evil, continual flame, message.Caster level 12th.
+**Spell-Like Abilities:** At will—detect evil, continual flame, message.Caster level 12th.
 
-**Aura of Menace (Su):**Will DC 21 negates.
+**Aura of Menace (Su):** Will DC 21 negates.
 
-**Spells:**Trumpet archons can cast divine spells as 14th-level clerics. A trumpet archon has access to two of the following domains: Air, Destruction, Good, Law, or War (plus any others from its deity). The save DCs are Wisdom-based.
+**Spells:** Trumpet archons can cast divine spells as 14th-level clerics. A trumpet archon has access to two of the following domains: Air, Destruction, Good, Law, or War (plus any others from its deity). The save DCs are Wisdom-based.
 
 Typical Cleric Spells Prepared(6/7/7/6/5/4/4/3; DC 13 + spell level): 0—detect magic, light, purify food and drink, read magic, resistance(2); 1st—bless(2),divine favor(2),protection from chaos*, sanctuary, shield of faith;2nd—aid*, bull’s strength(2),consecrate, lesser restoration, owl’s wisdom(2); 3rd—daylight, invisibility purge, magic circle against chaos*, magic vestment, protection from energy(2); 4th—dismissal, divine power, holy smite*, neutralize poison, spell immunity;5th—dispel evil*, mass cure light wounds, plane shift, raise dead;6th—blade barrier*, banishment, heal, undeath to death;7th—dictum*, holy word, mass cure serious wounds.
 
 *Domain spell. Domains: Good and Law.
 
-**Trumpet (Su):**An archon’s trumpet produces music of utter clarity, piercing beauty, and, if the trumpet archon wills it, paralyzing awe. All creatures except archons within 100 feet of the blast must succeed on a DC 19 Fortitude save or be paralyzed for 1d4 rounds. The save DC is Charisma-based. The archon can also command its trumpet to become a+4 greatswordas a free action.
+**Trumpet (Su):** An archon’s trumpet produces music of utter clarity, piercing beauty, and, if the trumpet archon wills it, paralyzing awe. All creatures except archons within 100 feet of the blast must succeed on a DC 19 Fortitude save or be paralyzed for 1d4 rounds. The save DC is Charisma-based. The archon can also command its trumpet to become a+4 greatswordas a free action.
 
 If a trumpet is ever stolen, it becomes a chunk of useless metal until the owner can recover it. Woe betide any thief caught with one.
 
@@ -2386,7 +2386,7 @@ COMBAT
 
 Arrowhawks are extremely territorial and always hungry. They attack almost any other creature they meet, seeking a meal or trying to drive away a rival. The primary mode of attack is an electricity ray, fired from the tail. The creature also bites, but it prefers to stay out of reach.
 
-**Electricity Ray (Su):**An arrowhawk can fire this ray once per round, with a range of 50 feet.
+**Electricity Ray (Su):** An arrowhawk can fire this ray once per round, with a range of 50 feet.
 
 
 
@@ -2492,21 +2492,21 @@ An assassin vine uses simple tactics:
 
 It lies still until prey comes within reach, then attacks. It uses its entangle ability both to catch prey and to deter counterattacks.
 
-**Constrict (Ex):**An assassin vine deals 1d6+7 points of damage with a successful grapple check.
+**Constrict (Ex):** An assassin vine deals 1d6+7 points of damage with a successful grapple check.
 
-**Entangle (Su):**An assassin vine can animate plants within 30 feet of itself as a free action (Ref DC 13 partial).
+**Entangle (Su):** An assassin vine can animate plants within 30 feet of itself as a free action (Ref DC 13 partial).
 
 The effect lasts until the vine dies or decides to end it (also a free action). The save DC is Wisdom-based. The ability is otherwise similar toentangle(caster level 4th).
 
-**Improved Grab (Ex):**To use this ability, an assassin vine must hit with its slam attack.
+**Improved Grab (Ex):** To use this ability, an assassin vine must hit with its slam attack.
 
 It can then attempt to start a grapple as a free action without provoking an attack of opportunity.
 
 If it wins the grapple check, it establishes a hold and can constrict.
 
-**Blindsight (Ex):**Assassin vines have no visual organs but can ascertain all foes within 30 feet using sound, scent, and vibration.
+**Blindsight (Ex):** Assassin vines have no visual organs but can ascertain all foes within 30 feet using sound, scent, and vibration.
 
-**Camouflage (Ex):**Since an assassin vine looks like a normal plant when at rest, it takes a DC 20 Spot check to notice it before it attacks.
+**Camouflage (Ex):** Since an assassin vine looks like a normal plant when at rest, it takes a DC 20 Spot check to notice it before it attacks.
 
 Anyone with ranks in Survival or Knowledge (nature) can use one of those skills instead of Spot to notice the plant. Dwarves can use stonecunning to notice the subterranean version.
 
@@ -2610,7 +2610,7 @@ COMBAT
 
 Athachs charge into melee combat unless their opponents are out of reach, in which case they throw rocks. They sometimes try to overrun armored opponents to reach unarmored opponents in back ranks. With its first few melee attacks, an athach tends to flail about indiscriminately. After a few rounds, it concentrates on foes that have been hitting it most often and uses its bite on whoever has dealt it the most damage.
 
-**Poison (Ex):**Injury, Fortitude DC 22, initial damage 1d6 Str, secondary damage 2d6 Str. The save DC is Constitution-based.
+**Poison (Ex):** Injury, Fortitude DC 22, initial damage 1d6 Str, secondary damage 2d6 Str. The save DC is Constitution-based.
 
 
 
@@ -2722,17 +2722,17 @@ On the ground, an avoral can lash out with its wings to deliver punishing blows.
 
 An avoral’s natural weapons, as well as any weapons it wields, are treated as good-aligned for the purpose of overcoming damage reduction.
 
-**Spell-Like Abilities:**At will—aid, blur(self only),command(DC 14),detect magic, dimension door, dispel magic, gust of wind(DC 15),hold person(DC 16),light, magic circle against evil(self only),magic missile, see invisibility;3/day—lightning bolt(DC 16). Caster level 8th. The save DCs are Charisma-based.
+**Spell-Like Abilities:** At will—aid, blur(self only),command(DC 14),detect magic, dimension door, dispel magic, gust of wind(DC 15),hold person(DC 16),light, magic circle against evil(self only),magic missile, see invisibility;3/day—lightning bolt(DC 16). Caster level 8th. The save DCs are Charisma-based.
 
-**Fear Aura (Su):**Once per day an avoral can create an aura of fear in a 20-foot radius. It is otherwise identical withfearfrom an 8th-level caster (save DC 17). The save DC is Charisma-based.
+**Fear Aura (Su):** Once per day an avoral can create an aura of fear in a 20-foot radius. It is otherwise identical withfearfrom an 8th-level caster (save DC 17). The save DC is Charisma-based.
 
-**Lay on Hands (Su):**As the paladin class feature, except that each day, an avoral can heal an amount of damage equal to its full normal hit points.
+**Lay on Hands (Su):** As the paladin class feature, except that each day, an avoral can heal an amount of damage equal to its full normal hit points.
 
-**Speak with Animals (Su):**This ability works likespeak with animals(caster level 8th) but is a free action and does not require sound.
+**Speak with Animals (Su):** This ability works likespeak with animals(caster level 8th) but is a free action and does not require sound.
 
-**True Seeing (Su):**This ability is identical withtrue seeing(caster level 14th), except that it has personal range and the avoral must concentrate for 1 full round before it takes effect. Thereafter the ability remains in effect as long as the avoral concentrates on it.
+**True Seeing (Su):** This ability is identical withtrue seeing(caster level 14th), except that it has personal range and the avoral must concentrate for 1 full round before it takes effect. Thereafter the ability remains in effect as long as the avoral concentrates on it.
 
-**Skills:**An avoral’s sharp eyes give it a +8 racial bonus on Spot checks.
+**Skills:** An avoral’s sharp eyes give it a +8 racial bonus on Spot checks.
 
 
 
@@ -2844,7 +2844,7 @@ Azers use broad-headed spears or well-crafted hammers in combat. When unarmed, t
 
 Although unfriendly and taciturn, azers rarely provoke a fight except to relieve a foe of gems, which they love. If threatened, they fight to the death, but they see the value of taking prisoners themselves.
 
-**Heat (Ex):**An azer’s body is intensely hot, so its unarmed attacks deal extra fire damage. Its metallic weapons also conduct this heat.
+**Heat (Ex):** An azer’s body is intensely hot, so its unarmed attacks deal extra fire damage. Its metallic weapons also conduct this heat.
 
 
 

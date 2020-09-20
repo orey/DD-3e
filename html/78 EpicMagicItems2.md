@@ -16,7 +16,7 @@ To generate an epic scroll randomly, first roll on Table: Scroll Types to determ
 
 
 
-**Table: Scroll Types**
+**Table: Scroll Types** 
 
 
 
@@ -38,7 +38,7 @@ To generate an epic scroll randomly, first roll on Table: Scroll Types to determ
 
 
 
-**Table: Epic Scroll Spell Levels**
+**Table: Epic Scroll Spell Levels** 
 
 
 
@@ -172,9 +172,9 @@ To generate an epic scroll randomly, first roll on Table: Scroll Types to determ
 
 
 
-**Table: Actual Spell Level**
+**Table: Actual Spell Level** 
 
-**10th-Level Spell**
+**10th-Level Spell** 
 
 
 
@@ -228,7 +228,7 @@ To generate an epic scroll randomly, first roll on Table: Scroll Types to determ
 
 
 
-**11th-Level Spell**
+**11th-Level Spell** 
 
 
 
@@ -282,7 +282,7 @@ To generate an epic scroll randomly, first roll on Table: Scroll Types to determ
 
 
 
-**12th-Level Spell**
+**12th-Level Spell** 
 
 
 
@@ -332,7 +332,7 @@ To generate an epic scroll randomly, first roll on Table: Scroll Types to determ
 
 
 
-**13th-Level Spell**
+**13th-Level Spell** 
 
 
 
@@ -378,7 +378,7 @@ To generate an epic scroll randomly, first roll on Table: Scroll Types to determ
 
 
 
-**14th-Level Spell**
+**14th-Level Spell** 
 
 
 
@@ -420,7 +420,7 @@ To generate an epic scroll randomly, first roll on Table: Scroll Types to determ
 
 
 
-**15th-Level Spell**
+**15th-Level Spell** 
 
 
 
@@ -458,7 +458,7 @@ To generate an epic scroll randomly, first roll on Table: Scroll Types to determ
 
 
 
-**16th-Level Spell**
+**16th-Level Spell** 
 
 
 
@@ -492,7 +492,7 @@ To generate an epic scroll randomly, first roll on Table: Scroll Types to determ
 
 
 
-**17th-Level Spell**
+**17th-Level Spell** 
 
 
 
@@ -522,7 +522,7 @@ To generate an epic scroll randomly, first roll on Table: Scroll Types to determ
 
 
 
-**18th-Level Spell**
+**18th-Level Spell** 
 
 
 
@@ -548,7 +548,7 @@ To generate an epic scroll randomly, first roll on Table: Scroll Types to determ
 
 
 
-**19th-Level Spell**
+**19th-Level Spell** 
 
 
 
@@ -570,9 +570,9 @@ To generate an epic scroll randomly, first roll on Table: Scroll Types to determ
 
 
 
-**Table: Metamagic Level Adjustment to Spells**
+**Table: Metamagic Level Adjustment to Spells** 
 
-**Metamagic (1)**
+**Metamagic (1)** 
 
 
 
@@ -602,7 +602,7 @@ To generate an epic scroll randomly, first roll on Table: Scroll Types to determ
 
 
 
-**Metamagic (2)**
+**Metamagic (2)** 
 
 
 
@@ -640,7 +640,7 @@ To generate an epic scroll randomly, first roll on Table: Scroll Types to determ
 
 
 
-**Metamagic (3)**
+**Metamagic (3)** 
 
 
 
@@ -682,7 +682,7 @@ To generate an epic scroll randomly, first roll on Table: Scroll Types to determ
 
 
 
-**Metamagic (4)**
+**Metamagic (4)** 
 
 
 
@@ -728,7 +728,7 @@ To generate an epic scroll randomly, first roll on Table: Scroll Types to determ
 
 
 
-**Metamagic (5)**
+**Metamagic (5)** 
 
 
 
@@ -782,7 +782,7 @@ To generate an epic scroll randomly, first roll on Table: Scroll Types to determ
 
 
 
-**Metamagic (6)**
+**Metamagic (6)** 
 
 
 
@@ -832,7 +832,7 @@ To generate an epic scroll randomly, first roll on Table: Scroll Types to determ
 
 
 
-**Metamagic (7)**
+**Metamagic (7)** 
 
 
 
@@ -884,7 +884,7 @@ To generate an epic scroll randomly, first roll on Table: Scroll Types to determ
 
 
 
-**Metamagic (8)**
+**Metamagic (8)** 
 
 
 
@@ -938,7 +938,7 @@ To generate an epic scroll randomly, first roll on Table: Scroll Types to determ
 
 
 
-**Metamagic (9)**
+**Metamagic (9)** 
 
 
 
@@ -992,7 +992,7 @@ To generate an epic scroll randomly, first roll on Table: Scroll Types to determ
 
 
 
-**Metamagic (10)**
+**Metamagic (10)** 
 
 
 
@@ -1060,7 +1060,7 @@ Staffs use the wielder’s ability score and relevant feats to set the DC for sa
 
 
 
-**Table: Epic Staffs**
+**Table: Epic Staffs** 
 
 
 
@@ -1162,7 +1162,7 @@ Standard epic staffs are described below.
 
 
 
-**Cosmos:**This staff allows use of the following spells.
+**Cosmos:** This staff allows use of the following spells.
 
 •Chain lightning(intensified, 1 charge, DC 29)
 
@@ -1172,7 +1172,7 @@ Standard epic staffs are described below.
 
 Caster Level:27th;Prerequisites:Craft Staff, Craft Epic Staff, Intensify Spell,chain lightning, meteor swarm, sunburst; Market Price:683,437 gp.
 
-**Domination:**This staff allows use of the following heightened spells.
+**Domination:** This staff allows use of the following heightened spells.
 
 •Dominate monster(1 charge, DC 33)
 
@@ -1184,7 +1184,7 @@ Caster Level:27th;Prerequisites:Craft Staff, Craft Epic Staff, Intensify Spell,c
 
 Caster Level:21st;Prerequisites:Craft Staff, Craft Epic Staff, Heighten Spell,demand, dominate monster, geas, mass charm monster; Market Price:464,400 gp.
 
-**Fiery Power:**This +5 flaming quarterstaffgrants its wielder fire resistance 30 whenever held. In addition, it has the following powers.
+**Fiery Power:** This +5 flaming quarterstaffgrants its wielder fire resistance 30 whenever held. In addition, it has the following powers.
 
 •Wall of fire(extended, 1 charge, DC 18)
 
@@ -1196,7 +1196,7 @@ Caster Level:21st;Prerequisites:Craft Staff, Craft Epic Staff, Heighten Spell,de
 
 Caster Level:25th;Prerequisites:Craft Staff, Craft Epic Staff, Extend Spell, Heighten Spell, Improved Heighten Spell, Intensify Spell, Spell Focus (Evocation),continual flame, delayed blast fireball, meteor swarm, protection from energy, summon monster IX, wall of fire; Market Price:500,000 gp.
 
-**The Hierophants:**This staff allows use of the following spells.
+**The Hierophants:** This staff allows use of the following spells.
 
 •Creeping doom(enlarged, extended, 1 charge, DC 23)
 
@@ -1208,7 +1208,7 @@ Caster Level:25th;Prerequisites:Craft Staff, Craft Epic Staff, Extend Spell, Hei
 
 Caster Level:27th;Prerequisites:Craft Staff, Craft Epic Staff, Enlarge Spell, Extend Spell, Intensify Spell,creeping doom, command plants, elemental swarm, shambler; Market Price:501,187 gp.
 
-**Mighty Force:**This staff has three powers.
+**Mighty Force:** This staff has three powers.
 
 •Shield(quickened, 1 charge, may be activated once per round)
 
@@ -1218,7 +1218,7 @@ Caster Level:27th;Prerequisites:Craft Staff, Craft Epic Staff, Enlarge Spell, Ex
 
 Caster Level:21st;Prerequisites:Craft Staff, Craft Epic Staff, Quicken Spell,crushing hand, forcecage, shield; Market Price:265,000 gp.
 
-**Nature’s Fury:**This +5 aberration bane quarterstaffallows use of the following spells.
+**Nature’s Fury:** This +5 aberration bane quarterstaffallows use of the following spells.
 
 •Earthquake(1 charge)
 
@@ -1230,7 +1230,7 @@ After all charges are used up from astaff of nature’s fury,it remains a +5 qua
 
 Caster Level:21st;Prerequisites:Craft Staff, Craft Epic Staff, Heighten Spell, Improved Heighten Spell,earthquake, fire storm, summon monster I(orsummon nature’s allyI),whirlwind; Market Price:500,000 gp.
 
-**Necromancy:**This staff allows use of the following spells.
+**Necromancy:** This staff allows use of the following spells.
 
 •Circle of death(intensified, 2 charges, DC 29)
 
@@ -1242,7 +1242,7 @@ Caster Level:21st;Prerequisites:Craft Staff, Craft Epic Staff, Heighten Spell, I
 
 Caster Level:27th;Prerequisites:Craft Staff, Craft Epic Staff, Intensify Spell, Heighten Spell, Improved Heighten Spell,circle of death, create greater undead, finger of death, soul bind; Market Price:1,505,312 gp;Cost to Create:1,290,156 gp + 14,303 XP.
 
-**Planar Might:**The wielder of this powerful staff is immune to the effects of any planar alignment traits, as well as the positive-dominant and negative-dominant traits or a plane. It also allows use of the following spells.
+**Planar Might:** The wielder of this powerful staff is immune to the effects of any planar alignment traits, as well as the positive-dominant and negative-dominant traits or a plane. It also allows use of the following spells.
 
 •Greater planar ally(1 charge)
 
@@ -1256,7 +1256,7 @@ In addition to its other powers, astaff of planar mightis a +5 outsider bane qua
 
 Caster Level:21st;Prerequisites:Craft Staff, Craft Epic Staff,gate, greater planar ally, greater planar binding, protection from energy; Market Price:460,000 gp.
 
-**Prism:**This staff allows use of the following spells.
+**Prism:** This staff allows use of the following spells.
 
 •Prismatic sphere(extended, 1 charge, DC 25)
 
@@ -1266,7 +1266,7 @@ Caster Level:21st;Prerequisites:Craft Staff, Craft Epic Staff,gate, greater plan
 
 Caster Level:21st;Prerequisites:Craft Staff, Craft Epic Staff, Extend Spell,prismatic sphere, prismatic spray, prismatic wall; Market Price:326,812 gp.
 
-**Rapid Barrage:**Either of the staff’s two powers can be activated as a free action (though the staff may only be activated once per round).
+**Rapid Barrage:** Either of the staff’s two powers can be activated as a free action (though the staff may only be activated once per round).
 
 •Magic missile(intensified, quickened, 1 charge, 5 missiles dealing 10 points of damage each)
 
@@ -1274,7 +1274,7 @@ Caster Level:21st;Prerequisites:Craft Staff, Craft Epic Staff, Extend Spell,pris
 
 Caster Level:25th;Prerequisites:Craft Staff, Craft Epic Staff, Enhance Spell, Heighten Spell, Intensify Spell, Quicken Spell,fireball, magic missile; Market Price:417,750 gp.
 
-**Spheres:**This staff allows use of the following spells.
+**Spheres:** This staff allows use of the following spells.
 
 •Freezing sphere(1 charge, DC 19)
 
@@ -1284,7 +1284,7 @@ Caster Level:25th;Prerequisites:Craft Staff, Craft Epic Staff, Enhance Spell, He
 
 Caster Level:21st;Prerequisites:Craft Staff, Craft Epic Staff,freezing sphere, resilient sphere, telekinetic sphere; Market Price:228,375 gp.
 
-**Walls:**This staff allows use of the following spells.
+**Walls:** This staff allows use of the following spells.
 
 •Wall of iron(1 charge)
 
@@ -1294,7 +1294,7 @@ Caster Level:21st;Prerequisites:Craft Staff, Craft Epic Staff,freezing sphere, r
 
 Caster Level:30th;Prerequisites:Craft Staff, Craft Epic Staff, Extend Spell, extendedwall of force, wall of iron, wall of stone; Market Price:275,625 gp.
 
-**Winter:**This staff allows the use of the following spells.
+**Winter:** This staff allows the use of the following spells.
 
 •Cone of cold(intensified, 2 charges, DC 28)
 
@@ -1318,7 +1318,7 @@ Anyone can use a wondrous item unless specified otherwise in the item’s descri
 
 
 
-**Table: Epic Wondrous Items**
+**Table: Epic Wondrous Items** 
 
 
 
@@ -1582,67 +1582,67 @@ Standard epic wondrous items are described below.
 
 
 
-**Amulet of Epic Natural Armor:**This amulet toughens the wearer’s body and flesh, giving him or her an enhancement bonus to his or her natural armor of +6 or higher, depending on the type of amulet.
+**Amulet of Epic Natural Armor:** This amulet toughens the wearer’s body and flesh, giving him or her an enhancement bonus to his or her natural armor of +6 or higher, depending on the type of amulet.
 
 Caster Level:20th;Prerequisites:Craft Wondrous Item, Craft Epic Wondrous Item,barkskin,creator’s caster level must be three times the amulet’s bonus;Market Price:720,000 gp (+6), 980,000 gp (+7), 1,280,000 gp (+8), 1,620,000 gp (+9), 2,000,000 gp (+10);Weight:—.
 
-**Belt of Epic Strength:**This belt adds an enhancement bonus of +8 or higher to the wearer’s Strength score.
+**Belt of Epic Strength:** This belt adds an enhancement bonus of +8 or higher to the wearer’s Strength score.
 
 Caster Level:20th;Prerequisites:Craft Wondrous Item, Craft Epic Wondrous Item,bull’s strength; Market Price:640,000 gp (+8), 1,000,000 gp (+10), 1,440,000 gp (+12);Weight:1 lb.
 
-**Boots of Swiftness:**These shoes grant their wearer a +6 enhancement bonus to Dexterity. The wearer’s speed doubles (this does not stack with any magical or supernatural enhancement to speed), he or she gains the evasion ability (as the rogue class feature), and the wearer’s jumping distance is not limited by his or her height. The wearer gains a +20 competence bonus on Balance, Climb, Jump, and Tumble checks. Three times per day, the wearer can utter a command word to activate the boots’hastepower (as thehastespell, lasts 20 rounds).
+**Boots of Swiftness:** These shoes grant their wearer a +6 enhancement bonus to Dexterity. The wearer’s speed doubles (this does not stack with any magical or supernatural enhancement to speed), he or she gains the evasion ability (as the rogue class feature), and the wearer’s jumping distance is not limited by his or her height. The wearer gains a +20 competence bonus on Balance, Climb, Jump, and Tumble checks. Three times per day, the wearer can utter a command word to activate the boots’hastepower (as thehastespell, lasts 20 rounds).
 
 Caster Level:20th;Prerequisites:Craft Wondrous Item, Craft Epic Wondrous Item,cat’s grace, expeditious retreat, haste, jump; Market Price:256,000 gp;Weight:1 lb.
 
-**Bracers of Epic Armor:**These items surround the wearer with an invisible but tangible field of force, granting him or her an armor bonus of +11 or higher, just as though he or she were wearing armor. Both bracers must be worn for the magic to be effective.
+**Bracers of Epic Armor:** These items surround the wearer with an invisible but tangible field of force, granting him or her an armor bonus of +11 or higher, just as though he or she were wearing armor. Both bracers must be worn for the magic to be effective.
 
 Caster Level:20th;Prerequisites:Craft Wondrous Item, Craft Epic Wondrous Item,mage armor,creator’s caster level must be twice the bracers’ bonus;Market Price:1,210,000 (+11), 1,440,000 (+12), 1,690,000 gp (+13), 1,960,000 (+14), 2,250,000 gp (+15);Weight:1 lb.
 
-**Bracers of Epic Health:**These grant the wearer an enhancement bonus of +8 or higher to Constitution.
+**Bracers of Epic Health:** These grant the wearer an enhancement bonus of +8 or higher to Constitution.
 
 Caster Level:20th;Prerequisites:Craft Wondrous Item, Craft Epic Wondrous Item,endurance; Market Price:640,000 gp (+8), 1,000,000 gp (+10), 1,440,000 gp (+12);Weight:1 lb.
 
-**Bracers of Relentless Might:**These bracers grant a +12 enhancement bonus to the wearer’s Strength and Constitution. The wearer is treated as two size categories larger than normal (to a maximum of Colossal) for purposes of combat-related opposed checks that apply a modifier based on size, such as bull rush, grapple, and trip.
+**Bracers of Relentless Might:** These bracers grant a +12 enhancement bonus to the wearer’s Strength and Constitution. The wearer is treated as two size categories larger than normal (to a maximum of Colossal) for purposes of combat-related opposed checks that apply a modifier based on size, such as bull rush, grapple, and trip.
 
 Caster Level:20th;Prerequisites:Craft Wondrous Item, Craft Epic Wondrous Item,bull’s strength, endurance, enlarge; Market Price:4,384,000 gp;Weight:1 lb.
 
-**Cabinet of Feasting:**This cabinet has the ability to produce a feast for up to forty people, three times per day. Merely opening the doors of the cabinet reveals platters of food of all types and flavors of the very freshest sort. The meal has all the qualities and benefits of that produced by aheroes’ feastspell.
+**Cabinet of Feasting:** This cabinet has the ability to produce a feast for up to forty people, three times per day. Merely opening the doors of the cabinet reveals platters of food of all types and flavors of the very freshest sort. The meal has all the qualities and benefits of that produced by aheroes’ feastspell.
 
 Caster Level:40th;Prerequisites:Craft Wondrous Item, Craft Epic Wondrous Item,heroes’ feast; Market Price:288,000 gp;Weight:20 lb.
 
-**Cloak of Epic Charisma:**When worn, this cloak grants a +8 or higher enhancement bonus to a character’s Charisma score.
+**Cloak of Epic Charisma:** When worn, this cloak grants a +8 or higher enhancement bonus to a character’s Charisma score.
 
 Caster Level:20th;Prerequisites:Craft Wondrous Item, Craft Epic Wondrous Item,charm monster; Market Price:640,000 gp (+8), 1,000,000 gp (+10), 1,440,000 gp (+12);Weight:1 lb.
 
-**Cloak of Epic Resistance:**These garments offer magic protection in the form of a +6 or higher resistance bonus on all saving throws (Fortitude, Reflex, and Will).
+**Cloak of Epic Resistance:** These garments offer magic protection in the form of a +6 or higher resistance bonus on all saving throws (Fortitude, Reflex, and Will).
 
 Caster Level:20th;Prerequisites:Craft Wondrous Item, Craft Epic Wondrous Item,resistance,creator’s caster level must be three times the cloak’s bonus;Market Price:360,000 (+6), 490,000 (+7), 640,000 gp (+8), 810,000 (+9), 1,000,000 gp (+10);Weight:1 lb.
 
-**Gate Key:**When properly operated, the gate key can be used to attune any bounded space, such as a doorway or a cave opening, to another bounded space on another plane of existence previously visited by the wielder. When two bounded spaces are attuned, an interdimensional portal springs up at each location, and the two portals are connected. When the wielder creates a pair of portals, he or she also establishes the necessary key that travelers must have to access the portal. Possible keys include nothing, a pearl, a particular hair color, or even thegate keyitself. Up to sixty different pairs of portals can be attuned in this manner. Once all sixty pairs of portals are created, the key cannot create additional gates, though it may still be the necessary key to access some or all of the portals. To any creature without the proper key, the interdimensional portals are not visible (throughtrue seeingor similar magic reveals their presence).
+**Gate Key:** When properly operated, the gate key can be used to attune any bounded space, such as a doorway or a cave opening, to another bounded space on another plane of existence previously visited by the wielder. When two bounded spaces are attuned, an interdimensional portal springs up at each location, and the two portals are connected. When the wielder creates a pair of portals, he or she also establishes the necessary key that travelers must have to access the portal. Possible keys include nothing, a pearl, a particular hair color, or even thegate keyitself. Up to sixty different pairs of portals can be attuned in this manner. Once all sixty pairs of portals are created, the key cannot create additional gates, though it may still be the necessary key to access some or all of the portals. To any creature without the proper key, the interdimensional portals are not visible (throughtrue seeingor similar magic reveals their presence).
 
 Caster Level:21st;Prerequisites:Craft Wondrous Item, Craft Epic Wondrous Item,gate; Market Price:378,000 gp;Weight:1 lb.
 
-**Gloves of Epic Dexterity:**These gloves add an enhancement bonus of +8 or higher to the wearer’s Dexterity score.
+**Gloves of Epic Dexterity:** These gloves add an enhancement bonus of +8 or higher to the wearer’s Dexterity score.
 
 Caster Level:20th;Prerequisites:Craft Wondrous Item, Craft Epic Wondrous Item,cat’s grace; Market Price:640,000 gp (+8), 1,000,000 gp (+10), 1,440,000 gp (+12);Weight:—.
 
-**Headband of Epic Intellect:**This headband adds an enhancement bonus of +8 or higher to the wearer’s Intelligence score.
+**Headband of Epic Intellect:** This headband adds an enhancement bonus of +8 or higher to the wearer’s Intelligence score.
 
 Caster Level:20th;Prerequisites:Craft Wondrous Item, Craft Epic Wondrous Item,communeorlegend lore; Market Price:640,000 gp (+8), 1,000,000 gp (+10), 1,440,000 gp (+12);Weight:—.
 
-**Horseshoes of the Peerless Steed:**These horseshoes magically adhere to the feet of any hoofed creature. Anyone riding the creature gains a +10 competence bonus on Ride checks and is treated as having ranks in the appropriate Ride skill (and thus does not take the –5 penalty for riding an unfamiliar mount). The horseshoes grant the creature (or its rider, as appropriate) the effects of the Trample, Ride-By Attack, and Spirited Charge feats. The wearer of the horseshoes gains spell resistance 32 against enchantment effects. In addition, the ground speed of the creature wearing the horseshoes doubles.
+**Horseshoes of the Peerless Steed:** These horseshoes magically adhere to the feet of any hoofed creature. Anyone riding the creature gains a +10 competence bonus on Ride checks and is treated as having ranks in the appropriate Ride skill (and thus does not take the –5 penalty for riding an unfamiliar mount). The horseshoes grant the creature (or its rider, as appropriate) the effects of the Trample, Ride-By Attack, and Spirited Charge feats. The wearer of the horseshoes gains spell resistance 32 against enchantment effects. In addition, the ground speed of the creature wearing the horseshoes doubles.
 
 Caster Level:20th;Prerequisites:Craft Wondrous Item, Craft Epic Wondrous Item, Ride skill,haste, spell resistance; Market Price:217,000 gp;Weight:1 lb. each.
 
-**Mantle of Epic Spell Resistance:**This garment is worn over normal clothing or armor. It grants the wearer spell resistance 40.
+**Mantle of Epic Spell Resistance:** This garment is worn over normal clothing or armor. It grants the wearer spell resistance 40.
 
 Caster Level:29th;Prerequisites:Craft Wondrous Item, Craft Epic Wondrous Item,spell resistance; Market Price:290,000 gp.Weight:1 lb.
 
-**Mantle of Great Stealth:**The wearer of this cloak gains a +30 bonus on Hide and Move Silently checks. The wearer’s outline is blurry and indistinct, granting concealment (20% miss chance) at all times (as theblurspell). The mantle also grants nondetection to its wearer (as the spell).
+**Mantle of Great Stealth:** The wearer of this cloak gains a +30 bonus on Hide and Move Silently checks. The wearer’s outline is blurry and indistinct, granting concealment (20% miss chance) at all times (as theblurspell). The mantle also grants nondetection to its wearer (as the spell).
 
 Caster Level:20th;Prerequisites:Craft Wondrous Item, Craft Epic Wondrous Item,blur, invisibility, nondetection, silence; Market Price:242,000 gp;Weight:1 lb.
 
-**Periapt of Epic Wisdom:**This large pearl set on a chain grants an enhancement bonus of +8 or higher to the wearer’s Wisdom score.
+**Periapt of Epic Wisdom:** This large pearl set on a chain grants an enhancement bonus of +8 or higher to the wearer’s Wisdom score.
 
 Caster Level:20th;Prerequisites:Craft Wondrous Item, Craft Epic Wondrous Item,communeorlegend lore; Market Price:640,000 gp (+8), 1,000,000 gp (+10), 1,440,000 gp (+12);Weight:—.
 
@@ -1658,7 +1658,7 @@ Just like nonepic magic items, epic magic items sometimes possess intelligence o
 
 
 
-**Table: Mental Ability Scores for Intelligent Items**
+**Table: Mental Ability Scores for Intelligent Items** 
 
 
 
@@ -1714,7 +1714,7 @@ The first step in determining the properties of a random intelligent epic magic 
 
 
 
-**Table: Epic Item Intelligence, Wisdom, Charisma, and Capabilities**
+**Table: Epic Item Intelligence, Wisdom, Charisma, and Capabilities** 
 
 
 
@@ -1792,7 +1792,7 @@ Any item with Intelligence has an alignment. Make sure that the alignment choose
 
 
 
-**Table: Item Alignment**
+**Table: Item Alignment** 
 
 
 
@@ -1852,7 +1852,7 @@ Like a character, an intelligent item speaks Common plus one language per point 
 
 
 
-**Table: Epic Item Communication**
+**Table: Epic Item Communication** 
 
 
 
@@ -1914,7 +1914,7 @@ Using the number of capabilities determined above, find the item’s specific ab
 
 
 
-**Table: Intelligent Item Primary Abilities**
+**Table: Intelligent Item Primary Abilities** 
 
 
 
@@ -2030,7 +2030,7 @@ If the same ability is rolled twice or more, the range, frequency, or effectiven
 
 
 
-**Table: Intelligent Item Extraordinary Powers**
+**Table: Intelligent Item Extraordinary Powers** 
 
 
 
@@ -2216,7 +2216,7 @@ If the same power is rolled twice, the uses per day are doubled. (Iftrue seeingo
 
 
 
-**Table: Intelligent Item Awesome Powers**
+**Table: Intelligent Item Awesome Powers** 
 
 
 
@@ -2370,7 +2370,7 @@ An item’s purpose must suit the type and alignment of the item and should alwa
 
 
 
-**Table: Intelligent Item Purpose**
+**Table: Intelligent Item Purpose** 
 
 
 
@@ -2438,7 +2438,7 @@ A special purpose power operates only when the item is in pursuit of its special
 
 
 
-**Table: Intelligent Item Special Purpose Powers**
+**Table: Intelligent Item Special Purpose Powers** 
 
 
 
@@ -2492,7 +2492,7 @@ A special purpose power operates only when the item is in pursuit of its special
 
 Ego is a measure of the total power and force of personality that an item possesses. Only after all aspects of an item have been generated and recorded can its Ego score be determined. Ego is a factor with regard to the dominance of item over character, as detailed below.
 
-**Table: Item Ego**
+**Table: Item Ego** 
 
 
 
@@ -2620,31 +2620,31 @@ Minor artifacts are not necessarily unique items, but rather magic items that no
 
 
 
-**Everfull Purse:**This leather belt pouch has the power to turn a single gold coin into many overnight. If a single gold piece is placed in theeverfull purseat sunset, it will be replaced at sunrise by 25 gold pieces. Thepursehas no effect if more than one gold piece is left within, or if anything other than gold is placed within.
+**Everfull Purse:** This leather belt pouch has the power to turn a single gold coin into many overnight. If a single gold piece is placed in theeverfull purseat sunset, it will be replaced at sunrise by 25 gold pieces. Thepursehas no effect if more than one gold piece is left within, or if anything other than gold is placed within.
 
 Caster Level:20th;Weight:1/2 lb.
 
-**Libram of Gainful Conjuration:**This mystic book is of great value to arcane spellcasters of good alignment (LG, NG, CG). Study of the work requires one week. Upon completion, the good arcane caster gains a +1 inherent bonus to the ability score controlling his or her arcane spellcasting ability and experience points sufficient to place him or her halfway into the next level of experience. (If the reader has levels in more than one arcane spellcasting class, he or she must choose one of the classes to be affected.) Nongood arcane spellcasters (LN, N, CN, LE, NE, or CE) are permanently drained of 1d4+1 points of Constitution and must atone (see theatonementspell) in order to gain any further experience. Anyone incapable of casting arcane spells who reads even a single word of the work must make a Will save (DC 20) or suffer insanity (see theinsanityspell). Except as indicated above, the writing in alibram of gainful conjurationcan’t be distinguished from any other book, libram, tome, or so on until perused. Once read, the book vanishes, never to be seen again, nor can the same character ever benefit from reading a similar tome a second time.
+**Libram of Gainful Conjuration:** This mystic book is of great value to arcane spellcasters of good alignment (LG, NG, CG). Study of the work requires one week. Upon completion, the good arcane caster gains a +1 inherent bonus to the ability score controlling his or her arcane spellcasting ability and experience points sufficient to place him or her halfway into the next level of experience. (If the reader has levels in more than one arcane spellcasting class, he or she must choose one of the classes to be affected.) Nongood arcane spellcasters (LN, N, CN, LE, NE, or CE) are permanently drained of 1d4+1 points of Constitution and must atone (see theatonementspell) in order to gain any further experience. Anyone incapable of casting arcane spells who reads even a single word of the work must make a Will save (DC 20) or suffer insanity (see theinsanityspell). Except as indicated above, the writing in alibram of gainful conjurationcan’t be distinguished from any other book, libram, tome, or so on until perused. Once read, the book vanishes, never to be seen again, nor can the same character ever benefit from reading a similar tome a second time.
 
 Caster Level:19th;Weight:3 lb.
 
-**Libram of Ineffable Damnation:**This mystic book is of great value to arcane spellcasters of evil alignment (LE, NE, CE). Study of the work requires one week. Upon completion, the evil arcane caster gains a +1 inherent bonus to the ability score controlling his or her arcane spell-casting ability and experience points sufficient to place him or her halfway into the next level of experience. (If the reader has levels in more than one arcane spellcasting class, he or she must choose one of the classes to be affected.) Nonevil arcane spellcasters (LN, N, CN, LG, NG, or CG) are permanently drained of 1d4+1 points of Constitution and must atone (see theatonementspell) in order to gain any further experience. Anyone incapable of casting arcane spells who reads even a single word of the work must make a Will save (DC 20) or suffer insanity (see theinsanityspell). Except as indicated above, the writing in alibram of ineffable damnationcan’t be distinguished from any other book, libram, tome, or so on until perused. Once read, the book vanishes, never to be seen again, nor can the same character ever benefit from reading a similar tome a second time.
+**Libram of Ineffable Damnation:** This mystic book is of great value to arcane spellcasters of evil alignment (LE, NE, CE). Study of the work requires one week. Upon completion, the evil arcane caster gains a +1 inherent bonus to the ability score controlling his or her arcane spell-casting ability and experience points sufficient to place him or her halfway into the next level of experience. (If the reader has levels in more than one arcane spellcasting class, he or she must choose one of the classes to be affected.) Nonevil arcane spellcasters (LN, N, CN, LG, NG, or CG) are permanently drained of 1d4+1 points of Constitution and must atone (see theatonementspell) in order to gain any further experience. Anyone incapable of casting arcane spells who reads even a single word of the work must make a Will save (DC 20) or suffer insanity (see theinsanityspell). Except as indicated above, the writing in alibram of ineffable damnationcan’t be distinguished from any other book, libram, tome, or so on until perused. Once read, the book vanishes, never to be seen again, nor can the same character ever benefit from reading a similar tome a second time.
 
 Caster Level:19th;Weight:3 lb.
 
-**Libram of Silver Magic:**This mystic book is of great value to arcane spellcasters of neutral alignment (LN, N, CN). Study of the work requires one week. Upon completion, the neutral arcane caster gains a +1 inherent bonus to the ability score controlling his or her arcane spellcasting ability and experience points sufficient to place him or her halfway into the next level of experience. (If the reader has levels in more than one arcane spellcasting class, he or she must choose one of the classes to be affected.) Evil or good arcane spellcasters (LE, NE, CE, LG, NG, or CG) are permanently drained of 1d4+1 points of Constitution and must atone (see theatonementspell) in order to gain any further experience. Anyone incapable of casting arcane spells who reads even a single word of the work must make a Will save (DC 20) or suffer insanity (see theinsanityspell). Except as indicated above, the writing in alibram of silver magiccan’t be distinguished from any other book, libram, tome, or so on until perused. Once read, the book vanishes, never to be seen again, nor can the same character ever benefit from reading a similar tome a second time.
+**Libram of Silver Magic:** This mystic book is of great value to arcane spellcasters of neutral alignment (LN, N, CN). Study of the work requires one week. Upon completion, the neutral arcane caster gains a +1 inherent bonus to the ability score controlling his or her arcane spellcasting ability and experience points sufficient to place him or her halfway into the next level of experience. (If the reader has levels in more than one arcane spellcasting class, he or she must choose one of the classes to be affected.) Evil or good arcane spellcasters (LE, NE, CE, LG, NG, or CG) are permanently drained of 1d4+1 points of Constitution and must atone (see theatonementspell) in order to gain any further experience. Anyone incapable of casting arcane spells who reads even a single word of the work must make a Will save (DC 20) or suffer insanity (see theinsanityspell). Except as indicated above, the writing in alibram of silver magiccan’t be distinguished from any other book, libram, tome, or so on until perused. Once read, the book vanishes, never to be seen again, nor can the same character ever benefit from reading a similar tome a second time.
 
 Caster Level:19th;Weight:3 lb.
 
-**Manual of Puissant Skill at Arms:**This treatise contains expert advice and instruction in the arts of combat. Any barbarian, fighter, monk, paladin, or ranger who spends one week studying the manual gains a +1 inherent bonus to Strength and experience points sufficient to place him or her halfway into the next level of experience. (If the reader has levels in more than one of the classes listed, he or she must choose one of the classes to be affected.) A character without any levels in one of the classes listed gains no bonus from the work, but if an arcane spellcaster without levels in one of the classes listed scans even a single word he or she will lose 2dx1,000 XP and must make a Will save (DC 20) or have 1 point of Intelligence permanently drained. Except as indicated above, the writing in amanual of puissant skill at armscan’t be distinguished from any other book, libram, tome, or so on until perused. Once read, the book vanishes, never to be seen again, nor can the same character ever benefit from reading a similar tome a second time.
+**Manual of Puissant Skill at Arms:** This treatise contains expert advice and instruction in the arts of combat. Any barbarian, fighter, monk, paladin, or ranger who spends one week studying the manual gains a +1 inherent bonus to Strength and experience points sufficient to place him or her halfway into the next level of experience. (If the reader has levels in more than one of the classes listed, he or she must choose one of the classes to be affected.) A character without any levels in one of the classes listed gains no bonus from the work, but if an arcane spellcaster without levels in one of the classes listed scans even a single word he or she will lose 2dx1,000 XP and must make a Will save (DC 20) or have 1 point of Intelligence permanently drained. Except as indicated above, the writing in amanual of puissant skill at armscan’t be distinguished from any other book, libram, tome, or so on until perused. Once read, the book vanishes, never to be seen again, nor can the same character ever benefit from reading a similar tome a second time.
 
 Caster Level:19th;Weight:3 lb.
 
-**Manual of Stealthy Pilfering:**This guide to thievery grants any rogue who spends a week studying its lessons a +1 inherent bonus to Dexterity and experience points sufficient to place him or her halfway into the next level of experience. A character without any rogue levels gains no bonus from the work, but if a divine spellcaster without rogue levels scans even a single word she will lose 2dx1,000 XP and must make a Will save (DC 20) or have 1 point of Wisdom permanently drained. Except as indicated above, the writing in amanual of stealthy pilferingcan’t be distinguished from any other book, libram, tome, or so on until perused. Once read, the book vanishes, never to be seen again, nor can the same character ever benefit from reading a similar tome a second time.
+**Manual of Stealthy Pilfering:** This guide to thievery grants any rogue who spends a week studying its lessons a +1 inherent bonus to Dexterity and experience points sufficient to place him or her halfway into the next level of experience. A character without any rogue levels gains no bonus from the work, but if a divine spellcaster without rogue levels scans even a single word she will lose 2dx1,000 XP and must make a Will save (DC 20) or have 1 point of Wisdom permanently drained. Except as indicated above, the writing in amanual of stealthy pilferingcan’t be distinguished from any other book, libram, tome, or so on until perused. Once read, the book vanishes, never to be seen again, nor can the same character ever benefit from reading a similar tome a second time.
 
 Caster Level:19th;Weight:3 lb.
 
-**Rogue’s Dice:**This pair of cubes appears much like any other pair of typical (6-sided) dice. A character with a pair ofrogue’s dicewho wishes to roll them must announce that he or she is rolling the dice (accidental rolls have no effect). Rolling the dice is a standard action, and both dice must be rolled simultaneously to have any effect. The player should roll 2d6 and consult the table below to determine thedice’saffects.
+**Rogue’s Dice:** This pair of cubes appears much like any other pair of typical (6-sided) dice. A character with a pair ofrogue’s dicewho wishes to roll them must announce that he or she is rolling the dice (accidental rolls have no effect). Rolling the dice is a standard action, and both dice must be rolled simultaneously to have any effect. The player should roll 2d6 and consult the table below to determine thedice’saffects.
 
 
 
@@ -2712,9 +2712,9 @@ Caster Level:20th;Weight:—.
 
 
 
-**Axe of the Dwarvish Lords:**This is a +6 keen throwing goblinoid bane dwarven waraxe. Any dwarf who holds it doubles the range of his or her darkvision. Any nondwarf who grasps theAxetakes 2 points of temporary Charisma damage; these points cannot be healed or restored in any way while theAxeis held. The current owner of theAxegains a +10 bonus on Craft (armorsmithing, blacksmithing, gemcutting, stonemasonry, and weaponsmithing) checks. The wielder of theAxecan summon an elder earth elemental (assummon monster IX;duration 20 rounds) once per week.
+**Axe of the Dwarvish Lords:** This is a +6 keen throwing goblinoid bane dwarven waraxe. Any dwarf who holds it doubles the range of his or her darkvision. Any nondwarf who grasps theAxetakes 2 points of temporary Charisma damage; these points cannot be healed or restored in any way while theAxeis held. The current owner of theAxegains a +10 bonus on Craft (armorsmithing, blacksmithing, gemcutting, stonemasonry, and weaponsmithing) checks. The wielder of theAxecan summon an elder earth elemental (assummon monster IX;duration 20 rounds) once per week.
 
-**Codex of the Infinite Planes:**TheCodexis enormous—supposedly, it requires two strong men to lift it. No matter how many pages are turned, another always remains. Anyone opening theCodexfor the first time is utterly annihilated, as with adestructionspell (Fortitude DC 30 for only 10d6 damage). Those who survive can peruse its pages and learn its powers, though not without risk. Each day spent studying theCodexallows the reader to make a Spellcraft check (DC 50) to learn one of its powers (choose the power learned randomly; add a +1 circumstance bonus on the check per additional day spent reading until a power is learned). However, each day of study also forces the reader to make a Will save (DC 30 + 1 per day of study) to avoid being driven insane (as theinsanityspell). The powers of theCodex of the Infinite Planesare as follows:astral projection, banishment, elemental swarm, gate, greater planar ally, greater planar binding, plane shift,andsoul bind.Each is usable at will by the owner of theCodex(assuming that he or she has learned how to access the power). TheCodex of the Infinite Planeshas a caster level of 30th for the purposes of all powers and catastrophes, and all saving throw DCs are 20 + spell level. Activating any power requires both a Concentration check and a Spellcraft check (DC 40 + twice the spell level of the power; the character can’t take 10 on this check). Any failure on either check indicates a catastrophe befalls the user (roll on the table below for the effect). A character can only incur one catastrophe per power use, even if he or she fails both checks.
+**Codex of the Infinite Planes:** TheCodexis enormous—supposedly, it requires two strong men to lift it. No matter how many pages are turned, another always remains. Anyone opening theCodexfor the first time is utterly annihilated, as with adestructionspell (Fortitude DC 30 for only 10d6 damage). Those who survive can peruse its pages and learn its powers, though not without risk. Each day spent studying theCodexallows the reader to make a Spellcraft check (DC 50) to learn one of its powers (choose the power learned randomly; add a +1 circumstance bonus on the check per additional day spent reading until a power is learned). However, each day of study also forces the reader to make a Will save (DC 30 + 1 per day of study) to avoid being driven insane (as theinsanityspell). The powers of theCodex of the Infinite Planesare as follows:astral projection, banishment, elemental swarm, gate, greater planar ally, greater planar binding, plane shift,andsoul bind.Each is usable at will by the owner of theCodex(assuming that he or she has learned how to access the power). TheCodex of the Infinite Planeshas a caster level of 30th for the purposes of all powers and catastrophes, and all saving throw DCs are 20 + spell level. Activating any power requires both a Concentration check and a Spellcraft check (DC 40 + twice the spell level of the power; the character can’t take 10 on this check). Any failure on either check indicates a catastrophe befalls the user (roll on the table below for the effect). A character can only incur one catastrophe per power use, even if he or she fails both checks.
 
 
 
@@ -2740,17 +2740,17 @@ Caster Level:20th;Weight:—.
 
 ![78 EpicMagicItems2-Table36.png](78 EpicMagicItems2-Table36.png)
 
-**Cup and Talisman of the Demigod:**TheCupis a large gem-set golden chalice requiring two hands to lift. It emits light (as thedaylightspell) at all times and automatically dispels any darkness-based spells whose area it enters. If the cup is filled with holy water (requiring a full gallon), that substance will act as apotion of cure critical woundsor apotion of neutralize poison(owner’s choice) if drunk. This liquid can’t be saved or stored in any way. TheTalismanis a small eight-pointed platinum star hanging from a chain of gold and pearls. The wearer gains a +6 enhancement bonus to Charisma and may castremove blindness/deafness, remove curse,andremove diseaseat will. Furthermore, if theTalismanis placed within theCupand theCupfilled with holy water, that liquid acts as a special elixir ofresurrection(as the spell). This effect will function only once per month. Any evil or chaotic creature that touches theCuporTalismanis struck with aholy word(if evil) ordictum(if chaotic) spell (or both if the creature is chaotic evil).
+**Cup and Talisman of the Demigod:** TheCupis a large gem-set golden chalice requiring two hands to lift. It emits light (as thedaylightspell) at all times and automatically dispels any darkness-based spells whose area it enters. If the cup is filled with holy water (requiring a full gallon), that substance will act as apotion of cure critical woundsor apotion of neutralize poison(owner’s choice) if drunk. This liquid can’t be saved or stored in any way. TheTalismanis a small eight-pointed platinum star hanging from a chain of gold and pearls. The wearer gains a +6 enhancement bonus to Charisma and may castremove blindness/deafness, remove curse,andremove diseaseat will. Furthermore, if theTalismanis placed within theCupand theCupfilled with holy water, that liquid acts as a special elixir ofresurrection(as the spell). This effect will function only once per month. Any evil or chaotic creature that touches theCuporTalismanis struck with aholy word(if evil) ordictum(if chaotic) spell (or both if the creature is chaotic evil).
 
-**Eye of the Orc:**This lump of rock has a marquis-cut black sapphire set in its center, making it appear similar to a large eye. If possessed by an orc, it grants a +6 enhancement bonus to Strength and Charisma, and the orc’s darkvision range is doubled. Nonorcs who possess theEyegain a +2 enhancement bonus to Strength but take a –2 penalty to Intelligence and Charisma. Regardless of the owner’s race, any weapon wielded by the owner of theEyeis considered anelf bane weapon. Furthermore, by holding theEyebefore the character, he or she can perceive things as if he or she hadtrue seeingcast upon him or her. This can be activated only once per day but lasts as long as the character concentrates on it (requiring a standard action each round).
+**Eye of the Orc:** This lump of rock has a marquis-cut black sapphire set in its center, making it appear similar to a large eye. If possessed by an orc, it grants a +6 enhancement bonus to Strength and Charisma, and the orc’s darkvision range is doubled. Nonorcs who possess theEyegain a +2 enhancement bonus to Strength but take a –2 penalty to Intelligence and Charisma. Regardless of the owner’s race, any weapon wielded by the owner of theEyeis considered anelf bane weapon. Furthermore, by holding theEyebefore the character, he or she can perceive things as if he or she hadtrue seeingcast upon him or her. This can be activated only once per day but lasts as long as the character concentrates on it (requiring a standard action each round).
 
-**Golem Armor:**This enormous suit of black iron +10 full plate armorincreases the wearer’s size by one category (to a maximum of Colossal). The wearer gains a +10 enhancement bonus to Strength and is rendered immune to mind-affecting effects, poison, disease, and similar effects. He or she is not subject to critical hits, subdual damage, ability damage, energy drain, or death from massive damage.Golem Armoris immune to rust attacks. The wearer ofGolem Armorgains damage reduction 15/adamantine. He or she also cannot regain hit points by any means (mundane or magical) while the armor is worn. It requires 1 hour to don or extract oneself fromGolem Armor.
+**Golem Armor:** This enormous suit of black iron +10 full plate armorincreases the wearer’s size by one category (to a maximum of Colossal). The wearer gains a +10 enhancement bonus to Strength and is rendered immune to mind-affecting effects, poison, disease, and similar effects. He or she is not subject to critical hits, subdual damage, ability damage, energy drain, or death from massive damage.Golem Armoris immune to rust attacks. The wearer ofGolem Armorgains damage reduction 15/adamantine. He or she also cannot regain hit points by any means (mundane or magical) while the armor is worn. It requires 1 hour to don or extract oneself fromGolem Armor.
 
-**Invulnerable Coat:**TheInvulnerable Coat+5 chain shirt of heavy fortification. It grants its wearer damage reduction 10/epic and resistance 20 against acid, cold, electricity, fire, and sonic energy. If the wearer can turn undead, treat the wearer as having +4 class levels for purposes of caster level, turning undead, smiting evil, and laying on hands.
+**Invulnerable Coat:** TheInvulnerable Coat+5 chain shirt of heavy fortification. It grants its wearer damage reduction 10/epic and resistance 20 against acid, cold, electricity, fire, and sonic energy. If the wearer can turn undead, treat the wearer as having +4 class levels for purposes of caster level, turning undead, smiting evil, and laying on hands.
 
-**Iron Gauntlet of War:**TheGauntletgrants a +8 enhancement bonus to Strength. The wearer doubles the damage bonus on any smite attacks he or she makes. If the wearer has the Leadership feat, the wearer’s Leadership score increases by +4, but the wearer can never attract or keep followers or cohorts who are good or chaotic. Once per day, the wielder can useimplosionas a 20th-level caster (DC 23). TheIron Gauntlet of Waris intelligent (Int 13, Wis 18, Cha 24, Ego 26) and lawful evil. It can communicate telepathically with its wearer, though it cannot speak. It will always seek to dominate any wearer who isn’t lawful evil, forcing such an owner to commit lawful evil deeds (or else find a more suitable wearer).
+**Iron Gauntlet of War:** TheGauntletgrants a +8 enhancement bonus to Strength. The wearer doubles the damage bonus on any smite attacks he or she makes. If the wearer has the Leadership feat, the wearer’s Leadership score increases by +4, but the wearer can never attract or keep followers or cohorts who are good or chaotic. Once per day, the wielder can useimplosionas a 20th-level caster (DC 23). TheIron Gauntlet of Waris intelligent (Int 13, Wis 18, Cha 24, Ego 26) and lawful evil. It can communicate telepathically with its wearer, though it cannot speak. It will always seek to dominate any wearer who isn’t lawful evil, forcing such an owner to commit lawful evil deeds (or else find a more suitable wearer).
 
-**Ring of Nine Facets:**This ring is set with a gem of nine facets, each one in-scribed with a different incomprehensible rune. Each day at sunrise, the gem turns to display a different facet. The active facet determines theRing’s power for that day. Each day, roll 1d10 to determine which facet (and thus which power) is active.
+**Ring of Nine Facets:** This ring is set with a gem of nine facets, each one in-scribed with a different incomprehensible rune. Each day at sunrise, the gem turns to display a different facet. The active facet determines theRing’s power for that day. Each day, roll 1d10 to determine which facet (and thus which power) is active.
 
 
 

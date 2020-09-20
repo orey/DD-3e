@@ -10,27 +10,27 @@
 
 ##### ARTIFICE DOMAIN
 
-**Granted Power:**Gain +4 bonus on Craft checks. The character casts conjuration (creation) spells at +1 caster level. (Those with access to both the Artifice and Creation domains cast conjuration [creation] spells at +3 caster level.)
+**Granted Power:** Gain +4 bonus on Craft checks. The character casts conjuration (creation) spells at +1 caster level. (Those with access to both the Artifice and Creation domains cast conjuration [creation] spells at +3 caster level.)
 
-**Artifice Domain Spells**
+**Artifice Domain Spells** 
 
 ###### 1 Animate rope
 
-**2 Wood shape**
+**2 Wood shape** 
 
-**3 Stone shape**
+**3 Stone shape** 
 
-**4 Minor creation**
+**4 Minor creation** 
 
-**5 Fabricate**
+**5 Fabricate** 
 
-**6 Major creation**
+**6 Major creation** 
 
-**7 Hardening**
+**7 Hardening** 
 
-**8 True creation**
+**8 True creation** 
 
-**9 Prismatic sphere**
+**9 Prismatic sphere** 
 
 
 
@@ -38,27 +38,27 @@
 
 ##### CHARM DOMAIN
 
-**Granted Power:**The character can boost his or her Charisma by 4 points once per day. Activating this power is a free action. The Charisma increase lasts 1 minute.
+**Granted Power:** The character can boost his or her Charisma by 4 points once per day. Activating this power is a free action. The Charisma increase lasts 1 minute.
 
-**Charm Domain Spells**
+**Charm Domain Spells** 
 
-**1 Charm person**
+**1 Charm person** 
 
-**2 Calm emotions**
+**2 Calm emotions** 
 
-**3 Suggestion**
+**3 Suggestion** 
 
-**4 Emotion**
+**4 Emotion** 
 
-**5 Charm monster**
+**5 Charm monster** 
 
-**6 Geas/quest**
+**6 Geas/quest** 
 
-**7 Insanity**
+**7 Insanity** 
 
-**8 Demand**
+**8 Demand** 
 
-**9 Dominate monster**
+**9 Dominate monster** 
 
 
 
@@ -66,27 +66,27 @@
 
 ##### COMMUNITY DOMAIN
 
-**Granted Power:**Usecalm emotionsas a spell-like ability once per day. Gain a +2 competence bonus on Diplomacy checks.
+**Granted Power:** Usecalm emotionsas a spell-like ability once per day. Gain a +2 competence bonus on Diplomacy checks.
 
-**Community Domain Spells**
+**Community Domain Spells** 
 
-**1 Bless**
+**1 Bless** 
 
-**2 Shield other**
+**2 Shield other** 
 
-**3 Prayer**
+**3 Prayer** 
 
-**4 Status**
+**4 Status** 
 
-**5 Telepathic bond**
+**5 Telepathic bond** 
 
-**6 Heroes’ feast**
+**6 Heroes’ feast** 
 
-**7 Refuge**
+**7 Refuge** 
 
-**8 Mass heal**
+**8 Mass heal** 
 
-**9 Miracle**
+**9 Miracle** 
 
 
 
@@ -94,27 +94,27 @@
 
 ##### CREATION DOMAIN
 
-**Granted Power:**Cast conjuration (creation) spells at +2 caster level. (Those with access to both the Artifice and Creation domains cast conjuration (creation) spells at +3 caster level.)
+**Granted Power:** Cast conjuration (creation) spells at +2 caster level. (Those with access to both the Artifice and Creation domains cast conjuration (creation) spells at +3 caster level.)
 
-**Creation Domain Spells**
+**Creation Domain Spells** 
 
-**1 Create water**
+**1 Create water** 
 
-**2 Minor image**
+**2 Minor image** 
 
-**3 Create food and water**
+**3 Create food and water** 
 
-**4 Minor creation**
+**4 Minor creation** 
 
-**5 Major creation**
+**5 Major creation** 
 
-**6 Heroes’ feast**
+**6 Heroes’ feast** 
 
-**7 Permanent image**
+**7 Permanent image** 
 
-**8 True creation**
+**8 True creation** 
 
-**9 Genesis**
+**9 Genesis** 
 
 
 
@@ -122,27 +122,27 @@
 
 ##### DARKNESS DOMAIN
 
-**Granted Power:**Free Blind-Fight feat.
+**Granted Power:** Free Blind-Fight feat.
 
-**Darkness Domain Spells**
+**Darkness Domain Spells** 
 
-**1 Obscuring mist**
+**1 Obscuring mist** 
 
-**2 Blindness**
+**2 Blindness** 
 
-**3 Blacklight**
+**3 Blacklight** 
 
-**4 Armor of darkness**
+**4 Armor of darkness** 
 
-**5 Summon monster V (only summons 1d3 shadows)**
+**5 Summon monster V (only summons 1d3 shadows)** 
 
-**6 Prying eyes**
+**6 Prying eyes** 
 
-**7 Nightmare**
+**7 Nightmare** 
 
-**8 Power word, blind**
+**8 Power word, blind** 
 
-**9 Power word, kill**
+**9 Power word, kill** 
 
 
 
@@ -150,27 +150,27 @@
 
 ##### GLORY DOMAIN
 
-**Granted Power:**Turn undead with a +2 bonus on the turning check and +1d6 to the turning damage roll.
+**Granted Power:** Turn undead with a +2 bonus on the turning check and +1d6 to the turning damage roll.
 
-**Glory Domain Spells**
+**Glory Domain Spells** 
 
-**1 Disrupt undead**
+**1 Disrupt undead** 
 
-**2 Bless weapon**
+**2 Bless weapon** 
 
-**3 Searing light**
+**3 Searing light** 
 
-**4 Holy smite**
+**4 Holy smite** 
 
-**5 Holy sword**
+**5 Holy sword** 
 
-**6 Bolt of glory**
+**6 Bolt of glory** 
 
-**7 Sunbeam**
+**7 Sunbeam** 
 
-**8 Crown of glory**
+**8 Crown of glory** 
 
-**9 Gate**
+**9 Gate** 
 
 
 
@@ -178,27 +178,27 @@
 
 ##### LIBERATION DOMAIN
 
-**Granted Power:**The character gains a +2 morale bonus on all saving throws against enchantment spells or effects.
+**Granted Power:** The character gains a +2 morale bonus on all saving throws against enchantment spells or effects.
 
-**Liberation Domain Spells**
+**Liberation Domain Spells** 
 
-**1 Remove fear**
+**1 Remove fear** 
 
-**2 Remove paralysis**
+**2 Remove paralysis** 
 
-**3 Remove curse**
+**3 Remove curse** 
 
-**4 Freedom of movement**
+**4 Freedom of movement** 
 
-**5 Break enchantment**
+**5 Break enchantment** 
 
-**6 Greater dispelling**
+**6 Greater dispelling** 
 
-**7 Refuge**
+**7 Refuge** 
 
-**8 Mind blank**
+**8 Mind blank** 
 
-**9 Unbinding**
+**9 Unbinding** 
 
 
 
@@ -206,31 +206,31 @@
 
 ##### MADNESS DOMAIN
 
-**Granted Power:**The character gains an Insanity score equal to half his or her class level. For spellcasting (determining bonus spells and DCs), the character uses his or her Wisdom score plus his or her Insanity score in place of Wisdom alone.
+**Granted Power:** The character gains an Insanity score equal to half his or her class level. For spellcasting (determining bonus spells and DCs), the character uses his or her Wisdom score plus his or her Insanity score in place of Wisdom alone.
 
 For all other purposes, such as skills and saves, use Wisdom minus Insanity in place of Wisdom.
 
 Once per day, the character can see and act with the clarity of true madness. Use the character’s Insanity score as a positive rather than a negative modifier on a single roll involving Wisdom. Choose to use this power before the roll is made.
 
-**Madness Domain Spells**
+**Madness Domain Spells** 
 
-**1 Random action**
+**1 Random action** 
 
-**2 Touch of madness**
+**2 Touch of madness** 
 
-**3 Rage**
+**3 Rage** 
 
-**4 Confusion**
+**4 Confusion** 
 
-**5 Bolts of bedevilment**
+**5 Bolts of bedevilment** 
 
-**6 Phantasmal killer**
+**6 Phantasmal killer** 
 
-**7 Insanity**
+**7 Insanity** 
 
-**8 Maddening scream**
+**8 Maddening scream** 
 
-**9 Weird**
+**9 Weird** 
 
 
 
@@ -238,27 +238,27 @@ Once per day, the character can see and act with the clarity of true madness. Us
 
 ##### NOBILITY DOMAIN
 
-**Granted Power:**The character has the spell-like ability to inspire allies, giving them a +2 morale bonus on saving throws, attack rolls, ability checks, skill checks, and weapon damage rolls. Allies must be able to hear the character speak for 1 round. Using this ability is a standard action. It lasts a number of rounds equal to the character’s Charisma bonus and can be used once per day.
+**Granted Power:** The character has the spell-like ability to inspire allies, giving them a +2 morale bonus on saving throws, attack rolls, ability checks, skill checks, and weapon damage rolls. Allies must be able to hear the character speak for 1 round. Using this ability is a standard action. It lasts a number of rounds equal to the character’s Charisma bonus and can be used once per day.
 
-**Nobility Domain Spells**
+**Nobility Domain Spells** 
 
-**1 Divine favor**
+**1 Divine favor** 
 
-**2 Enthrall**
+**2 Enthrall** 
 
-**3 Magic vestment**
+**3 Magic vestment** 
 
-**4 Discern lies**
+**4 Discern lies** 
 
-**5 Greater command**
+**5 Greater command** 
 
-**6 Geas/quest**
+**6 Geas/quest** 
 
-**7 Repulsion**
+**7 Repulsion** 
 
-**8 Demand**
+**8 Demand** 
 
-**9 Storm of vengeance**
+**9 Storm of vengeance** 
 
 
 
@@ -268,29 +268,29 @@ Once per day, the character can see and act with the clarity of true madness. Us
 
 The Repose domain is similar to the Death domain,but is granted by good-aligned deities whose clerics are barred from casting evil spells.
 
-**Granted Power:**The character may use adeath touchonce per day. Thedeath touchis a spell-like ability that is a death effect. The character must succeed at a melee touch attack against a living creature (using the rules for touch spells). When the character touches, roll 1d6 per his or her cleric level. If the total at least equals the creature’s current hit
+**Granted Power:** The character may use adeath touchonce per day. Thedeath touchis a spell-like ability that is a death effect. The character must succeed at a melee touch attack against a living creature (using the rules for touch spells). When the character touches, roll 1d6 per his or her cleric level. If the total at least equals the creature’s current hit
 
 points, it dies.
 
-**Repose Domain Spells**
+**Repose Domain Spells** 
 
-**1 Deathwatch**
+**1 Deathwatch** 
 
-**2 Gentle repose**
+**2 Gentle repose** 
 
-**3 Speak with dead**
+**3 Speak with dead** 
 
-**4 Death ward**
+**4 Death ward** 
 
-**5 Slay living**
+**5 Slay living** 
 
-**6 Undeath to death**
+**6 Undeath to death** 
 
-**7 Destruction**
+**7 Destruction** 
 
-**8 Surelife**
+**8 Surelife** 
 
-**9 Wail of the banshee**
+**9 Wail of the banshee** 
 
 
 
@@ -298,27 +298,27 @@ points, it dies.
 
 ##### RUNE DOMAIN
 
-**Granted Power:**Free Scribe Scroll feat.
+**Granted Power:** Free Scribe Scroll feat.
 
-**Rune Domain Spells**
+**Rune Domain Spells** 
 
-**1****Erase**
+**1** **Erase** 
 
-**2****Secret page**
+**2** **Secret page** 
 
-**3****Glyph of warding**
+**3** **Glyph of warding** 
 
-**4****Explosive runes**
+**4** **Explosive runes** 
 
-**5****Lesser planar binding**
+**5** **Lesser planar binding** 
 
-**6****Greater glyph of warding**
+**6** **Greater glyph of warding** 
 
-**7****Instant summons**
+**7** **Instant summons** 
 
-**8****Symbol**
+**8** **Symbol** 
 
-**9****Teleportation circle**
+**9** **Teleportation circle** 
 
 
 
@@ -326,31 +326,31 @@ points, it dies.
 
 ##### SCALYKIND DOMAIN
 
-**Granted Power:**Rebuke or command animals (reptilian creatures and snakes only) as an evil cleric rebukes or commands undead.
+**Granted Power:** Rebuke or command animals (reptilian creatures and snakes only) as an evil cleric rebukes or commands undead.
 
 Use this ability a total number of times per day equal to 3 + Charisma modifier.
 
-**Scalykind Domain Spells**
+**Scalykind Domain Spells** 
 
-**1 Magic fang**
+**1 Magic fang** 
 
-**2 Animal trance†**
+**2 Animal trance†** 
 
-**3 Greater magic fang**
+**3 Greater magic fang** 
 
-**4 Poison**
+**4 Poison** 
 
-**5 Animal growth†**
+**5 Animal growth†** 
 
-**6 Eyebite**
+**6 Eyebite** 
 
-**7 Creeping doom (composed of tiny snakes)**
+**7 Creeping doom (composed of tiny snakes)** 
 
-**8 Animal shapes†**
+**8 Animal shapes†** 
 
-**9 Shapechange**
+**9 Shapechange** 
 
-†**Affects ophidian or reptilian creatures only.**
+†**Affects ophidian or reptilian creatures only.** 
 
 
 
@@ -358,27 +358,27 @@ Use this ability a total number of times per day equal to 3 + Charisma modifier.
 
 ##### WEATHER DOMAIN
 
-**Granted Power:**Survival is a class skill.
+**Granted Power:** Survival is a class skill.
 
-**Weather Domain Spells**
+**Weather Domain Spells** 
 
-**1 Obscuring mist**
+**1 Obscuring mist** 
 
-**2 Fog cloud**
+**2 Fog cloud** 
 
-**3 Call lightning**
+**3 Call lightning** 
 
-**4 Sleet storm**
+**4 Sleet storm** 
 
-**5 Ice storm**
+**5 Ice storm** 
 
-**6 Control winds**
+**6 Control winds** 
 
-**7 Control weather**
+**7 Control weather** 
 
-**8 Whirlwind**
+**8 Whirlwind** 
 
-**9 Storm of vengeance**
+**9 Storm of vengeance** 
 
 
 
@@ -398,21 +398,21 @@ NEW SPELLS
 
 Abjuration [Darkness]
 
-**Level:**Darkness 4
+**Level:** Darkness 4
 
-**Components:**V, S , D F
+**Components:** V, S , D F
 
-**Casting Time:**1 action
+**Casting Time:** 1 action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**10 minutes/level
+**Duration:** 10 minutes/level
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
-**Spell Resistance:**Yes (harmless)
+**Spell Resistance:** Yes (harmless)
 
 The spell envelops the warded creature in a shroud of shadows. The shroud can, if the caster desires, conceal the wearer’s features. In any case, it grants the recipient a +3 deflection bonus to Armor Class plus an additional +1 for every four caster levels (maximum bonus +8). The subject can see through the armor as if it did not exist and is also afforded darkvision with a range of 60 feet. Finally, the subject gains a +2 bonus on saving throws against any holy, good, or light spells or effects.Undead creatures that are subjects ofarmor of darknessalso gain +4 turn resistance.
 
@@ -424,21 +424,21 @@ The spell envelops the warded creature in a shroud of shadows. The shroud can, i
 
 Evocation [Darkness]
 
-**Level:**Darkness 3, Sor/Wiz 3
+**Level:** Darkness 3, Sor/Wiz 3
 
-**Components:**V, S , M
+**Components:** V, S , M
 
-**Casting Time:**1 action
+**Casting Time:** 1 action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Area:**A 20-ft.-radius emanation centered on a creature, object, or point in space
+**Area:** A 20-ft.-radius emanation centered on a creature, object, or point in space
 
-**Duration:**1 round/level (D)
+**Duration:** 1 round/level (D)
 
-**Saving Throw:**Will negates or none (object)
+**Saving Throw:** Will negates or none (object)
 
-**Spell Resistance:**Yes or no (object)
+**Spell Resistance:** Yes or no (object)
 
 The caster creates an area of total darkness. The darkness is impenetrable to normal vision and darkvision, but the caster can see normally within the blacklit area. Creatures outside the spell’s area, even the caster, cannot see through it.
 
@@ -454,21 +454,21 @@ Blacklightcounters or dispels any light spell of equal or lower level. The 3rd-l
 
 Evocation [Good]
 
-**Level:**Glory 6
+**Level:** Glory 6
 
-**Components:**V, S , D F
+**Components:** V, S , D F
 
-**Casting Time:**1 action
+**Casting Time:** 1 action
 
-**Range:**Close (25 ft. + 5 ft./level)
+**Range:** Close (25 ft. + 5 ft./level)
 
-**Effect:**Ray
+**Effect:** Ray
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 This spell projects a bolt of energy from the Positive Energy Plane against one creature. The caster must succeed at a ranged touch attack to strike the target. A creature struck suffers varying damage, depending on its nature and home plane of existence:
 
@@ -508,21 +508,21 @@ This spell projects a bolt of energy from the Positive Energy Plane against one 
 
 Enchantment [Mind-Affecting]
 
-**Level:**Madness 5
+**Level:** Madness 5
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**One action
+**Casting Time:** One action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Effect:**Ray
+**Effect:** Ray
 
-**Duration:**1 round/level
+**Duration:** 1 round/level
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 This spell grants the caster the ability to make one ray attack per round. The ray dazes one living creature, clouding its mind so that it takes no action for 1d3 rounds. The creature is not stunned (so attackers get no special advantage against it), but it can’t move, cast spells, use mental abilities, and so on.
 
@@ -534,21 +534,21 @@ This spell grants the caster the ability to make one ray attack per round. The r
 
 Evocation
 
-**Level:**Glory 8
+**Level:** Glory 8
 
-**Components:**V, S , M, D F
+**Components:** V, S , M, D F
 
-**Casting Time:**1 full round
+**Casting Time:** 1 full round
 
-**Range:**Personal
+**Range:** Personal
 
-**Area:**120-ft.-radius emanation centered on you
+**Area:** 120-ft.-radius emanation centered on you
 
-**Duration:**1 minute/level
+**Duration:** 1 minute/level
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 The caster is imbued with an aura of celestial authority, inspiring awe in all lesser creatures.
 
@@ -566,21 +566,21 @@ Material Component:worth at least 200 gp.
 
 Conjuration (Creation)
 
-**Level:**Creation 9
+**Level:** Creation 9
 
-**Components:**V, S , M, X P
+**Components:** V, S , M, X P
 
-**Casting Time:**1 week (8 hours/day)
+**Casting Time:** 1 week (8 hours/day)
 
-**Range:**180 ft.
+**Range:** 180 ft.
 
-**Effect:**A demiplane on the Ethereal Plane centered on your location
+**Effect:** A demiplane on the Ethereal Plane centered on your location
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 This spell creates an immobile, finite plane with limited access—a demi-plane.
 
@@ -602,23 +602,23 @@ XP Cost:5,000 XP.
 
 Transmutation
 
-**Level:**Sor/Wiz 6, Artifice 7
+**Level:** Sor/Wiz 6, Artifice 7
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 action
+**Casting Time:** 1 action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**One item of a volume no greater than 10 cu. ft./level
+**Target:** One item of a volume no greater than 10 cu. ft./level
 
 (see text)
 
-**Duration:**Permanent
+**Duration:** Permanent
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**Yes (object)
+**Spell Resistance:** Yes (object)
 
 This spell increases the hardness of materials. For every two caster levels, increase by 1 the hardness of the material targeted by the spell. This hardness increase improves only the material’s resistance to damage. Nothing else is modified by the improvement.
 
@@ -636,21 +636,21 @@ If cast upon a metal or mineral, the volume is reduced to 1 cubic foot per level
 
 Enchantment (Compulsion) [Mind-Affecting]
 
-**Level:**Sor/Wiz 8, Madness 8
+**Level:** Sor/Wiz 8, Madness 8
 
-**Components:**V
+**Components:** V
 
-**Casting Time:**One action
+**Casting Time:** One action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Living creature touched
+**Target:** Living creature touched
 
-**Duration:**1d4+1 rounds
+**Duration:** 1d4+1 rounds
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 The subject cannot keep him or herself from behaving as though completely mad. This spell makes it impossible for the victim to do anything other than race about caterwauling.
 
@@ -664,21 +664,21 @@ The effect worsens the Armor Class of the creature by 4, makes Reflex saving thr
 
 Enchantment
 
-**Level:**Madness 3
+**Level:** Madness 3
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**One action
+**Casting Time:** One action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**1 round/level
+**Duration:** 1 round/level
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
-**Spell Resistance:**Yes (harmless)
+**Spell Resistance:** Yes (harmless)
 
 The caster can put a creature into a blood frenzy. In this rage, the creature gains +4 to Strength, +4 to Constitution, and a +2 morale bonus on Will saves. (Unlike a barbarian rage, no penalty to AC is suffered, and no fatigue period occurs after the rage is over.)
 
@@ -690,17 +690,17 @@ The caster can put a creature into a blood frenzy. In this rage, the creature ga
 
 Abjuration
 
-**Level:**Repose 8
+**Level:** Repose 8
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 round
+**Casting Time:** 1 round
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 minute/2 levels
+**Duration:** 1 minute/2 levels
 
 This spell allows the caster to protect him or herself against some condition that would ordinarily cause certain death. The character can only protect him or herself against a natural occurrence or condition, not against a spell or the action of a creature. The character must specify the condition against which he or she wishes to protect him or herself, and the spell is effective only against that condition. Should the character be subjected to that condition during the duration of the spell, he or she feels no discomfort and takes no damage from the condition. However, the spell does not protect any items carried on the caster’s person. At the end of the spell’s duration, the condition has full normal effects if the character is still subjected to it.
 
@@ -712,21 +712,21 @@ This spell allows the caster to protect him or herself against some condition th
 
 Enchantment [Mind-Affecting]
 
-**Level:**Madness 2
+**Level:** Madness 2
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**One action
+**Casting Time:** One action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**1 round/level
+**Duration:** 1 round/level
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 The caster may daze one living creature by making a successful touch attack. If the target creature does not make a successful Will save, its mind is clouded and it takes no action for 1 round per caster level. The dazed subject is not stunned (so attackers get no special advantage against it), but it can’t move, cast spells, use mental abilities, and so on.
 
@@ -738,23 +738,23 @@ The caster may daze one living creature by making a successful touch attack. If 
 
 Conjuration (Creation)
 
-**Level:**Creation 8
+**Level:** Creation 8
 
-**Components:**V, S , M, X P
+**Components:** V, S , M, X P
 
-**Casting Time:**10 minutes
+**Casting Time:** 10 minutes
 
-**Range:**0 ft.
+**Range:** 0 ft.
 
-**Effect:**Unattended, nonmagical object of nonliving matter, up to
+**Effect:** Unattended, nonmagical object of nonliving matter, up to
 
 1 cu. ft./level
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 The caster creates a nonmagical, unattended object of any sort of matter. Items created are permanent and cannot be negated by dispelling magics or negating powers. For all intents and purposes, these items are completely real. The volume of the item created cannot exceed 1 cubic foot per caster level. The caster must succeed at an appropriate skill check to make a complex item.
 
@@ -770,21 +770,21 @@ XP Cost:The item’s gold piece value in XP, or a minimum of 1 XP, whichever is 
 
 Necromancy
 
-**Level:**Sor/Wiz 6, Clr 6, Repose 6
+**Level:** Sor/Wiz 6, Clr 6, Repose 6
 
-**Components:**V, S , M, D F
+**Components:** V, S , M, D F
 
-**Casting Time:**1 action
+**Casting Time:** 1 action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Area:**Several undead creatures within a 50-ft.-radius burst
+**Area:** Several undead creatures within a 50-ft.-radius burst
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Undeath to deathsnuffs out the animating forces of undead creatures, killing them instantly. The spell slays 1d4 HD worth of undead creatures per caster level (maximum 20d4). Creatures with the fewest HD are affected first; among creatures with equal HD, those closest to the point of origin of the burst are affected first.
 

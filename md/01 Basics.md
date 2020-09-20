@@ -8,7 +8,7 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 
 
-**The Core Mechanic**: Whenever you attempt an action that has some chance of failure, you roll a twenty-sided die (d20). To determine if your character succeeds at a task you do this:
+**The Core Mechanic** : Whenever you attempt an action that has some chance of failure, you roll a twenty-sided die (d20). To determine if your character succeeds at a task you do this:
 
 •Roll a d20.
 
@@ -30,7 +30,7 @@ Dice rolls are described with expressions such as “3d4+3,” which means “ro
 
 
 
-**d%:**Percentile dice work a little differently. You generate a number between 1 and 100 by rolling two different ten-sided dice. One (designated before you roll) is the tens digit. The other is the ones digit. Two 0s represent 100.
+**d%:** Percentile dice work a little differently. You generate a number between 1 and 100 by rolling two different ten-sided dice. One (designated before you roll) is the tens digit. The other is the ones digit. Two 0s represent 100.
 
 
 

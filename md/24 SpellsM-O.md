@@ -12,21 +12,21 @@ Mage Armor
 
 Conjuration (Creation) [Force]
 
-**Level:**Sor/Wiz 1
+**Level:** Sor/Wiz 1
 
-**Components:**V, S, F
+**Components:** V, S, F
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**1 hour/level (D)
+**Duration:** 1 hour/level (D)
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 An invisible but tangible field of force surrounds the subject of amage armorspell, providing a +4 armor bonus to AC.
 
@@ -42,21 +42,21 @@ Mage Hand
 
 Transmutation
 
-**Level:**Brd 0, Sor/Wiz 0
+**Level:** Brd 0, Sor/Wiz 0
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One nonmagical, unattended object weighing up to 5 lb.
+**Target:** One nonmagical, unattended object weighing up to 5 lb.
 
-**Duration:**Concentration
+**Duration:** Concentration
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You point your finger at an object and can lift it and move it at will from a distance. As a move action, you can propel the object as far as 15 feet in any direction, though the spell ends if the distance between you and the object ever exceeds the spell’s range.
 
@@ -68,21 +68,21 @@ Mage’s Disjunction
 
 Abjuration
 
-**Level:**Magic 9, Sor/Wiz 9
+**Level:** Magic 9, Sor/Wiz 9
 
-**Components:**V
+**Components:** V
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Area:**All magical effects and magic items within a 40-ft.-radius burst
+**Area:** All magical effects and magic items within a 40-ft.-radius burst
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Will negates (object)
+**Saving Throw:** Will negates (object)
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 All magical effects and magic items within the radius of the spell, except for those that you carry or touch, are disjoined. That is, spells and spell-like effects are separated into their individual components (ending the effect as adispel magicspell does), and each permanent magic item must make a successful Will save or be turned into a normal item. An item in a creature’s possession uses its own Will save bonus or its possessor’s Will save bonus, whichever is higher.
 
@@ -100,21 +100,21 @@ Mage’s Faithful Hound
 
 Conjuration (Creation)
 
-**Level:**Sor/Wiz 5
+**Level:** Sor/Wiz 5
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Effect:**Phantom watchdog
+**Effect:** Phantom watchdog
 
-**Duration:**1 hour/caster level or until discharged, then 1 round/caster level; see text
+**Duration:** 1 hour/caster level or until discharged, then 1 round/caster level; see text
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You conjure up a phantom watchdog that is invisible to everyone but yourself. It then guards the area where it was conjured (it does not move). The hound immediately starts barking loudly if any Small or larger creature approaches within 30 feet of it. (Those within 30 feet of the hound when it is conjured may move about in the area, but if they leave and return, they activate the barking.) The hound sees invisible and ethereal creatures. It does not react to figments, but it does react to shadow illusions.
 
@@ -134,17 +134,17 @@ Mage’s Lucubration
 
 Transmutation
 
-**Level:**Wiz 6
+**Level:** Wiz 6
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
 You instantly recall any one spell of 5th level or lower that you have used during the past 24 hours. The spell must have been actually cast during that period. The recalled spell is stored in your mind as through prepared in the normal fashion.
 
@@ -158,21 +158,21 @@ Mage’s Magnificent Mansion
 
 Conjuration (Creation)
 
-**Level:**Sor/Wiz 7
+**Level:** Sor/Wiz 7
 
-**Components:**V, S, F
+**Components:** V, S, F
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Effect:**Extradimensional mansion, up to three 10-ft. cubes/level (S)
+**Effect:** Extradimensional mansion, up to three 10-ft. cubes/level (S)
 
-**Duration:**2 hours/level (D)
+**Duration:** 2 hours/level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You conjure up an extradimensional dwelling that has a single entrance on the plane from which the spell was cast. The entry point looks like a faint shimmering in the air that is 4 feet wide and 8 feet high. Only those you designate may enter the mansion, and the portal is shut and made invisible behind you when you enter. You may open it again from your own side at will. Once observers have passed beyond the entrance, they are in a magnificent foyer with numerous chambers beyond. The atmosphere is clean, fresh, and warm.
 
@@ -190,21 +190,21 @@ Mage’s Private Sanctum
 
 Abjuration
 
-**Level:**Sor/Wiz 5
+**Level:** Sor/Wiz 5
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**10 minutes
+**Casting Time:** 10 minutes
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Area:**30-ft. cube/level (S)
+**Area:** 30-ft. cube/level (S)
 
-**Duration:**24 hours (D)
+**Duration:** 24 hours (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 This spell ensures privacy. Anyone looking into the area from outside sees only a dark, foggy mass. Darkvision cannot penetrate it. No sounds, no matter how loud, can escape the area, so nobody can eavesdrop from outside. Those inside can see out normally.
 
@@ -224,21 +224,21 @@ Mage’s Sword
 
 Evocation [Force]
 
-**Level:**Sor/Wiz 7
+**Level:** Sor/Wiz 7
 
-**Components:**V, S, F
+**Components:** V, S, F
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Effect:**One sword
+**Effect:** One sword
 
-**Duration:**1 round/level (D)
+**Duration:** 1 round/level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 This spell brings into being a shimmering, swordlike plane of force. The sword strikes at any opponent within its range, as you desire, starting in the round that you cast the spell. The sword attacks its designated target once each round on your turn. Its attack bonus is equal to your caster level + your Int bonus or your Cha bonus (for wizards or sorcerers, respectively) with an additional +3 enhancement bonus. As a force effect, it can strike ethereal and incorporeal creatures. It deals 4d6+3 points of force damage, with a threat range of 19–20 and a critical multiplier of x2.
 
@@ -260,23 +260,23 @@ Magic Aura
 
 Illusion (Glamer)
 
-**Level:**Brd 1, Magic 1, Sor/Wiz 1
+**Level:** Brd 1, Magic 1, Sor/Wiz 1
 
-**Components:**V, S, F
+**Components:** V, S, F
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**One touched object weighing up
+**Target:** One touched object weighing up
 
 to 5 lb./level
 
-**Duration:**One day/level (D)
+**Duration:** One day/level (D)
 
-**Saving Throw:**None; see text
+**Saving Throw:** None; see text
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You alter an item’s aura so that it registers todetectspells (and spells with similar capabilities) as though it were nonmagical, or a magic item of a kind you specify, or the subject of a spell you specify.
 
@@ -296,7 +296,7 @@ Magic Circle against Chaos
 
 Abjuration [Lawful]
 
-**Level:**Clr 3, Law 3, Pal 3, Sor/Wiz 3
+**Level:** Clr 3, Law 3, Pal 3, Sor/Wiz 3
 
 This spell functions likemagic circle against evil,except that it is similar toprotection from chaosinstead ofprotection from evil, and it can imprison a nonlawful called creature.
 
@@ -308,21 +308,21 @@ Magic Circle against Evil
 
 Abjuration [Good]
 
-**Level:**Clr 3, Good 3, Pal 3, Sor/Wiz 3
+**Level:** Clr 3, Good 3, Pal 3, Sor/Wiz 3
 
-**Components:**V, S, M/DF
+**Components:** V, S, M/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Area:**10-ft.-radius emanation from touched creature
+**Area:** 10-ft.-radius emanation from touched creature
 
-**Duration:**10 min./level
+**Duration:** 10 min./level
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
-**Spell Resistance:**No; see text
+**Spell Resistance:** No; see text
 
 All creatures within the area gain the effects of aprotection from evilspell, and no nongood summoned creatures can enter the area either. You must overcome a creature’s spell resistance in order to keep it at bay (as in the third function ofprotection from evil), but the deflection and resistance bonuses and the protection from mental control apply regardless of enemies’ spell resistance.
 
@@ -346,7 +346,7 @@ Magic Circle against Good
 
 Abjuration [Evil]
 
-**Level:**Clr 3, Evil 3, Sor/Wiz 3
+**Level:** Clr 3, Evil 3, Sor/Wiz 3
 
 This spell functions likemagic circle against evil,except that it is similar toprotection from goodinstead ofprotection from evil, and it can imprison a nonevil called creature.
 
@@ -358,7 +358,7 @@ Magic Circle against Law
 
 Abjuration [Chaotic]
 
-**Level:**Chaos 3, Clr 3, Sor/Wiz 3
+**Level:** Chaos 3, Clr 3, Sor/Wiz 3
 
 This spell functions likemagic circle against evil,except that it is similar toprotection from lawinstead ofprotection from evil, and it can imprison a nonchaotic called creature.
 
@@ -370,21 +370,21 @@ Magic Fang
 
 Transmutation
 
-**Level:**Drd 1, Rgr 1
+**Level:** Drd 1, Rgr 1
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Living creature touched
+**Target:** Living creature touched
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
-**Spell Resistance:**Yes (harmless)
+**Spell Resistance:** Yes (harmless)
 
 Magic fanggives one natural weapon of the subject a +1 enhancement bonus on attack and damage rolls. The spell can affect a slam attack, fist, bite, or other natural weapon. (The spell does not change an unarmed strike’s damage from nonlethal damage to lethal damage.)
 
@@ -398,13 +398,13 @@ Magic Fang, Greater
 
 Transmutation
 
-**Level:**Drd 3, Rgr 3
+**Level:** Drd 3, Rgr 3
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One living creature
+**Target:** One living creature
 
-**Duration:**1 hour/level
+**Duration:** 1 hour/level
 
 This spell functions likemagic fang, except that the enhancement bonus on attack and damage rolls is +1 per four caster levels (maximum +5).
 
@@ -420,21 +420,21 @@ Magic Jar
 
 Necromancy
 
-**Level:**Sor/Wiz 5
+**Level:** Sor/Wiz 5
 
-**Components:**V, S, F
+**Components:** V, S, F
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Target:**One creature
+**Target:** One creature
 
-**Duration:**1 hour/level or until you return to your body
+**Duration:** 1 hour/level or until you return to your body
 
-**Saving Throw:**Will negates; see text
+**Saving Throw:** Will negates; see text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 By castingmagic jar,you place your soul in a gem or large crystal (known as themagic jar), leaving your body lifeless. Then you can attempt to take control of a nearby body, forcing its soul into themagic jar.You may move back to the jar (thereby returning the trapped soul to its body) and attempt to possess another body. The spell ends when you send your soul back to your own body, leaving the receptacle empty.
 
@@ -464,21 +464,21 @@ Magic Missile
 
 Evocation [Force]
 
-**Level:**Sor/Wiz 1
+**Level:** Sor/Wiz 1
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Targets:**Up to five creatures, no two of which can be more than 15 ft. apart
+**Targets:** Up to five creatures, no two of which can be more than 15 ft. apart
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 A missile of magical energy darts forth from your fingertip and strikes its target, dealing 1d4+1 points of force damage.
 
@@ -494,21 +494,21 @@ Magic Mouth
 
 Illusion (Glamer)
 
-**Level:**Brd 1, Sor/Wiz 2
+**Level:** Brd 1, Sor/Wiz 2
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One creature or object
+**Target:** One creature or object
 
-**Duration:**Permanent until discharged
+**Duration:** Permanent until discharged
 
-**Saving Throw:**Will negates (object)
+**Saving Throw:** Will negates (object)
 
-**Spell Resistance:**Yes (object)
+**Spell Resistance:** Yes (object)
 
 This spell imbues the chosen object or creature with an enchanted mouth that suddenly appears and speaks its message the next time a specified event occurs. The message, which must be twenty-five or fewer words long, can be in any language known by you and can be delivered over a period of 10 minutes. The mouth cannot utter verbal components, use command words, or activate magical effects. It does, however, move according to the words articulated; if it were placed upon a statue, the mouth of the statue would move and appear to speak. Of course,magic mouthcan be placed upon a tree, rock, or any other object or creature.
 
@@ -528,21 +528,21 @@ Magic Stone
 
 Transmutation
 
-**Level:**Clr 1, Drd 1, Earth 1
+**Level:** Clr 1, Drd 1, Earth 1
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Targets:**Up to three pebbles touched
+**Targets:** Up to three pebbles touched
 
-**Duration:**30 minutes or until discharged
+**Duration:** 30 minutes or until discharged
 
-**Saving Throw:**Will negates (harmless, object)
+**Saving Throw:** Will negates (harmless, object)
 
-**Spell Resistance:**Yes (harmless, object)
+**Spell Resistance:** Yes (harmless, object)
 
 You transmute as many as three pebbles, which can be no larger than sling bullets, so that they strike with great force when thrown or slung. If hurled, they have a range increment of 20 feet. If slung, treat them as sling bullets (range increment 50 feet). The spell gives them a +1 enhancement bonus on attack and damage rolls. The user of the stones makes a normal ranged attack.Each stone that hits deals 1d6+1 points of damage (including the spell’s enhancement bonus), or 2d6+2 points against undead.
 
@@ -554,21 +554,21 @@ Magic Vestment
 
 Transmutation
 
-**Level:**Clr 3, Strength 3, War 3
+**Level:** Clr 3, Strength 3, War 3
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Armor or shield touched
+**Target:** Armor or shield touched
 
-**Duration:**1 hour/level
+**Duration:** 1 hour/level
 
-**Saving Throw:**Will negates (harmless, object)
+**Saving Throw:** Will negates (harmless, object)
 
-**Spell Resistance:**Yes (harmless, object)
+**Spell Resistance:** Yes (harmless, object)
 
 You imbue a suit of armor or a shield with an enhancement bonus of +1 per four caster levels (maximum +5 at 20th level).
 
@@ -582,21 +582,21 @@ Magic Weapon
 
 Transmutation
 
-**Level:**Clr 1, Pal 1, Sor/Wiz 1, War 1
+**Level:** Clr 1, Pal 1, Sor/Wiz 1, War 1
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Weapon touched
+**Target:** Weapon touched
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**Will negates (harmless, object)
+**Saving Throw:** Will negates (harmless, object)
 
-**Spell Resistance:**Yes (harmless, object)
+**Spell Resistance:** Yes (harmless, object)
 
 Magic weapongives a weapon a +1 enhancement bonus on attack and damage rolls. (An enhancement bonus does not stack with a masterwork weapon’s +1 bonus on attack rolls.)
 
@@ -610,21 +610,21 @@ Magic Weapon, Greater
 
 Transmutation
 
-**Level:**Clr 4, Pal 3, Sor/Wiz 3
+**Level:** Clr 4, Pal 3, Sor/Wiz 3
 
-**Components:**V, S, M/DF
+**Components:** V, S, M/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One weapon or fifty projectiles (all of which must be in contact with each other at the time of casting)
+**Target:** One weapon or fifty projectiles (all of which must be in contact with each other at the time of casting)
 
-**Duration:**1 hour/level
+**Duration:** 1 hour/level
 
-**Saving Throw:**Will negates (harmless, object)
+**Saving Throw:** Will negates (harmless, object)
 
-**Spell Resistance:**Yes (harmless, object)
+**Spell Resistance:** Yes (harmless, object)
 
 This spell functions likemagic weapon,except that it gives a weapon an enhancement bonus on attack and damage rolls of +1 per four caster levels (maximum +5).
 
@@ -640,13 +640,13 @@ Major Creation
 
 Conjuration (Creation)
 
-**Level:**Sor/Wiz 5
+**Level:** Sor/Wiz 5
 
-**Casting Time:**10 minutes
+**Casting Time:** 10 minutes
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Duration:**See text
+**Duration:** See text
 
 This spell functions likeminor creation,except that you can also create an object of mineral nature: stone, crystal, metal, or the like. The duration of the created item varies with its relative hardness and rarity, as indicated on the following table.
 
@@ -688,9 +688,9 @@ Major Image
 
 Illusion (Figment)
 
-**Level:**Brd 3, Sor/Wiz 3
+**Level:** Brd 3, Sor/Wiz 3
 
-**Duration:**Concentration + 3 rounds
+**Duration:** Concentration + 3 rounds
 
 This spell functions likesilent image,except that sound, smell, and thermal illusions are included in the spell effect. While concentrating, you can move the image within the range.
 
@@ -704,13 +704,13 @@ Make Whole
 
 Transmutation
 
-**Level:**Clr 2
+**Level:** Clr 2
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One object of up to 10 cu. ft./ level
+**Target:** One object of up to 10 cu. ft./ level
 
 This spell functions likemending,except thatmake wholecompletely repairs an object made of any substance, even one with multiple breaks, to be as strong as new. The spell does not restore the magical abilities of a broken magic item made whole, and it cannot mend broken magic rods, staffs, or wands. The spell does not repair items that have been warped, burned, disintegrated, ground to powder, melted, or vaporized, nor does it affect creatures (including constructs).
 
@@ -722,21 +722,21 @@ Mark of Justice
 
 Necromancy
 
-**Level:**Clr 5, Pal 4
+**Level:** Clr 5, Pal 4
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**10 minutes
+**Casting Time:** 10 minutes
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**Permanent; see text
+**Duration:** Permanent; see text
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 You draw an indelible mark on the subject and state some behavior on the part of the subject that will activate the mark. When activated, the mark curses the subject. Typically, you designate some sort of criminal behavior that activates the mark, but you can pick any act you please. The effect of the mark is identical with the effect ofbestow curse.
 
@@ -760,21 +760,21 @@ Maze
 
 Conjuration (Teleportation)
 
-**Level:**Sor/Wiz 8
+**Level:** Sor/Wiz 8
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One creature
+**Target:** One creature
 
-**Duration:**See text
+**Duration:** See text
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 You banish the subject into an extradimensional labyrinth of force planes. Each round on its turn, it may attempt a DC 20 Intelligence check to escape the labyrinth as a full-round action. If the subject doesn’t escape, the maze disappears after 10 minutes, forcing the subject to leave.
 
@@ -788,17 +788,17 @@ Meld into Stone
 
 Transmutation [Earth]
 
-**Level:**Clr 3, Drd 3
+**Level:** Clr 3, Drd 3
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**10 min./level
+**Duration:** 10 min./level
 
 Meld into stoneenables you to meld your body and possessions into a single block of stone. The stone must be large enough to accommodate your body in all three dimensions. When the casting is complete, you and not more than 100 pounds of nonliving gear merge with the stone. If either condition is violated, the spell fails and is wasted.
 
@@ -816,21 +816,21 @@ Mending
 
 Transmutation
 
-**Level:**Brd 0, Clr 0, Drd 0, Sor/Wiz 0
+**Level:** Brd 0, Clr 0, Drd 0, Sor/Wiz 0
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**10 ft.
+**Range:** 10 ft.
 
-**Target:**One object of up to 1 lb.
+**Target:** One object of up to 1 lb.
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Will negates (harmless, object)
+**Saving Throw:** Will negates (harmless, object)
 
-**Spell Resistance:**Yes (harmless, object)
+**Spell Resistance:** Yes (harmless, object)
 
 Mendingrepairs small breaks or tears in objects (but not warps, such as might be caused by awarp woodspell). It will weld broken metallic objects such as a ring, a chain link, a medallion, or a slender dagger, providing but one break exists.
 
@@ -844,21 +844,21 @@ Message
 
 Transmutation [Language-Dependent]
 
-**Level:**Brd 0, Sor/Wiz 0
+**Level:** Brd 0, Sor/Wiz 0
 
-**Components:**V, S, F
+**Components:** V, S, F
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Targets:**One creature/level
+**Targets:** One creature/level
 
-**Duration:**10 min./level
+**Duration:** 10 min./level
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You can whisper messages and receive whispered replies with little chance of being overheard. You point your finger at each creature you want to receive the message. When you whisper, the whispered message is audible to all targeted creatures within range. Magicalsilence,1 foot of stone, 1 inch of common metal (or a thin sheet of lead), or 3 feet of wood or dirt blocks the spell. The message does not have to travel in a straight line. It can circumvent a barrier if there is an open path between you and the subject, and the path’s entire length lies within the spell’s range. The creatures that receive the message can whisper a reply that you hear. The spell transmits sound, not meaning. It doesn’t transcend language barriers.
 
@@ -874,21 +874,21 @@ Meteor Swarm
 
 Evocation [Fire]
 
-**Level:**Sor/Wiz 9
+**Level:** Sor/Wiz 9
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Long (400 ft. + 40 ft./level)
+**Range:** Long (400 ft. + 40 ft./level)
 
-**Area:**Four 40-ft.-radius spreads; see text
+**Area:** Four 40-ft.-radius spreads; see text
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None or Reflex half; see text
+**Saving Throw:** None or Reflex half; see text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Meteor swarmis a very powerful and spectacular spell that is similar tofireballin many aspects. When you cast it, four 2- foot-diameter spheres spring from your outstretched hand and streak in straight lines to the spots you select. The meteor spheres leave a fiery trail of sparks.
 
@@ -904,21 +904,21 @@ Mind Blank
 
 Abjuration
 
-**Level:**Protection 8, Sor/Wiz 8
+**Level:** Protection 8, Sor/Wiz 8
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One creature
+**Target:** One creature
 
-**Duration:**24 hours
+**Duration:** 24 hours
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
-**Spell Resistance:**Yes (harmless)
+**Spell Resistance:** Yes (harmless)
 
 The subject is protected from all devices and spells that detect, influence, or read emotions or thoughts. This spell protects against all mind-affecting spells and effects as well as information gathering by divination spells or effects.Mind blankeven foilslimited wish,miracle, andwishspells when they are used in such a way as to affect the subject’s mind or to gain information about it. In the case of scrying that scans an area the creature is in, such asarcane eye,the spell works but the creature simply isn’t detected. Scrying attempts that are targeted specifically at the subject do not work at all.
 
@@ -930,21 +930,21 @@ Mind Fog
 
 Enchantment (Compulsion) [Mind-Affecting]
 
-**Level:**Brd 5, Sor/Wiz 5
+**Level:** Brd 5, Sor/Wiz 5
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Effect:**Fog spreads in 20-ft. radius, 20 ft. high
+**Effect:** Fog spreads in 20-ft. radius, 20 ft. high
 
-**Duration:**30 minutes and 2d6 rounds; see text
+**Duration:** 30 minutes and 2d6 rounds; see text
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Mind fogproduces a bank of thin mist that weakens the mental resistance of those caught in it. Creatures in themind fogtake a –10 competence penalty on Wisdom checks and Will saves. (A creature that successfully saves against the fog is not affected and need not make further saves even if it remains in the fog.) Affected creatures take the penalty as long as they remain in the fog and for 2d6 rounds thereafter. The fog is stationary and lasts for 30 minutes (or until dispersed by wind).
 
@@ -960,21 +960,21 @@ Minor Creation
 
 Conjuration (Creation)
 
-**Level:**Sor/Wiz 4
+**Level:** Sor/Wiz 4
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 minute
+**Casting Time:** 1 minute
 
-**Range:**0 ft.
+**Range:** 0 ft.
 
-**Effect:**Unattended, nonmagical object of nonliving plant matter, up to 1 cu. ft./level
+**Effect:** Unattended, nonmagical object of nonliving plant matter, up to 1 cu. ft./level
 
-**Duration:**1 hour/level (D)
+**Duration:** 1 hour/level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You create a nonmagical, unattended object of nonliving, vegetable matter. The volume of the item created cannot exceed 1 cubic foot per caster level. You must succeed on an appropriate skill check to make a complex item.
 
@@ -990,9 +990,9 @@ Minor Image
 
 Illusion (Figment)
 
-**Level:**Brd 2, Sor/Wiz 2
+**Level:** Brd 2, Sor/Wiz 2
 
-**Duration:**Concentration +2 rounds
+**Duration:** Concentration +2 rounds
 
 This spell functions likesilent image, except thatminor imageincludes some minor sounds but not understandable speech.
 
@@ -1004,21 +1004,21 @@ Miracle
 
 Evocation
 
-**Level:**Clr 9, Luck 9
+**Level:** Clr 9, Luck 9
 
-**Components:**V, S, XP; see text
+**Components:** V, S, XP; see text
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**See text
+**Range:** See text
 
-**Target, Effect, or Area:**See text
+**Target, Effect, or Area:** See text
 
-**Duration:**See text
+**Duration:** See text
 
-**Saving Throw:**See text
+**Saving Throw:** See text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 You don’t so much cast amiracleas request one. You state what you would like to have happen and request that your deity (or the power you pray to for spells) intercede.
 
@@ -1056,15 +1056,15 @@ Mirage Arcana
 
 Illusion (Glamer)
 
-**Level:**Brd 5, Sor/Wiz 5
+**Level:** Brd 5, Sor/Wiz 5
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Area:**One 20-ft. cube/level (S)
+**Area:** One 20-ft. cube/level (S)
 
-**Duration:**Concentration +1 hour/ level (D)
+**Duration:** Concentration +1 hour/ level (D)
 
 This spell functions likehallucinatory terrain, except that it enables you to make any area appear to be something other than it is. The illusion includes audible, visual, tactile, and olfactory elements. Unlikehallucinatory terrain,the spell can alter the appearance of structures (or add them where none are present). Still, it can’t disguise, conceal, or add creatures (though creatures within the area might hide themselves within the illusion just as they can hide themselves within a real location).
 
@@ -1076,17 +1076,17 @@ Mirror Image
 
 Illusion (Figment)
 
-**Level:**Brd 2, Sor/Wiz 2
+**Level:** Brd 2, Sor/Wiz 2
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Personal; see text
+**Range:** Personal; see text
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 min./level (D)
+**Duration:** 1 min./level (D)
 
 Several illusory duplicates of you pop into being, making it difficult for enemies to know which target to attack. The figments stay near you and disappear when struck.
 
@@ -1106,21 +1106,21 @@ Misdirection
 
 Illusion (Glamer)
 
-**Level:**Brd 2, Sor/Wiz 2
+**Level:** Brd 2, Sor/Wiz 2
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One creature or object, up to a 10-ft. cube in size
+**Target:** One creature or object, up to a 10-ft. cube in size
 
-**Duration:**1 hour/level
+**Duration:** 1 hour/level
 
-**Saving Throw:**None or Will negates; see text
+**Saving Throw:** None or Will negates; see text
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 By means of this spell, you misdirect the information from divination spells that reveal auras (detect evil, detect magic, discern lies,and the like). On casting the spell, you choose another object within range. For the duration of the spell, the subject ofmisdirectionis detected as if it were the other object. (Neither the subject nor the other object gets a saving throw against this effect.) Detection spells provide information based on the second object rather than on the actual target of the detection unless the caster of the detection succeeds on a Will save. For instance, you could make yourself detect as a tree if one were within range at casting: not evil, not lying, not magical, neutral in alignment, and so forth. This spell does not affect other types of divination magic (augury, detect thoughts, clairaudience/clairvoyance,and the like).
 
@@ -1132,21 +1132,21 @@ Mislead
 
 Illusion (Figment, Glamer)
 
-**Level:**Brd 5, Luck 6, Sor/Wiz 6, Trickery 6
+**Level:** Brd 5, Luck 6, Sor/Wiz 6, Trickery 6
 
-**Components:**S
+**Components:** S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target/Effect:**You/one illusory double
+**Target/Effect:** You/one illusory double
 
-**Duration:**1 round/level (D) and concentration + 3 rounds; see text
+**Duration:** 1 round/level (D) and concentration + 3 rounds; see text
 
-**Saving Throw:**None or Will disbelief (if interacted with); see text
+**Saving Throw:** None or Will disbelief (if interacted with); see text
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You become invisible (asimproved invisibility, a glamer), and at the same time, an illusory double of you (asmajor image,a figment) appears. You are then free to go elsewhere while your double moves away. The double appears within range but thereafter moves as you direct it (which requires concentration beginning on the first round after the casting). You can make the figment appear superimposed perfectly over your own body so that observers don’t notice an image appearing and you turning invisible. You and the figment can then move in different directions. The double moves at your speed and can talk and gesture as if it were real, but it cannot attack or cast spells, though it can pretend to do so.
 
@@ -1160,17 +1160,17 @@ Mnemonic Enhancer
 
 Transmutation
 
-**Level:**Wiz 4
+**Level:** Wiz 4
 
-**Components:**V, S, M, F
+**Components:** V, S, M, F
 
-**Casting Time:**10 minutes
+**Casting Time:** 10 minutes
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
 Casting this spell allows you to prepare additional spells or retain spells recently cast. Pick one of these two versions when the spell is cast.
 
@@ -1192,21 +1192,21 @@ Modify Memory
 
 Enchantment (Compulsion) [Mind-Affecting]
 
-**Level:**Brd 4
+**Level:** Brd 4
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 round; see text
+**Casting Time:** 1 round; see text
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One living creature
+**Target:** One living creature
 
-**Duration:**Permanent
+**Duration:** Permanent
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 You reach into the subject’s mind and modify as many as 5 minutes of its memories in one of the following ways.
 
@@ -1230,17 +1230,17 @@ Moment of Prescience
 
 Divination
 
-**Level:**Luck 8, Sor/Wiz 8
+**Level:** Luck 8, Sor/Wiz 8
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 hour/level or until discharged
+**Duration:** 1 hour/level or until discharged
 
 This spell grants you a powerful sixth sense in relation to yourself. Once during the spell’s duration, you may choose to use its effect. This spell grants you an insight bonus equal to your caster level (maximum +25) on any single attack roll, opposed ability or skill check, or saving throw. Alternatively, you can apply the insight bonus to your AC against a single attack (even if flatfooted). Activating the effect doesn’t take an action; you can even activate it on another character’s turn if needed. You must choose to use themoment of presciencebefore you make the roll it is to modify. Once used, the spell ends.
 
@@ -1254,21 +1254,21 @@ Mount
 
 Conjuration (Summoning)
 
-**Level:**Sor/Wiz 1
+**Level:** Sor/Wiz 1
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 round
+**Casting Time:** 1 round
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Effect:**One mount
+**Effect:** One mount
 
-**Duration:**2 hours/level (D)
+**Duration:** 2 hours/level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You summon a light horse or a pony (your choice) to serve you as a mount. The steed serves willingly and well. The mount comes with a bit and bridle and a riding saddle.
 
@@ -1282,21 +1282,21 @@ Move Earth
 
 Transmutation [Earth]
 
-**Level:**Drd 6, Sor/Wiz 6
+**Level:** Drd 6, Sor/Wiz 6
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**See text
+**Casting Time:** See text
 
-**Range:**Long (400 ft. + 40 ft./level)
+**Range:** Long (400 ft. + 40 ft./level)
 
-**Area:**Dirt in an area up to 750 ft. square and up to 10 ft. deep (S)
+**Area:** Dirt in an area up to 750 ft. square and up to 10 ft. deep (S)
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 Move earthmoves dirt (clay, loam, sand), possibly collapsing embankments, moving hillocks, shifting dunes, and so forth.
 
@@ -1318,21 +1318,21 @@ Neutralize Poison
 
 Conjuration (Healing)
 
-**Level:**Brd 4, Clr 4, Drd 3, Pal 4, Rgr 3
+**Level:** Brd 4, Clr 4, Drd 3, Pal 4, Rgr 3
 
-**Components:**V, S, M/DF
+**Components:** V, S, M/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature or object of up to 1 cu. ft./level touched
+**Target:** Creature or object of up to 1 cu. ft./level touched
 
-**Duration:**10 min./level
+**Duration:** 10 min./level
 
-**Saving Throw:**Will negates (harmless, object)
+**Saving Throw:** Will negates (harmless, object)
 
-**Spell Resistance:**Yes (harmless, object)
+**Spell Resistance:** Yes (harmless, object)
 
 You detoxify any sort of venom in the creature or object touched. A poisoned creature suffers no additional effects from the poison, and any temporary effects are ended, but the spell does not reverse instantaneous effects, such as hit point damage, temporary ability damage, or effects that don’t go away on their own.
 
@@ -1350,21 +1350,21 @@ Nightmare
 
 Illusion (Phantasm) [Mind-Affecting, Evil]
 
-**Level:**Brd 5, Sor/Wiz 5
+**Level:** Brd 5, Sor/Wiz 5
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**10 minutes
+**Casting Time:** 10 minutes
 
-**Range:**Unlimited
+**Range:** Unlimited
 
-**Target:**One living creature
+**Target:** One living creature
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Will negates; see text
+**Saving Throw:** Will negates; see text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 You send a hideous and unsettling phantasmal vision to a specific creature that you name or otherwise specifically designate.
 
@@ -1440,21 +1440,21 @@ Nondetection
 
 Abjuration
 
-**Level:**Rgr 4, Sor/Wiz 3, Trickery 3
+**Level:** Rgr 4, Sor/Wiz 3, Trickery 3
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature or object touched
+**Target:** Creature or object touched
 
-**Duration:**1 hour/level
+**Duration:** 1 hour/level
 
-**Saving Throw:**Will negates (harmless, object)
+**Saving Throw:** Will negates (harmless, object)
 
-**Spell Resistance:**Yes (harmless, object)
+**Spell Resistance:** Yes (harmless, object)
 
 The warded creature or object becomes difficult to detect by divination spells such asclairaudience/clairvoyance, locate object,anddetectspells.Nondetectionalso prevents location by such magic items ascrystal balls. If a divination is attempted against the warded creature or item, the caster of the divination must succeed on a caster level check (1d20 + caster level) against a DC of 11 + the caster level of the spellcaster who castnondetection. If you castnondetectionon yourself or on an item currently in your possession, the DC is 15 + your caster level.
 
@@ -1470,21 +1470,21 @@ Obscure Object
 
 Abjuration
 
-**Level:**Brd 1, Clr 3, Sor/Wiz 2
+**Level:** Brd 1, Clr 3, Sor/Wiz 2
 
-**Components:**V, S, M/DF
+**Components:** V, S, M/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**One object touched of up to 100 lb./level
+**Target:** One object touched of up to 100 lb./level
 
-**Duration:**8 hours (D)
+**Duration:** 8 hours (D)
 
-**Saving Throw:**Will negates (object)
+**Saving Throw:** Will negates (object)
 
-**Spell Resistance:**Yes (object)
+**Spell Resistance:** Yes (object)
 
 This spell hides an object from location by divination (scrying) effects, such as thescryingspell or acrystal ball. Such an attempt automatically fails (if the divination is targeted on the object) or fails to perceive the object (if the divination is targeted on a nearby location, object, or person).
 
@@ -1498,21 +1498,21 @@ Obscuring Mist
 
 Conjuration (Creation)
 
-**Level:**Air 1, Clr 1, Drd 1, Sor/Wiz 1, Water 1
+**Level:** Air 1, Clr 1, Drd 1, Sor/Wiz 1, Water 1
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**20 ft.
+**Range:** 20 ft.
 
-**Effect:**Cloud spreads in 20-ft. radius from you, 20 ft. high
+**Effect:** Cloud spreads in 20-ft. radius from you, 20 ft. high
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 A misty vapor arises around you. It is stationary once created. The vapor obscures all sight, including darkvision, beyond 5 feet. A creature 5 feet away has concealment (attacks have a 20% miss chance). Creatures farther away have total concealment (50% miss chance, and the attacker cannot use sight to locate the target).
 
@@ -1528,21 +1528,21 @@ Open/Close
 
 Transmutation
 
-**Level:**Brd 0, Sor/Wiz 0
+**Level:** Brd 0, Sor/Wiz 0
 
-**Components:**V, S, F
+**Components:** V, S, F
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**Object weighing up to 30 lb. or portal that can be opened or closed
+**Target:** Object weighing up to 30 lb. or portal that can be opened or closed
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Will negates (object)
+**Saving Throw:** Will negates (object)
 
-**Spell Resistance:**Yes (object)
+**Spell Resistance:** Yes (object)
 
 You can open or close (your choice) a door, chest, box, window, bag, pouch, bottle, barrel, or other container. If anything resists this activity (such as a bar on a door or a lock on a chest), the spell fails. In addition, the spell can only open and close things weighing 30 pounds or less. Thus, doors, chests, and similar objects sized for enormous creatures may be beyond this spell’s ability to affect.
 
@@ -1556,21 +1556,21 @@ Order’s Wrath
 
 Evocation [Lawful]
 
-**Level:**Law 4
+**Level:** Law 4
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Area:**Nonlawful creatures within a burst that fills a 30-ft. cube
+**Area:** Nonlawful creatures within a burst that fills a 30-ft. cube
 
-**Duration:**Instantaneous (1 round); see text
+**Duration:** Instantaneous (1 round); see text
 
-**Saving Throw:**Will partial; see text
+**Saving Throw:** Will partial; see text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 You channel lawful power to smite enemies. The power takes the form of a three-dimensional grid of energy. Only chaotic and neutral (not lawful) creatures are harmed by the spell.
 
@@ -1586,15 +1586,15 @@ Overland Flight
 
 Transmutation
 
-**Level:**Sor/Wiz 5
+**Level:** Sor/Wiz 5
 
-**Components:**V, S
+**Components:** V, S
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 hour/level
+**Duration:** 1 hour/level
 
 This spell functions like aflyspell, except you can fly at a speed of 40 feet (30 feet if wearing medium or heavy armor, or if carrying a medium or heavy load) with average maneuverability. When using this spell for long-distance movement, you can hustle without taking nonlethal damage (a forced march still requires Constitution checks). This means you can cover 64 miles in an eight-hour period of flight (or 48 miles at a speed of 30 feet).
 
@@ -1606,21 +1606,21 @@ Owl’s Wisdom
 
 Transmutation
 
-**Level:**Clr 2, Drd 2, Pal 2, Rgr 2, Sor/Wiz 2
+**Level:** Clr 2, Drd 2, Pal 2, Rgr 2, Sor/Wiz 2
 
-**Components:**V, S, M/DF
+**Components:** V, S, M/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 The transmuted creature becomes wiser. The spell grants a +4 enhancement bonus to Wisdom, adding the usual benefit to Wisdom-related skills. Clerics, druids, paladins, and rangers (and other Wisdom-based spellcasters) who receiveowl’s wisdomdo not gain any additional bonus spells for the increased Wisdom, but the save DCs for their spells increase.
 
@@ -1634,11 +1634,11 @@ Owl’s Wisdom, Mass
 
 Transmutation
 
-**Level:**Clr 6, Drd 6, Sor/Wiz 6
+**Level:** Clr 6, Drd 6, Sor/Wiz 6
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One creature/level, no two of which can be more than 30 ft. apart
+**Target:** One creature/level, no two of which can be more than 30 ft. apart
 
 This spell functions likeowl’s wisdom, except that it affects multiple creatures.
 

@@ -112,11 +112,11 @@ Although small, magmins are dangerous opponents. Their touch is effective agains
 
 A magmin’s natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
 
-**Combustion (Ex):**Anyone a magmin touches must succeed on a DC 12 Reflex save or take an extra 1d8 points of fire damage as clothes ignite or armor becomes searing hot. The damage continues for another 1d4+2 rounds after the magmin’s last successful attack. Magmins can also ignite flammable materials with a touch. The save DC is Constitution-based.
+**Combustion (Ex):** Anyone a magmin touches must succeed on a DC 12 Reflex save or take an extra 1d8 points of fire damage as clothes ignite or armor becomes searing hot. The damage continues for another 1d4+2 rounds after the magmin’s last successful attack. Magmins can also ignite flammable materials with a touch. The save DC is Constitution-based.
 
-**Fiery Aura (Ex):**Anyone within 20 feet of a magmin must succeed on a DC 12 Fortitude save or take 1d6 points of heat damage per round from the intense heat. The save DC is Constitution-based.
+**Fiery Aura (Ex):** Anyone within 20 feet of a magmin must succeed on a DC 12 Fortitude save or take 1d6 points of heat damage per round from the intense heat. The save DC is Constitution-based.
 
-**Melt Weapons (Ex):**Any metal weapon that strikes a magmin must succeed on a DC 12 Fortitude save or melt away into slag. The save DC is Constitution-based.
+**Melt Weapons (Ex):** Any metal weapon that strikes a magmin must succeed on a DC 12 Fortitude save or melt away into slag. The save DC is Constitution-based.
 
 
 
@@ -222,9 +222,9 @@ COMBAT
 
 A manticore begins most attacks with a volley of spikes, then closes. In the outdoors, it often uses its powerful wings to stay aloft during battle.
 
-**Spikes (Ex):**With a snap of its tail, a manticore can loose a volley of six spikes as a standard action (make an attack roll for each spike). This attack has a range of 180 feet with no range increment. All targets must be within 30 feet of each other. The creature can launch only twenty-four spikes in any 24-hour period.
+**Spikes (Ex):** With a snap of its tail, a manticore can loose a volley of six spikes as a standard action (make an attack roll for each spike). This attack has a range of 180 feet with no range increment. All targets must be within 30 feet of each other. The creature can launch only twenty-four spikes in any 24-hour period.
 
-**Skills:***Manticores have a +4 racial bonus on Spot checks.
+**Skills:** *Manticores have a +4 racial bonus on Spot checks.
 
 
 
@@ -336,9 +336,9 @@ COMBAT
 
 A medusa tries to disguise its true nature until the intended victim is within range of its petrifying gaze, using subterfuge and bluffing games to convince the target that there is no danger. It uses normal weapons to attack those who avert their eyes or survive its gaze, while its poisonous snakes strike at adjacent opponents.
 
-**Petrifying Gaze (Su):**Turn to stone permanently, 30 feet, Fortitude DC 15 negates. The save DC is Charisma-based.
+**Petrifying Gaze (Su):** Turn to stone permanently, 30 feet, Fortitude DC 15 negates. The save DC is Charisma-based.
 
-**Poison (Ex):**Injury, Fortitude DC 14, initial damage 1d6 Str, secondary damage 2d6 Str. The save DC is Constitution-based.
+**Poison (Ex):** Injury, Fortitude DC 14, initial damage 1d6 Str, secondary damage 2d6 Str. The save DC is Constitution-based.
 
 
 
@@ -356,13 +356,13 @@ All mephits fight by biting and clawing or by using a breath weapon, the nature 
 
 A mephit’s natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
 
-**Breath Weapon (Su):**A mephit can use its breath weapon once every 1d4 rounds as a standard action. See the individual descriptions for details.
+**Breath Weapon (Su):** A mephit can use its breath weapon once every 1d4 rounds as a standard action. See the individual descriptions for details.
 
-**Spell-Like Abilities:**All mephits have one or more spell-like abilities (save DC 12 + spell level). See the individual descriptions for details.
+**Spell-Like Abilities:** All mephits have one or more spell-like abilities (save DC 12 + spell level). See the individual descriptions for details.
 
-**Summon Mephit****(Sp):**Once per day, a mephit can attempt to summon another mephit of the same variety, much as though casting asummon monsterspell, but with only a 25% chance of success. Roll d%: On a failure, no creature answers the summons that day. A mephit that has just been summoned cannot use its own summon ability for 1 hour. This ability is the equivalent of a 2nd-level spell.
+**Summon Mephit** **(Sp):** Once per day, a mephit can attempt to summon another mephit of the same variety, much as though casting asummon monsterspell, but with only a 25% chance of success. Roll d%: On a failure, no creature answers the summons that day. A mephit that has just been summoned cannot use its own summon ability for 1 hour. This ability is the equivalent of a 2nd-level spell.
 
-**Fast Healing (Ex):**Mephits heal 2 points of damage each round, provided they are still alive and certain other conditions are met. See the individual descriptions for details.
+**Fast Healing (Ex):** Mephits heal 2 points of damage each round, provided they are still alive and certain other conditions are met. See the individual descriptions for details.
 
 
 
@@ -468,11 +468,11 @@ Air mephits speak Common and Auran.
 
 Combat
 
-**Breath Weapon (Su):**15-foot cone of dust and grit, damage 1d8, Reflex DC 12 half. The save DC is Constitution-based and includes a +1 racial bonus.
+**Breath Weapon (Su):** 15-foot cone of dust and grit, damage 1d8, Reflex DC 12 half. The save DC is Constitution-based and includes a +1 racial bonus.
 
-**Spell-Like Abilities:**Once per hour an air mephit can surround itself with vapor, duplicating the effect of ablurspell (caster level 3rd). Once per day it can usegust of wind(DC 14, caster level 6th) . The save DC is Charisma-based.
+**Spell-Like Abilities:** Once per hour an air mephit can surround itself with vapor, duplicating the effect of ablurspell (caster level 3rd). Once per day it can usegust of wind(DC 14, caster level 6th) . The save DC is Charisma-based.
 
-**Fast Healing (Ex):**An air mephit heals only if exposed to moving air, be it a breeze, a draft, a spell effect, or even the mephit fanning itself.
+**Fast Healing (Ex):** An air mephit heals only if exposed to moving air, be it a breeze, a draft, a spell effect, or even the mephit fanning itself.
 
 
 
@@ -580,11 +580,11 @@ Dust mephits speak Common and Auran.
 
 Combat
 
-**Breath Weapon (Su):**10-foot cone of irritating particles, damage 1d4, Reflex DC 12 half. Living creatures that fail their saves are tormented by itching skin and burning eyes. This effect imposes a –4 penalty to AC and a –2 penalty on attack rolls for 3 rounds. The save DC is Constitution-based and includes a +1 racial bonus.
+**Breath Weapon (Su):** 10-foot cone of irritating particles, damage 1d4, Reflex DC 12 half. Living creatures that fail their saves are tormented by itching skin and burning eyes. This effect imposes a –4 penalty to AC and a –2 penalty on attack rolls for 3 rounds. The save DC is Constitution-based and includes a +1 racial bonus.
 
-**Spell-Like Abilities:**Once per hour, a dust mephit can surround itself with a plume of dust, duplicating the effect of ablurspell (caster level 3rd). Once per day it can create a mass of roiling dust that duplicates the effect ofwind wall(DC 15, caster level 6th). The save DC is Charisma-based.
+**Spell-Like Abilities:** Once per hour, a dust mephit can surround itself with a plume of dust, duplicating the effect of ablurspell (caster level 3rd). Once per day it can create a mass of roiling dust that duplicates the effect ofwind wall(DC 15, caster level 6th). The save DC is Charisma-based.
 
-**Fast Healing (Ex):**A dust mephit heals only if in an arid, dusty environment.
+**Fast Healing (Ex):** A dust mephit heals only if in an arid, dusty environment.
 
 
 
@@ -692,13 +692,13 @@ Earth mephits speak Common and Terran.
 
 Combat
 
-**Breath Weapon (Su):**15-foot cone of rock shards and pebbles, damage 1d8, Reflex DC 13 half. The save DC is Constitution-based and includes a +1 racial bonus.
+**Breath Weapon (Su):** 15-foot cone of rock shards and pebbles, damage 1d8, Reflex DC 13 half. The save DC is Constitution-based and includes a +1 racial bonus.
 
 Spell-Like Abilities: 1/day—soften earth and stone. Caster level 6th.
 
-**Change Size****(Sp):**Once per hour, an earth mephit can magically change its size. This works just like anenlarge personspell, except that the power works only on the earth mephit. This is the equivalent of a 2nd-level spell.
+**Change Size** **(Sp):** Once per hour, an earth mephit can magically change its size. This works just like anenlarge personspell, except that the power works only on the earth mephit. This is the equivalent of a 2nd-level spell.
 
-**Fast Healing (Ex):**An earth mephit heals only if it is underground or buried up to its waist in earth.
+**Fast Healing (Ex):** An earth mephit heals only if it is underground or buried up to its waist in earth.
 
 
 
@@ -806,11 +806,11 @@ Fire mephits speak Common and Ignan.
 
 Combat
 
-**Breath Weapon (Su):**15-foot cone, damage 1d8 fire, Reflex half DC 12. The save DC is Constitution-based and includes a +1 racial adjustment.
+**Breath Weapon (Su):** 15-foot cone, damage 1d8 fire, Reflex half DC 12. The save DC is Constitution-based and includes a +1 racial adjustment.
 
-**Spell-Like Abilities:**1/hour—scorching ray(DC 14) as the spell cast by a 3rd-level sorcerer; 1/day—heat metal(DC 14). Caster level 6th. The save DC is Charisma-based.
+**Spell-Like Abilities:** 1/hour—scorching ray(DC 14) as the spell cast by a 3rd-level sorcerer; 1/day—heat metal(DC 14). Caster level 6th. The save DC is Charisma-based.
 
-**Fast Healing (Ex):**A fire mephit heals only if it is touching a flame at least as large as a torch.
+**Fast Healing (Ex):** A fire mephit heals only if it is touching a flame at least as large as a torch.
 
 
 
@@ -918,11 +918,11 @@ Ice mephits speak Common and Auran.
 
 Combat
 
-**Breath Weapon (Su):**10-foot cone of ice shards, damage 1d4 cold, Reflex DC 12 half. Living creatures that fail their saves are tormented by frostbitten skin and frozen eyes unless they have immunity to cold or are otherwise protected. This effect imposes a –4 penalty to AC and a –2 penalty on attack rolls for 3 rounds. The save DC is Constitution-based and includes a +1 racial bonus.
+**Breath Weapon (Su):** 10-foot cone of ice shards, damage 1d4 cold, Reflex DC 12 half. Living creatures that fail their saves are tormented by frostbitten skin and frozen eyes unless they have immunity to cold or are otherwise protected. This effect imposes a –4 penalty to AC and a –2 penalty on attack rolls for 3 rounds. The save DC is Constitution-based and includes a +1 racial bonus.
 
-**Spell-Like Abilities:**1/hour—magic missile(caster level 3rd); 1/day—chill metal(DC 14, caster level 6th). The save DC is Charisma-based.
+**Spell-Like Abilities:** 1/hour—magic missile(caster level 3rd); 1/day—chill metal(DC 14, caster level 6th). The save DC is Charisma-based.
 
-**Fast Healing (Ex):**An ice mephit heals only if it is touching a piece of ice of at least Tiny size or if the ambient temperature is 32°F. or below.
+**Fast Healing (Ex):** An ice mephit heals only if it is touching a piece of ice of at least Tiny size or if the ambient temperature is 32°F. or below.
 
 
 
@@ -1028,13 +1028,13 @@ Magma mephits speak Common and Ignan.
 
 Combat
 
-**Breath Weapon (Su):**10-foot cone of magma, damage 1d4 fire, Reflex DC 12 half. Living creatures that fail their saves are tormented by burned skin and seared eyes unless they have immunity to fire or are otherwise protected. This effect imposes a –4 penalty to AC and a –2 penalty on attack rolls for 3 rounds. The save DC is onstitution-based and includes a +1 racial bonus.
+**Breath Weapon (Su):** 10-foot cone of magma, damage 1d4 fire, Reflex DC 12 half. Living creatures that fail their saves are tormented by burned skin and seared eyes unless they have immunity to fire or are otherwise protected. This effect imposes a –4 penalty to AC and a –2 penalty on attack rolls for 3 rounds. The save DC is onstitution-based and includes a +1 racial bonus.
 
-**Spell-Like Abilities:**Once per hour, a magma mephit can useshapechangeto take the form of a pool of lava 3 feet in diameter and 6 inches deep. The mephit’s damage reduction improves to 20/magic when in this form. The mephit can’t attack while in lava form but can use other spell-like abilities. It can move at a speed of 10 feet, but it can’t run. In this form the mephit can pass through small holes or narrow openings, even mere cracks. The pool’s touch ignites flammable materials such as paper, straw, or dry wood.
+**Spell-Like Abilities:** Once per hour, a magma mephit can useshapechangeto take the form of a pool of lava 3 feet in diameter and 6 inches deep. The mephit’s damage reduction improves to 20/magic when in this form. The mephit can’t attack while in lava form but can use other spell-like abilities. It can move at a speed of 10 feet, but it can’t run. In this form the mephit can pass through small holes or narrow openings, even mere cracks. The pool’s touch ignites flammable materials such as paper, straw, or dry wood.
 
 Once per day a magma mephit can usepyrotechnics(DC 14). It can use itself as the fire source without harm. Caster level 6th. The save DC is Charisma-based.
 
-**Fast Healing (Ex):**A magma mephit heals only if it is touching magma, lava, or a flame at least as large as a torch.
+**Fast Healing (Ex):** A magma mephit heals only if it is touching magma, lava, or a flame at least as large as a torch.
 
 
 
@@ -1140,13 +1140,13 @@ Ooze mephits speak Common and Aquan.
 
 Combat
 
-**Breath Weapon (Su):**10-foot cone of caustic liquid, damage 1d4 acid, Reflex DC 13 half. Living creatures that fail their saves are tormented by itching skin and burning eyes unless they have immunity to acid or are otherwise protected. This effect imposes a –4 penalty to AC and a –2 penalty on attack rolls for 3 rounds. The save DC is Constitution-based and includes a +1 racial bonus.
+**Breath Weapon (Su):** 10-foot cone of caustic liquid, damage 1d4 acid, Reflex DC 13 half. Living creatures that fail their saves are tormented by itching skin and burning eyes unless they have immunity to acid or are otherwise protected. This effect imposes a –4 penalty to AC and a –2 penalty on attack rolls for 3 rounds. The save DC is Constitution-based and includes a +1 racial bonus.
 
-**Spell-Like Abilities:**Once per hour an ooze mephit can hurl an acidic blob that functions likeacid arrow(casterlevel 3rd). Once per day it can create a mass of smelly fog that duplicates the effect ofstinking cloud(DC 15, caster level 6th). The save DC is Charisma-based.
+**Spell-Like Abilities:** Once per hour an ooze mephit can hurl an acidic blob that functions likeacid arrow(casterlevel 3rd). Once per day it can create a mass of smelly fog that duplicates the effect ofstinking cloud(DC 15, caster level 6th). The save DC is Charisma-based.
 
-**Fast Healing (Ex):**An ooze mephit heals only if in a wet or muddy environment.
+**Fast Healing (Ex):** An ooze mephit heals only if in a wet or muddy environment.
 
-**Skills:**An ooze mephit has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.
+**Skills:** An ooze mephit has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.
 
 
 
@@ -1254,13 +1254,13 @@ Salt mephits speak Common and Terran.
 
 Combat
 
-**Breath Weapon (Su):**10-foot cone of salt crystals, damage 1d4, Reflex DC 13 half. Living creatures that fail their saves are tormented by itching skin and burning eyes. This effect imposes a –4 penalty to AC and a –2 penalty on attack rolls for 3 rounds. The save DC is Constitution-based and includes a +1 racial bonus.
+**Breath Weapon (Su):** 10-foot cone of salt crystals, damage 1d4, Reflex DC 13 half. Living creatures that fail their saves are tormented by itching skin and burning eyes. This effect imposes a –4 penalty to AC and a –2 penalty on attack rolls for 3 rounds. The save DC is Constitution-based and includes a +1 racial bonus.
 
-**Spell-Like Abilities:**Once per hour a salt mephit can useglitterdust(DC 14, caster level 3rd).
+**Spell-Like Abilities:** Once per hour a salt mephit can useglitterdust(DC 14, caster level 3rd).
 
 Once per day it can draw the moisture from an area in a 20-foot radius centered on itself. Living creatures within range take 2d8 points of damage (Fortitude DC 14 half; caster level 6th). This effect is especially devastating to plant creatures and aquatic creatures, which take a –2 penalty on their saving throws. This ability is the equivalent of a 2nd-level spell. The save DCs are Charisma-based.
 
-**Fast Healing (Ex):**A salt mephit heals only if in an arid environment.
+**Fast Healing (Ex):** A salt mephit heals only if in an arid environment.
 
 
 
@@ -1370,11 +1370,11 @@ Combat
 
 Unlike other mephits, steam mephits rush into combat eagerly, driven by an oversized ego.
 
-**Breath Weapon (Su):**10-foot cone of steam, damage 1d4 fire, Reflex DC 12 half. Living creatures that fail their saves are tormented by burned skin and seared eyes unless they have immunity to fire or are otherwise protected. This effect imposes a –4 penalty to AC and a –2 penalty on attack rolls for 3 rounds. The save DC is Constitution-based and includes a +1 racial bonus.
+**Breath Weapon (Su):** 10-foot cone of steam, damage 1d4 fire, Reflex DC 12 half. Living creatures that fail their saves are tormented by burned skin and seared eyes unless they have immunity to fire or are otherwise protected. This effect imposes a –4 penalty to AC and a –2 penalty on attack rolls for 3 rounds. The save DC is Constitution-based and includes a +1 racial bonus.
 
-**Spell-Like Abilities:**Once per hour a steam mephit can surround itself with a plume of vapor, duplicating the effect of ablurspell (caster level 3rd). Once per day it can create a rainstorm of boiling water that affects a 20-foot-square area. Living creatures caught in the storm take 2d6 points of fire damage (Reflex DC 14 half; caster level 6th). This ability is the equivalent of a 2nd-level spell. The save DCs are Charisma-based.
+**Spell-Like Abilities:** Once per hour a steam mephit can surround itself with a plume of vapor, duplicating the effect of ablurspell (caster level 3rd). Once per day it can create a rainstorm of boiling water that affects a 20-foot-square area. Living creatures caught in the storm take 2d6 points of fire damage (Reflex DC 14 half; caster level 6th). This ability is the equivalent of a 2nd-level spell. The save DCs are Charisma-based.
 
-**Fast Healing (Ex):**A steam mephit heals only if it is touching boiling water or is in a hot, humid area.
+**Fast Healing (Ex):** A steam mephit heals only if it is touching boiling water or is in a hot, humid area.
 
 
 
@@ -1482,13 +1482,13 @@ Water mephits speak Common and Aquan.
 
 Combat
 
-**Breath Weapon (Su):**15-foot cone of caustic liquid, damage 1d8 acid, Reflex DC 13 half. The save DC is Constitution-based and includes a +1 racial bonus.
+**Breath Weapon (Su):** 15-foot cone of caustic liquid, damage 1d8 acid, Reflex DC 13 half. The save DC is Constitution-based and includes a +1 racial bonus.
 
-**Spell-Like Abilities:**Once per hour a water mephit can hurl an acidic blob that functions likeacid arrow(casterlevel 3rd). Once per day it can create a mass of smelly fog that duplicates the effect of astinking cloudspell (DC 15, caster level 6th). The save DC is Charisma-based.
+**Spell-Like Abilities:** Once per hour a water mephit can hurl an acidic blob that functions likeacid arrow(casterlevel 3rd). Once per day it can create a mass of smelly fog that duplicates the effect of astinking cloudspell (DC 15, caster level 6th). The save DC is Charisma-based.
 
-**Fast Healing (Ex):**A water mephit heals only if it is exposed to rain or submerged up to its waist in water.
+**Fast Healing (Ex):** A water mephit heals only if it is exposed to rain or submerged up to its waist in water.
 
-**Skills:**A water mephit has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered.
+**Skills:** A water mephit has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered.
 
 It can use the run action while swimming, provided it swims in a straight line.
 
@@ -1604,9 +1604,9 @@ COMBAT
 
 Merfolk favor heavy crossbows of shell and coral that fire bolts fashioned from blowfish spines, with an underwater range increment of 30 feet. Merfolk often barrage their enemies before closing, when they resort to tridents.
 
-**Amphibious (Ex):**Merfolk can breathe both air and water, although they rarely travel more than a few feet from the water’s edge.
+**Amphibious (Ex):** Merfolk can breathe both air and water, although they rarely travel more than a few feet from the water’s edge.
 
-**Skills:**A merfolk has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.
+**Skills:** A merfolk has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.
 
 The merfolk warrior presented here had the following ability scores before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
 
@@ -1720,17 +1720,17 @@ COMBAT
 
 A mimic often surprises an unsuspecting adventurer, lashing out with a heavy pseudopod. The creature does not necessarily fight to the death if it can succeed in extorting treasure or food from a party.
 
-**Adhesive (Ex):**A mimic exudes a thick slime that acts as a powerful adhesive, holding fast any creatures or items that touch it. An adhesive-covered mimic automatically grapples any creature it hits with its slam attack. Opponents so grappled cannot get free while the mimic is alive without removing the adhesive first.
+**Adhesive (Ex):** A mimic exudes a thick slime that acts as a powerful adhesive, holding fast any creatures or items that touch it. An adhesive-covered mimic automatically grapples any creature it hits with its slam attack. Opponents so grappled cannot get free while the mimic is alive without removing the adhesive first.
 
 A weapon that strikes an adhesive-coated mimic is stuck fast unless the wielder succeeds on a DC 16 Reflex save. A successful DC 16 Strength check is needed to pry it off.
 
 Strong alcohol dissolves the adhesive, but the mimic still can grapple normally. A mimic can dissolve its adhesive at will, and the substance breaks down 5 rounds after the creature dies.
 
-**Crush (Ex):**A mimic deals 1d8+4 points of damage with a successful grapple check.
+**Crush (Ex):** A mimic deals 1d8+4 points of damage with a successful grapple check.
 
-**Mimic Shape (Ex):**A mimic can assume the general shape of any object that fills roughly 150 cubic feet (5 feet by 5 feet by 6 feet), such as a massive chest, a stout bed, or a wide door frame. The creature cannot substantially alter its size, though. A mimic’s body is hard and has a rough texture, no matter what appearance it might present. Anyone who examines the mimic can detect the ruse with a successful Spot check opposed by the mimic’s Disguise check. Of course, by this time it is generally far too late.
+**Mimic Shape (Ex):** A mimic can assume the general shape of any object that fills roughly 150 cubic feet (5 feet by 5 feet by 6 feet), such as a massive chest, a stout bed, or a wide door frame. The creature cannot substantially alter its size, though. A mimic’s body is hard and has a rough texture, no matter what appearance it might present. Anyone who examines the mimic can detect the ruse with a successful Spot check opposed by the mimic’s Disguise check. Of course, by this time it is generally far too late.
 
-**Skills:**A mimic has a +8 racial bonus on Disguise checks.
+**Skills:** A mimic has a +8 racial bonus on Disguise checks.
 
 
 
@@ -1838,11 +1838,11 @@ COMBAT
 
 Minotaurs prefer melee combat, where their great strength serves them well.
 
-**Powerful Charge (Ex):**A minotaur typically begins a battle by charging at an opponent, lowering its head to bring its mighty horns into play. In addition to the normal benefits and hazards of a charge, this allows the beast to make a single gore attack with a +9 attack bonus that deals 4d6+6 points of damage.
+**Powerful Charge (Ex):** A minotaur typically begins a battle by charging at an opponent, lowering its head to bring its mighty horns into play. In addition to the normal benefits and hazards of a charge, this allows the beast to make a single gore attack with a +9 attack bonus that deals 4d6+6 points of damage.
 
-**Natural Cunning (Ex):**Although minotaurs are not especially intelligent, they possess innate cunning and logical ability. This gives them immunity tomazespells, prevents them from ever becoming lost, and enables them to track enemies. Further, they are never caught flat-footed.
+**Natural Cunning (Ex):** Although minotaurs are not especially intelligent, they possess innate cunning and logical ability. This gives them immunity tomazespells, prevents them from ever becoming lost, and enables them to track enemies. Further, they are never caught flat-footed.
 
-**Skills:**Minotaurs have a +4 racial bonus on Search, Spot, and Listen checks.
+**Skills:** Minotaurs have a +4 racial bonus on Search, Spot, and Listen checks.
 
 MINOTAURS AS CHARACTERS
 
@@ -1984,9 +1984,9 @@ COMBAT
 
 Like zombies, mohrgs attack by slamming enemies with their fists. They often catch opponents flat-footed, for they move much faster than zombies.
 
-**Improved Grab (Ex):**To use this ability, a mohrg must hit a creature of its size or smaller with its slam attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity.
+**Improved Grab (Ex):** To use this ability, a mohrg must hit a creature of its size or smaller with its slam attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity.
 
-**Paralyzing Touch (Su):**A mohrg lashes out with its tongue in combat. An opponent the tongue touches must succeed on a DC 17 Fortitude save or become paralyzed for 1d4 minutes. The save DC is Charisma-based.**Create Spawn (Su):**Creatures killed by a mohrg rise after 1d4 days as zombies under the morhg’s control. They do not possess any of the abilities they had in life.
+**Paralyzing Touch (Su):** A mohrg lashes out with its tongue in combat. An opponent the tongue touches must succeed on a DC 17 Fortitude save or become paralyzed for 1d4 minutes. The save DC is Charisma-based.**Create Spawn (Su):** Creatures killed by a mohrg rise after 1d4 days as zombies under the morhg’s control. They do not possess any of the abilities they had in life.
 
 
 
@@ -2144,9 +2144,9 @@ Mummies can speak Common, but seldom bother to do so.
 
 COMBAT
 
-**Despair (Su):**At the mere sight of a mummy, the viewer must succeed on a DC 16 Will save or be paralyzed with fear for 1d4 rounds. Whether or not the save is successful, that creature cannot be affected again by the same mummy’s despair ability for 24 hours. The save DC is Charisma-based.
+**Despair (Su):** At the mere sight of a mummy, the viewer must succeed on a DC 16 Will save or be paralyzed with fear for 1d4 rounds. Whether or not the save is successful, that creature cannot be affected again by the same mummy’s despair ability for 24 hours. The save DC is Charisma-based.
 
-**Mummy Rot (Su):**Supernatural disease—slam, Fortitude DC 16, incubation period 1 minute; damage 1d6 Con and 1d6 Cha. The save DC is Charisma-based.
+**Mummy Rot (Su):** Supernatural disease—slam, Fortitude DC 16, incubation period 1 minute; damage 1d6 Con and 1d6 Cha. The save DC is Charisma-based.
 
 Unlike normal diseases, mummy rot continues until the victim reaches Constitution 0 (and dies) or is cured as described below.
 
@@ -2166,9 +2166,9 @@ Unusually powerful or evil individuals preserved as mummies sometimes rise as gr
 
 Mummy lords are often potent spellcasters. They are found as guardians of the tombs of high lords, priests, and mages. Most are sworn to defend for eternity the resting place of those whom they served in life, but in some cases a mummy lord’s unliving state is the result of a terrible curse or rite designed to punish treason, infidelity, or crimes of an even more abhorrent nature. A mummy lord of this sort is usually imprisoned in a tomb that is never meant to be opened again.
 
-**Despair (Su):**The save DC against this mummy lord’s despair is 17.
+**Despair (Su):** The save DC against this mummy lord’s despair is 17.
 
-**Mummy Rot (Su):**The save DC against this mummy lord’s mummy rot is 17.
+**Mummy Rot (Su):** The save DC against this mummy lord’s mummy rot is 17.
 
 Typical Cleric Spells Prepared(6/7/6/5/5/4; save DC 15 + spell level): 0—detect magic(2),guidance, read magic, resistance, virtue;1st—bane, command, deathwatch, divine favor, doom, sanctuary*, shield of faith;2nd—bull’s strength, death knell*, hold person, resist energy, silence, spiritual weapon;3rd—animate dead*, deeper darkness, dispel magic, invisibility purge, searing light;4th—air walk, dismissal, divine power, giant vermin, spell immunity*;5th—insect plague, slay living*, spell resistance, symbol of pain.
 
@@ -2292,17 +2292,17 @@ Combat
 
 Dark nagas prefer to fight from an elevated position where they get a good view of the battlefield while also staying out of reach.
 
-**Poison (Ex):**Injury, Fortitude DC 16 or lapse into a nightmare-haunted sleep for 2d4 minutes. The save DC is Constitution-based.
+**Poison (Ex):** Injury, Fortitude DC 16 or lapse into a nightmare-haunted sleep for 2d4 minutes. The save DC is Constitution-based.
 
-**Spells:**Dark nagas cast spells as 7th-level sorcerers.
+**Spells:** Dark nagas cast spells as 7th-level sorcerers.
 
 Typical Sorcerer Spells Known(6/7/7/5; save DC 13 + spell level): 0—daze, detect magic, light, mage hand, open/close, ray of frost, read magic;1st—expeditious retreat, magic missile, ray of enfeeblement, shield, silent image;2nd—cat’s grace, invisibility, scorching ray;3rd—displacement, lightning bolt.
 
-**Resistance to****Charm****:**Dark nagas have a +2 racial bonus on saving throws against allcharmeffects (not included in the statistics block).
+**Resistance to** **Charm** **:** Dark nagas have a +2 racial bonus on saving throws against allcharmeffects (not included in the statistics block).
 
-**Detect Thoughts (Su):**A dark naga can continuously use detect thoughts as the spell (caster level 9th; Will DC 15 negates). This ability is always active. The save DC is Charisma-based.
+**Detect Thoughts (Su):** A dark naga can continuously use detect thoughts as the spell (caster level 9th; Will DC 15 negates). This ability is always active. The save DC is Charisma-based.
 
-**Guarded Thoughts (Ex):**Dark nagas are immune to any form of mind reading.
+**Guarded Thoughts (Ex):** Dark nagas are immune to any form of mind reading.
 
 
 
@@ -2408,11 +2408,11 @@ Combat
 
 Guardian nagas usually warn off intruders before attacking. If the warning is ignored, they may begin a spell assault or spit poison.
 
-**Poison (Ex):**Injury or contact, Fortitude DC 19, initial and secondary damage 1d10 Con. The save DC is Constitution-based.
+**Poison (Ex):** Injury or contact, Fortitude DC 19, initial and secondary damage 1d10 Con. The save DC is Constitution-based.
 
-**Spit (Ex):**A guardian naga can spit its venom up to 30 feet as a standard action. This is a ranged touch attack with no range increment. Opponents hit by this attack must make successful saves (see above) to avoid the effect.
+**Spit (Ex):** A guardian naga can spit its venom up to 30 feet as a standard action. This is a ranged touch attack with no range increment. Opponents hit by this attack must make successful saves (see above) to avoid the effect.
 
-**Spells:**Guardian nagas cast spells as 9th-level sorcerers, and can also cast spells from the cleric list and from the Good and Law domains. The cleric spells and domain spells are considered arcane spells for a guardian naga, meaning that the creature does not need a divine focus to cast them.
+**Spells:** Guardian nagas cast spells as 9th-level sorcerers, and can also cast spells from the cleric list and from the Good and Law domains. The cleric spells and domain spells are considered arcane spells for a guardian naga, meaning that the creature does not need a divine focus to cast them.
 
 Typical Spells Known(6/7/7/7/5; save DC 14 + spell level): 0—cure minor wounds, daze, detect magic, light, mage hand, open/close, ray of frost, read magic;1st—cure light wounds, divine favor, expeditious retreat, mage armor, magic missile;2nd—detect thoughts, lesser restoration, see invisibility, scorching ray;3rd—cure serious wounds, dispel magic, lightning bolt;4th—divine power, greater invisibility.
 
@@ -2520,11 +2520,11 @@ Combat
 
 Spirit nagas meet foes boldly so as to use their gaze attacks to best effect. They quickly slither forward to bite foes that avert their eyes.
 
-**Charming Gaze (Su):**Ascharm person,30 feet, Will DC 19 negates. The save DC is Charisma-based.
+**Charming Gaze (Su):** Ascharm person,30 feet, Will DC 19 negates. The save DC is Charisma-based.
 
-**Poison (Ex):**Injury, Fortitude DC 18, initial and secondary damage 1d8 Con. The save DC is Constitution-based.
+**Poison (Ex):** Injury, Fortitude DC 18, initial and secondary damage 1d8 Con. The save DC is Constitution-based.
 
-**Spells:**Spirit nagas cast spells as 7th-level sorcerers, and can also cast spells from the cleric spell list and from the Chaos and Evil domains as arcane spells. The cleric spells and domain spells are considered arcane spells for a spirit naga, meaning that the creature does not need a divine focus to cast them.
+**Spells:** Spirit nagas cast spells as 7th-level sorcerers, and can also cast spells from the cleric spell list and from the Chaos and Evil domains as arcane spells. The cleric spells and domain spells are considered arcane spells for a spirit naga, meaning that the creature does not need a divine focus to cast them.
 
 Typical Spells Known(6/7/7/5; save DC 13 + spell level): 0—cure minor wounds, daze, detect magic, mage hand, open/close, ray of frost, read magic;1st—charm person, cure light wounds, divine favor, magic missile, shield of faith;2nd—cat’s grace, invisibility, summon swarm; 3rd—displacement, fireball.
 
@@ -2632,13 +2632,13 @@ Combat
 
 Water nagas prefer to stay mostly concealed in a body of water while they launch a spell attack.
 
-**Poison (Ex):**Injury, Fortitude DC 17, initial and secondary damage 1d8 Con. The save DC is Constitution-based.
+**Poison (Ex):** Injury, Fortitude DC 17, initial and secondary damage 1d8 Con. The save DC is Constitution-based.
 
-**Spells:**Water nagas cast spells as 7th-level sorcerers but never use fire spells.
+**Spells:** Water nagas cast spells as 7th-level sorcerers but never use fire spells.
 
 Typical Sorcerer Spells Known(6/7/7/4; save DC 12 + spell level): 0—acid splash, daze, detect magic, light, mage hand, open/close, read magic;1st—expeditious retreat, magic missile, obscuring mist, shield, true strike;2nd—invisibility, acid arrow, mirror image;3rd—protection from energy, suggestion.
 
-**Skills:**A water naga has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.
+**Skills:** A water naga has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.
 
 
 
@@ -2750,11 +2750,11 @@ These creatures rip through armor and flesh with their deadly teeth. They love t
 
 A night hag’s natural weapons, as well as any weapons it wields, are treated as evil-aligned for the purpose of overcoming damage reduction. Its natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
 
-**Disease (Ex):**Demon fever—bite, Fortitude DC 18, incubation period 1 day, damage 1d6 Con. Each day after the first, on a failed save, an afflicted creature must immediately succeed on another DC 18 Fortitude save or take 1 point of Constitution drain. The save DC is Constitution based.
+**Disease (Ex):** Demon fever—bite, Fortitude DC 18, incubation period 1 day, damage 1d6 Con. Each day after the first, on a failed save, an afflicted creature must immediately succeed on another DC 18 Fortitude save or take 1 point of Constitution drain. The save DC is Constitution based.
 
-**Spell-Like Abilities:**At will—detect chaos, detect evil, detect good, detect law, detect magic, magic missile, polymorph(self only),ray of enfeeblement(DC 12), sleep(DC 12).Caster level 8th. A night hag can useetherealnessat will (caster level 16th) so long as it possesses itsheartstone(see below). The save DCs are Charisma-based.
+**Spell-Like Abilities:** At will—detect chaos, detect evil, detect good, detect law, detect magic, magic missile, polymorph(self only),ray of enfeeblement(DC 12), sleep(DC 12).Caster level 8th. A night hag can useetherealnessat will (caster level 16th) so long as it possesses itsheartstone(see below). The save DCs are Charisma-based.
 
-**Dream Haunting (Su):**Night hags can visit the dreams of chaotic or evil individuals by using a special periapt known as aheartstoneto become ethereal, then hovering over the creature. Once a hag invades someone’s dreams, it rides on the victim’s back until dawn. The sleeper suffers from tormenting dreams and takes 1 point of Constitution drain upon awakening. Only another ethereal being can stop these nocturnal intrusions, by confronting and defeating the night hag.
+**Dream Haunting (Su):** Night hags can visit the dreams of chaotic or evil individuals by using a special periapt known as aheartstoneto become ethereal, then hovering over the creature. Once a hag invades someone’s dreams, it rides on the victim’s back until dawn. The sleeper suffers from tormenting dreams and takes 1 point of Constitution drain upon awakening. Only another ethereal being can stop these nocturnal intrusions, by confronting and defeating the night hag.
 
 HEARTSTONE
 
@@ -2922,15 +2922,15 @@ A nightmare can fight while carrying a rider, but the rider cannot also fight un
 
 A nightmare’s natural weapons, as well as any weapons it wields, are treated as evil-aligned for the purpose of overcoming damage reduction.
 
-**Flaming Hooves (Su):**A blow from a nightmare’s hooves sets combustible materials alight.
+**Flaming Hooves (Su):** A blow from a nightmare’s hooves sets combustible materials alight.
 
-**Smoke (Su):**During the excitement of battle, a nightmare snorts and neighs with rage. This snorting fills a 15-foot cone with a hot, sulfurous smoke that chokes and blinds opponents. Anyone in the cone must succeed on a DC 16 Fortitude save or take a –2 penalty on all attack and damage rolls until 1d6 minutes after leaving the cone. The cone lasts 1 round, and the nightmare uses it once as a free action during its turn each round. The save DC is Constitution-based.
+**Smoke (Su):** During the excitement of battle, a nightmare snorts and neighs with rage. This snorting fills a 15-foot cone with a hot, sulfurous smoke that chokes and blinds opponents. Anyone in the cone must succeed on a DC 16 Fortitude save or take a –2 penalty on all attack and damage rolls until 1d6 minutes after leaving the cone. The cone lasts 1 round, and the nightmare uses it once as a free action during its turn each round. The save DC is Constitution-based.
 
 Because of the smoke it gives off, a nightmare has concealment against creatures 5 feet away and total concealment against creatures 10 feet or farther away. The smoke does not obscure the nightmare’s vision at all.
 
-**Astral Projection and Etherealness (Su):**These abilities function just like the spells of the same names (caster level 20th); a nightmare can use either at will.
+**Astral Projection and Etherealness (Su):** These abilities function just like the spells of the same names (caster level 20th); a nightmare can use either at will.
 
-**Carrying Capacity:**A light load for a nightmare is up to 300 pounds; a medium load, 301–600 pounds; and a heavy load, 601–900 pounds.
+**Carrying Capacity:** A light load for a nightmare is up to 300 pounds; a medium load, 301–600 pounds; and a heavy load, 601–900 pounds.
 
 
 
@@ -2968,9 +2968,9 @@ Nightshade Abilities
 
 All nightshades have the following special abilities.
 
-**Aversion to Daylight (Ex):**If exposed to natural daylight (not merely adaylightspell), nightshades take a –4 penalty on all attack rolls, saving throws, and skill checks.
+**Aversion to Daylight (Ex):** If exposed to natural daylight (not merely adaylightspell), nightshades take a –4 penalty on all attack rolls, saving throws, and skill checks.
 
-**Desecrating Aura (Su):**All nightshades give off a 20-footradius emanation of utter desecration, imbuing their surroundings with negative energy. This ability works much like adesecratespell, except that the nightshade’s evil is so great that it is treated as the shrine of an evil power. All undead within 20 feet of the nightshade (including the creature itself ) gain a +2 profane bonus on attack rolls, damage rolls, and saving throws, and +2 hit points per HD. (The nightshade Hit Dice, attack, and save entries given here include these profane bonuses.) Charisma checks made to turn undead within this area take a –6 penalty.
+**Desecrating Aura (Su):** All nightshades give off a 20-footradius emanation of utter desecration, imbuing their surroundings with negative energy. This ability works much like adesecratespell, except that the nightshade’s evil is so great that it is treated as the shrine of an evil power. All undead within 20 feet of the nightshade (including the creature itself ) gain a +2 profane bonus on attack rolls, damage rolls, and saving throws, and +2 hit points per HD. (The nightshade Hit Dice, attack, and save entries given here include these profane bonuses.) Charisma checks made to turn undead within this area take a –6 penalty.
 
 A nightshade’s desecrating aura cannot be dispelled except by adispel evilspell or similar effect. If the effect is dispelled, the nightshade can resume it as a free action on its next turn. Its desecrating aura is suppressed if a nightshade enters aconsecratedorhallowedarea, but the nightshade’s presence also suppresses theconsecratedorhallowedeffect for as long as it remains in the area.
 
@@ -3086,19 +3086,19 @@ A nightcrawler attacks by burrowing through the ground and emerging to strike.
 
 A nightcrawler’s natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
 
-**Energy Drain (Su):**Living creatures inside a nightcrawler’s gizzard gain one negative level each round. The DC is 26 for the Fortitude save to remove a negative level. The save DC is Charisma-based.
+**Energy Drain (Su):** Living creatures inside a nightcrawler’s gizzard gain one negative level each round. The DC is 26 for the Fortitude save to remove a negative level. The save DC is Charisma-based.
 
 For each such negative level bestowed, the nightcrawler gains 5 temporary hit points.
 
-**Improved Grab (Ex):**To use this ability, a nightcrawler must hit with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can try to swallow the opponent in the following round.
+**Improved Grab (Ex):** To use this ability, a nightcrawler must hit with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can try to swallow the opponent in the following round.
 
-**Poison (Ex):**Injury, Fortitude DC 22, initial and secondary damage 2d6 Str. The save DC is Constitution-based.
+**Poison (Ex):** Injury, Fortitude DC 22, initial and secondary damage 2d6 Str. The save DC is Constitution-based.
 
-**Spell-Like Abilities:**At will—contagion(DC 18),deeper darkness, detect magic, greater dispel magic, haste, invisibility, see invisibility, unholy blight(DC 18); 3/day—cone of cold(DC 19),confusion(DC 18),hold monster(DC 19); 1/day—finger of death(DC 21),mass hold monster(DC 23),plane shift(DC 21). Caster level 25th. The save DCs are Charisma-based.
+**Spell-Like Abilities:** At will—contagion(DC 18),deeper darkness, detect magic, greater dispel magic, haste, invisibility, see invisibility, unholy blight(DC 18); 3/day—cone of cold(DC 19),confusion(DC 18),hold monster(DC 19); 1/day—finger of death(DC 21),mass hold monster(DC 23),plane shift(DC 21). Caster level 25th. The save DCs are Charisma-based.
 
-**Summon Undead (Su):**A nightcrawler can summon undead creatures once per night: 9–16 shadows, 3–6 greater shadows, or 2–4 dread wraiths. The undead arrive in 1d10 rounds and serve for 1 hour or until released.
+**Summon Undead (Su):** A nightcrawler can summon undead creatures once per night: 9–16 shadows, 3–6 greater shadows, or 2–4 dread wraiths. The undead arrive in 1d10 rounds and serve for 1 hour or until released.
 
-**Swallow Whole (Ex):**A nightcrawler can try to swallow a grabbed opponent of Huge or smaller size by making a successful grapple check. Once inside, the opponent takes 2d8+12 points of bludgeoning damage plus 12 points of acid damage per round from the nightcrawler’s gizzard and is subject to the creature’s energy drain. A swallowed creature can cut its way out by using a light slashing or piercing weapon to deal 35 points of damage to the gizzard (AC 21). Once the creature exits, muscular action closes the hole; another swallowed opponent must cut its own way out. A nightcrawler’s interior can hold 2 Huge, 8 Large, 32 Medium, 128 Small, 512 Tiny or smaller opponents.
+**Swallow Whole (Ex):** A nightcrawler can try to swallow a grabbed opponent of Huge or smaller size by making a successful grapple check. Once inside, the opponent takes 2d8+12 points of bludgeoning damage plus 12 points of acid damage per round from the nightcrawler’s gizzard and is subject to the creature’s energy drain. A swallowed creature can cut its way out by using a light slashing or piercing weapon to deal 35 points of damage to the gizzard (AC 21). Once the creature exits, muscular action closes the hole; another swallowed opponent must cut its own way out. A nightcrawler’s interior can hold 2 Huge, 8 Large, 32 Medium, 128 Small, 512 Tiny or smaller opponents.
 
 
 
@@ -3208,15 +3208,15 @@ Nightwalkers lurk in dark areas where they can almost always surprise the unwary
 
 A nightwalker’s natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
 
-**Crush Item (Su):**A nightwalker can destroy any weapon or item of Large size or smaller (even magic ones, but not artifacts) by picking it up and crushing it between its hands. The nightwalker must make a successful disarm attempt to grab an item held by an opponent. The item is entitled to a DC 34 Fortitude save to resist destruction. The save DC is Strength-based.
+**Crush Item (Su):** A nightwalker can destroy any weapon or item of Large size or smaller (even magic ones, but not artifacts) by picking it up and crushing it between its hands. The nightwalker must make a successful disarm attempt to grab an item held by an opponent. The item is entitled to a DC 34 Fortitude save to resist destruction. The save DC is Strength-based.
 
-**Evil Gaze (Su):**Fear, 30 feet. A creature that meets the nightwalker’s gaze must succeed on a DC 24 Will save or be paralyzed with fear for 1d8 rounds. Whether or not the save is successful, that creature cannot be affected again by the same nightshade’s gaze for 24 hours. This is a mind-affecting fear effect. The save DC is Charisma-based.
+**Evil Gaze (Su):** Fear, 30 feet. A creature that meets the nightwalker’s gaze must succeed on a DC 24 Will save or be paralyzed with fear for 1d8 rounds. Whether or not the save is successful, that creature cannot be affected again by the same nightshade’s gaze for 24 hours. This is a mind-affecting fear effect. The save DC is Charisma-based.
 
-**Spell-Like Abilities:**At will—contagion(DC 18),deeper darkness, detect magic, greater dispel magic, haste, see invisibility,andunholy blight(DC 18); 3/day—confusion(DC 18),hold monster(DC 19),invisibility;1/day—cone of cold(DC 19),finger of death(DC 21),plane shift(DC 21). Caster level 21st. The save DCs are Charisma-based.
+**Spell-Like Abilities:** At will—contagion(DC 18),deeper darkness, detect magic, greater dispel magic, haste, see invisibility,andunholy blight(DC 18); 3/day—confusion(DC 18),hold monster(DC 19),invisibility;1/day—cone of cold(DC 19),finger of death(DC 21),plane shift(DC 21). Caster level 21st. The save DCs are Charisma-based.
 
-**Summon Undead (Su):**A nightwalker can summon undead creatures once per night: 7–12 shadows, 2–5 greater shadows, or 1–2 dread wraiths. The undead arrive in 1d10 rounds and serve for 1 hour or until released.
+**Summon Undead (Su):** A nightwalker can summon undead creatures once per night: 7–12 shadows, 2–5 greater shadows, or 1–2 dread wraiths. The undead arrive in 1d10 rounds and serve for 1 hour or until released.
 
-**Skills:***When hiding in a dark area, a nightwalker gains a +8 racial bonus on Hide checks.
+**Skills:** *When hiding in a dark area, a nightwalker gains a +8 racial bonus on Hide checks.
 
 Tactics Round-by-Round
 
@@ -3346,13 +3346,13 @@ Nightwings prowl the night sky and dive onto their victims. They are all but inv
 
 A nightwing’s natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
 
-**Magic Drain (Su):**A nightwing can weaken magic armor, weapons, and shields by making a successful touch attack. The targeted item must succeed on a DC 22 Fortitude save or lose 1 point of its enhancement bonus. The save DC is Charisma-based. An item that loses its entire enhancement bonus becomes merely a masterwork item and loses any special abilities (such as flaming) as well. Castingdispel evilupon the item reverses the effect of the magic drain, provided this occurs within a number of days after the attack equal to the caster’s level and the caster succeeds on a DC 29 caster level check.
+**Magic Drain (Su):** A nightwing can weaken magic armor, weapons, and shields by making a successful touch attack. The targeted item must succeed on a DC 22 Fortitude save or lose 1 point of its enhancement bonus. The save DC is Charisma-based. An item that loses its entire enhancement bonus becomes merely a masterwork item and loses any special abilities (such as flaming) as well. Castingdispel evilupon the item reverses the effect of the magic drain, provided this occurs within a number of days after the attack equal to the caster’s level and the caster succeeds on a DC 29 caster level check.
 
-**Spell-Like Abilities:**At will—contagion(DC 18),deeper darkness, detect magic, haste, see invisibility, unholy blight(DC 18); 3/day—confusion(DC 18),greater dispel magic, hold monster(DC 19),invisibility;1/day—cone of cold(DC 19),finger of death(DC 21),plane shift(DC 21). Caster level 17th. The save DCs are Charisma-based.
+**Spell-Like Abilities:** At will—contagion(DC 18),deeper darkness, detect magic, haste, see invisibility, unholy blight(DC 18); 3/day—confusion(DC 18),greater dispel magic, hold monster(DC 19),invisibility;1/day—cone of cold(DC 19),finger of death(DC 21),plane shift(DC 21). Caster level 17th. The save DCs are Charisma-based.
 
-**Summon Undead (Su):**A nightwing can summon undead creatures once per night: 5–12 shadows, 2–4 greater shadows, or 1 dread wraith. The undead arrive in 1d10 rounds and serve for 1 hour or until released.
+**Summon Undead (Su):** A nightwing can summon undead creatures once per night: 5–12 shadows, 2–4 greater shadows, or 1 dread wraith. The undead arrive in 1d10 rounds and serve for 1 hour or until released.
 
-**Skills:***When hiding in a dark area or flying in a dark sky, a nightwing gains a +8 racial bonus on Hide checks.
+**Skills:** *When hiding in a dark area or flying in a dark sky, a nightwing gains a +8 racial bonus on Hide checks.
 
 
 
@@ -3458,21 +3458,21 @@ Nymphs speak Sylvan and Common.
 
 COMBAT
 
-**Blinding Beauty (Su):**This ability affects all humanoids within 30 feet of a nymph. Those who look directly at a nymph must succeed on a DC 17 Fortitude save or be blinded permanently as though by theblindnessspell. A nymph can suppress or resume this ability as a free action.
+**Blinding Beauty (Su):** This ability affects all humanoids within 30 feet of a nymph. Those who look directly at a nymph must succeed on a DC 17 Fortitude save or be blinded permanently as though by theblindnessspell. A nymph can suppress or resume this ability as a free action.
 
 The save DC is Charisma-based.
 
-**Spell-Like Abilities:**1/day—dimension door.Caster level 7th.
+**Spell-Like Abilities:** 1/day—dimension door.Caster level 7th.
 
-**Spells:**A nymph casts divine spells as a 7th-level druid.
+**Spells:** A nymph casts divine spells as a 7th-level druid.
 
 Typical Druid Spells Prepared(6/5/4/3/1, save DC 13 + spell level): 0—cure minor wounds, detect magic, flare, guidance, light, resistance;1st—calm animal, cure light wounds, entangle, longstrider, speak with animals;2nd—barkskin, heat metal, lesser restoration, tree shape;3rd—call lightning, cure moderate wounds, protection from energy;4th—rusting grasp.
 
-**Stunning Glance (Su):**As a standard action, a wrathful nymph can stun a creature within 30 feet with a look. The target creature must succeed on a DC 17 Fortitude save or be stunned for 2d4 rounds. The save DC is Charisma-based.
+**Stunning Glance (Su):** As a standard action, a wrathful nymph can stun a creature within 30 feet with a look. The target creature must succeed on a DC 17 Fortitude save or be stunned for 2d4 rounds. The save DC is Charisma-based.
 
-**Unearthly Grace (Su):**A nymph adds her Charisma modifier as a bonus on all her saving throws, and as a deflection bonus to her Armor Class. (The statistics block already reflects these bonuses).
+**Unearthly Grace (Su):** A nymph adds her Charisma modifier as a bonus on all her saving throws, and as a deflection bonus to her Armor Class. (The statistics block already reflects these bonuses).
 
-**Wild Empathy (Ex):**This power works like the druid’s wild empathy class feature, except that a nymph has a +6 racial bonus on the check.
+**Wild Empathy (Ex):** This power works like the druid’s wild empathy class feature, except that a nymph has a +6 racial bonus on the check.
 
-**Skills:**A nymph has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. She can always choose to take 10 on a Swim check, even if distracted or endangered. She can use the run action while swimming, provided she swims in a straight line.
+**Skills:** A nymph has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. She can always choose to take 10 on a Swim check, even if distracted or endangered. She can use the run action while swimming, provided she swims in a straight line.
 

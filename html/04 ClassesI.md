@@ -10,21 +10,21 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 ##### BARBARIAN
 
-**Alignment:**Any nonlawful.
+**Alignment:** Any nonlawful.
 
-**Hit Die:**d12.
-
-
+**Hit Die:** d12.
 
 
 
-**Class Skills**
+
+
+**Class Skills** 
 
 The barbarian’s class skills (and the key ability for each skill) are Climb (Str), Craft (Int), Handle Animal (Cha), Intimidate (Cha), Jump (Str), Listen (Wis), Ride (Dex), Survival (Wis), and Swim (Str).
 
-**Skill Points at 1st Level:**(4 + Int modifier) x4.
+**Skill Points at 1st Level:** (4 + Int modifier) x4.
 
-**Skill Points at Each Additional Level:**4 + Int modifier.
+**Skill Points at Each Additional Level:** 4 + Int modifier.
 
 
 
@@ -296,33 +296,33 @@ The barbarian’s class skills (and the key ability for each skill) are Climb (S
 
 All of the following are class features of the barbarian.
 
-**Weapon and Armor Proficiency:**A barbarian is proficient with all simple and martial weapons, light armor, medium armor, and shields (except tower shields).
+**Weapon and Armor Proficiency:** A barbarian is proficient with all simple and martial weapons, light armor, medium armor, and shields (except tower shields).
 
-**Fast Movement (Ex):**A barbarian’s land speed is faster than the norm for his race by +10 feet. This benefit applies only when he is wearing no armor, light armor, or medium armor and not carrying a heavy load. Apply this bonus before modifying the barbarian’s speed because of any load carried or armor worn.
+**Fast Movement (Ex):** A barbarian’s land speed is faster than the norm for his race by +10 feet. This benefit applies only when he is wearing no armor, light armor, or medium armor and not carrying a heavy load. Apply this bonus before modifying the barbarian’s speed because of any load carried or armor worn.
 
-**Illiteracy:**Barbarians are the only characters who do not automatically know how to read and write. A barbarian may spend 2 skill points to gain the ability to read and write all languages he is able to speak.
+**Illiteracy:** Barbarians are the only characters who do not automatically know how to read and write. A barbarian may spend 2 skill points to gain the ability to read and write all languages he is able to speak.
 
 A barbarian who gains a level in any other class automatically gains literacy. Any other character who gains a barbarian level does not lose the literacy he or she already had.
 
-**Rage (Ex):**A barbarian can fly into a rage a certain number of times per day. In a rage, a barbarian temporarily gains a +4 bonus to Strength, a +4 bonus to Constitution, and a +2 morale bonus on Will saves, but he takes a –2 penalty to Armor Class. The increase in Constitution increases the barbarian’s hit points by 2 points per level, but these hit points go away at the end of the rage when his Constitution score drops back to normal. (These extra hit points are not lost first the way temporary hit points are.) While raging, a barbarian cannot use any Charisma-, Dexterity-, or Intelligence-based skills (except for Balance, Escape Artist, Intimidate, and Ride), the Concentration skill, or any abilities that require patience or concentration, nor can he cast spells or activate magic items that require a command word, a spell trigger (such as a wand), or spell completion (such as a scroll) to function. He can use any feat he has except Combat Expertise, item creation feats, and metamagic feats. A fit of rage lasts for a number of rounds equal to 3 + the character’s (newly improved) Constitution modifier. A barbarian may prematurely end his rage. At the end of the rage, the barbarian loses the rage modifiers and restrictions and becomes fatigued (–2 penalty to Strength, –2 penalty to Dexterity, can’t charge or run) for the duration of the current encounter (unless he is a 17th-level barbarian, at which point this limitation no longer applies; see below).
+**Rage (Ex):** A barbarian can fly into a rage a certain number of times per day. In a rage, a barbarian temporarily gains a +4 bonus to Strength, a +4 bonus to Constitution, and a +2 morale bonus on Will saves, but he takes a –2 penalty to Armor Class. The increase in Constitution increases the barbarian’s hit points by 2 points per level, but these hit points go away at the end of the rage when his Constitution score drops back to normal. (These extra hit points are not lost first the way temporary hit points are.) While raging, a barbarian cannot use any Charisma-, Dexterity-, or Intelligence-based skills (except for Balance, Escape Artist, Intimidate, and Ride), the Concentration skill, or any abilities that require patience or concentration, nor can he cast spells or activate magic items that require a command word, a spell trigger (such as a wand), or spell completion (such as a scroll) to function. He can use any feat he has except Combat Expertise, item creation feats, and metamagic feats. A fit of rage lasts for a number of rounds equal to 3 + the character’s (newly improved) Constitution modifier. A barbarian may prematurely end his rage. At the end of the rage, the barbarian loses the rage modifiers and restrictions and becomes fatigued (–2 penalty to Strength, –2 penalty to Dexterity, can’t charge or run) for the duration of the current encounter (unless he is a 17th-level barbarian, at which point this limitation no longer applies; see below).
 
 A barbarian can fly into a rage only once per encounter. At 1st level he can use his rage ability once per day. At 4th level and every four levels thereafter, he can use it one additional time per day (to a maximum of six times per day at 20th level). Entering a rage takes no time itself, but a barbarian can do it only during his action, not in response to someone else’s action.
 
-**Uncanny Dodge (Ex):**At 2nd level, a barbarian retains his Dexterity bonus to AC (if any) even if he is caught flat-footed or struck by an invisible attacker. However, he still loses his Dexterity bonus to AC if immobilized. If a barbarian already has uncanny dodge from a different class, he automatically gains improved uncanny dodge (see below) instead.
+**Uncanny Dodge (Ex):** At 2nd level, a barbarian retains his Dexterity bonus to AC (if any) even if he is caught flat-footed or struck by an invisible attacker. However, he still loses his Dexterity bonus to AC if immobilized. If a barbarian already has uncanny dodge from a different class, he automatically gains improved uncanny dodge (see below) instead.
 
-**Trap Sense (Ex):**Starting at 3rd level, a barbarian gains a +1 bonus on Reflex saves made to avoid traps and a +1 dodge bonus to AC against attacks made by traps. These bonuses rise by +1 every three barbarian levels thereafter (6th, 9th, 12th, 15th, and 18th level). Trap sense bonuses gained from multiple classes stack.
+**Trap Sense (Ex):** Starting at 3rd level, a barbarian gains a +1 bonus on Reflex saves made to avoid traps and a +1 dodge bonus to AC against attacks made by traps. These bonuses rise by +1 every three barbarian levels thereafter (6th, 9th, 12th, 15th, and 18th level). Trap sense bonuses gained from multiple classes stack.
 
-**Improved Uncanny Dodge (Ex):**At 5th level and higher, a barbarian can no longer be flanked. This defense denies a rogue the ability to sneak attack the barbarian by flanking him, unless the attacker has at least four more rogue levels than the target has barbarian levels. If a character already has uncanny dodge (see above) from a second class, the character automatically gains improved uncanny dodge instead, and the levels from the classes that grant uncanny dodge stack to determine the minimum level a rogue must be to flank the character.
+**Improved Uncanny Dodge (Ex):** At 5th level and higher, a barbarian can no longer be flanked. This defense denies a rogue the ability to sneak attack the barbarian by flanking him, unless the attacker has at least four more rogue levels than the target has barbarian levels. If a character already has uncanny dodge (see above) from a second class, the character automatically gains improved uncanny dodge instead, and the levels from the classes that grant uncanny dodge stack to determine the minimum level a rogue must be to flank the character.
 
-**Damage Reduction (Ex):**At 7th level, a barbarian gains Damage Reduction. Subtract 1 from the damage the barbarian takes each time he is dealt damage from a weapon or a natural attack. At 10th level, and every three barbarian levels thereafter (13th, 16th, and 19th level), this damage reduction rises by 1 point. Damage reduction can reduce damage to 0 but not below 0.
+**Damage Reduction (Ex):** At 7th level, a barbarian gains Damage Reduction. Subtract 1 from the damage the barbarian takes each time he is dealt damage from a weapon or a natural attack. At 10th level, and every three barbarian levels thereafter (13th, 16th, and 19th level), this damage reduction rises by 1 point. Damage reduction can reduce damage to 0 but not below 0.
 
-**Greater Rage (Ex):**At 11th level, a barbarian’s bonuses to Strength and Constitution during his rage each increase to +6, and his morale bonus on Will saves increases to +3. The penalty to AC remains at –2.
+**Greater Rage (Ex):** At 11th level, a barbarian’s bonuses to Strength and Constitution during his rage each increase to +6, and his morale bonus on Will saves increases to +3. The penalty to AC remains at –2.
 
-**Indomitable Will (Ex):**While in a rage, a barbarian of 14th level or higher gains a +4 bonus on Will saves to resist enchantment spells. This bonus stacks with all other modifiers, including the morale bonus on Will saves he also receives during his rage.
+**Indomitable Will (Ex):** While in a rage, a barbarian of 14th level or higher gains a +4 bonus on Will saves to resist enchantment spells. This bonus stacks with all other modifiers, including the morale bonus on Will saves he also receives during his rage.
 
-**Tireless Rage (Ex):**At 17th level and higher, a barbarian no longer becomes fatigued at the end of his rage.
+**Tireless Rage (Ex):** At 17th level and higher, a barbarian no longer becomes fatigued at the end of his rage.
 
-**Mighty Rage (Ex):**At 20th level, a barbarian’s bonuses to Strength and Constitution during his rage each increase to +8, and his morale bonus on Will saves increases to +4. The penalty to AC remains at –2.
+**Mighty Rage (Ex):** At 20th level, a barbarian’s bonuses to Strength and Constitution during his rage each increase to +8, and his morale bonus on Will saves increases to +4. The penalty to AC remains at –2.
 
 
 
@@ -338,9 +338,9 @@ A barbarian who becomes lawful loses the ability to rage and cannot gain more le
 
 BARD
 
-**Alignment:**Any nonlawful.
+**Alignment:** Any nonlawful.
 
-**Hit Die:**d6.
+**Hit Die:** d6.
 
 #### 
 
@@ -350,9 +350,9 @@ BARD
 
 The bard’s class skills (and the key ability for each skill) are Appraise (Int), Balance (Dex), Bluff (Cha), Climb (Str), Concentration (Con), Craft (Int), Decipher Script (Int), Diplomacy (Cha), Disguise (Cha), Escape Artist (Dex), Gather Information (Cha), Hide (Dex), Jump (Str), Knowledge (all skills, taken individually) (Int), Listen (Wis), Move Silently (Dex), Perform (Cha), Profession (Wis), Sense Motive (Wis), Sleight of Hand (Dex), Speak Language (n/a), Spellcraft (Int), Swim (Str), Tumble (Dex), and Use Magic Device (Cha).
 
-**Skill Points at 1st Level:**(6 + Int modifier) x4.
+**Skill Points at 1st Level:** (6 + Int modifier) x4.
 
-**Skill Points at Each Additional Level:**6 + Int modifier.
+**Skill Points at Each Additional Level:** 6 + Int modifier.
 
 
 
@@ -1284,9 +1284,9 @@ The bard’s class skills (and the key ability for each skill) are Appraise (Int
 
 All of the following are class features of the bard.
 
-**Weapon and Armor Proficiency:**A bard is proficient with all simple weapons, plus the longsword, rapier, sap, short sword, shortbow, and whip. Bards are proficient with light armor and shields (except tower shields). A bard can cast bard spells while wearing light armor without incurring the normal arcane spell failure chance. However, like any other arcane spellcaster, a bard wearing medium or heavy armor or using a shield incurs a chance of arcane spell failure if the spell in question has a somatic component (most do). A multiclass bard still incurs the normal arcane spell failure chance for arcane spells received from other classes.
+**Weapon and Armor Proficiency:** A bard is proficient with all simple weapons, plus the longsword, rapier, sap, short sword, shortbow, and whip. Bards are proficient with light armor and shields (except tower shields). A bard can cast bard spells while wearing light armor without incurring the normal arcane spell failure chance. However, like any other arcane spellcaster, a bard wearing medium or heavy armor or using a shield incurs a chance of arcane spell failure if the spell in question has a somatic component (most do). A multiclass bard still incurs the normal arcane spell failure chance for arcane spells received from other classes.
 
-**Spells:**A bard casts arcane spells, which are drawn from the bard spell list. He can cast any spell he knows without preparing it ahead of time. Every bard spell has a verbal component (singing, reciting, or music). To learn or cast a spell, a bard must have a Charisma score equal to at least 10 + the spell. The Difficulty Class for a saving throw against a bard’s spell is 10 + the spell level + the bard’s Charisma modifier.
+**Spells:** A bard casts arcane spells, which are drawn from the bard spell list. He can cast any spell he knows without preparing it ahead of time. Every bard spell has a verbal component (singing, reciting, or music). To learn or cast a spell, a bard must have a Charisma score equal to at least 10 + the spell. The Difficulty Class for a saving throw against a bard’s spell is 10 + the spell level + the bard’s Charisma modifier.
 
 Like other spellcasters, a bard can cast only a certain number of spells of each spell level per day. His base daily spell allotment is given on Table: The Bard. In addition, he receives bonus spells per day if he has a high Charisma score. When Table: Bard Spells Known indicates that the bard gets 0 spells per day of a given spell level, he gains only the bonus spells he would be entitled to based on his Charisma score for that spell level.
 
@@ -1296,7 +1296,7 @@ Upon reaching 5th level, and at every third bard level after that (8th, 11th, an
 
 As noted above, a bard need not prepare his spells in advance. He can cast any spell he knows at any time, assuming he has not yet used up his allotment of spells per day for the spell’s level.
 
-**Bardic Knowledge:**A bard may make a special bardic knowledge check with a bonus equal to his bard level + his Intelligence modifier to see whether he knows some relevant information about local notable people, legendary items, or noteworthy places. (If the bard has 5 or more ranks in Knowledge (history), he gains a +2 bonus on this check.)
+**Bardic Knowledge:** A bard may make a special bardic knowledge check with a bonus equal to his bard level + his Intelligence modifier to see whether he knows some relevant information about local notable people, legendary items, or noteworthy places. (If the bard has 5 or more ranks in Knowledge (history), he gains a +2 bonus on this check.)
 
 A successful bardic knowledge check will not reveal the powers of a magic item but may give a hint as to its general function. A bard may not take 10 or take 20 on this check; this sort of knowledge is essentially random.
 
@@ -1332,7 +1332,7 @@ A successful bardic knowledge check will not reveal the powers of a magic item b
 
 
 
-**Bardic Music:**Once per day per bard level, a bard can use his song or poetics to produce magical effects on those around him (usually including himself, if desired). While these abilities fall under the category of bardic music and the descriptions discuss singing or playing instruments, they can all be activated by reciting poetry, chanting, singing lyrical songs, singing melodies, whistling, playing an instrument, or playing an instrument in combination with some spoken performance. Each ability requires both a minimum bard level and a minimum number of ranks in the Perform skill to qualify; if a bard does not have the required number of ranks in at least one Perform skill, he does not gain the bardic music ability until he acquires the needed ranks.
+**Bardic Music:** Once per day per bard level, a bard can use his song or poetics to produce magical effects on those around him (usually including himself, if desired). While these abilities fall under the category of bardic music and the descriptions discuss singing or playing instruments, they can all be activated by reciting poetry, chanting, singing lyrical songs, singing melodies, whistling, playing an instrument, or playing an instrument in combination with some spoken performance. Each ability requires both a minimum bard level and a minimum number of ranks in the Perform skill to qualify; if a bard does not have the required number of ranks in at least one Perform skill, he does not gain the bardic music ability until he acquires the needed ranks.
 
 Starting a bardic music effect is a standard action. Some bardic music abilities require concentration, which means the bard must take a standard action each round to maintain the ability. Even while using bardic music that doesn’t require concentration, a bard cannot cast spells, activate magic items by spell completion (such as scrolls), or activate magic items by magic word (such as wands). Just as for casting a spell with a verbal component, a deaf bard has a 20% chance to fail when attempting to use bardic music. If he fails, the attempt still counts against his daily limit.
 
@@ -1376,9 +1376,9 @@ A bard who becomes lawful in alignment cannot progress in levels as a bard, thou
 
 CLERIC
 
-**Alignment:**A cleric’s alignment must be within one step of his deity’s (that is, it may be one step away on either the lawful–chaotic axis or the good–evil axis, but not both). A cleric may not be neutral unless his deity’s alignment is also neutral.
+**Alignment:** A cleric’s alignment must be within one step of his deity’s (that is, it may be one step away on either the lawful–chaotic axis or the good–evil axis, but not both). A cleric may not be neutral unless his deity’s alignment is also neutral.
 
-**Hit Die:**d8.
+**Hit Die:** d8.
 
 #### 
 
@@ -1388,11 +1388,11 @@ CLERIC
 
 The cleric’s class skills (and the key ability for each skill) are Concentration (Con), Craft (Int), Diplomacy (Cha), Heal (Wis), Knowledge (arcana) (Int), Knowledge (history) (Int), Knowledge (religion) (Int), Knowledge (the planes) (Int), Profession (Wis), and Spellcraft (Int).
 
-**Domains and Class Skills:**A cleric who chooses the Animal or Plant domain adds Knowledge (nature) (Int) to the cleric class skills listed above. A cleric who chooses the Knowledge domain adds all Knowledge (Int) skills to the list. A cleric who chooses the Travel domain adds Survival (Wis) to the list. A cleric who chooses the Trickery domain adds Bluff (Cha), Disguise (Cha), and Hide (Dex) to the list. See Deity, Domains, and Domain Spells, below, for more information.
+**Domains and Class Skills:** A cleric who chooses the Animal or Plant domain adds Knowledge (nature) (Int) to the cleric class skills listed above. A cleric who chooses the Knowledge domain adds all Knowledge (Int) skills to the list. A cleric who chooses the Travel domain adds Survival (Wis) to the list. A cleric who chooses the Trickery domain adds Bluff (Cha), Disguise (Cha), and Hide (Dex) to the list. See Deity, Domains, and Domain Spells, below, for more information.
 
-**Skill Points at 1st Level:**(2 + Int modifier) x4.
+**Skill Points at 1st Level:** (2 + Int modifier) x4.
 
-**Skill Points at Each Additional Level:**2 + Int modifier.
+**Skill Points at Each Additional Level:** 2 + Int modifier.
 
 #### 
 
@@ -2102,13 +2102,13 @@ The cleric’s class skills (and the key ability for each skill) are Concentrati
 
 All of the following are class features of the cleric.
 
-**Weapon and Armor Proficiency:**Clerics are proficient with all simple weapons, with all types of armor (light, medium, and heavy), and with shields (except tower shields).
+**Weapon and Armor Proficiency:** Clerics are proficient with all simple weapons, with all types of armor (light, medium, and heavy), and with shields (except tower shields).
 
 A cleric who chooses the War domain receives the Weapon Focus feat related to his deity’s weapon as a bonus feat. He also receives the appropriate Martial Weapon Proficiency feat as a bonus feat, if the weapon falls into that category.
 
-**Aura (Ex):**A cleric of a chaotic, evil, good, or lawful deity has a particularly powerful aura corresponding to the deity’s alignment (see thedetect evilspell for details). Clerics who don’t worship a specific deity but choose the Chaotic, Evil, Good, or Lawful domain have a similarly powerful aura of the corresponding alignment.
+**Aura (Ex):** A cleric of a chaotic, evil, good, or lawful deity has a particularly powerful aura corresponding to the deity’s alignment (see thedetect evilspell for details). Clerics who don’t worship a specific deity but choose the Chaotic, Evil, Good, or Lawful domain have a similarly powerful aura of the corresponding alignment.
 
-**Spells:**A cleric casts divine spells, which are drawn from the cleric spell list. However, his alignment may restrict him from casting certain spells opposed to his moral or ethical beliefs; see Chaotic, Evil, Good, and Lawful Spells, below. A cleric must choose and prepare his spells in advance (see below).
+**Spells:** A cleric casts divine spells, which are drawn from the cleric spell list. However, his alignment may restrict him from casting certain spells opposed to his moral or ethical beliefs; see Chaotic, Evil, Good, and Lawful Spells, below. A cleric must choose and prepare his spells in advance (see below).
 
 To prepare or cast a spell, a cleric must have a Wisdom score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a cleric’s spell is 10 + the spell level + the cleric’s Wisdom modifier.
 
@@ -2116,7 +2116,7 @@ Like other spellcasters, a cleric can cast only a certain number of spells of ea
 
 Clerics meditate or pray for their spells. Each cleric must choose a time at which he must spend 1 hour each day in quiet contemplation or supplication to regain his daily allotment of spells. Time spent resting has no effect on whether a cleric can prepare spells. A cleric may prepare and cast any spell on the cleric spell list, provided that he can cast spells of that level, but he must choose which spells to prepare during his daily meditation.
 
-**Deity, Domains, and Domain Spells:**A cleric’s deity influences his alignment, what magic he can perform, his values, and how others see him. A cleric chooses two domains from among those belonging to his deity. A cleric can select an alignment domain (Chaos, Evil, Good, or Law) only if his alignment matches that domain.
+**Deity, Domains, and Domain Spells:** A cleric’s deity influences his alignment, what magic he can perform, his values, and how others see him. A cleric chooses two domains from among those belonging to his deity. A cleric can select an alignment domain (Chaos, Evil, Good, or Law) only if his alignment matches that domain.
 
 If a cleric is not devoted to a particular deity, he still selects two domains to represent his spiritual inclinations and abilities. The restriction on alignment domains still applies.
 
@@ -2124,21 +2124,21 @@ Each domain gives the cleric access to a domain spell at each spell level he can
 
 With access to two domain spells at a given spell level, a cleric prepares one or the other each day in his domain spell slot. If a domain spell is not on the cleric spell list, a cleric can prepare it only in his domain spell slot.
 
-**Spontaneous Casting:**A good cleric (or a neutral cleric of a good deity) can channel stored spell energy into healing spells that the cleric did not prepare ahead of time. The cleric can “lose” any prepared spell that is not a domain spell in order to cast anycurespell of the same spell level or lower (acurespell is any spell with “cure” in its name).
+**Spontaneous Casting:** A good cleric (or a neutral cleric of a good deity) can channel stored spell energy into healing spells that the cleric did not prepare ahead of time. The cleric can “lose” any prepared spell that is not a domain spell in order to cast anycurespell of the same spell level or lower (acurespell is any spell with “cure” in its name).
 
 An evil cleric (or a neutral cleric of an evil deity), can’t convert prepared spells tocurespells but can convert them toinflictspells (aninflictspell is one with “inflict” in its name).
 
 A cleric who is neither good nor evil and whose deity is neither good nor evil can convert spells to eithercurespells orinflictspells (player’s choice). Once the player makes this choice, it cannot be reversed. This choice also determines whether the cleric turns or commands undead (see below).
 
-**Chaotic, Evil, Good, and Lawful Spells:**A cleric can’t cast spells of an alignment opposed to his own or his deity’s (if he has one). Spells associated with particular alignments are indicated by the chaos, evil, good, and law descriptors in their spell descriptions.
+**Chaotic, Evil, Good, and Lawful Spells:** A cleric can’t cast spells of an alignment opposed to his own or his deity’s (if he has one). Spells associated with particular alignments are indicated by the chaos, evil, good, and law descriptors in their spell descriptions.
 
-**Turn or Rebuke Undead (Su):**Any cleric, regardless of alignment, has the power to affect undead creatures by channeling the power of his faith through his holy (or unholy) symbol (see Turn or Rebuke Undead).
+**Turn or Rebuke Undead (Su):** Any cleric, regardless of alignment, has the power to affect undead creatures by channeling the power of his faith through his holy (or unholy) symbol (see Turn or Rebuke Undead).
 
 A good cleric (or a neutral cleric who worships a good deity) can turn or destroy undead creatures. An evil cleric (or a neutral cleric who worships an evil deity) instead rebukes or commands such creatures. A neutral cleric of a neutral deity must choose whether his turning ability functions as that of a good cleric or an evil cleric. Once this choice is made, it cannot be reversed. This decision also determines whether the cleric can cast spontaneouscureorinflictspells (see above).
 
 A cleric may attempt to turn undead a number of times per day equal to 3 + his Charisma modifier. A cleric with 5 or more ranks in Knowledge (religion) gets a +2 bonus on turning checks against undead.
 
-**Bonus Languages:**A cleric’s bonus language options include Celestial, Abyssal, and Infernal (the languages of good, chaotic evil, and lawful evil outsiders, respectively). These choices are in addition to the bonus languages available to the character because of his race.
+**Bonus Languages:** A cleric’s bonus language options include Celestial, Abyssal, and Infernal (the languages of good, chaotic evil, and lawful evil outsiders, respectively). These choices are in addition to the bonus languages available to the character because of his race.
 
 
 
@@ -2154,9 +2154,9 @@ A cleric who grossly violates the code of conduct required by his god loses all 
 
 ##### DRUID
 
-**Alignment:**Neutral good, lawful neutral, neutral, chaotic neutral, or neutral evil.
+**Alignment:** Neutral good, lawful neutral, neutral, chaotic neutral, or neutral evil.
 
-**Hit Die:**d8.
+**Hit Die:** d8.
 
 #### 
 
@@ -2166,9 +2166,9 @@ A cleric who grossly violates the code of conduct required by his god loses all 
 
 The druid’s class skills (and the key ability for each skill) are Concentration (Con), Craft (Int), Diplomacy (Cha), Handle Animal (Cha), Heal (Wis), Knowledge (nature) (Int), Listen (Wis), Profession (Wis), Ride (Dex), Spellcraft (Int), Spot (Wis), Survival (Wis), and Swim (Str).
 
-**Skill Points at 1st Level:**(4 + Int modifier) x4.
+**Skill Points at 1st Level:** (4 + Int modifier) x4.
 
-**Skill Points at Each Additional Level:**4 + Int modifier.
+**Skill Points at Each Additional Level:** 4 + Int modifier.
 
 #### 
 
@@ -2874,13 +2874,13 @@ The druid’s class skills (and the key ability for each skill) are Concentratio
 
 All of the following are class features of the druid.
 
-**Weapon and Armor Proficiency:**Druids are proficient with the following weapons: club, dagger, dart, quarterstaff, scimitar, sickle, shortspear, sling, and spear. They are also proficient with all natural attacks (claw, bite, and so forth) of any form they assume with wild shape (see below).
+**Weapon and Armor Proficiency:** Druids are proficient with the following weapons: club, dagger, dart, quarterstaff, scimitar, sickle, shortspear, sling, and spear. They are also proficient with all natural attacks (claw, bite, and so forth) of any form they assume with wild shape (see below).
 
 Druids are proficient with light and medium armor but are prohibited from wearing metal armor; thus, they may wear only padded, leather, or hide armor. (A druid may also wear wooden armor that has been altered by theironwoodspell so that it functions as though it were steel. See theironwoodspell description) Druids are proficient with shields (except tower shields) but must use only wooden ones.
 
 A druid who wears prohibited armor or carries a prohibited shield is unable to cast druid spells or use any of her supernatural or spell-like class abilities while doing so and for 24 hours thereafter.
 
-**Spells:**A druid casts divine spells, which are drawn from the druid spell list. Her alignment may restrict her from casting certain spells opposed to her moral or ethical beliefs; see Chaotic, Evil, Good, and Lawful Spells, below. A druid must choose and prepare her spells in advance (see below).
+**Spells:** A druid casts divine spells, which are drawn from the druid spell list. Her alignment may restrict her from casting certain spells opposed to her moral or ethical beliefs; see Chaotic, Evil, Good, and Lawful Spells, below. A druid must choose and prepare her spells in advance (see below).
 
 To prepare or cast a spell, the druid must have a Wisdom score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a druid’s spell is 10 + the spell level + the druid’s Wisdom modifier.
 
@@ -2888,23 +2888,23 @@ Like other spellcasters, a druid can cast only a certain number of spells of eac
 
 A druid prepares and casts spells the way a cleric does, though she cannot lose a prepared spell to cast acurespell in its place (but see Spontaneous Casting, below). A druid may prepare and cast any spell on the druid spell list, provided that she can cast spells of that level, but she must choose which spells to prepare during her daily meditation.
 
-**Spontaneous Casting:**A druid can channel stored spell energy into summoning spells that she hasn’t prepared ahead of time. She can “lose” a prepared spell in order to cast anysummon nature’s allyspell of the same level or lower.**Chaotic, Evil, Good, and Lawful Spells:**A druid can’t cast spells of an alignment opposed to her own or her deity’s (if she has one). Spells associated with particular alignments are indicated by the chaos, evil, good, and law descriptors in their spell descriptions.
+**Spontaneous Casting:** A druid can channel stored spell energy into summoning spells that she hasn’t prepared ahead of time. She can “lose” a prepared spell in order to cast anysummon nature’s allyspell of the same level or lower.**Chaotic, Evil, Good, and Lawful Spells:** A druid can’t cast spells of an alignment opposed to her own or her deity’s (if she has one). Spells associated with particular alignments are indicated by the chaos, evil, good, and law descriptors in their spell descriptions.
 
-**Bonus Languages:**A druid’s bonus language options include Sylvan, the language of woodland creatures. This choice is in addition to the bonus languages available to the character because of her race.
+**Bonus Languages:** A druid’s bonus language options include Sylvan, the language of woodland creatures. This choice is in addition to the bonus languages available to the character because of her race.
 
 A druid also knows Druidic, a secret language known only to druids, which she learns upon becoming a 1st-level druid. Druidic is a free language for a druid; that is, she knows it in addition to her regular allotment of languages and it doesn’t take up a language slot. Druids are forbidden to teach this language to nondruids.
 
 Druidic has its own alphabet.
 
-**Animal Companion (Ex):**A druid may begin play with an animal companion selected from the following list: badger, camel, dire rat, dog, riding dog, eagle, hawk, horse (light or heavy), owl, pony, snake (Small or Medium viper), or wolf. If the campaign takes place wholly or partly in an aquatic environment, the following creatures are also available: crocodile, porpoise, Medium shark, and squid. This animal is a loyal companion that accompanies the druid on her adventures as appropriate for its kind.
+**Animal Companion (Ex):** A druid may begin play with an animal companion selected from the following list: badger, camel, dire rat, dog, riding dog, eagle, hawk, horse (light or heavy), owl, pony, snake (Small or Medium viper), or wolf. If the campaign takes place wholly or partly in an aquatic environment, the following creatures are also available: crocodile, porpoise, Medium shark, and squid. This animal is a loyal companion that accompanies the druid on her adventures as appropriate for its kind.
 
 A 1st-level druid’s companion is completely typical for its kind except as noted below. As a druid advances in level, the animal’s power increases as shown on the table. If a druid releases her companion from service, she may gain a new one by performing a ceremony requiring 24 uninterrupted hours of prayer. This ceremony can also replace an animal companion that has perished.
 
 A druid of 4th level or higher may select from alternative lists of animals (see below). Should she select an animal companion from one of these alternative lists, the creature gains abilities as if the character’s druid level were lower than it actually is. Subtract the value indicated in the appropriate list header from the character’s druid level and compare the result with the druid level entry on the table to determine the animal companion’s powers. (If this adjustment would reduce the druid’s effective level to 0 or lower, she can’t have that animal as a companion.)
 
-**Nature Sense (Ex):**A druid gains a +2 bonus on Knowledge (nature) and Survival checks.
+**Nature Sense (Ex):** A druid gains a +2 bonus on Knowledge (nature) and Survival checks.
 
-**Wild Empathy (Ex):**A druid can improve the attitude of an animal. This ability functions just like a Diplomacy check made to improve the attitude of a person. The druid rolls 1d20 and adds her druid level and her Charisma modifier to determine the wild empathy check result.
+**Wild Empathy (Ex):** A druid can improve the attitude of an animal. This ability functions just like a Diplomacy check made to improve the attitude of a person. The druid rolls 1d20 and adds her druid level and her Charisma modifier to determine the wild empathy check result.
 
 The typical domestic animal has a starting attitude of indifferent, while wild animals are usually unfriendly.
 
@@ -2912,13 +2912,13 @@ To use wild empathy, the druid and the animal must be able to study each other, 
 
 A druid can also use this ability to influence a magical beast with an Intelligence score of 1 or 2, but she takes a –4 penalty on the check.
 
-**Woodland Stride (Ex):**Starting at 2nd level, a druid may move through any sort of undergrowth (such as natural thorns, briars, overgrown areas, and similar terrain) at her normal speed and without taking damage or suffering any other impairment. However, thorns, briars, and overgrown areas that have been magically manipulated to impede motion still affect her.
+**Woodland Stride (Ex):** Starting at 2nd level, a druid may move through any sort of undergrowth (such as natural thorns, briars, overgrown areas, and similar terrain) at her normal speed and without taking damage or suffering any other impairment. However, thorns, briars, and overgrown areas that have been magically manipulated to impede motion still affect her.
 
-**Trackless Step (Ex):**Starting at 3rd level, a druid leaves no trail in natural surroundings and cannot be tracked. She may choose to leave a trail if so desired.
+**Trackless Step (Ex):** Starting at 3rd level, a druid leaves no trail in natural surroundings and cannot be tracked. She may choose to leave a trail if so desired.
 
-**Resist Nature’s Lure (Ex):**Starting at 4th level, a druid gains a +4 bonus on saving throws against the spell-like abilities of fey.
+**Resist Nature’s Lure (Ex):** Starting at 4th level, a druid gains a +4 bonus on saving throws against the spell-like abilities of fey.
 
-**Wild Shape (Su):**At 5th level, a druid gains the ability to turn herself into any Small or Medium animal and back again once per day. Her options for new forms include all creatures with the animal type. This ability functions like thepolymorphspell, except as noted here. The effect lasts for 1 hour per druid level, or until she changes back. Changing form (to animal or back) is a standard action and doesn’t provoke an attack of opportunity.
+**Wild Shape (Su):** At 5th level, a druid gains the ability to turn herself into any Small or Medium animal and back again once per day. Her options for new forms include all creatures with the animal type. This ability functions like thepolymorphspell, except as noted here. The effect lasts for 1 hour per druid level, or until she changes back. Changing form (to animal or back) is a standard action and doesn’t provoke an attack of opportunity.
 
 The form chosen must be that of an animal the druid is familiar with.
 
@@ -2934,11 +2934,11 @@ At 16th level, a druid becomes able to use wild shape to change into a Small, Me
 
 At 18th level, a druid becomes able to assume elemental form twice per day, and at 20th level she can do so three times per day. At 20th level, a druid may use this wild shape ability to change into a Huge elemental.
 
-**Venom Immunity (Ex):**At 9th level, a druid gains immunity to all poisons.
+**Venom Immunity (Ex):** At 9th level, a druid gains immunity to all poisons.
 
-**A Thousand Faces (Su):**At 13th level, a druid gains the ability to change her appearance at will, as if using thealter selfspell, but only while in her normal form.
+**A Thousand Faces (Su):** At 13th level, a druid gains the ability to change her appearance at will, as if using thealter selfspell, but only while in her normal form.
 
-**Timeless Body (Ex):**After attaining 15th level, a druid no longer takes ability score penalties for aging and cannot be magically aged. Any penalties she may have already incurred, however, remain in place.
+**Timeless Body (Ex):** After attaining 15th level, a druid no longer takes ability score penalties for aging and cannot be magically aged. Any penalties she may have already incurred, however, remain in place.
 
 Bonuses still accrue, and the druid still dies of old age when her time is up.
 
@@ -3062,7 +3062,7 @@ A druid’s animal companion is different from a normal animal of its kind in ma
 
 ![04 ClassesI-Table07.png](04 ClassesI-Table07.png)
 
-**Animal Companion Basics:**Use the base statistics for a creature of the companion’s kind,but make the following changes.
+**Animal Companion Basics:** Use the base statistics for a creature of the companion’s kind,but make the following changes.
 
 Class Level:The character’s druid level. The druid’s class levels stack with levels of any other classes that are entitled to an animal companion for the purpose of determining the companion’s abilities and the alternative lists available to the character.
 
@@ -3100,7 +3100,7 @@ A druid of sufficiently high level can select her animal companion from one of t
 
 
 
-**4th Level or Higher (Level –3)**
+**4th Level or Higher (Level –3)** 
 
 Ape (animal)
 
@@ -3112,7 +3112,7 @@ Boar (animal)
 
 Cheetah (animal)
 
-Crocodile (animal)**1**
+Crocodile (animal)**1** 
 
 Dire badger
 
@@ -3124,7 +3124,7 @@ Leopard (animal)
 
 Lizard, monitor (animal)
 
-Shark, Large**1******(animal)
+Shark, Large**1** **** (animal)
 
 Snake, constrictor (animal)
 
@@ -3136,7 +3136,7 @@ Wolverine (animal)
 
 
 
-**7th Level or Higher (Level –6)**
+**7th Level or Higher (Level –6)** 
 
 Bear, brown (animal)
 
@@ -3152,7 +3152,7 @@ Dire boar
 
 Dire wolf
 
-Elasmosaurus**1******(dinosaur)
+Elasmosaurus**1** **** (dinosaur)
 
 Lion (animal)
 
@@ -3166,7 +3166,7 @@ Tiger (animal)
 
 
 
-**10th Level or Higher (Level –9)**
+**10th Level or Higher (Level –9)** 
 
 Bear, polar (animal)
 
@@ -3174,35 +3174,35 @@ Dire lion
 
 Megaraptor (dinosaur)
 
-Shark, Huge**1******(animal)
+Shark, Huge**1** **** (animal)
 
 Snake, giant constrictor (animal)
 
-Whale, orca**1******(animal)
+Whale, orca**1** **** (animal)
 
 
 
 
 
-**13th Level or Higher (Level –12)**
+**13th Level or Higher (Level –12)** 
 
 Dire bear
 
 Elephant (animal)
 
-Octopus, giant**1******(animal)
+Octopus, giant**1** **** (animal)
 
 
 
 
 
-**16th Level or Higher (Level –15)**
+**16th Level or Higher (Level –15)** 
 
-Dire shark**1******
+Dire shark**1** **** 
 
 Dire tiger
 
-Squid, giant**1******(animal)
+Squid, giant**1** **** (animal)
 
 Triceratops (dinosaur)
 
@@ -3220,9 +3220,9 @@ Tyrannosaurus (dinosaur)
 
 FIGHTER
 
-**Alignment:**Any.
+**Alignment:** Any.
 
-**Hit Die:**d10.
+**Hit Die:** d10.
 
 #### 
 
@@ -3232,9 +3232,9 @@ FIGHTER
 
 The fighter’s class skills (and the key ability for each skill) are Climb (Str), Craft (Int), Handle Animal (Cha), Intimidate (Cha), Jump (Str), Ride (Dex), and Swim (Str).
 
-**Skill Points at 1st Level:**(2 + Int modifier) x4.
+**Skill Points at 1st Level:** (2 + Int modifier) x4.
 
-**Skill Points at Each Additional Level:**2 + Int modifier.
+**Skill Points at Each Additional Level:** 2 + Int modifier.
 
 
 
@@ -3506,9 +3506,9 @@ The fighter’s class skills (and the key ability for each skill) are Climb (Str
 
 All of the following are class features of the fighter.
 
-**Weapon and Armor Proficiency:**A fighter is proficient with all simple and martial weapons and with all armor (heavy, medium, and light) and shields (including tower shields).
+**Weapon and Armor Proficiency:** A fighter is proficient with all simple and martial weapons and with all armor (heavy, medium, and light) and shields (including tower shields).
 
-**Bonus Feats:**At 1st level, a fighter gets a bonus combat-oriented feat in addition to the feat that any 1st-level character gets and the bonus feat granted to a human character. The fighter gains an additional bonus feat at 2nd level and every two fighter levels thereafter (4th, 6th, 8th, 10th, 12th, 14th, 16th, 18th, and 20th). These bonus feats must be drawn from the feats noted as fighter bonus feats. A fighter must still meet all prerequisites for a bonus feat, including ability score and base attack bonus minimums.
+**Bonus Feats:** At 1st level, a fighter gets a bonus combat-oriented feat in addition to the feat that any 1st-level character gets and the bonus feat granted to a human character. The fighter gains an additional bonus feat at 2nd level and every two fighter levels thereafter (4th, 6th, 8th, 10th, 12th, 14th, 16th, 18th, and 20th). These bonus feats must be drawn from the feats noted as fighter bonus feats. A fighter must still meet all prerequisites for a bonus feat, including ability score and base attack bonus minimums.
 
 These bonus feats are in addition to the feat that a character of any class gets from advancing levels. A fighter is not limited to the list of fighter bonus feats when choosing these feats.
 
@@ -3518,9 +3518,9 @@ These bonus feats are in addition to the feat that a character of any class gets
 
 MONK
 
-**Alignment:**Any lawful.
+**Alignment:** Any lawful.
 
-**Hit Die:**d8.
+**Hit Die:** d8.
 
 #### 
 
@@ -3530,9 +3530,9 @@ MONK
 
 The monk’s class skills (and the key ability for each skill) are Balance (Dex), Climb (Str), Concentration (Con), Craft (Int), Diplomacy (Cha), Escape Artist (Dex), Hide (Dex), Jump (Str), Knowledge (arcana) (Int), Knowledge (religion) (Int), Listen (Wis), Move Silently (Dex), Perform (Cha), Profession (Wis), Sense Motive (Wis), Spot (Wis), Swim (Str), and Tumble (Dex).
 
-**Skill Points at 1st Level:**(4 + Int modifier) x4.
+**Skill Points at 1st Level:** (4 + Int modifier) x4.
 
-**Skill Points at Each Additional Level:**4 + Int modifier.
+**Skill Points at Each Additional Level:** 4 + Int modifier.
 
 
 
@@ -3986,17 +3986,17 @@ The monk’s class skills (and the key ability for each skill) are Balance (Dex)
 
 All of the following are class features of the monk.
 
-**Weapon and Armor Proficiency:**Monks are proficient with club, crossbow (light or heavy), dagger, handaxe, javelin, kama, nunchaku, quarterstaff, sai, shuriken, siangham, and sling.
+**Weapon and Armor Proficiency:** Monks are proficient with club, crossbow (light or heavy), dagger, handaxe, javelin, kama, nunchaku, quarterstaff, sai, shuriken, siangham, and sling.
 
 Monks are not proficient with any armor or shields
 
 When wearing armor, using a shield, or carrying a medium or heavy load, a monk loses her AC bonus, as well as her fast movement and flurry of blows abilities.
 
-**AC Bonus (Ex):**When unarmored and unencumbered, the monk adds her Wisdom bonus (if any) to her AC. In addition, a monk gains a +1 bonus to AC at 5th level. This bonus increases by 1 for every five monk levels thereafter (+2 at 10th, +3 at 15th, and +4 at 20th level).
+**AC Bonus (Ex):** When unarmored and unencumbered, the monk adds her Wisdom bonus (if any) to her AC. In addition, a monk gains a +1 bonus to AC at 5th level. This bonus increases by 1 for every five monk levels thereafter (+2 at 10th, +3 at 15th, and +4 at 20th level).
 
 These bonuses to AC apply even against touch attacks or when the monk is flat-footed. She loses these bonuses when she is immobilized or helpless, when she wears any armor, when she carries a shield, or when she carries a medium or heavy load.
 
-**Flurry of Blows (Ex):**When unarmored, a monk may strike with a flurry of blows at the expense of accuracy. When doing so, she may make one extra attack in a round at her highest base attack bonus, but this attack takes a –2 penalty, as does each other attack made that round. The resulting modified base attack bonuses are shown in the Flurry of Blows Attack Bonus column on Table: The Monk. This penalty applies for 1 round, so it also affects attacks of opportunity the monk might make before her next action. When a monk reaches 5th level, the penalty lessens to –1, and at 9th level it disappears. A monk must use a full attack action to strike with a flurry of blows.
+**Flurry of Blows (Ex):** When unarmored, a monk may strike with a flurry of blows at the expense of accuracy. When doing so, she may make one extra attack in a round at her highest base attack bonus, but this attack takes a –2 penalty, as does each other attack made that round. The resulting modified base attack bonuses are shown in the Flurry of Blows Attack Bonus column on Table: The Monk. This penalty applies for 1 round, so it also affects attacks of opportunity the monk might make before her next action. When a monk reaches 5th level, the penalty lessens to –1, and at 9th level it disappears. A monk must use a full attack action to strike with a flurry of blows.
 
 When using flurry of blows, a monk may attack only with unarmed strikes or with special monk weapons (kama, nunchaku, quarterstaff, sai, shuriken, and siangham). She may attack with unarmed strikes and special monk weapons interchangeably as desired. When using weapons as part of a flurry of blows, a monk applies her Strength bonus (not Str bonus x 1-1/2 or x1/2) to her damage rolls for all successful attacks, whether she wields a weapon in one or both hands. The monk can’t use any weapon other than a special monk weapon as part of a flurry of blows.
 
@@ -4004,7 +4004,7 @@ In the case of the quarterstaff, each end counts as a separate weapon for the pu
 
 When a monk reaches 11th level, her flurry of blows ability improves. In addition to the standard single extra attack she gets from flurry of blows, she gets a second extra attack at her full base attack bonus.
 
-**Unarmed Strike:**At 1st level, a monk gains Improved Unarmed Strike as a bonus feat. A monk’s attacks may be with either fist interchangeably or even from elbows, knees, and feet. This means that a monk may even make unarmed strikes with her hands full. There is no such thing as an off-hand attack for a monk striking unarmed. A monk may thus apply her full Strength bonus on damage rolls for all her unarmed strikes.
+**Unarmed Strike:** At 1st level, a monk gains Improved Unarmed Strike as a bonus feat. A monk’s attacks may be with either fist interchangeably or even from elbows, knees, and feet. This means that a monk may even make unarmed strikes with her hands full. There is no such thing as an off-hand attack for a monk striking unarmed. A monk may thus apply her full Strength bonus on damage rolls for all her unarmed strikes.
 
 Usually a monk’s unarmed strikes deal lethal damage, but she can choose to deal nonlethal damage instead with no penalty on her attack roll. She has the same choice to deal lethal or nonlethal damage while grappling.
 
@@ -4072,39 +4072,39 @@ A monk also deals more damage with her unarmed strikes than a normal person woul
 
 
 
-**Bonus Feat:**At 1st level, a monk may select either Improved Grapple or Stunning Fist as a bonus feat. At 2nd level, she may select either Combat Reflexes or Deflect Arrows as a bonus feat. At 6th level, she may select either Improved Disarm or Improved Trip as a bonus feat. A monk need not have any of the prerequisites normally required for these feats to select them.
+**Bonus Feat:** At 1st level, a monk may select either Improved Grapple or Stunning Fist as a bonus feat. At 2nd level, she may select either Combat Reflexes or Deflect Arrows as a bonus feat. At 6th level, she may select either Improved Disarm or Improved Trip as a bonus feat. A monk need not have any of the prerequisites normally required for these feats to select them.
 
-**Evasion (Ex):**At 2nd level or higher if a monk makes a successful Reflex saving throw against an attack that normally deals half damage on a successful save, she instead takes no damage. Evasion can be used only if a monk is wearing light armor or no armor. A helpless monk does not gain the benefit of evasion.
+**Evasion (Ex):** At 2nd level or higher if a monk makes a successful Reflex saving throw against an attack that normally deals half damage on a successful save, she instead takes no damage. Evasion can be used only if a monk is wearing light armor or no armor. A helpless monk does not gain the benefit of evasion.
 
-**Fast Movement (Ex):**At 3rd level, a monk gains an enhancement bonus to her speed, as shown on Table: The Monk. A monk in armor or carrying a medium or heavy load loses this extra speed.
+**Fast Movement (Ex):** At 3rd level, a monk gains an enhancement bonus to her speed, as shown on Table: The Monk. A monk in armor or carrying a medium or heavy load loses this extra speed.
 
-**Still Mind (Ex):**A monk of 3rd level or higher gains a +2 bonus on saving throws against spells and effects from the school of enchantment.
+**Still Mind (Ex):** A monk of 3rd level or higher gains a +2 bonus on saving throws against spells and effects from the school of enchantment.
 
-**Ki****Strike (Su):**At 4th level, a monk’s unarmed attacks are empowered withki.Her unarmed attacks are treated as magic weapons for the purpose of dealing damage to creatures with damage reduction.Kistrike improves with the character’s monk level. At 10th level, her unarmed attacks are also treated as lawful weapons for the purpose of dealing damage to creatures with damage reduction. At 16th level, her unarmed attacks are treated as adamantine weapons for the purpose of dealing damage to creatures with damage reduction and bypassing hardness.
+**Ki** **Strike (Su):** At 4th level, a monk’s unarmed attacks are empowered withki.Her unarmed attacks are treated as magic weapons for the purpose of dealing damage to creatures with damage reduction.Kistrike improves with the character’s monk level. At 10th level, her unarmed attacks are also treated as lawful weapons for the purpose of dealing damage to creatures with damage reduction. At 16th level, her unarmed attacks are treated as adamantine weapons for the purpose of dealing damage to creatures with damage reduction and bypassing hardness.
 
-**Slow Fall (Ex):**At 4th level or higher, a monk within arm’s reach of a wall can use it to slow her descent. When first using this ability, she takes damage as if the fall were 20 feet shorter than it actually is. The monk’s ability to slow her fall (that is, to reduce the effective distance of the fall when next to a wall) improves with her monk level until at 20th level she can use a nearby wall to slow her descent and fall any distance without harm.
+**Slow Fall (Ex):** At 4th level or higher, a monk within arm’s reach of a wall can use it to slow her descent. When first using this ability, she takes damage as if the fall were 20 feet shorter than it actually is. The monk’s ability to slow her fall (that is, to reduce the effective distance of the fall when next to a wall) improves with her monk level until at 20th level she can use a nearby wall to slow her descent and fall any distance without harm.
 
-**Purity of Body (Ex):**At 5th level, a monk gains immunity to all diseases except for supernatural and magical diseases.
+**Purity of Body (Ex):** At 5th level, a monk gains immunity to all diseases except for supernatural and magical diseases.
 
-**Wholeness of Body (Su):**At 7th level or higher, a monk can heal her own wounds. She can heal a number of hit points of damage equal to twice her current monk level each day, and she can spread this healing out among several uses.
+**Wholeness of Body (Su):** At 7th level or higher, a monk can heal her own wounds. She can heal a number of hit points of damage equal to twice her current monk level each day, and she can spread this healing out among several uses.
 
-**Improved Evasion (Ex):**At 9th level, a monk’s evasion ability improves. She still takes no damage on a successful Reflex saving throw against attacks, but henceforth she takes only half damage on a failed save. A helpless monk does not gain the benefit of improved evasion.
+**Improved Evasion (Ex):** At 9th level, a monk’s evasion ability improves. She still takes no damage on a successful Reflex saving throw against attacks, but henceforth she takes only half damage on a failed save. A helpless monk does not gain the benefit of improved evasion.
 
-**Diamond Body (Su):**At 11th level, a monk gains immunity to poisons of all kinds.
+**Diamond Body (Su):** At 11th level, a monk gains immunity to poisons of all kinds.
 
-**Abundant Step (Su):**At 12th level or higher, a monk can slip magically between spaces, as if using the spelldimension door,once per day. Her caster level for this effect is one-half her monk level (rounded down).
+**Abundant Step (Su):** At 12th level or higher, a monk can slip magically between spaces, as if using the spelldimension door,once per day. Her caster level for this effect is one-half her monk level (rounded down).
 
-**Diamond Soul (Ex):**At 13th level, a monk gains spell resistance equal to her current monk level + 10. In order to affect the monk with a spell, a spellcaster must get a result on a caster level check (1d20 + caster level) that equals or exceeds the monk’s spell resistance.
+**Diamond Soul (Ex):** At 13th level, a monk gains spell resistance equal to her current monk level + 10. In order to affect the monk with a spell, a spellcaster must get a result on a caster level check (1d20 + caster level) that equals or exceeds the monk’s spell resistance.
 
-**Quivering Palm (Su):**Starting at 15th level, a monk can set up vibrations within the body of another creature that can thereafter be fatal if the monk so desires. She can use this quivering palm attack once a week, and she must announce her intent before making her attack roll. Constructs, oozes, plants, undead, incorporeal creatures, and creatures immune to critical hits cannot be affected. Otherwise, if the monk strikes successfully and the target takes damage from the blow, the quivering palm attack succeeds. Thereafter the monk can try to slay the victim at any later time, as long as the attempt is made within a number of days equal to her monk level. To make such an attempt, the monk merely wills the target to die (a free action), and unless the target makes a Fortitude saving throw (DC 10 + 1/2 the monk’s level + the monk’s Wis modifier), it dies. If the saving throw is successful, the target is no longer in danger from that particular quivering palm attack, but it may still be affected by another one at a later time.
+**Quivering Palm (Su):** Starting at 15th level, a monk can set up vibrations within the body of another creature that can thereafter be fatal if the monk so desires. She can use this quivering palm attack once a week, and she must announce her intent before making her attack roll. Constructs, oozes, plants, undead, incorporeal creatures, and creatures immune to critical hits cannot be affected. Otherwise, if the monk strikes successfully and the target takes damage from the blow, the quivering palm attack succeeds. Thereafter the monk can try to slay the victim at any later time, as long as the attempt is made within a number of days equal to her monk level. To make such an attempt, the monk merely wills the target to die (a free action), and unless the target makes a Fortitude saving throw (DC 10 + 1/2 the monk’s level + the monk’s Wis modifier), it dies. If the saving throw is successful, the target is no longer in danger from that particular quivering palm attack, but it may still be affected by another one at a later time.
 
-**Timeless Body (Ex):**Upon attaining 17th level, a monk no longer takes penalties to her ability scores for aging and cannot be magically aged. Any such penalties that she has already taken, however, remain in place. Bonuses still accrue, and the monk still dies of old age when her time is up.
+**Timeless Body (Ex):** Upon attaining 17th level, a monk no longer takes penalties to her ability scores for aging and cannot be magically aged. Any such penalties that she has already taken, however, remain in place. Bonuses still accrue, and the monk still dies of old age when her time is up.
 
-**Tongue of the Sun and Moon (Ex):**A monk of 17th level or higher can speak with any living creature.
+**Tongue of the Sun and Moon (Ex):** A monk of 17th level or higher can speak with any living creature.
 
-**Empty Body (Su):**At 19th level, a monk gains the ability to assume an ethereal state for 1 round per monk level per day, as though using the spelletherealness. She may go ethereal on a number of different occasions during any single day, as long as the total number of rounds spent in an ethereal state does not exceed her monk level.
+**Empty Body (Su):** At 19th level, a monk gains the ability to assume an ethereal state for 1 round per monk level per day, as though using the spelletherealness. She may go ethereal on a number of different occasions during any single day, as long as the total number of rounds spent in an ethereal state does not exceed her monk level.
 
-**Perfect Self:**At 20th level, a monk becomes a magical creature. She is forevermore treated as an outsider rather than as a humanoid (or whatever the monk’s creature type was) for the purpose of spells and magical effects. Additionally, the monk gains damage reduction 10/magic, which allows her to ignore the first 10 points of damage from any attack made by a nonmagical weapon or by any natural attack made by a creature that doesn’t have similar damage reduction. Unlike other outsiders, the monk can still be brought back from the dead as if she were a member of her previous creature type.
+**Perfect Self:** At 20th level, a monk becomes a magical creature. She is forevermore treated as an outsider rather than as a humanoid (or whatever the monk’s creature type was) for the purpose of spells and magical effects. Additionally, the monk gains damage reduction 10/magic, which allows her to ignore the first 10 points of damage from any attack made by a nonmagical weapon or by any natural attack made by a creature that doesn’t have similar damage reduction. Unlike other outsiders, the monk can still be brought back from the dead as if she were a member of her previous creature type.
 
 
 

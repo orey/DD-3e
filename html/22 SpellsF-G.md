@@ -12,21 +12,21 @@ Fabricate
 
 Transmutation
 
-**Level:**Sor/Wiz 5
+**Level:** Sor/Wiz 5
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**See text
+**Casting Time:** See text
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**Up to 10 cu. ft./level; see text
+**Target:** Up to 10 cu. ft./level; see text
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You convert material of one sort into a product that is of the same material. Creatures or magic items cannot be created or transmuted by thefabricatespell. The quality of items made by this spell is commensurate with the quality of material used as the basis for the new fabrication. If you work with a mineral, the target is reduced to 1 cubic foot per level instead of 10 cubic feet.
 
@@ -44,21 +44,21 @@ Faerie Fire
 
 Evocation [Light]
 
-**Level:**Drd 1
+**Level:** Drd 1
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Long (400 ft. + 40 ft./level)
+**Range:** Long (400 ft. + 40 ft./level)
 
-**Area:**Creatures and objects within a 5-ft.-radius burst
+**Area:** Creatures and objects within a 5-ft.-radius burst
 
-**Duration:**1 min./level (D)
+**Duration:** 1 min./level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 A pale glow surrounds and outlines the subjects. Outlined subjects shed light as candles. Outlined creatures do not benefit from the concealment normally provided by darkness (though a 2nd-level or higher magicaldarknesseffect functions normally),blur, displacement, invisibility, or similar effects. The light is too dim to have any special effect on undead or dark-dwelling creatures vulnerable to light. Thefaerie firecan be blue, green, or violet, according to your choice at the time of casting. Thefaerie firedoes not cause any harm to the objects or creatures thus outlined.
 
@@ -70,17 +70,17 @@ False Life
 
 Necromancy
 
-**Level:**Sor/Wiz 2
+**Level:** Sor/Wiz 2
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 hour/level or until discharged; see text
+**Duration:** 1 hour/level or until discharged; see text
 
 You harness the power of unlife to grant yourself a limited ability to avoid death. While this spell is in effect, you gain temporary hit points equal to 1d10 +1 per caster level (maximum +10).
 
@@ -94,21 +94,21 @@ False Vision
 
 Illusion (Glamer)
 
-**Level:**Brd 5, Sor/Wiz 5, Trickery 5
+**Level:** Brd 5, Sor/Wiz 5, Trickery 5
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Area:**40-ft.-radius emanation
+**Area:** 40-ft.-radius emanation
 
-**Duration:**1 hour/level (D)
+**Duration:** 1 hour/level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 Any divination (scrying) spell used to view anything within the area of this spell instead receives a false image (as themajor imagespell), as defined by you at the time of casting. As long as the duration lasts, you can concentrate to change the image as desired. While you aren’t concentrating, the image remains static.
 
@@ -122,21 +122,21 @@ Fear
 
 Necromancy [Fear, Mind-Affecting]
 
-**Level:**Brd 3, Sor/Wiz 4
+**Level:** Brd 3, Sor/Wiz 4
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**30 ft.
+**Range:** 30 ft.
 
-**Area:**Cone-shaped burst
+**Area:** Cone-shaped burst
 
-**Duration:**1 round/level or 1 round; see text
+**Duration:** 1 round/level or 1 round; see text
 
-**Saving Throw:**Will partial
+**Saving Throw:** Will partial
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 An invisible cone of terror causes each living creature in the area to become panicked unless it succeeds on a Will save. If cornered, a panicked creature begins cowering. If the Will save succeeds, the creature is shaken for 1 round.
 
@@ -150,21 +150,21 @@ Feather Fall
 
 Transmutation
 
-**Level:**Brd 1, Sor/Wiz 1
+**Level:** Brd 1, Sor/Wiz 1
 
-**Components:**V
+**Components:** V
 
-**Casting Time:**1 free action
+**Casting Time:** 1 free action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Targets:**One Medium or smaller freefalling object or creature/level, no two of which may be more than 20 ft. apart
+**Targets:** One Medium or smaller freefalling object or creature/level, no two of which may be more than 20 ft. apart
 
-**Duration:**Until landing or 1 round/level
+**Duration:** Until landing or 1 round/level
 
-**Saving Throw:**Will negates (harmless) or Will negates (object)
+**Saving Throw:** Will negates (harmless) or Will negates (object)
 
-**Spell Resistance:**Yes (object)
+**Spell Resistance:** Yes (object)
 
 The affected creatures or objects fall slowly.Feather fallinstantly changes the rate at which the targets fall to a mere 60 feet per round (equivalent to the end of a fall from a few feet), and the subjects take no damage upon landing while the spell is in effect. However, when the spell duration expires, a normal rate of falling resumes.
 
@@ -184,21 +184,21 @@ Feeblemind
 
 Enchantment (Compulsion) [Mind-Affecting]
 
-**Level:**Sor/Wiz 5
+**Level:** Sor/Wiz 5
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Target:**One creature
+**Target:** One creature
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Will negates; see text
+**Saving Throw:** Will negates; see text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 If the target creature fails a Will saving throw, its Intelligence and Charisma scores each drop to 1. The affected creature is unable to use Intelligence- or Charisma-based skills, cast spells, understand language, or communicate coherently. Still, it knows who its friends are and can follow them and even protect them. The subject remains in this state until aheal,limited wish,miracle, orwishspell is used to cancel the effect of thefeeblemind. A creature that can cast arcane spells, such as a sorcerer or a wizard, takes a –4 penalty on its saving throw.
 
@@ -212,21 +212,21 @@ Find the Path
 
 Divination
 
-**Level:**Brd 6, Clr 6, Drd 6, Knowledge 6, Travel 6
+**Level:** Brd 6, Clr 6, Drd 6, Knowledge 6, Travel 6
 
-**Components:**V, S, F
+**Components:** V, S, F
 
-**Casting Time:**3 rounds
+**Casting Time:** 3 rounds
 
-**Range:**Personal or touch
+**Range:** Personal or touch
 
-**Target:**You or creature touched
+**Target:** You or creature touched
 
-**Duration:**10 min./level
+**Duration:** 10 min./level
 
-**Saving Throw:**None or Will negates (harmless)
+**Saving Throw:** None or Will negates (harmless)
 
-**Spell Resistance:**No or Yes (harmless)
+**Spell Resistance:** No or Yes (harmless)
 
 The recipient of this spell can find the shortest, most direct physical route to a specified destination, be it the way into or out of a locale. The locale can be outdoors, underground, or even inside amazespell.Find the pathworks with respect to locations, not objects or creatures at a locale. The location must be on the same plane as you are at the time of casting.
 
@@ -244,17 +244,17 @@ Find Traps
 
 Divination
 
-**Level:**Clr 2
+**Level:** Clr 2
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
 You gain intuitive insight into the workings of traps. You can use the Search skill to detect traps just as a rogue can. In addition, you gain an insight bonus equal to one-half your caster level (maximum +10) on Search checks made to find traps while the spell is in effect.
 
@@ -268,21 +268,21 @@ Finger of Death
 
 Necromancy [Death]
 
-**Level:**Drd 8, Sor/Wiz 7
+**Level:** Drd 8, Sor/Wiz 7
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One living creature
+**Target:** One living creature
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Fortitude partial
+**Saving Throw:** Fortitude partial
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 You can slay any one living creature within range. The target is entitled to a Fortitude saving throw to survive the attack. If the save is successful, the creature instead takes 3d6 points of damage +1 point per caster level (maximum +25).
 
@@ -296,21 +296,21 @@ Fire Seeds
 
 Conjuration (Creation) [Fire]
 
-**Level:**Drd 6, Fire 6, Sun 6
+**Level:** Drd 6, Fire 6, Sun 6
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Targets:**Up to four touched acorns or up to eight touched holly berries
+**Targets:** Up to four touched acorns or up to eight touched holly berries
 
-**Duration:**10 min./level or until used
+**Duration:** 10 min./level or until used
 
-**Saving Throw:**None or Reflex half; see text
+**Saving Throw:** None or Reflex half; see text
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 Depending on the version offire seedsyou choose, you turn acorns into splash weapons that you or another character can throw, or you turn holly berries into bombs that you can detonate on command.
 
@@ -330,17 +330,17 @@ Fire Shield
 
 Evocation [Fire or Cold]
 
-**Level:**Fire 5, Sor/Wiz 4, Sun 4
+**Level:** Fire 5, Sor/Wiz 4, Sun 4
 
-**Components:**V, S, M/DF
+**Components:** V, S, M/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 round/level (D)
+**Duration:** 1 round/level (D)
 
 This spell wreathes you in flame and causes damage to each creature that attacks you in melee. The flames also protect you from either cold-based or fire-based attacks (your choice).
 
@@ -362,21 +362,21 @@ Fire Storm
 
 Evocation [Fire]
 
-**Level:**Clr 8, Drd 7, Fire 7
+**Level:** Clr 8, Drd 7, Fire 7
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 round
+**Casting Time:** 1 round
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Area:**Two 10-ft. cubes per level (S)
+**Area:** Two 10-ft. cubes per level (S)
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Reflex half
+**Saving Throw:** Reflex half
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 When afire stormspell is cast, the whole area is shot through with sheets of roaring flame. The raging flames do not harm natural vegetation, ground cover, and any plant creatures in the area that you wish to exclude from damage. Any other creature within the area takes 1d6 points of fire damage per caster level (maximum 20d6).
 
@@ -388,21 +388,21 @@ Fire Trap
 
 Abjuration [Fire]
 
-**Level:**Drd 2, Sor/Wiz 4
+**Level:** Drd 2, Sor/Wiz 4
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**10 minutes
+**Casting Time:** 10 minutes
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Object touched
+**Target:** Object touched
 
-**Duration:**Permanent until discharged (D)
+**Duration:** Permanent until discharged (D)
 
-**Saving Throw:**Reflex half; see text
+**Saving Throw:** Reflex half; see text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Fire trapcreates a fiery explosion when an intruder opens the item that the trap protects. Afire trapcan ward any object that can be opened and closed.
 
@@ -428,21 +428,21 @@ Fireball
 
 Evocation [Fire]
 
-**Level:**Sor/Wiz 3
+**Level:** Sor/Wiz 3
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Long (400 ft. + 40 ft./level)
+**Range:** Long (400 ft. + 40 ft./level)
 
-**Area:**20-ft.-radius spread
+**Area:** 20-ft.-radius spread
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Reflex half
+**Saving Throw:** Reflex half
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Afireballspell is an explosion of flame that detonates with a low roar and deals 1d6 points of fire damage per caster level (maximum 10d6) to every creature within the area. Unattended objects also take this damage. The explosion creates almost no pressure.
 
@@ -460,21 +460,21 @@ Flame Arrow
 
 Transmutation [Fire]
 
-**Level:**Sor/Wiz 3
+**Level:** Sor/Wiz 3
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**Fifty projectiles, all of which must be in contact with each other at the time of casting
+**Target:** Fifty projectiles, all of which must be in contact with each other at the time of casting
 
-**Duration:**10 min./level
+**Duration:** 10 min./level
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You turn ammunition (such as arrows, bolts, shuriken, and stones) into fiery projectiles. Each piece of ammunition deals an extra 1d6 points of fire damage to any target it hits. A flaming projectile can easily ignite a flammable object or structure, but it won’t ignite a creature it strikes.
 
@@ -488,21 +488,21 @@ Flame Blade
 
 Evocation [Fire]
 
-**Level:**Drd 2
+**Level:** Drd 2
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**0 ft.
+**Range:** 0 ft.
 
-**Effect:**Sword-like beam
+**Effect:** Sword-like beam
 
-**Duration:**1 min./level (D)
+**Duration:** 1 min./level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 A 3-foot-long, blazing beam of red-hot fire springs forth from your hand. You wield this bladelike beam as if it were a scimitar. Attacks with theflame bladeare melee touch attacks. The blade deals 1d8 points of fire damage +1 point per two caster levels (maximum +10). Since the blade is immaterial, your Strength modifier does not apply to the damage. Aflame bladecan ignite combustible materials such as parchment, straw, dry sticks, and cloth.
 
@@ -516,21 +516,21 @@ Flame Strike
 
 Evocation [Fire]
 
-**Level:**Clr 5, Drd 4, Sun 5, War 5
+**Level:** Clr 5, Drd 4, Sun 5, War 5
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Area:**Cylinder (10-ft. radius, 40 ft. high)
+**Area:** Cylinder (10-ft. radius, 40 ft. high)
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Reflex half
+**Saving Throw:** Reflex half
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Aflame strikeproduces a vertical column of divine fire roaring downward. The spell deals 1d6 points of damage per caster level (maximum 15d6). Half the damage is fire damage, but the other half results directly from divine power and is therefore not subject to being reduced by resistance to fire-based attacks.
 
@@ -542,21 +542,21 @@ Flaming Sphere
 
 Evocation [Fire]
 
-**Level:**Drd 2, Sor/Wiz 2
+**Level:** Drd 2, Sor/Wiz 2
 
-**Components:**V, S, M/DF
+**Components:** V, S, M/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Effect:**5-ft.-diameter sphere
+**Effect:** 5-ft.-diameter sphere
 
-**Duration:**1 round/level
+**Duration:** 1 round/level
 
-**Saving Throw:**Reflex negates
+**Saving Throw:** Reflex negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 A burning globe of fire rolls in whichever direction you point and burns those it strikes. It moves 30 feet per round. As part of this movement, it can ascend or jump up to 30 feet to strike a target. If it enters a space with a creature, it stops moving for the round and deals 2d6 points of fire damage to that creature, though a successful Reflex save negates that damage. Aflaming sphererolls over barriers less than 4 feet tall. It ignites flammable substances it touches and illuminates the same area as a torch would.
 
@@ -572,21 +572,21 @@ Flare
 
 Evocation [Light]
 
-**Level:**Brd 0, Drd 0, Sor/Wiz 0
+**Level:** Brd 0, Drd 0, Sor/Wiz 0
 
-**Components:**V
+**Components:** V
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Effect:**Burst of light
+**Effect:** Burst of light
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Fortitude negates
+**Saving Throw:** Fortitude negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 This cantrip creates a burst of light. If you cause the light to burst directly in front of a single creature, that creature is dazzled for 1 minute unless it makes a successful Fortitude save. Sightless creatures, as well as creatures already dazzled, are not affected byflare.
 
@@ -598,21 +598,21 @@ Flesh to Stone
 
 Transmutation
 
-**Level:**Sor/Wiz 6
+**Level:** Sor/Wiz 6
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Target:**One creature
+**Target:** One creature
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Fortitude negates
+**Saving Throw:** Fortitude negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 The subject, along with all its carried gear, turns into a mindless, inert statue. If the statue resulting from this spell is broken or damaged, the subject (if ever returned to its original state) has similar damage or deformities. The creature is not dead, but it does not seem to be alive either when viewed with spells such asdeathwatch.
 
@@ -628,21 +628,21 @@ Fly
 
 Transmutation
 
-**Level:**Sor/Wiz 3, Travel 3
+**Level:** Sor/Wiz 3, Travel 3
 
-**Components:**V, S, F/DF
+**Components:** V, S, F/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
-**Spell Resistance:**Yes (harmless)
+**Spell Resistance:** Yes (harmless)
 
 The subject can fly at a speed of 60 feet (or 40 feet if it wears medium or heavy armor, or if it carries a medium or heavy load). It can ascend at half speed and descend at double speed, and its maneuverability is good. Using aflyspell requires only as much concentration as walking, so the subject can attack or cast spells normally. The subject of aflyspell can charge but not run, and it cannot carry aloft more weight than its maximum load, plus any armor it wears.
 
@@ -658,21 +658,21 @@ Floating Disk
 
 Evocation [Force]
 
-**Level:**Sor/Wiz 1
+**Level:** Sor/Wiz 1
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Effect:**3-ft.-diameter disk of force
+**Effect:** 3-ft.-diameter disk of force
 
-**Duration:**1 hour/level
+**Duration:** 1 hour/level
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You create a slightly concave, circular plane of force that follows you about and carries loads for you. The disk is 3 feet in diameter and 1 inch deep at its center. It can hold 100 pounds of weight per caster level. (If used to transport a liquid, its capacity is 2 gallons.) The disk floats approximately 3 feet above the ground at all times and remains level. It floats along horizontally within spell range and will accompany you at a rate of no more than your normal speed each round. If not otherwise directed, it maintains a constant interval of 5 feet between itself and you. The disk winks out of existence when the spell duration expires. The disk also winks out if you move beyond range or try to take the disk more than 3 feet away from the surface beneath it. When the disk winks out, whatever it was supporting falls to the surface beneath it.
 
@@ -686,21 +686,21 @@ Fog Cloud
 
 Conjuration (Creation)
 
-**Level:**Drd 2, Sor/Wiz 2, Water 2
+**Level:** Drd 2, Sor/Wiz 2, Water 2
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft. level)
+**Range:** Medium (100 ft. + 10 ft. level)
 
-**Effect:**Fog spreads in 20-ft. radius, 20 ft. high
+**Effect:** Fog spreads in 20-ft. radius, 20 ft. high
 
-**Duration:**10 min./level
+**Duration:** 10 min./level
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 A bank of fog billows out from the point you designate. The fog obscures all sight, including darkvision, beyond 5 feet. A creature within 5 feet has concealment (attacks have a 20% miss chance). Creatures farther away have total concealment (50% miss chance, and the attacker can’t use sight to locate the target).
 
@@ -716,21 +716,21 @@ Forbiddance
 
 Abjuration
 
-**Level:**Clr 6
+**Level:** Clr 6
 
-**Components:**V, S, M, DF
+**Components:** V, S, M, DF
 
-**Casting Time:**6 rounds
+**Casting Time:** 6 rounds
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Area:**60-ft. cube/level (S)
+**Area:** 60-ft. cube/level (S)
 
-**Duration:**Permanent
+**Duration:** Permanent
 
-**Saving Throw:**See text
+**Saving Throw:** See text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Forbiddanceseals an area against all planar travel into or within it. This includes all teleportation spells (such asdimension doorandteleport), plane shifting,astral travel, ethereal travel, and all summoning spells. Such effects simply fail automatically.
 
@@ -758,21 +758,21 @@ Forcecage
 
 Evocation [Force]
 
-**Level:**Sor/Wiz 7
+**Level:** Sor/Wiz 7
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Area:**Barred cage (20-ft. cube) or windowless cell (10-ft. cube)
+**Area:** Barred cage (20-ft. cube) or windowless cell (10-ft. cube)
 
-**Duration:**2 hours/level (D)
+**Duration:** 2 hours/level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 This powerful spell brings into being an immobile, invisible cubical prison composed of either bars of force or solid walls of force (your choice).
 
@@ -794,9 +794,9 @@ Forceful Hand
 
 Evocation [Force]
 
-**Level:**Sor/Wiz 6
+**Level:** Sor/Wiz 6
 
-**Components:**V, S, F
+**Components:** V, S, F
 
 This spell functions likeinterposing hand,except that theforceful handpursues and pushes away the opponent that you designate. Treat this attack as a bull rush with a +14 bonus on the Strength check (+8 for Strength 27, +4 for being Large, and a +2 bonus for charging, which it always gets). The hand always moves with the opponent to push that target back the full distance allowed, and it has no speed limit. Directing the spell to a new target is a move action.
 
@@ -812,21 +812,21 @@ Foresight
 
 Divination
 
-**Level:**Drd 9, Knowledge 9, Sor/Wiz 9
+**Level:** Drd 9, Knowledge 9, Sor/Wiz 9
 
-**Components:**V, S, M/DF
+**Components:** V, S, M/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Personal or touch
+**Range:** Personal or touch
 
-**Target:**See text
+**Target:** See text
 
-**Duration:**10 min./level
+**Duration:** 10 min./level
 
-**Saving Throw:**None or Will negates (harmless)
+**Saving Throw:** None or Will negates (harmless)
 
-**Spell Resistance:**No or Yes (harmless)
+**Spell Resistance:** No or Yes (harmless)
 
 This spell grants you a powerful sixth sense in relation to yourself or another. Onceforesightis cast, you receive instantaneous warnings of impending danger or harm to the subject of the spell. You are never surprised or flat-footed. In addition, the spell gives you a general idea of what action you might take to best protect yourself and gives you a +2 insight bonus to AC and Reflex saves. This insight bonus is lost whenever you would lose a Dexterity bonus to AC.
 
@@ -842,21 +842,21 @@ Fox’s Cunning
 
 Transmutation
 
-**Level:**Brd 2, Sor/Wiz 2
+**Level:** Brd 2, Sor/Wiz 2
 
-**Components:**V, S, M/DF
+**Components:** V, S, M/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 The transmuted creature becomes smarter. The spell grants a +4 enhancement bonus to Intelligence, adding the usual benefits to Intelligence-based skill checks and other uses of the Intelligence modifier. Wizards (and other spellcasters who rely on Intelligence) affected by this spell do not gain any additional bonus spells for the increased Intelligence, but the save DCs for spells they cast while under this spell’s effect do increase. This spell doesn’t grant extra skill points.
 
@@ -870,11 +870,11 @@ Fox’s Cunning, Mass
 
 Transmutation
 
-**Level:**Brd 6, Sor/Wiz 6
+**Level:** Brd 6, Sor/Wiz 6
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One creature/level, no two of which can be more than 30 ft. apart
+**Target:** One creature/level, no two of which can be more than 30 ft. apart
 
 This spell functions likefox’s cunning, except that it affects multiple creatures.
 
@@ -886,21 +886,21 @@ Freedom
 
 Abjuration
 
-**Level:**Sor/Wiz 9
+**Level:** Sor/Wiz 9
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels) or see text
+**Range:** Close (25 ft. + 5 ft./2 levels) or see text
 
-**Target:**One creature
+**Target:** One creature
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 The subject is freed from spells and effects that restrict its movement, includingbinding,entangle, grappling,imprisonment,maze, paralysis,petrification, pinning,sleep,slow, stunning,temporal stasis, andweb. To free a creature fromimprisonmentormaze,you must know its name and background, and you must cast this spell at the spot where it was entombed or banished into themaze.
 
@@ -912,21 +912,21 @@ Freedom of Movement
 
 Abjuration
 
-**Level:**Brd 4, Clr 4, Drd 4, Luck 4, Rgr 4
+**Level:** Brd 4, Clr 4, Drd 4, Luck 4, Rgr 4
 
-**Components:**V, S, M, DF
+**Components:** V, S, M, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Personal or touch
+**Range:** Personal or touch
 
-**Target:**You or creature touched
+**Target:** You or creature touched
 
-**Duration:**10 min./level
+**Duration:** 10 min./level
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
-**Spell Resistance:**Yes (harmless)
+**Spell Resistance:** Yes (harmless)
 
 This spell enables you or a creature you touch to move and attack normally for the duration of the spell, even under the influence of magic that usually impedes movement, such as paralysis,solid fog,slow, andweb. The subject automatically succeeds on any grapple check made to resist a grapple attempt, as well as on grapple checks or Escape Artist checks made to escape a grapple or a pin.
 
@@ -942,21 +942,21 @@ Freezing Sphere
 
 Evocation [Cold]
 
-**Level:**Sor/Wiz 6
+**Level:** Sor/Wiz 6
 
-**Components:**V, S, F
+**Components:** V, S, F
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Long (400 ft. + 40 ft./level)
+**Range:** Long (400 ft. + 40 ft./level)
 
-**Target, Effect, or Area:**See text
+**Target, Effect, or Area:** See text
 
-**Duration:**Instantaneous or 1 round/level; see text
+**Duration:** Instantaneous or 1 round/level; see text
 
-**Saving Throw:**Reflex half; see text
+**Saving Throw:** Reflex half; see text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Freezing spherecreates a frigid globe of cold energy that streaks from your fingertips to the location you select, where it explodes in a 10-foot-radius burst, dealing 1d6 points of cold damage per caster level (maximum 15d6) to each creature in the area. An elemental (water) creature instead takes 1d8 points of cold damage per caster level (maximum 15d8).
 
@@ -974,21 +974,21 @@ Gaseous Form
 
 Transmutation
 
-**Level:**Air 3, Brd 3, Sor/Wiz 3
+**Level:** Air 3, Brd 3, Sor/Wiz 3
 
-**Components:**S, M/DF
+**Components:** S, M/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Willing corporeal creature touched
+**Target:** Willing corporeal creature touched
 
-**Duration:**2 min./level (D)
+**Duration:** 2 min./level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 The subject and all its gear become insubstantial, misty, and translucent. Its material armor (including natural armor) becomes worthless, though its size, Dexterity, deflection bonuses, and armor bonuses from force effects still apply. The subject gains damage reduction 10/magic and becomes immune to poison and critical hits. It can’t attack or cast spells with verbal, somatic, material, or focus components while in gaseous form. (This does not rule out the use of certain spells that the subject may have prepared using the feats Silent Spell, Still Spell, and Eschew Materials.) The subject also loses supernatural abilities while in gaseous form. If it has a touch spell ready to use, that spell is discharged harmlessly when thegaseous formspell takes effect.
 
@@ -1004,21 +1004,21 @@ Gate
 
 Conjuration (Creation or Calling)
 
-**Level:**Clr 9, Sor/Wiz 9
+**Level:** Clr 9, Sor/Wiz 9
 
-**Components:**V, S, XP; see text
+**Components:** V, S, XP; see text
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Effect:**See text
+**Effect:** See text
 
-**Duration:**Instantaneous or concentration (up to 1 round/level); see text
+**Duration:** Instantaneous or concentration (up to 1 round/level); see text
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 Casting agatespell has two effects. First, it creates an interdimensional connection between your plane of existence and a plane you specify, allowing travel between those two planes in either direction.
 
@@ -1054,13 +1054,13 @@ Geas/Quest
 
 Enchantment (Compulsion) [Language-Dependent, Mind-Affecting]
 
-**Level:**Brd 6, Clr 6, Sor/Wiz 6
+**Level:** Brd 6, Clr 6, Sor/Wiz 6
 
-**Casting Time:**10 minutes
+**Casting Time:** 10 minutes
 
-**Target:**One living creature
+**Target:** One living creature
 
-**Saving Throw:**None
+**Saving Throw:** None
 
 This spell functions similarly tolesser geas,except that it affects a creature of any HD and allows no saving throw.
 
@@ -1078,21 +1078,21 @@ Geas, Lesser
 
 Enchantment (Compulsion) [Language-Dependent, Mind-Affecting]
 
-**Level:**Brd 3, Sor/Wiz 4
+**Level:** Brd 3, Sor/Wiz 4
 
-**Components:**V
+**Components:** V
 
-**Casting Time:**1 round
+**Casting Time:** 1 round
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One living creature with 7 HD or less
+**Target:** One living creature with 7 HD or less
 
-**Duration:**One day/level or until discharged (D)
+**Duration:** One day/level or until discharged (D)
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Alesser geasplaces a magical command on a creature to carry out some service or to refrain from some action or course of activity, as desired by you. The creature must have 7 or fewer Hit Dice and be able to understand you. While ageascannot compel a creature to kill itself or perform acts that would result in certain death, it can cause almost any other course of activity.
 
@@ -1112,21 +1112,21 @@ Gentle Repose
 
 Necromancy
 
-**Level:**Clr 2, Sor/Wiz 3
+**Level:** Clr 2, Sor/Wiz 3
 
-**Components:**V, S, M/DF
+**Components:** V, S, M/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Corpse touched
+**Target:** Corpse touched
 
-**Duration:**One day/level
+**Duration:** One day/level
 
-**Saving Throw:**Will negates (object)
+**Saving Throw:** Will negates (object)
 
-**Spell Resistance:**Yes (object)
+**Spell Resistance:** Yes (object)
 
 You preserve the remains of a dead creature so that they do not decay. Doing so effectively extends the time limit on raising that creature from the dead (seeraise dead). Days spent under the influence of this spell don’t count against the time limit. Additionally, this spell makes transporting a fallen comrade more pleasant.
 
@@ -1142,21 +1142,21 @@ Ghost Sound
 
 Illusion (Figment)
 
-**Level:**Brd 0, Sor/Wiz 0
+**Level:** Brd 0, Sor/Wiz 0
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Effect:**Illusory sounds
+**Effect:** Illusory sounds
 
-**Duration:**1 round/level (D)
+**Duration:** 1 round/level (D)
 
-**Saving Throw:**Will disbelief (if interacted with)
+**Saving Throw:** Will disbelief (if interacted with)
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 Ghost soundallows you to create a volume of sound that rises, recedes, approaches, or remains at a fixed place. You choose what type of soundghost soundcreates when casting it and cannot thereafter change the sound’s basic character.
 
@@ -1176,21 +1176,21 @@ Ghoul Touch
 
 Necromancy
 
-**Level:**Sor/Wiz 2
+**Level:** Sor/Wiz 2
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Living humanoid touched
+**Target:** Living humanoid touched
 
-**Duration:**1d6+2 rounds
+**Duration:** 1d6+2 rounds
 
-**Saving Throw:**Fortitude negates
+**Saving Throw:** Fortitude negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Imbuing you with negative energy, this spell allows you to paralyze a single living humanoid for the duration of the spell with a successful melee touch attack.
 
@@ -1206,21 +1206,21 @@ Giant Vermin
 
 Transmutation
 
-**Level:**Clr 4, Drd 4
+**Level:** Clr 4, Drd 4
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Targets:**Up to three vermin, no two of which can be more than 30 ft. apart
+**Targets:** Up to three vermin, no two of which can be more than 30 ft. apart
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 You turn three normal-sized centipedes, two normal-sized spiders, or a single normal-sized scorpion into larger forms. Only one type of vermin can be transmuted (so a single casting cannot affect both a centipede and a spider), and all must be grown to the same size. The size to which the vermin can be grown depends on your level; see the table below.
 
@@ -1262,17 +1262,17 @@ Glibness
 
 Transmutation
 
-**Level:**Brd 3
+**Level:** Brd 3
 
-**Components:**S
+**Components:** S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**10 min./level (D)
+**Duration:** 10 min./level (D)
 
 Your speech becomes fluent and more believable. You gain a +30 bonus on Bluff checks made to convince another of the truth of your words. (This bonus doesn’t apply to other uses of the Bluff skill, such as feinting in combat, creating a diversion to hide, or communicating a hidden message via innuendo.)
 
@@ -1286,21 +1286,21 @@ Glitterdust
 
 Conjuration (Creation)
 
-**Level:**Brd 2, Sor/Wiz 2
+**Level:** Brd 2, Sor/Wiz 2
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Area:**Creatures and objects within 10-ft.-radius spread
+**Area:** Creatures and objects within 10-ft.-radius spread
 
-**Duration:**1 round/level
+**Duration:** 1 round/level
 
-**Saving Throw:**Will negates (blinding only)
+**Saving Throw:** Will negates (blinding only)
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 A cloud of golden particles covers everyone and everything in the area, causing creatures to become blinded and visibly outlining invisible things for the duration of the spell. All within the area are covered by the dust, which cannot be removed and continues to sparkle until it fades.
 
@@ -1316,7 +1316,7 @@ Globe of Invulnerability
 
 Abjuration
 
-**Level:**Sor/Wiz 6
+**Level:** Sor/Wiz 6
 
 This spell functions likelesser globe of invulnerability,except that it also excludes 4th-level spells and spell-like effects.
 
@@ -1328,21 +1328,21 @@ Globe of Invulnerability, Lesser
 
 Abjuration
 
-**Level:**Sor/Wiz 4
+**Level:** Sor/Wiz 4
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**10 ft.
+**Range:** 10 ft.
 
-**Area:**10-ft.-radius spherical emanation, centered on you
+**Area:** 10-ft.-radius spherical emanation, centered on you
 
-**Duration:**1 round/level (D)
+**Duration:** 1 round/level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 An immobile, faintly shimmering magical sphere surrounds you and excludes all spell effects of 3rd level or lower. The area or effect of any such spells does not include the area of thelesser globe of invulnerability. Such spells fail to affect any target located within the globe. Excluded effects include spell-like abilities and spells or spell-like effects from items. However, any type of spell can be cast through or out of the magical globe. Spells of 4th level and higher are not affected by the globe, nor are spells already in effect when the globe is cast. The globe can be brought down by a targeteddispel magicspell, but not by an areadispel magic.You can leave and return to the globe without penalty.
 
@@ -1360,21 +1360,21 @@ Glyph of Warding
 
 Abjuration
 
-**Level:**Clr 3
+**Level:** Clr 3
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**10 minutes
+**Casting Time:** 10 minutes
 
-**Range:**Touch
+**Range:** Touch
 
-**Target or Area:**Object touched or up to 5 sq. ft./level
+**Target or Area:** Object touched or up to 5 sq. ft./level
 
-**Duration:**Permanent until discharged (D)
+**Duration:** Permanent until discharged (D)
 
-**Saving Throw:**See text
+**Saving Throw:** See text
 
-**Spell Resistance:**No (object) and Yes; see text
+**Spell Resistance:** No (object) and Yes; see text
 
 This powerful inscription harms those who enter, pass, or open the warded area or object. Aglyph of wardingcan guard a bridge or passage, ward a portal, trap a chest or box, and so on.
 
@@ -1402,7 +1402,7 @@ Glyph of Warding, Greater
 
 Abjuration
 
-**Level:**Clr 6
+**Level:** Clr 6
 
 This spell functions likeglyph of warding,except that agreater blast glyphdeals up to 10d8 points of damage, and agreater spell glyphcan store a spell of 6th level or lower.
 
@@ -1416,21 +1416,21 @@ Goodberry
 
 Transmutation
 
-**Level:**Drd 1
+**Level:** Drd 1
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Targets:**2d4 fresh berries touched
+**Targets:** 2d4 fresh berries touched
 
-**Duration:**One day/level
+**Duration:** One day/level
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Castinggoodberryupon a handful of freshly picked berries makes 2d4 of them magical. You (as well as any other druid of 3rd or higher level) can immediately discern which berries are affected. Each transmuted berry provides nourishment as if it were a normal meal for a Medium creature. The berry also cures 1 point of damage when eaten, subject to a maximum of 8 points of such curing in any 24-hour period.
 
@@ -1442,21 +1442,21 @@ Good Hope
 
 Enchantment (Compulsion) [Mind-Affecting]
 
-**Level:**Brd 3
+**Level:** Brd 3
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Targets:**One living creature/level, no two of which may be more than 30 ft. apart
+**Targets:** One living creature/level, no two of which may be more than 30 ft. apart
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
-**Spell Resistance:**Yes (harmless)
+**Spell Resistance:** Yes (harmless)
 
 This spell instills powerful hope in the subjects. Each affected creature gains a +2 morale bonus on saving throws, attack rolls, ability checks, skill checks, and weapon damage rolls.
 
@@ -1470,9 +1470,9 @@ Grasping Hand
 
 Evocation [Force]
 
-**Level:**Sor/Wiz 7, Strength 7
+**Level:** Sor/Wiz 7, Strength 7
 
-**Components:**V, S, F/DF
+**Components:** V, S, F/DF
 
 This spell functions likeinterposing hand,except the hand can also grapple one opponent that you select. Thegrasping handgets one grapple attack per round.
 
@@ -1494,21 +1494,21 @@ Grease
 
 Conjuration (Creation)
 
-**Level:**Brd 1, Sor/Wiz 1
+**Level:** Brd 1, Sor/Wiz 1
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target or Area:**One object or a 10-ft. square
+**Target or Area:** One object or a 10-ft. square
 
-**Duration:**1 round/level (D)
+**Duration:** 1 round/level (D)
 
-**Saving Throw:**See text
+**Saving Throw:** See text
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 Agreasespell covers a solid surface with a layer of slippery grease. Any creature in the area when the spell is cast must make a successful Reflex save or fall. This save is repeated on your turn each round that the creature remains within the area. A creature can walk within or through the area of grease at half normal speed with a DC 10 Balance check. Failure means it can’t move that round (and must then make a Reflex save or fall), while failure by 5 or more means it falls (see the Balance skill for details).
 
@@ -1532,21 +1532,21 @@ Guards and Wards
 
 Abjuration
 
-**Level:**Sor/Wiz 6
+**Level:** Sor/Wiz 6
 
-**Components:**V, S, M, F
+**Components:** V, S, M, F
 
-**Casting Time:**30 minutes
+**Casting Time:** 30 minutes
 
-**Range:**Anywhere within the area to be warded
+**Range:** Anywhere within the area to be warded
 
-**Area:**Up to 200 sq. ft./level (S)
+**Area:** Up to 200 sq. ft./level (S)
 
-**Duration:**2 hours/level (D)
+**Duration:** 2 hours/level (D)
 
-**Saving Throw:**See text
+**Saving Throw:** See text
 
-**Spell Resistance:**See text
+**Spell Resistance:** See text
 
 This powerful spell is primarily used to defend your stronghold. The ward protects 200 square feet per caster level. The warded area can be as much as 20 feet high, and shaped as you desire. You can ward several stories of a stronghold by dividing the area among them; you must be somewhere within the area to be warded to cast the spell. The spell creates the following magical effects within the warded area.
 
@@ -1586,21 +1586,21 @@ Guidance
 
 Divination
 
-**Level:**Clr 0, Drd 0
+**Level:** Clr 0, Drd 0
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**1 minute or until discharged
+**Duration:** 1 minute or until discharged
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 This spell imbues the subject with a touch of divine guidance. The creature gets a +1 competence bonus on a single attack roll, saving throw, or skill check. It must choose to use the bonus before making the roll to which it applies.
 
@@ -1612,21 +1612,21 @@ Gust of Wind
 
 Evocation [Air]
 
-**Level:**Drd 2, Sor/Wiz 2
+**Level:** Drd 2, Sor/Wiz 2
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**60 ft.
+**Range:** 60 ft.
 
-**Effect:**Line-shaped gust of severe wind emanating out from you to the extreme of the range
+**Effect:** Line-shaped gust of severe wind emanating out from you to the extreme of the range
 
-**Duration:**1 round
+**Duration:** 1 round
 
-**Saving Throw:**Fortitude negates
+**Saving Throw:** Fortitude negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 This spell creates a severe blast of air (approximately 50 mph) that originates from you, affecting all creatures in its path.
 

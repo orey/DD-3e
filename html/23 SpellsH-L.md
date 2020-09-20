@@ -12,21 +12,21 @@ Hallow
 
 Evocation [Good]
 
-**Level:**Clr 5, Drd 5
+**Level:** Clr 5, Drd 5
 
-**Components:**V, S, M, DF
+**Components:** V, S, M, DF
 
-**Casting Time:**24 hours
+**Casting Time:** 24 hours
 
-**Range:**Touch
+**Range:** Touch
 
-**Area:**40-ft. radius emanating from the touched point
+**Area:** 40-ft. radius emanating from the touched point
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**See text
+**Saving Throw:** See text
 
-**Spell Resistance:**See text
+**Spell Resistance:** See text
 
 Hallowmakes a particular site, building, or structure a holy site. This has four major effects.
 
@@ -52,21 +52,21 @@ Hallucinatory Terrain
 
 Illusion (Glamer)
 
-**Level:**Brd 4, Sor/Wiz 4
+**Level:** Brd 4, Sor/Wiz 4
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**10 minutes
+**Casting Time:** 10 minutes
 
-**Range:**Long (400 ft. + 40 ft./level)
+**Range:** Long (400 ft. + 40 ft./level)
 
-**Area:**One 30-ft. cube/level (S)
+**Area:** One 30-ft. cube/level (S)
 
-**Duration:**2 hours/level (D)
+**Duration:** 2 hours/level (D)
 
-**Saving Throw:**Will disbelief (if interacted with)
+**Saving Throw:** Will disbelief (if interacted with)
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You make natural terrain look, sound, and smell like some other sort of natural terrain. Structures, equipment, and creatures within the area are not hidden or changed in appearance.
 
@@ -80,21 +80,21 @@ Halt Undead
 
 Necromancy
 
-**Level:**Sor/Wiz 3
+**Level:** Sor/Wiz 3
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Targets:**Up to three undead creatures, no two of which can be more than 30 ft. apart
+**Targets:** Up to three undead creatures, no two of which can be more than 30 ft. apart
 
-**Duration:**1 round/level
+**Duration:** 1 round/level
 
-**Saving Throw:**Will negates (see text)
+**Saving Throw:** Will negates (see text)
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 This spell renders as many as three undead creatures immobile. A nonintelligent undead creature gets no saving throw; an intelligent undead creature does. If the spell is successful, it renders the undead creature immobile for the duration of the spell (similar to the effect ofhold personon a living creature). The effect is broken if thehaltedcreatures are attacked or take damage.
 
@@ -108,21 +108,21 @@ Harm
 
 Necromancy
 
-**Level:**Clr 6, Destruction 6
+**Level:** Clr 6, Destruction 6
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Will half; see text
+**Saving Throw:** Will half; see text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Harmcharges a subject with negative energy that deals 10 points of damage per caster level (to a maximum of 150 points at 15th level). If the creature successfully saves,harmdeals half this amount, but it cannot reduce the target’s hit points to less than 1.
 
@@ -136,21 +136,21 @@ Haste
 
 Transmutation
 
-**Level:**Brd 3, Sor/Wiz 3
+**Level:** Brd 3, Sor/Wiz 3
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Targets:**One creature/level, no two of which can be more than 30 ft. apart
+**Targets:** One creature/level, no two of which can be more than 30 ft. apart
 
-**Duration:**1 round/level
+**Duration:** 1 round/level
 
-**Saving Throw:**Fortitude negates (harmless)
+**Saving Throw:** Fortitude negates (harmless)
 
-**Spell Resistance:**Yes (harmless)
+**Spell Resistance:** Yes (harmless)
 
 The transmuted creatures move and act more quickly than normal. This extra speed has several effects.
 
@@ -172,21 +172,21 @@ Heal
 
 Conjuration (Healing)
 
-**Level:**Clr 6, Drd 7, Healing 6
+**Level:** Clr 6, Drd 7, Healing 6
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
-**Spell Resistance:**Yes (harmless)
+**Spell Resistance:** Yes (harmless)
 
 Healenables you to channel positive energy into a creature to wipe away injury and afflictions. It immediately ends any and all of the following adverse conditions affecting the Target: ability damage, blinded,confused,dazed, dazzled, deafened, diseased, exhausted, fatigued,feebleminded,insanity, nauseated, sickened, stunned, and poisoned. It also cures 10 hit points of damage per level of the caster, to a maximum of 150 points at 15th level.
 
@@ -202,11 +202,11 @@ Heal, Mass
 
 Conjuration (Healing)
 
-**Level:**Clr 9, Healing 9
+**Level:** Clr 9, Healing 9
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Targets:**One or more creatures, no two of which can be more than 30 ft. apart
+**Targets:** One or more creatures, no two of which can be more than 30 ft. apart
 
 This spell functions likeheal,except as noted above. The maximum number of hit points restored to each creature is 250.
 
@@ -218,21 +218,21 @@ Heal Mount
 
 Conjuration (Healing)
 
-**Level:**Pal 3
+**Level:** Pal 3
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Your mount touched
+**Target:** Your mount touched
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
-**Spell Resistance:**Yes (harmless)
+**Spell Resistance:** Yes (harmless)
 
 This spell functions likeheal,but it affects only the paladin’s special mount (typically a warhorse).
 
@@ -244,21 +244,21 @@ Heat Metal
 
 Transmutation [Fire]
 
-**Level:**Drd 2, Sun 2
+**Level:** Drd 2, Sun 2
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**Metal equipment of one creature per two levels, no two of which can be more than 30 ft. apart; or 25 lb. of metal/level, all of which must be within a 30-ft. circle
+**Target:** Metal equipment of one creature per two levels, no two of which can be more than 30 ft. apart; or 25 lb. of metal/level, all of which must be within a 30-ft. circle
 
-**Duration:**7 rounds
+**Duration:** 7 rounds
 
-**Saving Throw:**Will negates (object)
+**Saving Throw:** Will negates (object)
 
-**Spell Resistance:**Yes (object)
+**Spell Resistance:** Yes (object)
 
 Heat metalmakes metal extremely warm. Unattended, nonmagical metal gets no saving throw. Magical metal is allowed a saving throw against the spell. An item in a creature’s possession uses the creature’s saving throw bonus unless its own is higher.
 
@@ -318,21 +318,21 @@ Helping Hand
 
 Evocation
 
-**Level:**Clr 3
+**Level:** Clr 3
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**5 miles
+**Range:** 5 miles
 
-**Effect:**Ghostly hand
+**Effect:** Ghostly hand
 
-**Duration:**1 hour/level
+**Duration:** 1 hour/level
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You create the ghostly image of a hand, which you can send to find a creature within 5 miles. The hand then beckons to that creature and leads it to you if the creature is willing to follow.
 
@@ -392,21 +392,21 @@ Heroes’ Feast
 
 Conjuration [Creation]
 
-**Level:**Brd 6, Clr 6
+**Level:** Brd 6, Clr 6
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**10 minutes
+**Casting Time:** 10 minutes
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Effect:**Feast for one creature/level
+**Effect:** Feast for one creature/level
 
-**Duration:**1 hour plus 12 hours; see text
+**Duration:** 1 hour plus 12 hours; see text
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You bring forth a great feast, including a magnificent table, chairs, service, and food and drink. The feast takes 1 hour to consume, and the beneficial effects do not set in until this hour is over. Every creature partaking of the feast is cured of all diseases, sickness, and nausea; becomes immune to poison for 12 hours; and gains 1d8 temporary hit points +1 point per two caster levels (maximum +10) after imbibing the nectar-like beverage that is part of the feast. The ambrosial food that is consumed grants each creature that partakes a +1 morale bonus on attack rolls and Will saves and immunity to fear effects for 12 hours.
 
@@ -420,21 +420,21 @@ Heroism
 
 Enchantment (Compulsion) [Mind-Affecting]
 
-**Level:**Brd 2, Sor/Wiz 3
+**Level:** Brd 2, Sor/Wiz 3
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**10 min./level
+**Duration:** 10 min./level
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
-**Spell Resistance:**Yes (harmless)
+**Spell Resistance:** Yes (harmless)
 
 This spell imbues a single creature with great bravery and morale in battle. The target gains a +2 morale bonus on attack rolls, saves, and skill checks.
 
@@ -446,9 +446,9 @@ Heroism, Greater
 
 Enchantment (Compulsion) [Mind-Affecting]
 
-**Level:**Brd 5, Sor/Wiz 6
+**Level:** Brd 5, Sor/Wiz 6
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
 This spell functions likeheroism,except the creature gains a +4 morale bonus on attack rolls, saves, and skill checks, immunity to fear effects, and temporary hit points equal to your caster level (maximum 20).
 
@@ -460,21 +460,21 @@ Hide from Animals
 
 Abjuration
 
-**Level:**Drd 1, Rgr 1
+**Level:** Drd 1, Rgr 1
 
-**Components:**S, DF
+**Components:** S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Targets:**One creature touched/level
+**Targets:** One creature touched/level
 
-**Duration:**10 min./level (D)
+**Duration:** 10 min./level (D)
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Animals cannot see, hear, or smell the warded creatures. Even extraordinary or supernatural sensory capabilities, such as blindsense, blindsight, scent, and tremorsense, cannot detect or locate warded creatures. Animals simply act as though the warded creatures are not there. If a warded character touches an animal or attacks any creature, even with a spell, the spell ends for all recipients.
 
@@ -486,21 +486,21 @@ Hide from Undead
 
 Abjuration
 
-**Level:**Clr 1
+**Level:** Clr 1
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Targets:**One touched creature/level
+**Targets:** One touched creature/level
 
-**Duration:**10 min./level (D)
+**Duration:** 10 min./level (D)
 
-**Saving Throw:**Will negates (harmless); see text
+**Saving Throw:** Will negates (harmless); see text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Undead cannot see, hear, or smell the warded creatures. Even extraordinary or supernatural sensory capabilities, such as blindsense, blindsight, scent, and tremorsense, cannot detect or locate warded creatures. Nonintelligent undead creatures are automatically affected and act as though the warded creatures are not there. An intelligent undead creature gets a single Will saving throw. If it fails, the subject can’t see any of the warded creatures. However, if it has reason to believe unseen opponents are present, it can attempt to find or strike them. If a warded creature attempts to turn or command undead, touches an undead creature, or attacks any creature (even with a spell), the spell ends for all recipients.
 
@@ -512,21 +512,21 @@ Hideous Laughter
 
 Enchantment (Compulsion) [Mind-Affecting]
 
-**Level:**Brd 1, Sor/Wiz 2
+**Level:** Brd 1, Sor/Wiz 2
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One creature; see text
+**Target:** One creature; see text
 
-**Duration:**1 round/level
+**Duration:** 1 round/level
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 This spell afflicts the subject with uncontrollable laughter. It collapses into gales of manic laughter, falling prone. The subject can take no actions while laughing, but is not considered helpless. After the spell ends, it can act normally.
 
@@ -542,11 +542,11 @@ Hold Animal
 
 Enchantment (Compulsion) [Mind-Affecting]
 
-**Level:**Animal 2, Drd 2, Rgr 2
+**Level:** Animal 2, Drd 2, Rgr 2
 
-**Components:**V, S
+**Components:** V, S
 
-**Target:**One animal
+**Target:** One animal
 
 This spell functions likehold person,except that it affects an animal instead of a humanoid.
 
@@ -558,11 +558,11 @@ Hold Monster
 
 Enchantment (Compulsion) [Mind-Affecting]
 
-**Level:**Brd 4, Law 6, Sor/Wiz 5
+**Level:** Brd 4, Law 6, Sor/Wiz 5
 
-**Components:**V, S, M/DF
+**Components:** V, S, M/DF
 
-**Target:**One living creature
+**Target:** One living creature
 
 This spell functions likehold person,except that it affects any living creature that fails its Will save.
 
@@ -576,9 +576,9 @@ Hold Monster, Mass
 
 Enchantment (Compulsion) [Mind-Affecting]
 
-**Level:**Sor/Wiz 9
+**Level:** Sor/Wiz 9
 
-**Targets:**One or more creatures, no two of which can be more than 30 ft. apart
+**Targets:** One or more creatures, no two of which can be more than 30 ft. apart
 
 This spell functions likehold person,except that it affects multiple creatures and holds any living creature that fails its Will save.
 
@@ -590,21 +590,21 @@ Hold Person
 
 Enchantment (Compulsion) [Mind-Affecting]
 
-**Level:**Brd 2, Clr 2, Sor/Wiz 3
+**Level:** Brd 2, Clr 2, Sor/Wiz 3
 
-**Components:**V, S, F/DF
+**Components:** V, S, F/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Target:**One humanoid creature
+**Target:** One humanoid creature
 
-**Duration:**1 round/level (D); see text
+**Duration:** 1 round/level (D); see text
 
-**Saving Throw:**Will negates; see text
+**Saving Throw:** Will negates; see text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 The subject becomes paralyzed and freezes in place. It is aware and breathes normally but cannot take any actions, even speech. Each round on its turn, the subject may attempt a new saving throw to end the effect. (This is a full-round action that does not provoke attacks of opportunity.)
 
@@ -620,9 +620,9 @@ Hold Person, Mass
 
 Enchantment (Compulsion) [Mind-Affecting]
 
-**Level:**Sor/Wiz 7
+**Level:** Sor/Wiz 7
 
-**Targets:**One or more humanoid creatures, no two of which can be more than 30 ft. apart
+**Targets:** One or more humanoid creatures, no two of which can be more than 30 ft. apart
 
 This spell functions likehold person,except as noted above.
 
@@ -634,21 +634,21 @@ Hold Portal
 
 Abjuration
 
-**Level:**Sor/Wiz 1
+**Level:** Sor/Wiz 1
 
-**Component:**V
+**Component:** V
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Target:**One portal, up to 20 sq. ft./level
+**Target:** One portal, up to 20 sq. ft./level
 
-**Duration:**1 min./level (D)
+**Duration:** 1 min./level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 This spell magically holds shut a door, gate, window, or shutter of wood, metal, or stone. The magic affects the portal just as if it were securely closed and normally locked. Aknockspell or a successfuldispel magicspell can negate ahold portalspell.
 
@@ -662,21 +662,21 @@ Holy Aura
 
 Abjuration [Good]
 
-**Level:**Clr 8, Good 8
+**Level:** Clr 8, Good 8
 
-**Components:**V, S, F
+**Components:** V, S, F
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**20 ft.
+**Range:** 20 ft.
 
-**Targets:**One creature/level in a 20-ft.-radius burst centered on you
+**Targets:** One creature/level in a 20-ft.-radius burst centered on you
 
-**Duration:**1 round/level (D)
+**Duration:** 1 round/level (D)
 
-**Saving Throw:**See text
+**Saving Throw:** See text
 
-**Spell Resistance:**Yes (harmless)
+**Spell Resistance:** Yes (harmless)
 
 A brilliant divine radiance surrounds the subjects, protecting them from attacks, granting them resistance to spells cast by evil creatures, and causing evil creatures to become blinded when they strike the subjects. This abjuration has four effects.
 
@@ -698,21 +698,21 @@ Holy Smite
 
 Evocation [Good]
 
-**Level:**Good 4
+**Level:** Good 4
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Area:**20-ft.-radius burst
+**Area:** 20-ft.-radius burst
 
-**Duration:**Instantaneous (1 round); see text
+**Duration:** Instantaneous (1 round); see text
 
-**Saving Throw:**Will partial; see text
+**Saving Throw:** Will partial; see text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 You draw down holy power to smite your enemies. Only evil and neutral creatures are harmed by the spell; good creatures are unaffected.
 
@@ -728,21 +728,21 @@ Holy Sword
 
 Evocation [Good]
 
-**Level:**Pal 4
+**Level:** Pal 4
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Melee weapon touched
+**Target:** Melee weapon touched
 
-**Duration:**1 round/level
+**Duration:** 1 round/level
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 This spell allows you to channel holy power into your sword, or any other melee weapon you choose. The weapon acts as a+5 holy weapon(+5 enhancement bonus on attack and damage rolls, extra 2d6 damage against evil opponents). It also emits amagic circle against evileffect (as the spell). If themagic circleends, the sword creates a new one on your turn as a free action. The spell is automatically canceled 1 round after the weapon leaves your hand. You cannot have more than oneholy swordat a time.
 
@@ -760,21 +760,21 @@ Holy Word
 
 Evocation [Good, Sonic]
 
-**Level:**Clr 7, Good 7
+**Level:** Clr 7, Good 7
 
-**Components:**V
+**Components:** V
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**40 ft.
+**Range:** 40 ft.
 
-**Area:**Nongood creatures in a 40-ft.-radius spread centered on you
+**Area:** Nongood creatures in a 40-ft.-radius spread centered on you
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None or Will negates; see text
+**Saving Throw:** None or Will negates; see text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Any nongood creature within the area that hears theholy wordsuffers the following ill effects.
 
@@ -824,21 +824,21 @@ Horrid Wilting
 
 Necromancy
 
-**Level:**Sor/Wiz 8, Water 8
+**Level:** Sor/Wiz 8, Water 8
 
-**Components:**V, S, M/DF
+**Components:** V, S, M/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Long (400 ft. + 40 ft./level)
+**Range:** Long (400 ft. + 40 ft./level)
 
-**Targets:**Living creatures, no two of which can be more than 60 ft. apart
+**Targets:** Living creatures, no two of which can be more than 60 ft. apart
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Fortitude half
+**Saving Throw:** Fortitude half
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 This spell evaporates moisture from the body of each subject living creature, dealing 1d6 points of damage per caster level (maximum 20d6). This spell is especially devastating to water elementals and plant creatures, which instead take 1d8 points of damage per caster level (maximum 20d8).
 
@@ -852,21 +852,21 @@ Hypnotic Pattern
 
 Illusion (Pattern) [Mind-Affecting]
 
-**Level:**Brd 2, Sor/Wiz 2
+**Level:** Brd 2, Sor/Wiz 2
 
-**Components:**V (Brd only), S, M; see text
+**Components:** V (Brd only), S, M; see text
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Effect:**Colorful lights in a 10-ft.-radius spread
+**Effect:** Colorful lights in a 10-ft.-radius spread
 
-**Duration:**Concentration + 2 rounds
+**Duration:** Concentration + 2 rounds
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 A twisting pattern of subtle, shifting colors weaves through the air, fascinating creatures within it. Roll 2d4 and add your caster level (maximum 10) to determine the total number of Hit Dice of creatures affected. Creatures with the fewest HD are affected first; and, among creatures with equal HD, those who are closest to the spell’s point of origin are affected first. Hit Dice that are not sufficient to affect a creature are wasted. Affected creatures become fascinated by the pattern of colors. Sightless creatures are not affected.
 
@@ -882,21 +882,21 @@ Hypnotism
 
 Enchantment (Compulsion) [Mind-Affecting]
 
-**Level:**Brd 1, Sor/Wiz 1
+**Level:** Brd 1, Sor/Wiz 1
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 round
+**Casting Time:** 1 round
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Area:**Several living creatures, no two of which may be more than 30 ft. apart
+**Area:** Several living creatures, no two of which may be more than 30 ft. apart
 
-**Duration:**2d4 rounds (D)
+**Duration:** 2d4 rounds (D)
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Your gestures and droning incantation fascinate nearby creatures, causing them to stop and stare blankly at you. In addition, you can use their rapt attention to make your suggestions and requests seem more plausible. Roll 2d4 to see how many total Hit Dice of creatures you affect. Creatures with fewer HD are affected before creatures with more HD. Only creatures that can see or hear you are affected, but they do not need to understand you to be fascinated.
 
@@ -914,21 +914,21 @@ Ice Storm
 
 Evocation [Cold]
 
-**Level:**Drd 4, Sor/Wiz 4, Water 5
+**Level:** Drd 4, Sor/Wiz 4, Water 5
 
-**Components:**V, S, M/DF
+**Components:** V, S, M/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Long (400 ft. + 40 ft./level)
+**Range:** Long (400 ft. + 40 ft./level)
 
-**Area:**Cylinder (20-ft. radius, 40 ft. high)
+**Area:** Cylinder (20-ft. radius, 40 ft. high)
 
-**Duration:**1 full round
+**Duration:** 1 full round
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Great magical hailstones pound down for 1 full round, dealing 3d6 points of bludgeoning damage and 2d6 points of cold damage to every creature in the area. A –4 penalty applies to each Listen check made within theice storm’s effect, and all land movement within its area is at half speed. At the end of the duration, the hail disappears, leaving no aftereffects (other than the damage dealt).
 
@@ -942,21 +942,21 @@ Identify
 
 Divination
 
-**Level:**Brd 1, Magic 2, Sor/Wiz 1
+**Level:** Brd 1, Magic 2, Sor/Wiz 1
 
-**Components:**V, S, M/DF
+**Components:** V, S, M/DF
 
-**Casting Time:**1 hour
+**Casting Time:** 1 hour
 
-**Range:**Touch
+**Range:** Touch
 
-**Targets:**One touched object
+**Targets:** One touched object
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 The spell determines all magic properties of a single magic item, including how to activate those functions (if appropriate), and how many charges are left (if any).
 
@@ -972,21 +972,21 @@ Illusory Script
 
 Illusion (Phantasm) [Mind-Affecting]
 
-**Level:**Brd 3, Sor/Wiz 3
+**Level:** Brd 3, Sor/Wiz 3
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 minute or longer; see text
+**Casting Time:** 1 minute or longer; see text
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**One touched object weighing no more than 10 lb.
+**Target:** One touched object weighing no more than 10 lb.
 
-**Duration:**One day/level (D)
+**Duration:** One day/level (D)
 
-**Saving Throw:**Will negates; see text
+**Saving Throw:** Will negates; see text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 You write instructions or other information on parchment, paper, or any suitable writing material. Theillusory scriptappears to be some form of foreign or magical writing. Only the person (or people) designated by you at the time of the casting are able to read the writing; it’s unintelligible to any other character, although an illusionist recognizes it asillusory script.
 
@@ -1004,21 +1004,21 @@ Illusory Wall
 
 Illusion (Figment)
 
-**Level:**Sor/Wiz 4
+**Level:** Sor/Wiz 4
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Effect:**Image 1 ft. by 10 ft. by 10 ft.
+**Effect:** Image 1 ft. by 10 ft. by 10 ft.
 
-**Duration:**Permanent
+**Duration:** Permanent
 
-**Saving Throw:**Will disbelief (if interacted with)
+**Saving Throw:** Will disbelief (if interacted with)
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 This spell creates the illusion of a wall, floor, ceiling, or similar surface. It appears absolutely real when viewed, but physical objects can pass through it without difficulty. When the spell is used to hide pits, traps, or normal doors, any detection abilities that do not require sight work normally. Touch or a probing search reveals the true nature of the surface, though such measures do not cause the illusion to disappear.
 
@@ -1030,21 +1030,21 @@ Imbue with Spell Ability
 
 Evocation
 
-**Level:**Clr 4, Magic 4
+**Level:** Clr 4, Magic 4
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**10 minutes
+**Casting Time:** 10 minutes
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched; see text
+**Target:** Creature touched; see text
 
-**Duration:**Permanent until discharged (D)
+**Duration:** Permanent until discharged (D)
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
-**Spell Resistance:**Yes (harmless)
+**Spell Resistance:** Yes (harmless)
 
 You transfer some of your currently prepared spells, and the ability to cast them, to another creature. Only a creature with an Intelligence score of at least 5 and a Wisdom score of at least 9 can receive this bestowal. Only cleric spells from the schools of abjuration, divination, and conjuration (healing) can be transferred. The number and level of spells that the subject can be granted depends on its Hit Dice; even multiple castings ofimbue with spell abilitycan’t exceed this limit.
 
@@ -1082,21 +1082,21 @@ Implosion
 
 Evocation
 
-**Level:**Clr 9, Destruction 9
+**Level:** Clr 9, Destruction 9
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Targets:**One corporeal creature/round
+**Targets:** One corporeal creature/round
 
-**Duration:**Concentration (up to 4 rounds)
+**Duration:** Concentration (up to 4 rounds)
 
-**Saving Throw:**Fortitude negates
+**Saving Throw:** Fortitude negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 You create a destructive resonance in a corporeal creature’s body. For each round you concentrate, you cause one creature to collapse in on itself, killing it. (This effect, being instantaneous, cannot be dispelled.)
 
@@ -1112,21 +1112,21 @@ Imprisonment
 
 Abjuration
 
-**Level:**Sor/Wiz 9
+**Level:** Sor/Wiz 9
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Will negates; see text
+**Saving Throw:** Will negates; see text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 When you castimprisonmentand touch a creature, it is entombed in a state of suspended animation (see thetemporal stasisspell) in a small sphere far beneath the surface of the earth. The subject remains there unless afreedomspell is cast at the locale where the imprisonment took place. Magical search by acrystal ball,alocate objectspell, or some other similar divination does not reveal the fact that a creature is imprisoned, butdiscern locationdoes. Awishormiraclespell will not free the recipient, but will reveal where it is entombed. If you know the target’s name and some facts about its life, the target takes a –4 penalty on its save.
 
@@ -1138,21 +1138,21 @@ Incendiary Cloud
 
 Conjuration (Creation) [Fire]
 
-**Level:**Fire 8, Sor/Wiz 8
+**Level:** Fire 8, Sor/Wiz 8
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Effect:**Cloud spreads in 20-ft. radius, 20 ft. high
+**Effect:** Cloud spreads in 20-ft. radius, 20 ft. high
 
-**Duration:**1 round/level
+**Duration:** 1 round/level
 
-**Saving Throw:**Reflex half; see text
+**Saving Throw:** Reflex half; see text
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 Anincendiary cloudspell creates a cloud of roiling smoke shot through with white-hot embers. The smoke obscures all sight as afog clouddoes. In addition, the white-hot embers within the cloud deal 4d6 points of fire damage to everything within the cloud on your turn each round. All targets can make Reflex saves each round to take half damage.
 
@@ -1168,7 +1168,7 @@ Inflict Critical Wounds
 
 Necromancy
 
-**Level:**Clr 4, Destruction 4
+**Level:** Clr 4, Destruction 4
 
 This spell functions likeinflict light wounds, except that you deal 4d8 points of damage +1 point per caster level (maximum +20).
 
@@ -1180,7 +1180,7 @@ Inflict Critical Wounds, Mass
 
 Necromancy
 
-**Level:**Clr 8
+**Level:** Clr 8
 
 This spell functions likemass inflict light wounds, except that it deals 4d8 points of damage +1 point per caster level (maximum +40).
 
@@ -1192,21 +1192,21 @@ Inflict Light Wounds
 
 Necromancy
 
-**Level:**Clr 1, Destruction 1
+**Level:** Clr 1, Destruction 1
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Will half
+**Saving Throw:** Will half
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 When laying your hand upon a creature, you channel negative energy that deals 1d8 points of damage +1 point per caster level (maximum +5).
 
@@ -1220,21 +1220,21 @@ Inflict Light Wounds, Mass
 
 Necromancy
 
-**Level:**Clr 5, Destruction 5
+**Level:** Clr 5, Destruction 5
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One creature/level, no two of which can be more than 30 ft. apart
+**Target:** One creature/level, no two of which can be more than 30 ft. apart
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Will half
+**Saving Throw:** Will half
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Negative energy spreads out in all directions from the point of origin, dealing 1d8 points of damage +1 point per caster level (maximum +25) to nearby living enemies.
 
@@ -1248,9 +1248,9 @@ Inflict Minor Wounds
 
 Necromancy
 
-**Level:**Clr 0
+**Level:** Clr 0
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
 This spell functions likeinflict light wounds,except that you deal 1 point of damage and a Will save negates the damage instead of halving it.
 
@@ -1262,7 +1262,7 @@ Inflict Moderate Wounds
 
 Necromancy
 
-**Level:**Clr 2
+**Level:** Clr 2
 
 This spell functions likeinflict light wounds, except that you deal 2d8 points of damage +1 point per caster level (maximum +10).
 
@@ -1274,7 +1274,7 @@ Inflict Moderate Wounds, Mass
 
 Necromancy
 
-**Level:**Clr 6
+**Level:** Clr 6
 
 This spell functions likemass inflict light wounds, except that it deals 2d8 points of damage +1 point per caster level (maximum +30).
 
@@ -1286,7 +1286,7 @@ Inflict Serious Wounds
 
 Necromancy
 
-**Level:**Clr 3
+**Level:** Clr 3
 
 This spell functions likeinflict light wounds, except that you deal 3d8 points of damage +1 point per caster level (maximum +15).
 
@@ -1298,7 +1298,7 @@ Inflict Serious Wounds, Mass
 
 Necromancy
 
-**Level:**Clr 7
+**Level:** Clr 7
 
 This spell functions likemass inflict light wounds, except that it deals 3d8 points of damage +1 point per caster level (maximum +35).
 
@@ -1310,21 +1310,21 @@ Insanity
 
 Enchantment (Compulsion) [Mind-Affecting]
 
-**Level:**Sor/Wiz 7
+**Level:** Sor/Wiz 7
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Target:**One living creature
+**Target:** One living creature
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 The affected creature suffers from a continuousconfusioneffect, as the spell.
 
@@ -1338,21 +1338,21 @@ Insect Plague
 
 Conjuration (Summoning)
 
-**Level:**Clr 5, Drd 5
+**Level:** Clr 5, Drd 5
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 round
+**Casting Time:** 1 round
 
-**Range:**Long (400 ft. + 40 ft./level)
+**Range:** Long (400 ft. + 40 ft./level)
 
-**Effect:**One swarm of locusts per three levels, each of which must be adjacent to at least one other swarm
+**Effect:** One swarm of locusts per three levels, each of which must be adjacent to at least one other swarm
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You summon a number of swarms of locusts (one per three levels, to a maximum of six swarms at 18th level). The swarms must be summoned so that each one is adjacent to at least one other swarm (that is, the swarms must fill one contiguous area). You may summon the locust swarms so that they share the area of other creatures. Each swarm attacks any creatures occupying its area. The swarms are stationary after being summoned, and won’t pursue creatures that flee.
 
@@ -1364,21 +1364,21 @@ Instant Summons
 
 Conjuration (Summoning)
 
-**Level:**Sor/Wiz 7
+**Level:** Sor/Wiz 7
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**See text
+**Range:** See text
 
-**Target:**One object weighing 10 lb. or less whose longest dimension is 6 ft. or less
+**Target:** One object weighing 10 lb. or less whose longest dimension is 6 ft. or less
 
-**Duration:**Permanent until discharged
+**Duration:** Permanent until discharged
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You call some nonliving item from virtually any location directly to your hand.
 
@@ -1400,21 +1400,21 @@ Interposing Hand
 
 Evocation [Force]
 
-**Level:**Sor/Wiz 5
+**Level:** Sor/Wiz 5
 
-**Components:**V, S, F
+**Components:** V, S, F
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Effect:**10-ft. hand
+**Effect:** 10-ft. hand
 
-**Duration:**1 round/level (D)
+**Duration:** 1 round/level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Interposing handcreates a Large magic hand that appears between you and one opponent. This floating, disembodied hand then moves to remain between the two of you, regardless of where you move or how the opponent tries to get around it, providing cover (+4 AC) for you against that opponent. Nothing can fool the hand—it sticks with the selected opponent in spite of darkness, invisibility, polymorphing, or any other attempt at hiding or disguise. The hand does not pursue an opponent, however.
 
@@ -1438,21 +1438,21 @@ Invisibility
 
 Illusion (Glamer)
 
-**Level:**Brd 2, Sor/Wiz 2, Trickery 2
+**Level:** Brd 2, Sor/Wiz 2, Trickery 2
 
-**Components:**V, S, M/DF
+**Components:** V, S, M/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Personal or touch
+**Range:** Personal or touch
 
-**Target:**You or a creature or object weighing no more than 100 lb./level
+**Target:** You or a creature or object weighing no more than 100 lb./level
 
-**Duration:**1 min./level (D)
+**Duration:** 1 min./level (D)
 
-**Saving Throw:**Will negates (harmless) or Will negates (harmless, object)
+**Saving Throw:** Will negates (harmless) or Will negates (harmless, object)
 
-**Spell Resistance:**Yes (harmless) or Yes (harmless, object)
+**Spell Resistance:** Yes (harmless) or Yes (harmless, object)
 
 The creature or object touched becomes invisible, vanishing from sight, even from darkvision. If the recipient is a creature carrying gear, that vanishes, too. If you cast the spell on someone else, neither you nor your allies can see the subject, unless you can normally see invisible things or you employ magic to do so.
 
@@ -1472,15 +1472,15 @@ Invisibility, Greater
 
 Illusion (Glamer)
 
-**Level:**Brd 4, Sor/Wiz 4
+**Level:** Brd 4, Sor/Wiz 4
 
-**Components:**V, S
+**Components:** V, S
 
-**Target:**You or creature touched
+**Target:** You or creature touched
 
-**Duration:**1 round/level (D)
+**Duration:** 1 round/level (D)
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
 This spell functions likeinvisibility, except that it doesn’t end if the subject attacks.
 
@@ -1492,13 +1492,13 @@ Invisibility, Mass
 
 Illusion (Glamer)
 
-**Level:**Sor/Wiz 7
+**Level:** Sor/Wiz 7
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Range:**Long (400 ft. + 40 ft./level)
+**Range:** Long (400 ft. + 40 ft./level)
 
-**Targets:**Any number of creatures, no two of which can be more than 180 ft. apart
+**Targets:** Any number of creatures, no two of which can be more than 180 ft. apart
 
 This spell functions likeinvisibility,except that the effect is mobile with the group and is broken when anyone in the group attacks. Individuals in the group cannot see each other. The spell is broken for any individual who moves more than 180 feet from the nearest member of the group. (If only two individuals are affected, the one moving away from the other one loses its invisibility. If both are moving away from each other, they both become visible when the distance between them exceeds 180 feet.)
 
@@ -1512,17 +1512,17 @@ Invisibility Purge
 
 Evocation
 
-**Level:**Clr 3
+**Level:** Clr 3
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 min./level (D)
+**Duration:** 1 min./level (D)
 
 You surround yourself with a sphere of power with a radius of 5 feet per caster level that negates all forms of invisibility.
 
@@ -1536,11 +1536,11 @@ Invisibility Sphere
 
 Illusion (Glamer)
 
-**Level:**Brd 3, Sor/Wiz 3
+**Level:** Brd 3, Sor/Wiz 3
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Area:**10-ft.-radius emanation around the creature or object touched
+**Area:** 10-ft.-radius emanation around the creature or object touched
 
 This spell functions likeinvisibility,except that this spell confers invisibility upon all creatures within 10 feet of the recipient. The center of the effect is mobile with the recipient.
 
@@ -1554,17 +1554,17 @@ Iron Body
 
 Transmutation
 
-**Level:**Earth 8, Sor/Wiz 8
+**Level:** Earth 8, Sor/Wiz 8
 
-**Components:**V, S, M/DF
+**Components:** V, S, M/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 min./level (D)
+**Duration:** 1 min./level (D)
 
 This spell transforms your body into living iron, which grants you several powerful resistances and abilities.
 
@@ -1586,21 +1586,21 @@ Ironwood
 
 Transmutation
 
-**Level:**Drd 6
+**Level:** Drd 6
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 minute/lb. created
+**Casting Time:** 1 minute/lb. created
 
-**Range:**0 ft.
+**Range:** 0 ft.
 
-**Effect:**Anironwoodobject weighing up to 5 lb./level
+**Effect:** Anironwoodobject weighing up to 5 lb./level
 
-**Duration:**One day/level (D)
+**Duration:** One day/level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 Ironwoodis a magical substance created by druids from normal wood. While remaining natural wood in almost every way,ironwoodis as strong, heavy, and resistant to fire as steel. Spells that affect metal or iron do not function onironwood. Spells that affect wood do affectironwood, althoughironwooddoes not burn. Using this spell withwood shapeor a wood-related Craft check, you can fashion wooden items that function as steel items. Thus, wooden plate armor and wooden swords can be created that are as durable as their normal steel counterparts. These items are freely usable by druids.
 
@@ -1616,21 +1616,21 @@ Irresistible Dance
 
 Enchantment (Compulsion) [Mind-Affecting]
 
-**Level:**Brd 6, Sor/Wiz 8
+**Level:** Brd 6, Sor/Wiz 8
 
-**Components:**V
+**Components:** V
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Living creature touched
+**Target:** Living creature touched
 
-**Duration:**1d4+1 rounds
+**Duration:** 1d4+1 rounds
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 The subject feels an undeniable urge to dance and begins doing so, complete with foot shuffling and tapping. The spell effect makes it impossible for the subject to do anything other than caper and prance in place. The effect imposes a –4 penalty to Armor Class and a –10 penalty on Reflex saves, and it negates any AC bonus granted by a shield the target holds. The dancing subject provokes attacks of opportunity each round on its turn.
 
@@ -1642,21 +1642,21 @@ Jump
 
 Transmutation
 
-**Level:**Drd 1, Rgr 1, Sor/Wiz 1
+**Level:** Drd 1, Rgr 1, Sor/Wiz 1
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**1 min./level (D)
+**Duration:** 1 min./level (D)
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 The subject gets a +10 enhancement bonus on Jump checks. The enhancement bonus increases to +20 at caster level 5th, and to +30 (the maximum) at caster level 9th.
 
@@ -1670,21 +1670,21 @@ Keen Edge
 
 Transmutation
 
-**Level:**Sor/Wiz 3
+**Level:** Sor/Wiz 3
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Targets:**One weapon or fifty projectiles, all of which must be in contact with each other at the time of casting
+**Targets:** One weapon or fifty projectiles, all of which must be in contact with each other at the time of casting
 
-**Duration:**10 min./level
+**Duration:** 10 min./level
 
-**Saving Throw:**Will negates (harmless, object)
+**Saving Throw:** Will negates (harmless, object)
 
-**Spell Resistance:**Yes (harmless, object)
+**Spell Resistance:** Yes (harmless, object)
 
 This spell makes a weapon magically keen, improving its ability to deal telling blows. This transmutation doubles the threat range of the weapon. A threat range of 20 becomes 19–20, a threat range of 19–20 becomes 17–20, and a threat range of 18–20 becomes 15–20. The spell can be cast only on piercing or slashing weapons. If cast on arrows or crossbow bolts, thekeen edgeon a particular projectile ends after one use, whether or not the missile strikes its intended target. (Treat shuriken as arrows, rather than as thrown weapons, for the purpose of this spell.)
 
@@ -1698,21 +1698,21 @@ Knock
 
 Transmutation
 
-**Level:**Sor/Wiz 2
+**Level:** Sor/Wiz 2
 
-**Components:**V
+**Components:** V
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Target:**One door, box, or chest with an area of up to 10 sq. ft./level
+**Target:** One door, box, or chest with an area of up to 10 sq. ft./level
 
-**Duration:**Instantaneous; see text
+**Duration:** Instantaneous; see text
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 Theknockspell opens stuck, barred, locked,held,orarcane lockeddoors. It opens secret doors, as well as locked or trick-opening boxes or chests. It also loosens welds, shackles, or chains (provided they serve to hold closures shut). If used to open aarcane lockeddoor, the spell does not remove thearcane lockbut simply suspends its functioning for 10 minutes. In all other cases, the door does not relock itself or become stuck again on its own.Knockdoes not raise barred gates or similar impediments (such as a portcullis), nor does it affect ropes, vines, and the like. The effect is limited by the area. Each spell can undo as many as two means of preventing egress.
 
@@ -1724,17 +1724,17 @@ Know Direction
 
 Divination
 
-**Level:**Brd 0, Drd 0
+**Level:** Brd 0, Drd 0
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
 You instantly know the direction of north from your current position. The spell is effective in any environment in which “north” exists, but it may not work in extraplanar settings. Your knowledge of north is correct at the moment of casting, but you can get lost again within moments if you don’t find some external reference point to help you keep track of direction.
 
@@ -1746,17 +1746,17 @@ Legend Lore
 
 Divination
 
-**Level:**Brd 4, Knowledge 7, Sor/Wiz 6
+**Level:** Brd 4, Knowledge 7, Sor/Wiz 6
 
-**Components:**V, S, M, F
+**Components:** V, S, M, F
 
-**Casting Time:**See text
+**Casting Time:** See text
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**See text
+**Duration:** See text
 
 Legend lorebrings to your mind legends about an important person, place, or thing. If the person or thing is at hand, or if you are in the place in question, the casting time is only 1d4x10 minutes. If you have only detailed information on the person, place, or thing, the casting time is 1d10 days, and the resulting lore is less complete and specific (though it often provides enough information to help you find the person, place, or thing, thus allowing a betterlegend loreresult next time). If you know only rumors, the casting time is 2d6 weeks, and the resulting lore is vague and incomplete (though it often directs you to more detailed information, thus allowing a betterlegend loreresult next time).
 
@@ -1782,21 +1782,21 @@ Levitate
 
 Transmutation
 
-**Level:**Sor/Wiz 2
+**Level:** Sor/Wiz 2
 
-**Components:**V, S, F
+**Components:** V, S, F
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Personal or close (25 ft. + 5 ft./2 levels)
+**Range:** Personal or close (25 ft. + 5 ft./2 levels)
 
-**Target:**You or one willing creature or one object (total weight up to 100 lb./level)
+**Target:** You or one willing creature or one object (total weight up to 100 lb./level)
 
-**Duration:**1 min./level (D)
+**Duration:** 1 min./level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 Levitateallows you to move yourself, another creature, or an object up and down as you wish. A creature must be willing to belevitated,and an object must be unattended or possessed by a willing creature. You can mentally direct the recipient to move up or down as much as 20 feet each round; doing so is a move action. You cannot move the recipient horizontally, but the recipient could clamber along the face of a cliff, for example, or push against a ceiling to move laterally (generally at half its base land speed).
 
@@ -1812,21 +1812,21 @@ Light
 
 Evocation [Light]
 
-**Level:**Brd 0, Clr 0, Drd 0, Sor/Wiz 0
+**Level:** Brd 0, Clr 0, Drd 0, Sor/Wiz 0
 
-**Components:**V, M/DF
+**Components:** V, M/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Object touched
+**Target:** Object touched
 
-**Duration:**10 min./level (D)
+**Duration:** 10 min./level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 This spell causes an object to glow like a torch, shedding bright light in a 20-foot radius (and dim light for an additional 20 feet) from the point you touch. The effect is immobile, but it can be cast on a movable object. Light taken into an area of magicaldarknessdoes not function.
 
@@ -1842,21 +1842,21 @@ Lightning Bolt
 
 Evocation [Electricity]
 
-**Level:**Sor/Wiz 3
+**Level:** Sor/Wiz 3
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**120 ft.
+**Range:** 120 ft.
 
-**Area:**120-ft. line
+**Area:** 120-ft. line
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Reflex half
+**Saving Throw:** Reflex half
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 You release a powerful stroke of electrical energy that deals 1d6 points of electricity damage per caster level (maximum 10d6) to each creature within its area. The bolt begins at your fingertips.
 
@@ -1872,21 +1872,21 @@ Limited Wish
 
 Universal
 
-**Level:**Sor/Wiz 7
+**Level:** Sor/Wiz 7
 
-**Components:**V, S, XP
+**Components:** V, S, XP
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**See text
+**Range:** See text
 
-**Target, Effect, or Area:**See text
+**Target, Effect, or Area:** See text
 
-**Duration:**See text
+**Duration:** See text
 
-**Saving Throw:**None; see text
+**Saving Throw:** None; see text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Alimited wishlets you create nearly any type of effect. For example, alimited wishcan do any of the following things.
 
@@ -1914,21 +1914,21 @@ Liveoak
 
 Transmutation
 
-**Level:**Drd 6
+**Level:** Drd 6
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**10 minutes
+**Casting Time:** 10 minutes
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Tree touched
+**Target:** Tree touched
 
-**Duration:**One day/level (D)
+**Duration:** One day/level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 This spell turns an oak tree into a protector or guardian. The spell can be cast on only a single tree at a time; whileliveoakis in effect, you can’t cast it again on another tree. The tree on which the spell is cast must be within 10 feet of your dwelling place, within a place sacred to you, or within 300 feet of something that you wish to guard or protect.
 
@@ -1944,11 +1944,11 @@ Locate Creature
 
 Divination
 
-**Level:**Brd 4, Sor/Wiz 4
+**Level:** Brd 4, Sor/Wiz 4
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Duration:**10 min./level
+**Duration:** 10 min./level
 
 This spell functions likelocate object,except this spell locates a known or familiar creature.
 
@@ -1968,21 +1968,21 @@ Locate Object
 
 Divination
 
-**Level:**Brd 2, Clr 3, Sor/Wiz 2, Travel 2
+**Level:** Brd 2, Clr 3, Sor/Wiz 2, Travel 2
 
-**Components:**V, S, F/DF
+**Components:** V, S, F/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Long (400 ft. + 40 ft./level)
+**Range:** Long (400 ft. + 40 ft./level)
 
-**Area:**Circle, centered on you, with a radius of 400 ft. + 40 ft./level
+**Area:** Circle, centered on you, with a radius of 400 ft. + 40 ft./level
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You sense the direction of a well-known or clearly visualized object. You can search for general items, in which case you locate the nearest one of its kind if more than one is within range. Attempting to find a certain item requires a specific and accurate mental image; if the image is not close enough to the actual object, the spell fails. You cannot specify a unique item unless you have observed that particular item firsthand (not through divination).
 
@@ -1998,17 +1998,17 @@ Longstrider
 
 Transmutation
 
-**Level:**Drd 1, Rgr 1, Travel 1
+**Level:** Drd 1, Rgr 1, Travel 1
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 hour/level (D)
+**Duration:** 1 hour/level (D)
 
 This spell increases your base land speed by 10 feet. (This adjustment counts as an enhancement bonus.) It has no effect on other modes of movement, such as burrow, climb, fly, or swim.
 
@@ -2022,21 +2022,21 @@ Lullaby
 
 Enchantment (Compulsion) [Mind-Affecting]
 
-**Level:**Brd 0
+**Level:** Brd 0
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Area:**Living creatures within a 10-ft.-radius burst
+**Area:** Living creatures within a 10-ft.-radius burst
 
-**Duration:**Concentration + 1 round/level (D)
+**Duration:** Concentration + 1 round/level (D)
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Any creature within the area that fails a Will save becomes drowsy and inattentive, taking a –5 penalty on Listen and Spot checks and a –2 penalty on Will saves againstsleepeffects while thelullabyis in effect.Lullabylasts for as long as the caster concentrates, plus up to 1 round per caster level thereafter.
 

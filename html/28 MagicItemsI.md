@@ -10,23 +10,23 @@ MAGIC ITEMS I (BASICS & CREATION)
 
 Magic items are divided into categories: armor, weapons, potions, rings, rods, scrolls, staffs, wands, and wondrous items. In addition, some magic items are cursed or intelligent. Finally, a few magic items are of such rarity and power that they are considered to belong to a category of their own: artifacts. Artifacts are classified in turn as minor (extremely rare but not one-of-a-kind items) or major (each one unique and extremely potent).
 
-**Armor and Shields:**Magic armor (including shields) offers improved, magical protection to the wearer. Some of these items confer abilities beyond a benefit to Armor Class.
+**Armor and Shields:** Magic armor (including shields) offers improved, magical protection to the wearer. Some of these items confer abilities beyond a benefit to Armor Class.
 
-**Weapons:**Magic weapons are created with a variety of combat powers and almost always improve the attack and damage rolls of the wielder as well.
+**Weapons:** Magic weapons are created with a variety of combat powers and almost always improve the attack and damage rolls of the wielder as well.
 
-**Potions:**A potion is an elixir concocted with a spell-like effect that affects only the drinker.
+**Potions:** A potion is an elixir concocted with a spell-like effect that affects only the drinker.
 
-**Rings:**A ring is a circular metal band worn on the finger (no more than two rings per wearer) that has a spell-like power (often a constant effect that affects the wearer).
+**Rings:** A ring is a circular metal band worn on the finger (no more than two rings per wearer) that has a spell-like power (often a constant effect that affects the wearer).
 
-**Rods:**A rod is a scepter-like item with a special power unlike that of any known spell.
+**Rods:** A rod is a scepter-like item with a special power unlike that of any known spell.
 
-**Scrolls:**A scroll is a spell magically inscribed onto paper or parchment so that it can be used later.
+**Scrolls:** A scroll is a spell magically inscribed onto paper or parchment so that it can be used later.
 
-**Staffs:**A staff has a number of different (but often related) spell effects. A newly created staff has 50 charges, and each use of the staff depletes one or more of those charges.
+**Staffs:** A staff has a number of different (but often related) spell effects. A newly created staff has 50 charges, and each use of the staff depletes one or more of those charges.
 
-**Wands:**A wand is a short stick imbued with the power to cast a specific spell. A newly created wand has 50 charges, and each use of the wand depletes one of those charges.
+**Wands:** A wand is a short stick imbued with the power to cast a specific spell. A newly created wand has 50 charges, and each use of the wand depletes one of those charges.
 
-**Wondrous Items:**These objects include magic jewelry, tools, books, clothing, and much more.
+**Wondrous Items:** These objects include magic jewelry, tools, books, clothing, and much more.
 
 
 
@@ -70,11 +70,11 @@ Activating a magic item is a standard action unless the item description indicat
 
 The four ways to activate magic items are described below.
 
-**Spell Completion:**This is the activation method for scrolls. A scroll is a spell that is mostly finished. The preparation is done for the caster, so no preparation time is needed beforehand as with normal spellcasting. All that’s left to do is perform the finishing parts of the spellcasting (the final gestures, words, and so on). To use a spell completion item safely, a character must be of high enough level in the right class to cast the spell already. If he can’t already cast the spell, there’s a chance he’ll make a mistake. Activating a spell completion item is a standard action and provokes attacks of opportunity exactly as casting a spell does.
+**Spell Completion:** This is the activation method for scrolls. A scroll is a spell that is mostly finished. The preparation is done for the caster, so no preparation time is needed beforehand as with normal spellcasting. All that’s left to do is perform the finishing parts of the spellcasting (the final gestures, words, and so on). To use a spell completion item safely, a character must be of high enough level in the right class to cast the spell already. If he can’t already cast the spell, there’s a chance he’ll make a mistake. Activating a spell completion item is a standard action and provokes attacks of opportunity exactly as casting a spell does.
 
-**Spell Trigger:**Spell trigger activation is similar to spell completion, but it’s even simpler. No gestures or spell finishing is needed, just a special knowledge of spellcasting that an appropriate character would know, and a single word that must be spoken. Anyone with a spell on his or her spell list knows how to use a spell trigger item that stores that spell. (This is the case even for a character who can’t actually cast spells, such as a 3rd-level paladin.) The user must still determine what spell is stored in the item before she can activate it. Activating a spell trigger item is a standard action and does not provoke attacks of opportunity.
+**Spell Trigger:** Spell trigger activation is similar to spell completion, but it’s even simpler. No gestures or spell finishing is needed, just a special knowledge of spellcasting that an appropriate character would know, and a single word that must be spoken. Anyone with a spell on his or her spell list knows how to use a spell trigger item that stores that spell. (This is the case even for a character who can’t actually cast spells, such as a 3rd-level paladin.) The user must still determine what spell is stored in the item before she can activate it. Activating a spell trigger item is a standard action and does not provoke attacks of opportunity.
 
-**Command Word:**If no activation method is suggested either in the magic item description or by the nature of the item, assume that a command word is needed to activate it. Command word activation means that a character speaks the word and the item activates. No other special knowledge is needed.
+**Command Word:** If no activation method is suggested either in the magic item description or by the nature of the item, assume that a command word is needed to activate it. Command word activation means that a character speaks the word and the item activates. No other special knowledge is needed.
 
 A command word can be a real word, but when this is the case, the holder of the item runs the risk of activating the item accidentally by speaking the word in normal conversation. More often, the command word is some seemingly nonsensical word, or a word or phrase from an ancient language no longer in common use. Activating a command word magic item is a standard action and does not provoke attacks of opportunity.
 
@@ -84,7 +84,7 @@ The Knowledge (arcana) and Knowledge (history) skills might be useful in helping
 
 The spellsidentifyandanalyze dweomerboth reveal command words.
 
-**Use Activated:**This type of item simply has to be used in order to activate it. A character has to drink a potion, swing a sword, interpose a shield to deflect a blow in combat, look through a lens, sprinkle dust, wear a ring, or don a hat. Use activation is generally straightforward and self-explanatory.
+**Use Activated:** This type of item simply has to be used in order to activate it. A character has to drink a potion, swing a sword, interpose a shield to deflect a blow in combat, look through a lens, sprinkle dust, wear a ring, or don a hat. Use activation is generally straightforward and self-explanatory.
 
 Many use-activated items are objects that a character wears. Continually functioning items are practically always items that one wears. A few must simply be in the character’s possession (on his person). However, some items made for wearingmust still be activated. Although this activation sometimes requires a command word (see above), usually it means mentally willing the activation to happen. The description of an item states whether a command word is needed in such a case.
 
@@ -102,7 +102,7 @@ When an article of magic clothing or jewelry is discovered, most of the time siz
 
 There may be rare exceptions, especially with racial specific items.
 
-**Armor and Weapon Sizes:**Armor and weapons that are found at random have a 30% chance of being Small (01–30), a 60% chance of being Medium (31–90), and a 10% chance of being any other size (91–100).
+**Armor and Weapon Sizes:** Armor and weapons that are found at random have a 30% chance of being Small (01–30), a 60% chance of being Medium (31–90), and a 10% chance of being any other size (91–100).
 
 
 
@@ -758,13 +758,13 @@ MAGIC ITEM GOLD PIECE VALUES
 
 Many factors must be considered when determining the price of new magic items. The easiest way to come up with a price is to match the new item to an item that is already priced that price as a guide. Otherwise, use the guidelines summarized on Table: Estimating Magic Item Gold Piece Values.
 
-**Multiple Similar Abilities:**For items with multiple similar abilities that don’t take up space on a character’s body use the following formula: Calculate the price of the single most costly ability, then add 75% of the value of the next most costly ability, plus one-half the value of any other abilities.
+**Multiple Similar Abilities:** For items with multiple similar abilities that don’t take up space on a character’s body use the following formula: Calculate the price of the single most costly ability, then add 75% of the value of the next most costly ability, plus one-half the value of any other abilities.
 
-**Multiple Different Abilities:**Abilities such as an attack roll bonus or saving throw bonus and a spell-like function are not similar, and their values are simply added together to determine the cost. For items that do take up a space on a character’s body each additional power not only has no discount but instead has a 50% increase in price.
+**Multiple Different Abilities:** Abilities such as an attack roll bonus or saving throw bonus and a spell-like function are not similar, and their values are simply added together to determine the cost. For items that do take up a space on a character’s body each additional power not only has no discount but instead has a 50% increase in price.
 
-**0-Level Spells:**When multiplying spell levels to determine value, 0- level spells should be treated as 1/2 level.
+**0-Level Spells:** When multiplying spell levels to determine value, 0- level spells should be treated as 1/2 level.
 
-**Other Considerations:**Once you have a final cost figure, reduce that number if either of the following conditions applies:
+**Other Considerations:** Once you have a final cost figure, reduce that number if either of the following conditions applies:
 
 —Item Requires Skill to Use:Some items require a specific skill to get them to function. This factor should reduce the cost about 10%.
 

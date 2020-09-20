@@ -12,23 +12,23 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 Metacreativity (Creation)
 
-**Level:**Shaper 9
+**Level:** Shaper 9
 
-**Display:**Material
+**Display:** Material
 
-**Manifesting Time:**One week (8 hours/day)
+**Manifesting Time:** One week (8 hours/day)
 
-**Range:**180 ft.; see text
+**Range:** 180 ft.; see text
 
-**Effect:**A demiplane coterminous with the Astral Plane, centered on your location
+**Effect:** A demiplane coterminous with the Astral Plane, centered on your location
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**No
+**Power Resistance:** No
 
-**Power Points:**17, XP
+**Power Points:** 17, XP
 
 You create a finite plane with limited access: a demiplane. Demiplanes created by this power are very small, very minor planes. This power works best when manifested while you are on the Astral Plane. Manifestation of this power creates a local density fluctuation that precipitates the creation of a demiplane. At first, the fledgling plane grows in radius at a rate of 1 foot per day to an initial maximum radius of 180 feet as it rapidly draws substance from the surrounding astral ectoplasm. Once the new demiplane reaches its maximum size, it doesn’t really stop growing, but its growth rate decreases to only 1 foot per week (approximately a 50-foot increase in radius per year). Once your demiplane is created, you can travel to it usingastral caravan,plane shift, or some other power or permanent link that you arrange for separately.
 
@@ -46,19 +46,19 @@ XP Cost:1,000 XP.
 
 Psychometabolism
 
-**Level:**Psychic warrior 3
+**Level:** Psychic warrior 3
 
-**Display:**Olfactory
+**Display:** Olfactory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**24 hours (D)
+**Duration:** 24 hours (D)
 
-**Power Points:**5
+**Power Points:** 5
 
 You attach any melee weapon you can use in one hand—mundane, psionic, or magical—onto the end of one of your arms. The weapon becomes a natural extension of your arm, and that hand blends seamlessly into the shaft, hilt, or head of the weapon. Now that the weapon and you are one, you gain a +1 competence bonus on all attack and damage rolls while using the weapon.
 
@@ -78,23 +78,23 @@ When this power’s duration expires, the grafted weapon falls to the ground and
 
 Metacreativity (Creation)
 
-**Level:**Psion/wilder 1
+**Level:** Psion/wilder 1
 
-**Display:**Visual and olfactory
+**Display:** Visual and olfactory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target or Area:**One object or a 10-ft. square
+**Target or Area:** One object or a 10-ft. square
 
-**Duration:**1 round/level (D)
+**Duration:** 1 round/level (D)
 
-**Saving Throw:**See spell text
+**Saving Throw:** See spell text
 
-**Power Resistance:**No
+**Power Resistance:** No
 
-**Power Points:**1
+**Power Points:** 1
 
 As thegreasespell, except as noted here.
 
@@ -108,25 +108,25 @@ Sometimes this power is referred to asectoplasmic sheen.
 
 Psychometabolism
 
-**Level:**Psychic warrior 1
+**Level:** Psychic warrior 1
 
-**Display:**Visual
+**Display:** Visual
 
-**Manifesting Time:**1 immediate action
+**Manifesting Time:** 1 immediate action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 round/level
+**Duration:** 1 round/level
 
-**Power Points:**1
+**Power Points:** 1
 
 You can improve your chances in a grapple as an immediate action, gaining a +4 enhancement bonus on your grapple checks.
 
 You can manifest this power with an instant thought, quickly enough to gain the benefit of the power in the current round. Manifesting this power is an immediate action, like manifesting a quickened power, and it counts toward the normal limit of one quickened power per round. You can manifest this power when it isn’t your turn (if you are grappled).
 
-**Augment:**For every 4 additional power points you spend, the enhancement bonus on your grapple checks increases by 2.
+**Augment:** For every 4 additional power points you spend, the enhancement bonus on your grapple checks increases by 2.
 
 
 
@@ -136,23 +136,23 @@ You can manifest this power with an instant thought, quickly enough to gain the 
 
 Metacreativity (Creation)
 
-**Level:**Shaper 5
+**Level:** Shaper 5
 
-**Display:**Auditory and visual
+**Display:** Auditory and visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./ level)
+**Range:** Medium (100 ft. + 10 ft./ level)
 
-**Area:**20-ft.-radius burst
+**Area:** 20-ft.-radius burst
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Reflex half
+**Saving Throw:** Reflex half
 
-**Power Resistance:**No
+**Power Resistance:** No
 
-**Power Points:**9
+**Power Points:** 9
 
 A tiny ectoplasmic crystal emanates from your outstretched hand and rapidly expands to a 2-foot-diameter ball of crystal as it speeds toward the location you designate. You can choose to aim this crystal at a single target or at a specific point in space (a grid intersection).
 
@@ -160,7 +160,7 @@ If you aim the crystal at a single target, you must make a ranged touch attack t
 
 Whether the crystal hits its target, misses, or was aimed at a point in space, it explodes upon arrival at the location you designated. Anyone within 20 feet of the explosion takes 9d4 points of slashing damage from the thousands of crystal shards that spray forth.
 
-**Augment:**For every additional power point you spend, this power’s damage from the explosion of the crystal increases by 1d4 points.
+**Augment:** For every additional power point you spend, this power’s damage from the explosion of the crystal increases by 1d4 points.
 
 
 
@@ -170,23 +170,23 @@ Whether the crystal hits its target, misses, or was aimed at a point in space, i
 
 Psychometabolism
 
-**Level:**Psion/wilder 1, psychic warrior 1
+**Level:** Psion/wilder 1, psychic warrior 1
 
-**Display:**Auditory and material
+**Display:** Auditory and material
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 round
+**Duration:** 1 round
 
-**Power Points:**1
+**Power Points:** 1
 
 This power charges your touch with the force of a sledgehammer. A successful melee touch attack deals 1d8 points of bludgeoning damage. This damage is not increased or decreased by your Strength modifier.
 
-**Augment:**For every additional power point you spend, this power’s duration increases by 1 round.
+**Augment:** For every additional power point you spend, this power’s duration increases by 1 round.
 
 
 
@@ -196,19 +196,19 @@ This power charges your touch with the force of a sledgehammer. A successful mel
 
 Psychometabolism
 
-**Level:**Egoist 3, psychic warrior 2
+**Level:** Egoist 3, psychic warrior 2
 
-**Display:**Auditory
+**Display:** Auditory
 
-**Manifesting Time:**1 swift action
+**Manifesting Time:** 1 swift action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Effect:**1 extra move action
+**Effect:** 1 extra move action
 
-**Power Points:**Egoist 5, psychic warrior 3
+**Power Points:** Egoist 5, psychic warrior 3
 
 You gain an additional move action in the current round. Taking a full round’s worth of attacks and then using this power to move away from your foe does provoke attacks of opportunity.
 
@@ -222,19 +222,19 @@ You can manifest this power with an instant thought, quickly enough to gain the 
 
 Clairsentience
 
-**Level:**Seer 8
+**Level:** Seer 8
 
-**Display:**Mental
+**Display:** Mental
 
-**Manifesting Time:**1 standard action or 1 immediate action; see text
+**Manifesting Time:** 1 standard action or 1 immediate action; see text
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Power Points:**15
+**Power Points:** 15
 
 You make lightning-fast deductions based on only the slightest clue, pattern, or scrap of memory resident in your mind. You can make reasonable statements about a person, place, or object, seemingly from very little knowledge. However, your knowledge is in fact the result of a rigorously logical process that you force your mind to undertake, digging up and correlating every possible piece of knowledge bearing on the topic (possibly even extracting echoes of knowledge from the Astral Plane).
 
@@ -252,23 +252,23 @@ Telepathy (Compulsion) [Mind-
 
 Affecting]
 
-**Level:**Psion/wilder 2
+**Level:** Psion/wilder 2
 
-**Display:**Auditory
+**Display:** Auditory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Close (25 ft. +5 ft./2 levels)
+**Range:** Close (25 ft. +5 ft./2 levels)
 
-**Target:**One creature
+**Target:** One creature
 
-**Duration:**Concentration + 1 round
+**Duration:** Concentration + 1 round
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**3
+**Power Points:** 3
 
 As theconfusionspell, except as noted here.
 
@@ -302,7 +302,7 @@ Swift tendrils of thought disrupt the unconscious mind of any one creature, sapp
 
 ![66 PsionicPowersG-P-Table01.png](66 PsionicPowersG-P-Table01.png)
 
-**Augment:**For every 2 additional power points you spend, this power’s save DC increases by 1, and the power can affect an additional target. Any additional target cannot be more than 15 feet from another target of the power.
+**Augment:** For every 2 additional power points you spend, this power’s save DC increases by 1, and the power can affect an additional target. Any additional target cannot be more than 15 feet from another target of the power.
 
 
 
@@ -312,23 +312,23 @@ Swift tendrils of thought disrupt the unconscious mind of any one creature, sapp
 
 Clairsentience
 
-**Level:**Psion/wilder 2
+**Level:** Psion/wilder 2
 
-**Display:**Material and mental
+**Display:** Material and mental
 
-**Manifesting Time:**One day
+**Manifesting Time:** One day
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**One touched object
+**Target:** One touched object
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**No
+**Power Resistance:** No
 
-**Power Points:**3
+**Power Points:** 3
 
 As theidentifyspell, except as noted here.
 
@@ -342,19 +342,19 @@ This power is used to identify the abilities of psionic items.
 
 Psychometabolism
 
-**Level:**Psychic warrior 4
+**Level:** Psychic warrior 4
 
-**Display:**Visual
+**Display:** Visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**Concentration
+**Duration:** Concentration
 
-**Power Points:**7
+**Power Points:** 7
 
 You are almost impossible to move. Your weight does not vary; instead, you mentally attach yourself to the underlying fabric of the plane. Thus, you could conceivably anchor yourself in midair. Any creature attempting to physically move you must succeed on an opposed Strength check, and you gain a +20 bonus on the check. You can’t voluntarily move to a new location unless you stop concentrating, which ends the power.
 
@@ -362,7 +362,7 @@ You cannot apply your Dexterity bonus to Armor Class; however, your anchored bod
 
 You cannot make physical attacks or perform any other large-scale movements (you can make smallscale movements, such as breathing, turning your head, moving your eyes, talking, and so on). Powers with the teleportation descriptor, or any telekinetic effect, manifested on you automatically fail.
 
-**Augment:**If you spend 8 additional power points, you can manifest this power as an immediate action.
+**Augment:** If you spend 8 additional power points, you can manifest this power as an immediate action.
 
 
 
@@ -372,23 +372,23 @@ You cannot make physical attacks or perform any other large-scale movements (you
 
 Metacreativity
 
-**Level:**Psion/wilder 5
+**Level:** Psion/wilder 5
 
-**Display:**Material
+**Display:** Material
 
-**Manifesting Time:**2 rounds
+**Manifesting Time:** 2 rounds
 
-**Range:**See text
+**Range:** See text
 
-**Target, Effect, or Area:**See text
+**Target, Effect, or Area:** See text
 
-**Duration:**Permanent; see text
+**Duration:** Permanent; see text
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**No
+**Power Resistance:** No
 
-**Power Points:**9, XP
+**Power Points:** 9, XP
 
 This power makes certain other powers permanent. Depending on the power to be affected, you must be of a minimum manifester level and must expend a number of XP.
 
@@ -486,19 +486,19 @@ You manifest the desired power and then follow it with theincarnatemanifestation
 
 Psychokinesis
 
-**Level:**Psion/wilder 1, psychic warrior 1
+**Level:** Psion/wilder 1, psychic warrior 1
 
-**Display:**Visual; see text
+**Display:** Visual; see text
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 hour/level (D)
+**Duration:** 1 hour/level (D)
 
-**Power Points:**1; see text
+**Power Points:** 1; see text
 
 Your mind generates a tangible field of force that provides a +4 armor bonus to Armor Class. Unlike mundane armor,inertial armorentails no armor check penalty or speed reduction. Becauseinertial armoris composed of psychokinetic force, incorporeal creatures can’t bypass it the way they do normal armor.
 
@@ -506,7 +506,7 @@ Yourinertial armorcan be invisible or can appear as a colored glow, at your opti
 
 The armor bonus provided byinertial armordoes not stack with the armor bonus provided by regular armor.
 
-**Augment:**For every 2 additional power points you spend, the armor bonus to Armor Class increases by 1.
+**Augment:** For every 2 additional power points you spend, the armor bonus to Armor Class increases by 1.
 
 
 
@@ -516,19 +516,19 @@ The armor bonus provided byinertial armordoes not stack with the armor bonus pro
 
 Psychokinesis
 
-**Level:**Kineticist 4, psychic warrior 4
+**Level:** Kineticist 4, psychic warrior 4
 
-**Display:**Auditory and mental
+**Display:** Auditory and mental
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**10 min./level
+**Duration:** 10 min./level
 
-**Power Points:**7
+**Power Points:** 7
 
 You create a skin-tight psychokinetic barrier around yourself that resists blows, cuts, stabs, and slashes, as well as providing some protection against falling. You gain damage reduction 5/–.Inertial barrieralso absorbs half the damage you take from any fall.
 
@@ -540,27 +540,27 @@ You create a skin-tight psychokinetic barrier around yourself that resists blows
 
 Telepathy [Mind-Affecting]
 
-**Level:**Psion/wilder 2
+**Level:** Psion/wilder 2
 
-**Display:**Mental
+**Display:** Mental
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One creature
+**Target:** One creature
 
-**Duration:**1 round/level
+**Duration:** 1 round/level
 
-**Saving Throw:**Will partial; see text
+**Saving Throw:** Will partial; see text
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**3
+**Power Points:** 3
 
 You telepathically stab the mind of your foe, causing horrible agony. The subject suffers wracking pain that imposes a –4 penalty on attack rolls, skill checks, and ability checks. If the target makes its save, it takes only a –2 penalty.
 
-**Augment:**For every 2 additional power points you spend, this power’s save DC increases by 1, and the power can affect an additional target. Any additional target cannot be more than 15 feet from another target of the power.
+**Augment:** For every 2 additional power points you spend, this power’s save DC increases by 1, and the power can affect an additional target. Any additional target cannot be more than 15 feet from another target of the power.
 
 
 
@@ -570,23 +570,23 @@ You telepathically stab the mind of your foe, causing horrible agony. The subjec
 
 Telepathy (Compulsion) [Mind-Affecting]
 
-**Level:**Psion/wilder 7
+**Level:** Psion/wilder 7
 
-**Display:**Mental
+**Display:** Mental
 
-**Manifesting Time:**1 standardaction
+**Manifesting Time:** 1 standardaction
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Target:**One creature
+**Target:** One creature
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**13
+**Power Points:** 13
 
 As theconfusionspell, except as noted here.
 
@@ -622,7 +622,7 @@ Creatures affected by this power are permanentlyconfusedand constantly behave ra
 
 Onlypsychic chirurgery,reality revision, and other similarly extreme measures can restore the subject’s sanity.
 
-**Augment:**For every 2 additional power points you spend, this power’s save DC increases by 1, and the power can affect an additional target. Any additional target cannot be more than 15 feet from another target of the power.
+**Augment:** For every 2 additional power points you spend, this power’s save DC increases by 1, and the power can affect an additional target. Any additional target cannot be more than 15 feet from another target of the power.
 
 
 
@@ -632,23 +632,23 @@ Onlypsychic chirurgery,reality revision, and other similarly extreme measures ca
 
 Psychokinesis
 
-**Level:**Psion/wilder 4
+**Level:** Psion/wilder 4
 
-**Display:**Auditory
+**Display:** Auditory
 
-**Manifesting Time:**1 immediate action
+**Manifesting Time:** 1 immediate action
 
-**Range:**20 ft.
+**Range:** 20 ft.
 
-**Area:**20-ft.-radius spread centered on you
+**Area:** 20-ft.-radius spread centered on you
 
-**Duration:**1 round
+**Duration:** 1 round
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**7
+**Power Points:** 7
 
 You encase yourself and your allies in a shimmering fortress of telekinetic force. All damage from powers and psi-like abilities taken by subjects inside the area of theintellect fortress,including ability damage, is halved. This lowering takes place prior to the effects of other powers or abilities that lessen damage, such as damage reduction and evasion.
 
@@ -656,7 +656,7 @@ Powers that are not subject to power resistance are not affected by anintellect 
 
 You can manifest this power instantly, quickly enough to gain its benefits in an emergency. Manifesting the power is an immediate action, like manifesting a quickened power, and it counts toward the normal limit of one quickened power per round. You can use this power even when it’s not your turn.
 
-**Augment:**For every additional power point you spend, this power’s duration increases by 1 round.
+**Augment:** For every additional power point you spend, this power’s duration increases by 1 round.
 
 
 
@@ -666,19 +666,19 @@ You can manifest this power instantly, quickly enough to gain its benefits in an
 
 Metacreativity (Creation)
 
-**Level:**Psion/wilder 8
+**Level:** Psion/wilder 8
 
-**Display:**Auditory
+**Display:** Auditory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 min./level (D)
+**Duration:** 1 min./level (D)
 
-**Power Points:**15
+**Power Points:** 15
 
 As theiron bodyspell, except as noted here.
 
@@ -690,23 +690,23 @@ As theiron bodyspell, except as noted here.
 
 Metacreativity
 
-**Level:**Psion/wilder 3, psychic warrior 3
+**Level:** Psion/wilder 3, psychic warrior 3
 
-**Display:**Visual
+**Display:** Visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Targets:**One weapon or fifty projectiles, all of which must be in contact with each other at the time of manifestation
+**Targets:** One weapon or fifty projectiles, all of which must be in contact with each other at the time of manifestation
 
-**Duration:**10 min./level
+**Duration:** 10 min./level
 
-**Saving Throw:**Will negates (harmless, object)
+**Saving Throw:** Will negates (harmless, object)
 
-**Power Resistance:**Yes (harmless, object)
+**Power Resistance:** Yes (harmless, object)
 
-**Power Points:**5
+**Power Points:** 5
 
 As thekeen edgespell, except as noted here.
 
@@ -718,23 +718,23 @@ As thekeen edgespell, except as noted here.
 
 Psychoportation
 
-**Level:**Psion/wilder 2
+**Level:** Psion/wilder 2
 
-**Display:**Material
+**Display:** Material
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./ level)
+**Range:** Medium (100 ft. + 10 ft./ level)
 
-**Target:**One door, box, or chest with an area of up to 10 sq. ft./level
+**Target:** One door, box, or chest with an area of up to 10 sq. ft./level
 
-**Duration:**Instantaneous; see spell text
+**Duration:** Instantaneous; see spell text
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**No
+**Power Resistance:** No
 
-**Power Points:**3
+**Power Points:** 3
 
 As theknockspell, except as noted here.
 
@@ -746,19 +746,19 @@ As theknockspell, except as noted here.
 
 Clairsentience
 
-**Level:**Psion/wilder 1
+**Level:** Psion/wilder 1
 
-**Display:**Mental
+**Display:** Mental
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Power Points:**1
+**Power Points:** 1
 
 You generally know where you are. This power is useful to characters who end up at unfamiliar destinations after teleporting, using agate,or traveling to or from other planes of existence. The power reveals general information about your location as a feeling or presentiment. The information is usually no more detailed than a summary that locates you according to a prominent local or regional site. Using this power also tells you what direction you are facing.
 
@@ -772,25 +772,25 @@ Using this power prior to making a Knowledge (the planes) check withastral carav
 
 Psychometabolism
 
-**Level:**Psion/wilder 5
+**Level:** Psion/wilder 5
 
-**Display:**Visual; see text
+**Display:** Visual; see text
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal; see text
+**Range:** Personal; see text
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 min.
+**Duration:** 1 min.
 
-**Power Points:**9
+**Power Points:** 9
 
 You raise a field of potentiality that drains the vitality from powers that you successfully save against. When you succeed on a saving throw to negate the effect of a foe’s power on you, and the power is one thatleech fieldis effective against (see below), your body erupts in a brief flash of crackling dark energy. You gain 1 power point for every 2 power points your foe spent to manifest the power you just saved against (to a maximum number of points equal to your manifester level). You cannot gain power points that would cause you to exceed your normal daily maximum.
 
 This power is effective against any power that targets a single creature and allows the target a saving throw to negate it, except those that are delivered by a touch attack or a ranged touch attack (including a ray).
 
-**Augment:**For every 2 additional power points you spend, this power’s duration increases by 1 minute.
+**Augment:** For every 2 additional power points you spend, this power’s duration increases by 1 minute.
 
 
 
@@ -800,27 +800,27 @@ This power is effective against any power that targets a single creature and all
 
 Psychoportation
 
-**Level:**Nomad 2, psion/wilder 2, psychic warrior 2
+**Level:** Nomad 2, psion/wilder 2, psychic warrior 2
 
-**Display:**Olfactory
+**Display:** Olfactory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal or close (25 ft. + 5 ft./2 levels)
+**Range:** Personal or close (25 ft. + 5 ft./2 levels)
 
-**Target:**You or one willing creature or one object (total weight up to 100 lb./level)
+**Target:** You or one willing creature or one object (total weight up to 100 lb./level)
 
-**Duration:**10 min./level (D)
+**Duration:** 10 min./level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**Yes (harmless, object)
+**Power Resistance:** Yes (harmless, object)
 
-**Power Points:**3
+**Power Points:** 3
 
 As thelevitatespell, except as noted here.
 
-**Special:**When a psion, wilder, or a psychic warrior manifests this power, the target is the manifester (not a willing creature or an object).
+**Special:** When a psion, wilder, or a psychic warrior manifests this power, the target is the manifester (not a willing creature or an object).
 
 
 
@@ -830,15 +830,15 @@ As thelevitatespell, except as noted here.
 
 Metacreativity (Creation)
 
-**Level:**Psion/wilder 5
+**Level:** Psion/wilder 5
 
-**Manifesting Time:**10 minutes
+**Manifesting Time:** 10 minutes
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Duration:**See spell text
+**Duration:** See spell text
 
-**Power Points:**9
+**Power Points:** 9
 
 As themajor creationspell, except as noted here.
 
@@ -850,23 +850,23 @@ As themajor creationspell, except as noted here.
 
 Psychokinesis
 
-**Level:**Psion/wilder 1
+**Level:** Psion/wilder 1
 
-**Display:**Auditory and material
+**Display:** Auditory and material
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Area:**2 sq. ft. of surface area of an object or creature
+**Area:** 2 sq. ft. of surface area of an object or creature
 
-**Duration:**Concentration, up to 1 min./level
+**Duration:** Concentration, up to 1 min./level
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**1
+**Power Points:** 1
 
 You can excite the structure of a nonpsionic, nonmagical object, heating it to the point of combustion over time. The agitation grows more intense in the second and third rounds after you manifest the power, as described below.
 
@@ -884,23 +884,23 @@ You can excite the structure of a nonpsionic, nonmagical object, heating it to t
 
 Metacreativity
 
-**Level:**Psion/wilder 8
+**Level:** Psion/wilder 8
 
-**Display:**Auditory and mental
+**Display:** Auditory and mental
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Area:**1 cu. ft./level of inanimate material
+**Area:** 1 cu. ft./level of inanimate material
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**15, XP
+**Power Points:** 15, XP
 
 You can weaken or strengthen the substance of an object or structure. You can affect both mundane and magical inanimate material. Weakening an object’s substance decreases its hardness and hit points, and strengthening it increases its hardness and hit points. You can increase or decrease an object’s hardness by up to 5 from its original hardness. When hardness increases, the object (or portion of an object) gains 3 hit points per inch of thickness for every point of increased hardness. When hardness decreases, the object (or portion of an object) loses 2 hit points per inch of thickness for every point of decreased hardness (to a minimum of 1 hit point per inch of thickness).
 
@@ -918,25 +918,25 @@ XP Cost:250 XP for each point by which the object’s hardness is altered.
 
 Clairsentience
 
-**Level:**Psion/wilder 3, psychic warrior 3
+**Level:** Psion/wilder 3, psychic warrior 3
 
-**Display:**Auditory
+**Display:** Auditory
 
-**Manifesting Time:**1 immediate action
+**Manifesting Time:** 1 immediate action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 round
+**Duration:** 1 round
 
-**Power Points:**5
+**Power Points:** 5
 
 You project a field of improbability around yourself, creating a fleeting protective shell. You gain a +4 deflection bonus to Armor Class.
 
 You can manifest this power instantly, quickly enough to gain its benefits in an emergency. Manifesting the power is an immediate action, like manifesting a quickened power, and it counts toward the normal limit of one quickened power per round. You can use this power even when it’s not your turn; however, you must manifest it prior to an opponent’s attack roll in order to gain this power’s benefit against that attack.
 
-**Augment:**You can augment this power in one or both of the following ways.
+**Augment:** You can augment this power in one or both of the following ways.
 
 1. If you spend 4 additional power points, the deflection bonus to Armor Class increases by 1.
 
@@ -950,27 +950,27 @@ You can manifest this power instantly, quickly enough to gain its benefits in an
 
 Telepathy [Mind-Affecting]
 
-**Level:**Psion/wilder 2
+**Level:** Psion/wilder 2
 
-**Display:**Mental
+**Display:** Mental
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**10 ft.
+**Range:** 10 ft.
 
-**Area:**10-ft.-radius spread centered on you
+**Area:** 10-ft.-radius spread centered on you
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**3
+**Power Points:** 3
 
 You generate a mental wave of confusion that instantly sweeps out from your location. All creatures you designate in the affected area (you can choose certain creatures to be unaffected) must make a Will save or become dazed for 1 round.
 
-**Augment:**You can augment this power in one or both of the following ways.
+**Augment:** You can augment this power in one or both of the following ways.
 
 1. For every 2 additional power points you spend, this power’s save DC increases by 1.
 
@@ -984,19 +984,19 @@ You generate a mental wave of confusion that instantly sweeps out from your loca
 
 Telepathy [Mind-Affecting]
 
-**Level:**Psychic warrior 5, telepath 5
+**Level:** Psychic warrior 5, telepath 5
 
-**Display:**Visual; see text
+**Display:** Visual; see text
 
-**Manifesting Time:**1 minute
+**Manifesting Time:** 1 minute
 
-**Range:**20 ft.
+**Range:** 20 ft.
 
-**Target:**You and up to nine other willing psionic creatures in range
+**Target:** You and up to nine other willing psionic creatures in range
 
-**Duration:**1 min./level (D)
+**Duration:** 1 min./level (D)
 
-**Power Points:**9
+**Power Points:** 9
 
 You link your psychic might with other psionic creatures, creating an entity more powerful than the sum of its parts.
 
@@ -1014,7 +1014,7 @@ All participants who leave before ametaconcertends or is dismissed reclaim a num
 
 When ametaconcertends normally or is dismissed, remaining power points in the pool are divided among all the participants (the conductor receives the remainder if the points can’t be divided evenly).
 
-**Augment:**For every additional power point you spend, this power’s duration increases by 1 minute.
+**Augment:** For every additional power point you spend, this power’s duration increases by 1 minute.
 
 
 
@@ -1024,19 +1024,19 @@ When ametaconcertends normally or is dismissed, remaining power points in the po
 
 Clairsentience
 
-**Level:**Seer 9
+**Level:** Seer 9
 
-**Display:**Mental, olfactory, and visual
+**Display:** Mental, olfactory, and visual
 
-**Manifesting Time:**1 hour
+**Manifesting Time:** 1 hour
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**Instantaneous and 1 min./level (D); see text
+**Duration:** Instantaneous and 1 min./level (D); see text
 
-**Power Points:**17, XP
+**Power Points:** 17, XP
 
 You elevate your mind to a near-universal consciousness, cogitating countless impressions and predictions involving any creature you have seen before, whether personally or by means of another power such asremote viewing.
 
@@ -1068,19 +1068,19 @@ XP Cost:1,000.
 
 Psychometabolism
 
-**Level:**Egoist 4
+**Level:** Egoist 4
 
-**Display:**Material and olfactory
+**Display:** Material and olfactory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 min./level (D) for a creature; 1 hour/level (D) for an object
+**Duration:** 1 min./level (D) for a creature; 1 hour/level (D) for an object
 
-**Power Points:**7
+**Power Points:** 7
 
 You assume the form of a creature of the same type as your normal form, or any other type except construct, elemental, outsider, and undead. The assumed form can have as many Hit Dice as your manifester level, to a maximum of 15.
 
@@ -1108,19 +1108,19 @@ As an inanimate object, you lose all mobility. You retain your normal senses and
 
 Psychometabolism
 
-**Level:**Egoist 9
+**Level:** Egoist 9
 
-**Display:**Material and visual
+**Display:** Material and visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 min./level (D) for a creature; 1 hour/level (D) for an object
+**Duration:** 1 min./level (D) for a creature; 1 hour/level (D) for an object
 
-**Power Points:**17, XP
+**Power Points:** 17, XP
 
 Asmetamorphosis, except that this power enables you to assume the form of any single nonunique object or creature (of any type) from Fine to Colossal size. The assumed form cannot have more Hit Dice than twice your manifester level (to a maximum of 50 HD). Unlikemetamorphosis, this power allows incorporeal, ectoplasmic, or gaseous forms to be assumed.
 
@@ -1144,23 +1144,23 @@ XP Cost:200 XP.
 
 Psychometabolism
 
-**Level:**Psychic warrior 1
+**Level:** Psychic warrior 1
 
-**Display:**Auditory
+**Display:** Auditory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Power Points:**1
+**Power Points:** 1
 
 If you have a claw attack (either from an actual natural weapon or from an effect such asclaws of the beast) or a bite attack (which could be a natural bite attack or one you gain by means of the powerbite of the wolf), you can use this power to provide one of your natural weapons a +1 enhancement bonus on attack rolls and damage rolls.
 
-**Augment:**If you spend 4 additional power points, this power’s duration increases to 1 hour per level.
+**Augment:** If you spend 4 additional power points, this power’s duration increases to 1 hour per level.
 
 In addition, for every 4 additional power points you spend, this power improves the natural weapon’s enhancement bonus on attack rolls and damage rolls by 1.
 
@@ -1172,23 +1172,23 @@ In addition, for every 4 additional power points you spend, this power improves 
 
 Metacreativity
 
-**Level:**Psychic warrior 1
+**Level:** Psychic warrior 1
 
-**Display:**Auditory
+**Display:** Auditory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Weapon touched
+**Target:** Weapon touched
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**Will negates (harmless, object)
+**Saving Throw:** Will negates (harmless, object)
 
-**Power Resistance:**Yes (harmless, object)
+**Power Resistance:** Yes (harmless, object)
 
-**Power Points:**1
+**Power Points:** 1
 
 Metaphysical weapongives a weapon a +1 enhancement bonus on attack rolls and damage rolls. (An enhancement bonus does not stack with a masterwork weapon’s +1 bonus on attack rolls.)
 
@@ -1196,7 +1196,7 @@ Alternatively, you can affect up to fifty arrows, bolts, or bullets. The project
 
 You can’t manifest this power on most natural weapons, including a psychic warrior’s claw strike. This power does work on a weapon brought into being by thegraft weaponpower.
 
-**Augment:**If you spend 4 additional power points, this power’s duration increases to 1 hour per level.
+**Augment:** If you spend 4 additional power points, this power’s duration increases to 1 hour per level.
 
 In addition, for every 4 additional power points you spend, this power improves the weapon’s enhancement bonus on attack rolls and damage rolls by 1.
 
@@ -1208,23 +1208,23 @@ In addition, for every 4 additional power points you spend, this power improves 
 
 Telepathy (Compulsion) [Mind-Affecting]
 
-**Level:**Psion/wilder 9
+**Level:** Psion/wilder 9
 
-**Display:**Material
+**Display:** Material
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target or Area:**One creature; or one or more creatures within a 15-ft.-radius sphere
+**Target or Area:** One creature; or one or more creatures within a 15-ft.-radius sphere
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**17
+**Power Points:** 17
 
 This power enables you to warp the consciousness and senses of one or more creatures, sending the victim into a catatonic state. Whenmicrocosmis manifested, you can target either a single creature within range or a group of creatures all located within the power’s area.
 
@@ -1234,7 +1234,7 @@ Area Effect:Ifmicrocosmis manifested on an area, it sends all affected creatures
 
 Manifestingmicrocosma second time on an affected creature turns its sensory pathways outward once more. Otherwise, only very potent powers (such aspsychic chirurgeryorreality revision) or similar effects (such asmiracleorwish) can undo the mental crosswiring that this power brings about.
 
-**Augment:**For every additional power point you spend, the number of individual and group hit points the power can affect increases by 10.
+**Augment:** For every additional power point you spend, the number of individual and group hit points the power can affect increases by 10.
 
 
 
@@ -1244,19 +1244,19 @@ Manifestingmicrocosma second time on an affected creature turns its sensory path
 
 Telepathy [Mind-Affecting]
 
-**Level:**Psion/wilder 7, psychic warrior 6
+**Level:** Psion/wilder 7, psychic warrior 6
 
-**Display:**Olfactory
+**Display:** Olfactory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**One day
+**Duration:** One day
 
-**Power Points:**Psion/wilder 13, psychic warrior 11
+**Power Points:** Psion/wilder 13, psychic warrior 11
 
 Aspsionic mind blank(see below), except as noted here.
 
@@ -1268,23 +1268,23 @@ Aspsionic mind blank(see below), except as noted here.
 
 Telepathy [Mind-Affecting]
 
-**Level:**Psion/wilder 8
+**Level:** Psion/wilder 8
 
-**Display:**Olfactory
+**Display:** Olfactory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One creature
+**Target:** One creature
 
-**Duration:**One day
+**Duration:** One day
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
-**Power Resistance:**Yes (harmless)
+**Power Resistance:** Yes (harmless)
 
-**Power Points:**15
+**Power Points:** 15
 
 The subject is protected from all devices, powers, and spells that detect, influence, or read emotions or thoughts. This power protects against powers with the mind-affecting or scrying descriptors.Psionic mind blankeven foilsbend reality, limited wish, miracle, reality revision,andwishwhen they are used in such a way as to affect the subject’s mind or to gain information about it (however,metafacultycan pierce the protective quality ofpsionic mind blank). In the case ofremote viewingor scrying that scans an area the creature is in, the effect works but the creature simply isn’t detected.Remote viewing(scrying) attempts that are targeted specifically at the subject do not work at all.
 
@@ -1296,23 +1296,23 @@ The subject is protected from all devices, powers, and spells that detect, influ
 
 Telepathy (Charm) [Mind-Affecting]
 
-**Level:**Telepath 5
+**Level:** Telepath 5
 
-**Display:**Auditory, material, and visual
+**Display:** Auditory, material, and visual
 
-**Manifesting Time:**1 minute
+**Manifesting Time:** 1 minute
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One creature
+**Target:** One creature
 
-**Duration:**1 round/level (D)
+**Duration:** 1 round/level (D)
 
-**Saving Throw:**Will partial; see text
+**Saving Throw:** Will partial; see text
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**9
+**Power Points:** 9
 
 All the subject’s memories and knowledge are accessible to you, from memories deep below the surface to those still easily called to mind. You can learn the answer to one question per round, to the best of the subject’s knowledge. If the subject succeeds on a Will save, it is not required to answer the question; however, making a save does not end the power. You can ask the subject a new question (or the same question) in subsequent rounds for as long as the power’s duration persists.
 
@@ -1328,23 +1328,23 @@ Subjects that do not wish to be probed can attempt to move beyond the power’s 
 
 Telepathy (Compulsion) [Evil, Mind-Affecting]
 
-**Level:**Telepath 8
+**Level:** Telepath 8
 
-**Display:**Mental
+**Display:** Mental
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**One touched Medium or smaller humanoid
+**Target:** One touched Medium or smaller humanoid
 
-**Duration:**Instantaneous; see text
+**Duration:** Instantaneous; see text
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**15, XP
+**Power Points:** 15, XP
 
 You impress the totality of your psyche into a subject’s subconscious. If successfully implanted, the seed of your mind “germinates” over the period of one week. During this time, the subject begins to unconsciously take on your mannerisms.
 
@@ -1364,23 +1364,23 @@ XP Cost:3,000 XP.
 
 Telepathy [Mind-Affecting]
 
-**Level:**Telepath 6
+**Level:** Telepath 6
 
-**Display:**Visual
+**Display:** Visual
 
-**Manifesting Time:**1 round
+**Manifesting Time:** 1 round
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Targets:**You and one other creature
+**Targets:** You and one other creature
 
-**Duration:**10 min./level
+**Duration:** 10 min./level
 
-**Saving Throw:**Will negates; see text
+**Saving Throw:** Will negates; see text
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**11, XP
+**Power Points:** 11, XP
 
 You can attempt to take control of a nearby living creature, forcing your mind (and soul) into its body, and its mind into your body. You can target any creature whose Hit Dice are equal to or less than your manifester level.
 
@@ -1408,7 +1408,7 @@ A targeteddispel psionics(or similar spells or effects) successfully manifested 
 
 XP Cost:100 XP.
 
-**Augment:**For every 2 additional power points you spend, this power’s save DC increases by 1.
+**Augment:** For every 2 additional power points you spend, this power’s save DC increases by 1.
 
 
 
@@ -1418,17 +1418,17 @@ XP Cost:100 XP.
 
 Telepathy [Mind-Affecting]
 
-**Level:**Telepath 9
+**Level:** Telepath 9
 
-**Manifesting Time:**1 minute
+**Manifesting Time:** 1 minute
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Will negates; see text
+**Saving Throw:** Will negates; see text
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**17, XP
+**Power Points:** 17, XP
 
 Asmind switch,except as noted here. You permanently exchange bodies with the subject. Since this power’s duration is instantaneous, you cannot be forced to return to your natural body by means ofdispel psionics,anantimagic field,or a similar effect. If the subject’s body dies while you are in it, you are dead. The subject immediately loses one level, but otherwise survives the experience in your natural body. If your natural body dies while the subject is in it, you immediately lose one level, but you likewise survive the experience in your new body.
 
@@ -1444,27 +1444,27 @@ XP Cost:10,000 XP.
 
 Telepathy [Mind-Affecting]
 
-**Level:**Psion/wilder 1
+**Level:** Psion/wilder 1
 
-**Display:**Auditory
+**Display:** Auditory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One creature
+**Target:** One creature
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**1
+**Power Points:** 1
 
 You instantly deliver a massive assault on the thought pathways of any one creature, dealing 1d10 points of damage to it.
 
-**Augment:**For every additional power point you spend, this power’s damage increases by 1d10 points. For each extra 2d10 points of damage, this power’s save DC increases by 1.
+**Augment:** For every additional power point you spend, this power’s damage increases by 1d10 points. For each extra 2d10 points of damage, this power’s save DC increases by 1.
 
 
 
@@ -1474,27 +1474,27 @@ You instantly deliver a massive assault on the thought pathways of any one creat
 
 Telepathy [Mind-Affecting]
 
-**Level:**Psion/wilder 3
+**Level:** Psion/wilder 3
 
-**Display:**Auditory
+**Display:** Auditory
 
-**Manifesting Time:**1 immediate action
+**Manifesting Time:** 1 immediate action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 round
+**Duration:** 1 round
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**Yes (harmless)
+**Power Resistance:** Yes (harmless)
 
-**Power Points:**5
+**Power Points:** 5
 
 You set up a trap in your mind against psionic intruders. Anyone who attacks you with a telepathy power immediately loses 1d6 power points. This power’s effect does not negate the power that is currently being used against you. You can manifest this power instantly, quickly enough to gain its benefit in an emergency. Manifesting the power is an immediate action, like manifesting a quickened power, and it counts toward the normal limit of one quickened power per round. You can use this power even when it is not your turn.
 
-**Augment:**For every additional power point you spend, this power’s duration increases by 1 round.
+**Augment:** For every additional power point you spend, this power’s duration increases by 1 round.
 
 
 
@@ -1504,27 +1504,27 @@ You set up a trap in your mind against psionic intruders. Anyone who attacks you
 
 Telepathy [Mind-Affecting]
 
-**Level:**Telepath 1
+**Level:** Telepath 1
 
-**Display:**Mental
+**Display:** Mental
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels); see text
+**Range:** Close (25 ft. + 5 ft./2 levels); see text
 
-**Targets:**You and one other willing creature within range that has an Intelligence score of 3 or higher
+**Targets:** You and one other willing creature within range that has an Intelligence score of 3 or higher
 
-**Duration:**10 min./level
+**Duration:** 10 min./level
 
-**Saving Throw:**None; see text
+**Saving Throw:** None; see text
 
-**Power Resistance:**Yes (harmless)
+**Power Resistance:** Yes (harmless)
 
-**Power Points:**1
+**Power Points:** 1
 
 You forge a telepathic bond with your target. You can communicate telepathically through the bond even if you do not share a common language. No special power or influence is established as a result of the bond. Once the bond is formed, it works over any distance (although not from one plane to another).
 
-**Augment:**You can augment this power in one or both of the following ways.
+**Augment:** You can augment this power in one or both of the following ways.
 
 1. If you spend 4 additional power points, you can attempt to create a telepathic bond with a creature that is not willing (Will save negates).
 
@@ -1538,21 +1538,21 @@ You forge a telepathic bond with your target. You can communicate telepathically
 
 Telepathy [Mind-Affecting]
 
-**Level:**Telepath 4
+**Level:** Telepath 4
 
-**Duration:**10 min./level (D)
+**Duration:** 10 min./level (D)
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**7
+**Power Points:** 7
 
 Asmindlink, except that if the target is a psionic character or creature that knows powers, you can temporarily borrow a power of your choice (you are aware of what powers the subject knows, up to the highest level of power you can manifest).
 
 Borrowing the subject’s power is a separate standard action that provokes an attack of opportunity. If that attack succeeds, the mental communication provided by this power ends immediately. The borrowed power fades from the subject’s awareness and appears within your own. You can now spend power points to manifest the borrowed power just as if it were one of your powers known. You maintain knowledge of the borrowed power until the duration of yourthieving mindlinkexpires, at which time you lose knowledge of the power and the power reappears in the mind of the subject, no matter how far from you the subject is. Even if the subject is slain, you lose knowledge of the borrowed power when this power’s duration expires.
 
-**Augment:**For every 2 additional power points you spend, this power’s save DC increases by 1.
+**Augment:** For every 2 additional power points you spend, this power’s save DC increases by 1.
 
 
 
@@ -1562,29 +1562,29 @@ Borrowing the subject’s power is a separate standard action that provokes an a
 
 Telepathy [Mind-Affecting]
 
-**Level:**Psion/wilder 4
+**Level:** Psion/wilder 4
 
-**Display:**Auditory, mental, and visual
+**Display:** Auditory, mental, and visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One creature
+**Target:** One creature
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Fortitude negates
+**Saving Throw:** Fortitude negates
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**7
+**Power Points:** 7
 
 You partially wipe your victim’s mind of past experiences, bestowing two negative levels upon it. If the subject has at least as many negative levels as Hit Dice, it dies. For each negative level it gains, a psionic creature loses knowledge of one power from its highest available level, and a number of power points from its maximum power point total sufficient to manifest that power. The effects of multiple negative levels stack.
 
 If the subject survives, it loses these two negative levels after 1 hour. (No Fortitude save is necessary to avoid gaining the negative level permanently.)
 
-**Augment:**You can manifest this power in one or both of the following ways.
+**Augment:** You can manifest this power in one or both of the following ways.
 
 1. For every 2 additional power points you spend, this power’s save DC increases by 1.
 
@@ -1598,23 +1598,23 @@ If the subject survives, it loses these two negative levels after 1 hour. (No Fo
 
 Metacreativity (Creation)
 
-**Level:**Shaper 1
+**Level:** Shaper 1
 
-**Display:**Material
+**Display:** Material
 
-**Manifesting Time:**1 minute
+**Manifesting Time:** 1 minute
 
-**Range:**0 ft.
+**Range:** 0 ft.
 
-**Effect:**Unattended, nonpsionic, nonmagical object of nonliving plant matter, up to 1 cu. ft./level
+**Effect:** Unattended, nonpsionic, nonmagical object of nonliving plant matter, up to 1 cu. ft./level
 
-**Duration:**1 hour/level (D)
+**Duration:** 1 hour/level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**No
+**Power Resistance:** No
 
-**Power Points:**1
+**Power Points:** 1
 
 As theminor creationspell, except as noted here.
 
@@ -1626,27 +1626,27 @@ As theminor creationspell, except as noted here.
 
 Telepathy [Mind-Affecting, Language-Dependent]
 
-**Level:**Psion/wilder 1
+**Level:** Psion/wilder 1
 
-**Display:**Mental
+**Display:** Mental
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One creature
+**Target:** One creature
 
-**Effect:**Mental message delivered to subject
+**Effect:** Mental message delivered to subject
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**1
+**Power Points:** 1
 
 You send a telepathic message of up to ten words to any living creature within range.Missiveis strictly a one-way exchange from you to the subject. If you do not share a common language, the subject “hears” meaningless mental syllables.
 
-**Augment:**For every 2 additional power points you spend, this power’s range increases by 5 feet and its save DC increases by 1.
+**Augment:** For every 2 additional power points you spend, this power’s range increases by 5 feet and its save DC increases by 1.
 
 
 
@@ -1656,27 +1656,27 @@ You send a telepathic message of up to ten words to any living creature within r
 
 Telepathy [Mind-Affecting, Language-Dependent]
 
-**Level:**Psion/wilder 2
+**Level:** Psion/wilder 2
 
-**Display:**Mental
+**Display:** Mental
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Long (400 ft. + 40 ft./level)
+**Range:** Long (400 ft. + 40 ft./level)
 
-**Targets:**All creatures in a 400 ft. + 40 ft./level radius centered on you; see text
+**Targets:** All creatures in a 400 ft. + 40 ft./level radius centered on you; see text
 
-**Effect:**Mental message delivered to subjects
+**Effect:** Mental message delivered to subjects
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
-**Power Resistance:**Yes (harmless)
+**Power Resistance:** Yes (harmless)
 
-**Power Points:**3
+**Power Points:** 3
 
 You send a telepathic message of up to twenty-five words to all creatures within range. You can include or exclude from this broadcast any creature you can see, as well as any creature that you know or know of.Mass missiveis strictly a one-way exchange from you to the subjects. If you do not share a common language, the subjects “hear” meaningless mental syllables.
 
-**Augment:**For every 2 additional power points you spend, this power’s range increases by 40 feet and its save DC increases by 1.
+**Augment:** For every 2 additional power points you spend, this power’s range increases by 40 feet and its save DC increases by 1.
 
 
 
@@ -1686,23 +1686,23 @@ You send a telepathic message of up to twenty-five words to all creatures within
 
 Telepathy (Compulsion) [Mind-Affecting]
 
-**Level:**Telepath 4
+**Level:** Telepath 4
 
-**Display:**Mental
+**Display:** Mental
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One creature
+**Target:** One creature
 
-**Duration:**Permanent
+**Duration:** Permanent
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**7
+**Power Points:** 7
 
 As themodify memoryspell, except as noted here.
 
@@ -1714,19 +1714,19 @@ As themodify memoryspell, except as noted here.
 
 Clairsentience
 
-**Level:**Psion/wilder 7
+**Level:** Psion/wilder 7
 
-**Display:**Visual
+**Display:** Visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 round/level or until discharged
+**Duration:** 1 round/level or until discharged
 
-**Power Points:**13
+**Power Points:** 13
 
 As themoment of presciencespell, except as noted here.
 
@@ -1738,25 +1738,25 @@ As themoment of presciencespell, except as noted here.
 
 Psychokinesis [Light]
 
-**Level:**Psion/wilder 1, psychic warrior 1
+**Level:** Psion/wilder 1, psychic warrior 1
 
-**Display:**Auditory and visual
+**Display:** Auditory and visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Effect:**20-ft. cone of light emanating from you
+**Effect:** 20-ft. cone of light emanating from you
 
-**Duration:**10 min./level (D)
+**Duration:** 10 min./level (D)
 
-**Power Points:**1
+**Power Points:** 1
 
 Your eyes beam forth a 20-foot cone of light. You and other creatures can see normally in the light. If you walk into an area filled with psionic or magical darkness,my lightgoes dark while you stay within that area.
 
 Ifmy lightis used in conjunction withelfsight, the cone of light extends out to 40 feet instead of 20 feet.
 
-**Augment:**If you spend 2 additional power points, you can manifest this power as a swift action.
+**Augment:** If you spend 2 additional power points, you can manifest this power as a swift action.
 
 
 
@@ -1766,23 +1766,23 @@ Ifmy lightis used in conjunction withelfsight, the cone of light extends out to 
 
 Psychokinesis
 
-**Level:**Kineticist 6
+**Level:** Kineticist 6
 
-**Display:**Auditory and visual
+**Display:** Auditory and visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**10 ft.
+**Range:** 10 ft.
 
-**Area:**10-ft.-radius emanation centered on you
+**Area:** 10-ft.-radius emanation centered on you
 
-**Duration:**10 min./level (D)
+**Duration:** 10 min./level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**See text
+**Power Resistance:** See text
 
-**Power Points:**11
+**Power Points:** 11
 
 An invisible barrier surrounds you and moves with you. The space within this barrier is impervious to most psionic effects, including powers, psi-like abilities, and supernatural abilities. Likewise, it prevents the functioning of any psionic items or powers within its confines. Anull psionics fieldsuppresses any power or psionic effect used within, brought into, or manifested into its area, but does not negate it. Time spent within anull psionics fieldcounts against a suppressed effect’s duration.
 
@@ -1802,19 +1802,19 @@ Dispel psionicsdoes not remove the field. Two or morenull psionics fieldssharing
 
 Psychometabolism
 
-**Level:**Psion/wilder 7, psychic warrior 5
+**Level:** Psion/wilder 7, psychic warrior 5
 
-**Display:**Auditory
+**Display:** Auditory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 min./level (D)
+**Duration:** 1 min./level (D)
 
-**Power Points:**Psion/wilder 13, psychic warrior 9
+**Power Points:** Psion/wilder 13, psychic warrior 9
 
 This power transforms your body into living oak, which grants you several advantages.
 
@@ -1826,7 +1826,7 @@ You gain a +4 enhancement bonus to Strength, but you take a –2 penalty to Dext
 
 Your unarmed attacks deal damage equal to a club sized for you (1d4 for Small characters, 1d6 for Medium characters), and you are considered armed when making unarmed attacks. When you make a full attack against an object or structure using your unarmed strike, you deal double damage.
 
-**Augment:**For every additional power point you spend, this power’s duration increases by 1 minute.
+**Augment:** For every additional power point you spend, this power’s duration increases by 1 minute.
 
 
 
@@ -1836,23 +1836,23 @@ Your unarmed attacks deal damage equal to a club sized for you (1d4 for Small ch
 
 Clairsentience
 
-**Level:**Seer 2
+**Level:** Seer 2
 
-**Display:**Auditory and material
+**Display:** Auditory and material
 
-**Manifesting Time:**1 minute
+**Manifesting Time:** 1 minute
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Object touched
+**Target:** Object touched
 
-**Duration:**Concentration, up to 10 min./level (D)
+**Duration:** Concentration, up to 10 min./level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**3
+**Power Points:** 3
 
 You can learn details of an inanimate object’s previous owner. Objects accumulate psychic impressions left by their previous owners, which can be read by use of this power. The amount of information revealed depends on how long you study a particular object.
 
@@ -1876,7 +1876,7 @@ This power will not identify casual users as owners. (Anyone who uses an object 
 
 An object without any previous owners reveals no information. You can continue to run through a list of previous owners and learn details about them as long as the power’s duration lasts. If you use this power additional times on the same object, the information yielded is the same as if you were using the power on the object for the first time.
 
-**Augment:**For every additional power point you spend, this power’s maximum duration increases by 10 minutes.
+**Augment:** For every additional power point you spend, this power’s maximum duration increases by 10 minutes.
 
 
 
@@ -1886,19 +1886,19 @@ An object without any previous owners reveals no information. You can continue t
 
 Psychoportation
 
-**Level:**Psion/wilder 6
+**Level:** Psion/wilder 6
 
-**Display:**Auditory
+**Display:** Auditory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 hour/level (D)
+**Duration:** 1 hour/level (D)
 
-**Power Points:**11
+**Power Points:** 11
 
 As theoverland flightspell, except as noted here.
 
@@ -1910,23 +1910,23 @@ As theoverland flightspell, except as noted here.
 
 Psychometabolism
 
-**Level:**Psychic warrior 2
+**Level:** Psychic warrior 2
 
-**Display:**Material and visual
+**Display:** Material and visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 round/level
+**Duration:** 1 round/level
 
-**Power Points:**3
+**Power Points:** 3
 
 Your natural weapons cause additional pain. Each successful attack you make with a natural weapon deals an extra 1d6 points of nonlethal damage to the target.
 
-**Augment:**If you spend 6 additional power points, you can manifest this power as a swift action.
+**Augment:** If you spend 6 additional power points, you can manifest this power as a swift action.
 
 
 
@@ -1936,23 +1936,23 @@ Your natural weapons cause additional pain. Each successful attack you make with
 
 Telepathy [Mind-Affecting]
 
-**Level:**Psion/wilder 4
+**Level:** Psion/wilder 4
 
-**Display:**Auditory and visual
+**Display:** Auditory and visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./ level)
+**Range:** Medium (100 ft. + 10 ft./ level)
 
-**Target:**One Medium or smaller humanoid
+**Target:** One Medium or smaller humanoid
 
-**Duration:**1 round/level (D)
+**Duration:** 1 round/level (D)
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**7
+**Power Points:** 7
 
 You attempt to briefly partition the mind of your foe, calving off a minor personality that is antagonistic to the main personality. The parasitic personality functions with complete autonomy from the main personality. It does not control the body physically, but it can take one standard action each round that is purely mental, such as manifesting a power, in the same turn that the subject takes its normal actions.
 
@@ -1972,23 +1972,23 @@ The parasitic personality does not gain any advantages if the main personality i
 
 Psychoportation
 
-**Level:**Psion/wilder 7
+**Level:** Psion/wilder 7
 
-**Display:**Visual
+**Display:** Visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**0 ft.
+**Range:** 0 ft.
 
-**Effect:**Ethereal 5-ft. by 8-ft. opening, 10 ft. deep + 5 ft. deep per three levels
+**Effect:** Ethereal 5-ft. by 8-ft. opening, 10 ft. deep + 5 ft. deep per three levels
 
-**Duration:**One usage per two levels
+**Duration:** One usage per two levels
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**No
+**Power Resistance:** No
 
-**Power Points:**13
+**Power Points:** 13
 
 As thephase doorspell, except as noted here. This power is subject todispel psionics.
 
@@ -2000,19 +2000,19 @@ As thephase doorspell, except as noted here. This power is subject todispel psio
 
 Psychoportation
 
-**Level:**Psion/wilder 5
+**Level:** Psion/wilder 5
 
-**Display:**Visual
+**Display:** Visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Targets:**Willing creature touched, or up to eight willing creatures joining hands
+**Targets:** Willing creature touched, or up to eight willing creatures joining hands
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Power Points:**9
+**Power Points:** 9
 
 As theplane shiftspell, except as noted here.
 
@@ -2024,23 +2024,23 @@ As theplane shiftspell, except as noted here.
 
 Telepathy (Compulsion) [Mind-Affecting]
 
-**Level:**Psion/wilder 4
+**Level:** Psion/wilder 4
 
-**Display:**Visual; see text
+**Display:** Visual; see text
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**Any psionic creature
+**Target:** Any psionic creature
 
-**Duration:**Concentration, up to 1 round/level; see text
+**Duration:** Concentration, up to 1 round/level; see text
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**7
+**Power Points:** 7
 
 Your brow erupts with an arc of crackling dark energy that connects with your foe, draining it of 1d6 power points and adding 1 of those points to your reserve (unless that gain would cause you to exceed your maximum).
 
@@ -2056,23 +2056,23 @@ Concentrating to maintainpower leechis a full-round action (you can take no othe
 
 Clairsentience
 
-**Level:**Psion/wilder 5
+**Level:** Psion/wilder 5
 
-**Display:**Material and visual
+**Display:** Material and visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
-**Power Resistance:**Yes (harmless)
+**Power Resistance:** Yes (harmless)
 
-**Power Points:**9
+**Power Points:** 9
 
 The creature gains power resistance equal to 12 + your manifester level.
 
@@ -2084,19 +2084,19 @@ The creature gains power resistance equal to 12 + your manifester level.
 
 Clairsentience
 
-**Level:**Seer 1
+**Level:** Seer 1
 
-**Display:**Visual
+**Display:** Visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**10 min./level
+**Duration:** 10 min./level
 
-**Power Points:**1
+**Power Points:** 1
 
 Precognitionallows your mind to glimpse fragments of potential future events—what you see will probably happen if no one takes action to change it. However, your vision is incomplete, and it makes no real sense until the actual events you glimpsed begin to unfold. That’s when everything begins to come together, and you can act, if you act swiftly, on the information you previously received when you manifested this power.
 
@@ -2112,25 +2112,25 @@ You can use your precognitive edge in a variety of ways. Essentially, the edge t
 
 Clairsentience
 
-**Level:**Psion/wilder 1, psychic warrior 1
+**Level:** Psion/wilder 1, psychic warrior 1
 
-**Display:**Material and visual
+**Display:** Material and visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 min./level (D)
+**Duration:** 1 min./level (D)
 
-**Power Points:**1
+**Power Points:** 1
 
 Your awareness extends a fraction of a second into the future, allowing you to better evade an opponent’s blows.
 
 You gain a +1 insight bonus to AC and on all saving throws. If caught in a situation where your Dexterity bonus isn’t applied to your Armor Class, this bonus to AC and saving throws does not apply.
 
-**Augment:**You can augment this power in one or both of the following ways.
+**Augment:** You can augment this power in one or both of the following ways.
 
 1. For every 3 additional power points you spend, the insight bonus gained increases by 1.
 
@@ -2144,19 +2144,19 @@ You gain a +1 insight bonus to AC and on all saving throws. If caught in a situa
 
 Clairsentience
 
-**Level:**Seer 6
+**Level:** Seer 6
 
-**Display:**Auditory and visual
+**Display:** Auditory and visual
 
-**Manifesting Time:**10 minutes
+**Manifesting Time:** 10 minutes
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 hour/level
+**Duration:** 1 hour/level
 
-**Power Points:**11
+**Power Points:** 11
 
 Asprecognition,except as noted here.
 
@@ -2170,23 +2170,23 @@ You gain a +4 insight bonus instead of a +2 bonus.
 
 Clairsentience
 
-**Level:**Psion/wilder 1, psychic warrior 1
+**Level:** Psion/wilder 1, psychic warrior 1
 
-**Display:**Material and visual
+**Display:** Material and visual
 
-**Manifesting Time:**1 standard action; see text
+**Manifesting Time:** 1 standard action; see text
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 min./level (D)
+**Duration:** 1 min./level (D)
 
-**Power Points:**1
+**Power Points:** 1
 
 Your awareness extends a fraction of a second into the future, allowing you to better land blows against your opponent. You gain a +1 insight bonus on your attack rolls.
 
-**Augment:**You can augment this power in one or both of the following ways.
+**Augment:** You can augment this power in one or both of the following ways.
 
 1. For every 3 additional power points you spend, the insight bonus gained on your attack rolls increases by 1.
 
@@ -2200,23 +2200,23 @@ Your awareness extends a fraction of a second into the future, allowing you to b
 
 Clairsentience
 
-**Level:**Psion/wilder 1, psychic warrior 1
+**Level:** Psion/wilder 1, psychic warrior 1
 
-**Display:**Material and visual
+**Display:** Material and visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 min./level (D)
+**Duration:** 1 min./level (D)
 
-**Power Points:**1
+**Power Points:** 1
 
 Your awareness extends a fraction of a second into the future, allowing you to better aim blows against your opponent. You gain a +2 insight bonus on your damage rolls.
 
-**Augment:**You can augment this power in one or both of the following ways.
+**Augment:** You can augment this power in one or both of the following ways.
 
 1. For every 3 additional power points you spend, the insight bonus gained on your attack rolls increases by 1.
 
@@ -2230,23 +2230,23 @@ Your awareness extends a fraction of a second into the future, allowing you to b
 
 Psychometabolism (Creation)
 
-**Level:**Psychic warrior 1
+**Level:** Psychic warrior 1
 
-**Display:**Material
+**Display:** Material
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 min./level or until discharged
+**Duration:** 1 min./level or until discharged
 
-**Power Points:**1
+**Power Points:** 1
 
 If you have a claw attack (either from an actual natural weapon or from an effect such asclaws of the beast), you can use this power to produce a mild venom that coats one of your claws. On your next successful melee attack, the venom deals 2 points of Constitution damage. A target struck by the poison can make a Fortitude save (DC 10 + 1/2 your manifester level + your key ability modifier) to negate the damage.
 
-**Augment:**For every 6 additional power points you spend, this power’s Constitution damage increases by 2 points.
+**Augment:** For every 6 additional power points you spend, this power’s Constitution damage increases by 2 points.
 
 
 
@@ -2256,13 +2256,13 @@ If you have a claw attack (either from an actual natural weapon or from an effec
 
 Psychometabolism (Creation)
 
-**Level:**Psychic warrior 1
+**Level:** Psychic warrior 1
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Weapon touched
+**Target:** Weapon touched
 
-**Power Points:**1
+**Power Points:** 1
 
 Asprevenom, except your weapon gains the poison coating as long as it remains in your grip.
 
@@ -2274,19 +2274,19 @@ Asprevenom, except your weapon gains the poison coating as long as it remains in
 
 Clairsentience
 
-**Level:**Psychic warrior 2
+**Level:** Psychic warrior 2
 
-**Display:**Mental
+**Display:** Mental
 
-**Manifesting Time:**1 immediate action
+**Manifesting Time:** 1 immediate action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Power Points:**3
+**Power Points:** 3
 
 If an enemy provokes an attack of opportunity from you, you can make the attack even if you’ve already taken your allotted number of attacks of opportunity this round (usually one).
 
@@ -2300,27 +2300,27 @@ You can manifest this power instantly, quickly enough to gain an extra attack of
 
 Telepathy [Mind-Affecting]
 
-**Level:**Psion/wilder 3
+**Level:** Psion/wilder 3
 
-**Display:**Auditory
+**Display:** Auditory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**30 ft.
+**Range:** 30 ft.
 
-**Area:**30-ft. cone-shaped burst
+**Area:** 30-ft. cone-shaped burst
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**5
+**Power Points:** 5
 
 The air ripples with the force of your mental attack, which blasts the minds of all creatures in range.Psionic blaststuns all affected creatures for 1 round.
 
-**Augment:**For every 2 additional power points you spend, the duration of the stun effect increases by 1 round.
+**Augment:** For every 2 additional power points you spend, the duration of the stun effect increases by 1 round.
 
 
 
@@ -2330,25 +2330,25 @@ The air ripples with the force of your mental attack, which blasts the minds of 
 
 Psychometabolism
 
-**Level:**Psychic warrior 2
+**Level:** Psychic warrior 2
 
-**Display:**Mental
+**Display:** Mental
 
-**Manifesting Time:**1 swift action
+**Manifesting Time:** 1 swift action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Power Points:**3
+**Power Points:** 3
 
 You gain the powerful charging ability of a lion. When you charge, you can make a full attack in the same round.
 
 You can manifest this power with an instant thought, quickly enough to gain the benefit of the power as you charge. Manifesting the power is a swift action, like manifesting a quickened power, and it counts toward the normal limit of one quickened power per round. You cannot manifest this power when it isn’t your turn.
 
-**Augment:**For every additional power point you spend, each of your attacks after a charge in the current round gains a circumstance bonus on damage equal to the number of additional points spent.
+**Augment:** For every additional power point you spend, each of your attacks after a charge in the current round gains a circumstance bonus on damage equal to the number of additional points spent.
 
 
 
@@ -2358,23 +2358,23 @@ You can manifest this power with an instant thought, quickly enough to gain the 
 
 Psychoportation
 
-**Level:**Psion/wilder 2
+**Level:** Psion/wilder 2
 
-**Display:**Material
+**Display:** Material
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Door, chest, or portal touched, up to 30 sq. ft./level in size
+**Target:** Door, chest, or portal touched, up to 30 sq. ft./level in size
 
-**Duration:**Permanent
+**Duration:** Permanent
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**No
+**Power Resistance:** No
 
-**Power Points:**3
+**Power Points:** 3
 
 Apsionic lockmanifested upon a door, chest, or portal psionically locks it. You can freely pass your own lock without affecting it; otherwise, a door or object secured withpsionic lockcan be opened only by breaking in or by a successfuldispel psionicseffect. Add +10 to the normal DC to break open a door or portal affected by this power.
 
@@ -2386,27 +2386,27 @@ Apsionic lockmanifested upon a door, chest, or portal psionically locks it. You 
 
 Metacreativity
 
-**Level:**Shaper 2
+**Level:** Shaper 2
 
-**Display:**Material and visual
+**Display:** Material and visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Construct touched
+**Target:** Construct touched
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
-**Power Resistance:**Yes (harmless)
+**Power Resistance:** Yes (harmless)
 
-**Power Points:**3
+**Power Points:** 3
 
 When laying your hands upon a construct that has at least 1 hit point remaining, you reknit its structure to repair damage it has taken. The power repairs 3d8 points of damage +1 point per manifester level. Constructs that are immune to psionics or magic cannot be repaired in this fashion.
 
-**Augment:**For every 2 additional power points you spend, this power repairs an additional 1d8 points of damage.
+**Augment:** For every 2 additional power points you spend, this power repairs an additional 1d8 points of damage.
 
 
 
@@ -2416,21 +2416,21 @@ When laying your hands upon a construct that has at least 1 hit point remaining,
 
 Psychometabolism (Healing) [Good]
 
-**Level:**Egoist 5
+**Level:** Egoist 5
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Dead creature touched
+**Target:** Dead creature touched
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**Yes (harmless)
+**Power Resistance:** Yes (harmless)
 
-**Power Points:**9, XP
+**Power Points:** 9, XP
 
 Psionic revivifylets a manifester reconnect a corpse’s psyche with its body, restoring life to a recently deceased creature. The power must be manifested within 1 round of the victim’s death. Before the psyche of the deceased has completely left the body, this power halts its journey while repairing somewhat the damage to the body.
 
@@ -2440,7 +2440,7 @@ The creature has –1 hit points (but is stable) after being restored to life.
 
 XP Cost:200 XP.
 
-**Augment:**For every 100 additional experience points that both you and the subject pay, the manifestation of this power can be delayed by 1 additional round.
+**Augment:** For every 100 additional experience points that both you and the subject pay, the manifestation of this power can be delayed by 1 additional round.
 
 
 
@@ -2450,19 +2450,19 @@ XP Cost:200 XP.
 
 Psychometabolism
 
-**Level:**Psychic warrior 2
+**Level:** Psychic warrior 2
 
-**Display:**Mental
+**Display:** Mental
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 round/level
+**Duration:** 1 round/level
 
-**Power Points:**3
+**Power Points:** 3
 
 You gain an enhanced sense of smell, equivalent to the scent ability of some monsters. This ability allows you to detect approaching enemies, sniff out hidden foes, and track by sense of smell. With the scent ability, you can identify familiar odors just as humanoids do familiar sights.
 
@@ -2480,23 +2480,23 @@ If you have the Track feat, you can follow tracks by smell, making a Wisdom (or 
 
 Telepathy [Mind-Affecting]
 
-**Level:**Telepath 9
+**Level:** Telepath 9
 
-**Display:**Auditory, mental, and visual
+**Display:** Auditory, mental, and visual
 
-**Manifesting Time:**10 minutes
+**Manifesting Time:** 10 minutes
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One creature
+**Target:** One creature
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**17, XP; see text
+**Power Points:** 17, XP; see text
 
 You can repair psychic damage or grant another creature knowledge of powers you know, depending on the version of this power you manifest.
 
@@ -2518,27 +2518,27 @@ XP Cost:Each time you use psychic chirurgery to implant knowledge of a power in 
 
 Telepathy [Mind-Affecting]
 
-**Level:**Psion/wilder 5
+**Level:** Psion/wilder 5
 
-**Display:**Auditory
+**Display:** Auditory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Close (25 ft. +5 ft./2 levels)
+**Range:** Close (25 ft. +5 ft./2 levels)
 
-**Target:**One creature
+**Target:** One creature
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Will partial; see text
+**Saving Throw:** Will partial; see text
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**9
+**Power Points:** 9
 
 Your will abruptly and brutally crushes the mental essence of any one creature, debilitating its acumen. The target must make a Will save with a +4 bonus or collapse unconscious and dying at –1 hit points. If the target succeeds on the save, it takes 3d6 points of damage.
 
-**Augment:**For every 2 additional power points you spend, this power’s damage increases by 1d6 points.
+**Augment:** For every 2 additional power points you spend, this power’s damage increases by 1d6 points.
 
 
 
@@ -2548,23 +2548,23 @@ Your will abruptly and brutally crushes the mental essence of any one creature, 
 
 Telepathy [Mind-Affecting]
 
-**Level:**Psion/wilder 4
+**Level:** Psion/wilder 4
 
-**Display:**Auditory, mental, and visual
+**Display:** Auditory, mental, and visual
 
-**Manifesting Time:**10 minutes
+**Manifesting Time:** 10 minutes
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One creature
+**Target:** One creature
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**No
+**Power Resistance:** No
 
-**Power Points:**7, XP; see text
+**Power Points:** 7, XP; see text
 
 When this power is manifested, the subject can choose to spend its most recently gained skill points differently (picking new skills and abandoning old ones if it chooses) and to choose a different feat from the one it selected when advancing from its previous level to its current level.
 
@@ -2582,23 +2582,23 @@ XP Cost:This power costs 50 XP to manifest to reformat choices made when the cha
 
 Psychometabolism
 
-**Level:**Egoist 4, psychic warrior 4
+**Level:** Egoist 4, psychic warrior 4
 
-**Display:**Mental
+**Display:** Mental
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Fortitude negates
+**Saving Throw:** Fortitude negates
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**7
+**Power Points:** 7
 
 This power shrouds your hand or a natural weapon you possess with darkness that you can use to drain an opponent’s power.
 
@@ -2616,19 +2616,19 @@ Against a psionic being that has no power points or a nonpsionic foe, your attac
 
 Psychometabolism
 
-**Level:**Egoist 5, psychic warrior 5
+**Level:** Egoist 5, psychic warrior 5
 
-**Display:**Visual
+**Display:** Visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 round/level (D)
+**Duration:** 1 round/level (D)
 
-**Power Points:**9
+**Power Points:** 9
 
 You can readjust your body to boost one physical ability score at the expense of one or more other scores. Select one ability score you would like to boost, and increase it by the same amount that you decrease one or more other scores. All score decreases are treated as a special form of ability damage, called ability burn, which cannot be magically or psionically healed—it goes away only through natural healing.
 

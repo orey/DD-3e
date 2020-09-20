@@ -120,13 +120,13 @@ Combat
 
 Though physically powerful, these hags do not favor simple assaults but try to divide and confuse their foes before combat. They love to pose as commoners or gentlefolk to lull their victims into a sense of false security before they attack.
 
-**Improved Grab (Ex):**To use this ability, an annis must hit a Large or smaller opponent with a claw attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity.
+**Improved Grab (Ex):** To use this ability, an annis must hit a Large or smaller opponent with a claw attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity.
 
-**Rake (Ex):**Attack bonus +13 melee, damage 1d6+7. An annis can attack a grappled foe with both claws at no penalty.
+**Rake (Ex):** Attack bonus +13 melee, damage 1d6+7. An annis can attack a grappled foe with both claws at no penalty.
 
-**Rend (Ex):**An annis that hits with both claw attacks latches onto the opponent’s body and tears the flesh. This attack automatically deals an extra 2d6+10 points of damage.
+**Rend (Ex):** An annis that hits with both claw attacks latches onto the opponent’s body and tears the flesh. This attack automatically deals an extra 2d6+10 points of damage.
 
-**Spell-Like Abilities:**3/day—disguise self,fog cloud.Caster level 8th.
+**Spell-Like Abilities:** 3/day—disguise self,fog cloud.Caster level 8th.
 
 
 
@@ -234,13 +234,13 @@ Combat
 
 Green hags prefer to attack from hiding, usually after distracting foes. They often use darkvision to their advantage by attacking during moonless nights.
 
-**Spell-Like Abilities:**At will—dancing lights, disguise self, ghost sound(DC 12),invisibility, pass without trace, tongues, water breathing.Caster level 9th. The save DC is Charisma-based.
+**Spell-Like Abilities:** At will—dancing lights, disguise self, ghost sound(DC 12),invisibility, pass without trace, tongues, water breathing.Caster level 9th. The save DC is Charisma-based.
 
-**Weakness (Su):**A green hag can weaken a foe by making a special touch attack. The opponent must succeed on a DC 16 Fortitude save or take 2d4 points of Strength damage. The save DC is Charisma-based.
+**Weakness (Su):** A green hag can weaken a foe by making a special touch attack. The opponent must succeed on a DC 16 Fortitude save or take 2d4 points of Strength damage. The save DC is Charisma-based.
 
-**Mimicry (Ex):**A green hag can imitate the sounds of almost any animal found near its lair.
+**Mimicry (Ex):** A green hag can imitate the sounds of almost any animal found near its lair.
 
-**Skills:**A green hag has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.
+**Skills:** A green hag has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.
 
 
 
@@ -350,13 +350,13 @@ Sea hags are not subtle and prefer a direct approach to combat.
 
 They usually remain in hiding until they can affect as many foes as possible with their horrific appearance.
 
-**Horrific Appearance (Su):**The sight of a sea hag is so revolting that anyone (other than another hag) who sets eyes upon one must succeed on a DC 13 Fortitude save or instantly be weakened, taking 2d6 points of Strength damage. This damage cannot reduce a victim’s Strength score below 0, but anyone reduced to Strength 0 is helpless. Creatures that are affected by this power or that successfully save against it cannot be affected again by the same hag’s horrific appearance for 24 hours. The save DC is Charisma-based.
+**Horrific Appearance (Su):** The sight of a sea hag is so revolting that anyone (other than another hag) who sets eyes upon one must succeed on a DC 13 Fortitude save or instantly be weakened, taking 2d6 points of Strength damage. This damage cannot reduce a victim’s Strength score below 0, but anyone reduced to Strength 0 is helpless. Creatures that are affected by this power or that successfully save against it cannot be affected again by the same hag’s horrific appearance for 24 hours. The save DC is Charisma-based.
 
-**Evil Eye (Su):**Three times per day, a sea hag can cast its dire gaze upon any single creature within 30 feet. The target must succeed on a DC 13 Will save or be dazed for three days, althoughremove curseordispel evilcan restore sanity sooner. In addition, an affected creature must succeed on a DC 13 Fortitude save or die from fright. Creatures with immunity to fear effects are not affected by the sea hag’s evil eye. The save DCs are Charisma-based.
+**Evil Eye (Su):** Three times per day, a sea hag can cast its dire gaze upon any single creature within 30 feet. The target must succeed on a DC 13 Will save or be dazed for three days, althoughremove curseordispel evilcan restore sanity sooner. In addition, an affected creature must succeed on a DC 13 Fortitude save or die from fright. Creatures with immunity to fear effects are not affected by the sea hag’s evil eye. The save DCs are Charisma-based.
 
-**Amphibious (Ex):**Although sea hags are aquatic, they can survive indefinitely on land.
+**Amphibious (Ex):** Although sea hags are aquatic, they can survive indefinitely on land.
 
-**Skills:**A sea hag has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.
+**Skills:** A sea hag has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.
 
 
 
@@ -372,7 +372,7 @@ Hags in a covey rely on deception and their boosted magical abilities in combat.
 
 A covey of hags is 80% likely to be guarded by 1d8 ogres and 1d4 evil giants who do their bidding. These minions are often disguised with aveilspell to appear less threatening and sent forth as spies. Such minions often (60%) carry magic stones known ashag eyes(see below).
 
-**Spell-Like Abilities:**3/day—animate dead, bestow curse(DC 17), control weather, dream, forcecage, mind blank, mirage arcana(DC 18), polymorph, veil(DC 19), vision.Caster level 9th. The save DCs are based on a Charisma score of 16. To use one of these abilities (which requires a full-round action), all three hags must be within 10 feet of one another, and all must participate.
+**Spell-Like Abilities:** 3/day—animate dead, bestow curse(DC 17), control weather, dream, forcecage, mind blank, mirage arcana(DC 18), polymorph, veil(DC 19), vision.Caster level 9th. The save DCs are based on a Charisma score of 16. To use one of these abilities (which requires a full-round action), all three hags must be within 10 feet of one another, and all must participate.
 
 Once per month, a covey that does not have ahag eyecan create one from a gem worth at least 20 gp (see below).
 
@@ -398,19 +398,19 @@ CREATING A HALF-CELESTIAL
 
 A half-celestial uses all the base creature’s statistics and special abilities except as noted here.
 
-**Size and Type:**The creature’s type changes to outsider. Do not recalculate the creature’s Hit Dice, base attack bonus, or saves. Size is unchanged. Half-celestials are normally native outsiders.
+**Size and Type:** The creature’s type changes to outsider. Do not recalculate the creature’s Hit Dice, base attack bonus, or saves. Size is unchanged. Half-celestials are normally native outsiders.
 
-**Speed:**A half-celestial has feathered wings and can fly at twice the base creature’s base land speed (good maneuverability). If the base creature has a fly speed, use that instead.
+**Speed:** A half-celestial has feathered wings and can fly at twice the base creature’s base land speed (good maneuverability). If the base creature has a fly speed, use that instead.
 
-**Armor Class:**Natural armor improves by +1 (this stacks with any natural armor bonus the base creature has).
+**Armor Class:** Natural armor improves by +1 (this stacks with any natural armor bonus the base creature has).
 
-**Special Attacks:**A half-celestial retains all the special attacks of the base creature and also gains the following special abilities.
+**Special Attacks:** A half-celestial retains all the special attacks of the base creature and also gains the following special abilities.
 
 Daylight (Su):Half-celestials can use adaylighteffect (as the spell) at will.
 
 Smite Evil (Su):Once per day a half-celestial can make a normal melee attack to deal extra damage equal to its HD (maximum of +20) against an evil foe.
 
-**Spell-Like Abilities:**A half-celestial with an Intelligence or Wisdom score of 8 or higher has two or more spell-like abilities, depending on its Hit Dice, as indicated on the table below. The abilities are cumulative
+**Spell-Like Abilities:** A half-celestial with an Intelligence or Wisdom score of 8 or higher has two or more spell-like abilities, depending on its Hit Dice, as indicated on the table below. The abilities are cumulative
 
 Unless otherwise noted, an ability is usable once per day. Caster level equals the creature’s HD, and the save DC is Charisma-based.
 
@@ -462,7 +462,7 @@ Unless otherwise noted, an ability is usable once per day. Caster level equals t
 
 ![41 MonstersH-I-Table04.png](41 MonstersH-I-Table04.png)
 
-**Special Qualities:**A half-celestial has all the special qualities of the base creature, plus the following special qualities.
+**Special Qualities:** A half-celestial has all the special qualities of the base creature, plus the following special qualities.
 
 —Darkvision out to 60 feet.
 
@@ -478,15 +478,15 @@ Unless otherwise noted, an ability is usable once per day. Caster level equals t
 
 —+4 racial bonus on Fortitude saves against poison.
 
-**Abilities:**Increase from the base creature as follows: Str +4, Dex +2, Con +4, Int +2, Wis +4, Cha +4.
+**Abilities:** Increase from the base creature as follows: Str +4, Dex +2, Con +4, Int +2, Wis +4, Cha +4.
 
-**Skills:**A half-celestial gains skill points as an outsider and has skill points equal to (8 + Int modifier) x(HD +3). Do not include Hit Dice from class levels in this calculation—the half-celestial gains outsider skill points only for its racial Hit Dice, and gains the normal amount of skill points for its class levels. Treat skills from the base creature’s list as class skills, and other skills as cross-class.
+**Skills:** A half-celestial gains skill points as an outsider and has skill points equal to (8 + Int modifier) x(HD +3). Do not include Hit Dice from class levels in this calculation—the half-celestial gains outsider skill points only for its racial Hit Dice, and gains the normal amount of skill points for its class levels. Treat skills from the base creature’s list as class skills, and other skills as cross-class.
 
-**Challenge Rating:**HD 5 or less, as base creature +1; HD 6 to 10, as base creature +2; HD 11 or more, as base creature +3.
+**Challenge Rating:** HD 5 or less, as base creature +1; HD 6 to 10, as base creature +2; HD 11 or more, as base creature +3.
 
-**Alignment:**Always good (any).
+**Alignment:** Always good (any).
 
-**Level Adjustment:**Same as base creature +4.
+**Level Adjustment:** Same as base creature +4.
 
 
 
@@ -502,19 +502,19 @@ CREATING A HALF-DRAGON
 
 A half-dragon uses all the base creature’s statistics and special abilities except as noted here.
 
-**Size and Type:**The creature’s type changes to dragon. Size is unchanged. Do not recalculate base attack bonus or saves.
+**Size and Type:** The creature’s type changes to dragon. Size is unchanged. Do not recalculate base attack bonus or saves.
 
-**Hit Dice:**Increase base creature’s racial HD by one die size, to a maximum of d12. Do not increase class HD.
+**Hit Dice:** Increase base creature’s racial HD by one die size, to a maximum of d12. Do not increase class HD.
 
-**Speed:**A half-dragon that is Large or larger has wings and can fly at twice its base land speed (maximum 120 ft.) with average maneuverability. A half-dragon that is Medium or smaller does not have wings.
+**Speed:** A half-dragon that is Large or larger has wings and can fly at twice its base land speed (maximum 120 ft.) with average maneuverability. A half-dragon that is Medium or smaller does not have wings.
 
-**Armor Class:**Natural armor improves by +4.
+**Armor Class:** Natural armor improves by +4.
 
-**Attack:**A half-dragon has two claw attacks and a bite attack, and the claws are the primary natural weapon. If the base creature can use weapons, the half-dragon retains this ability. A half-dragon fighting without weapons uses a claw when making an attack action. When it has a weapon, it usually uses the weapon instead.
+**Attack:** A half-dragon has two claw attacks and a bite attack, and the claws are the primary natural weapon. If the base creature can use weapons, the half-dragon retains this ability. A half-dragon fighting without weapons uses a claw when making an attack action. When it has a weapon, it usually uses the weapon instead.
 
-**Full Attack:**A half-dragon fighting without weapons uses both claws and its bite when making a full attack. If armed with a weapon, it usually uses the weapon as its primary attack and its bite as a natural secondary attack. If it has a hand free, it uses a claw as an additional natural secondary attack.
+**Full Attack:** A half-dragon fighting without weapons uses both claws and its bite when making a full attack. If armed with a weapon, it usually uses the weapon as its primary attack and its bite as a natural secondary attack. If it has a hand free, it uses a claw as an additional natural secondary attack.
 
-**Damage:**Half-dragons have bite and claw attacks. If the base creature does not have these attack forms, use the damage values in the table below. Otherwise, use the values below or the base creature’s damage values, whichever are greater.
+**Damage:** Half-dragons have bite and claw attacks. If the base creature does not have these attack forms, use the damage values in the table below. Otherwise, use the values below or the base creature’s damage values, whichever are greater.
 
 
 
@@ -580,7 +580,7 @@ A half-dragon uses all the base creature’s statistics and special abilities ex
 
 ![41 MonstersH-I-Table05.png](41 MonstersH-I-Table05.png)
 
-**Special Attacks:**A half-dragon retains all the special attacks of the base creature and gains a breath weapon based on the dragon variety (see the table below), usable once per day. A half-dragon’s breath weapon deals 6d8 points of damage. A successful Reflex save (DC 10 + 1/2 half-dragon’s racial HD + half-dragon’s Con modifier) reduces damage by half.
+**Special Attacks:** A half-dragon retains all the special attacks of the base creature and gains a breath weapon based on the dragon variety (see the table below), usable once per day. A half-dragon’s breath weapon deals 6d8 points of damage. A successful Reflex save (DC 10 + 1/2 half-dragon’s racial HD + half-dragon’s Con modifier) reduces damage by half.
 
 
 
@@ -630,7 +630,7 @@ A half-dragon uses all the base creature’s statistics and special abilities ex
 
 ![41 MonstersH-I-Table06.png](41 MonstersH-I-Table06.png)
 
-**Special Qualities:**A half-dragon has all the special qualities of the base creature, plus darkvision out to 60 feet and low-light vision. A half-dragon has immunity tosleepand paralysis effects, and an additional immunity based on its dragon variety.
+**Special Qualities:** A half-dragon has all the special qualities of the base creature, plus darkvision out to 60 feet and low-light vision. A half-dragon has immunity tosleepand paralysis effects, and an additional immunity based on its dragon variety.
 
 
 
@@ -684,17 +684,17 @@ A half-dragon uses all the base creature’s statistics and special abilities ex
 
 ![41 MonstersH-I-Table07.png](41 MonstersH-I-Table07.png)
 
-**Abilities:**Increase from the base creature as follows: Str +8, Con +2, Int +2, Cha +2.
+**Abilities:** Increase from the base creature as follows: Str +8, Con +2, Int +2, Cha +2.
 
-**Skills:**A half-dragon gains skill points as a dragon and has skill points equal to (6 + Int modifier) x(HD + 3). Do not include Hit Dice from class levels in this calculation—the half-dragon gains dragon skill points only for its racial Hit Dice, and gains the normal amount of skill points for its class levels. Treat skills from the base creature’s list as class skills, and other skills as cross-class.
+**Skills:** A half-dragon gains skill points as a dragon and has skill points equal to (6 + Int modifier) x(HD + 3). Do not include Hit Dice from class levels in this calculation—the half-dragon gains dragon skill points only for its racial Hit Dice, and gains the normal amount of skill points for its class levels. Treat skills from the base creature’s list as class skills, and other skills as cross-class.
 
-**Environment:**Same as either the base creature or the dragon variety.
+**Environment:** Same as either the base creature or the dragon variety.
 
-**Challenge Rating:**Same as the base creature + 2 (minimum 3).
+**Challenge Rating:** Same as the base creature + 2 (minimum 3).
 
-**Alignment:**Same as the dragon variety.
+**Alignment:** Same as the dragon variety.
 
-**Level Adjustment:**Same as base creature +3.
+**Level Adjustment:** Same as base creature +3.
 
 
 
@@ -710,17 +710,17 @@ CREATING A HALF-FIEND
 
 A half-fiend uses all the base creature’s statistics and special abilities except as noted here.
 
-**Size and Type:**The creature’s type changes to outsider. Do not recalculate Hit Dice, base attack bonus, or saves. Size is unchanged. Half-fiends are normally native outsiders.
+**Size and Type:** The creature’s type changes to outsider. Do not recalculate Hit Dice, base attack bonus, or saves. Size is unchanged. Half-fiends are normally native outsiders.
 
-**Speed:**A half-fiend has bat wings. Unless the base creature has a better fly speed, the creature can fly at the base creature’s base land speed (average maneuverability).
+**Speed:** A half-fiend has bat wings. Unless the base creature has a better fly speed, the creature can fly at the base creature’s base land speed (average maneuverability).
 
-**Armor Class:**Natural armor improves by +1 (this stacks with any natural armor bonus the base creature has).
+**Armor Class:** Natural armor improves by +1 (this stacks with any natural armor bonus the base creature has).
 
-**Attack:**A half-fiend has two claw attacks and a bite attack, and the claws are the primary natural weapon. If the base creature can use weapons, the half-fiend retains this ability. A half-fiend fighting without weapons uses a claw when making an attack action. When it has a weapon, it usually uses the weapon instead.
+**Attack:** A half-fiend has two claw attacks and a bite attack, and the claws are the primary natural weapon. If the base creature can use weapons, the half-fiend retains this ability. A half-fiend fighting without weapons uses a claw when making an attack action. When it has a weapon, it usually uses the weapon instead.
 
-**Full Attack:**A half-fiend fighting without weapons uses both claws and its bite when making a full attack. If armed with a weapon, it usually uses the weapon as its primary attack and its bite as a natural secondary attack. If it has a hand free, it uses a claw as an additional natural secondary attack.
+**Full Attack:** A half-fiend fighting without weapons uses both claws and its bite when making a full attack. If armed with a weapon, it usually uses the weapon as its primary attack and its bite as a natural secondary attack. If it has a hand free, it uses a claw as an additional natural secondary attack.
 
-**Damage:**Half-fiends have bite and claw attacks. If the base creature does not have these attack forms, use the damage values in the table below. Otherwise, use the values below or the base creature’s damage values, whichever are greater.
+**Damage:** Half-fiends have bite and claw attacks. If the base creature does not have these attack forms, use the damage values in the table below. Otherwise, use the values below or the base creature’s damage values, whichever are greater.
 
 
 
@@ -786,7 +786,7 @@ A half-fiend uses all the base creature’s statistics and special abilities exc
 
 ![41 MonstersH-I-Table08.png](41 MonstersH-I-Table08.png)
 
-**Special Attacks:**A half-fiend retains all the special attacks of the base creature and gains the following special attack.
+**Special Attacks:** A half-fiend retains all the special attacks of the base creature and gains the following special attack.
 
 Smite Good (Su):Once per day the creature can make a normal melee attack to deal extra damage equal to its HD (maximum of +20) against a good foe.
 
@@ -840,7 +840,7 @@ Spell-Like Abilities: A half-fiend with an Intelligence or Wisdom score of 8 or 
 
 ![41 MonstersH-I-Table09.png](41 MonstersH-I-Table09.png)
 
-**Special Qualities:**A half-fiend has all the special qualities of the base creature, plus the following special qualities.
+**Special Qualities:** A half-fiend has all the special qualities of the base creature, plus the following special qualities.
 
 —Darkvision out to 60 feet.
 
@@ -854,15 +854,15 @@ Spell-Like Abilities: A half-fiend with an Intelligence or Wisdom score of 8 or 
 
 —Spell resistance equal to creature’s HD + 10 (maximum 35).
 
-**Abilities:**Increase from the base creature as follows: Str +4, Dex +4, Con +2, Int +4, Cha +2.
+**Abilities:** Increase from the base creature as follows: Str +4, Dex +4, Con +2, Int +4, Cha +2.
 
-**Skills:**A half-fiend gains skill points as an outsider and has skill points equal to (8 + Int modifier) x (HD + 3). Do not include Hit Dice from class levels in this calculation—the half-fiend gains outsider skill points only for its racial Hit Dice, and gains the normal amount of skill points for its class levels. Treat skills from the base creature’s list as class skills, and other skills as cross-class.
+**Skills:** A half-fiend gains skill points as an outsider and has skill points equal to (8 + Int modifier) x (HD + 3). Do not include Hit Dice from class levels in this calculation—the half-fiend gains outsider skill points only for its racial Hit Dice, and gains the normal amount of skill points for its class levels. Treat skills from the base creature’s list as class skills, and other skills as cross-class.
 
-**Challenge Rating:**HD 4 or less, as base creature +1; HD 5 to 10, as base creature +2; HD 11 or more, as base creature +3.
+**Challenge Rating:** HD 4 or less, as base creature +1; HD 5 to 10, as base creature +2; HD 11 or more, as base creature +3.
 
-**Alignment:**Always evil (any).
+**Alignment:** Always evil (any).
 
-**Level Adjustment:**+4.
+**Level Adjustment:** +4.
 
 
 
@@ -978,7 +978,7 @@ COMBAT
 
 Halflings prefer to fight defensively, usually hiding and launching ranged attacks as the foe approaches. Their tactics are very much like those of elves but place more emphasis on cover and concealment and less on mobility.
 
-**Halfling Traits (Ex):**Halflings possess the following racial traits.
+**Halfling Traits (Ex):** Halflings possess the following racial traits.
 
 —+2 Dexterity, –2 Strength.
 
@@ -1020,7 +1020,7 @@ The information above is for the lightfoot halfling, the most common halfling va
 
 Tallfellows are somewhat rare among halfling folk. Tallfellows are 4 feet tall or more and weigh between 30 and 35 pounds. They generally speak Elven in addition to Common and Halfling.
 
-**Tallfellow Traits (Ex):**These traits are in addition to the lightfoot halfling traits, except where noted.
+**Tallfellow Traits (Ex):** These traits are in addition to the lightfoot halfling traits, except where noted.
 
 —+2 racial bonus on Search, Spot, and Listen checks. Like an elf, a tallfellow who merely passes within 5 feet of a secret or concealed door is entitled to a Search check as though actively looking for it. This trait replaces the lightfoot’s +2 bonus on Listen checks.
 
@@ -1036,7 +1036,7 @@ These halflings are shorter and stockier than the more common lightfeet.
 
 Deep halflings are about 2-1/2 tall and weigh between 30 and 35 pounds. Deep halflings speak Dwarven fluently.
 
-**Deep Halfling Traits (Ex):**These traits are in addition to the lightfoot halfling traits, except where noted.
+**Deep Halfling Traits (Ex):** These traits are in addition to the lightfoot halfling traits, except where noted.
 
 —Darkvision out to 60 feet.
 
@@ -1200,11 +1200,11 @@ COMBAT
 
 When a harpy engages in battle, it prefers to use Flyby Attack and strike with a melee weapon.
 
-**Captivating Song (Su):**The most insidious ability of the harpy is its song. When a harpy sings, all creatures (other than harpies) within a 300-foot spread must succeed on a DC 16 Will save or become captivated. This is a sonic mind-affecting charm effect. A creature that successfully saves cannot be affected again by the same harpy’s song for 24 hours. The save DC is Charisma-based.
+**Captivating Song (Su):** The most insidious ability of the harpy is its song. When a harpy sings, all creatures (other than harpies) within a 300-foot spread must succeed on a DC 16 Will save or become captivated. This is a sonic mind-affecting charm effect. A creature that successfully saves cannot be affected again by the same harpy’s song for 24 hours. The save DC is Charisma-based.
 
 A captivated victim walks toward the harpy, taking the most direct route available. If the path leads into a dangerous area (through flame, off a cliff, or the like), that creature gets a second saving throw. Captivated creatures can take no actions other than to defend themselves. (Thus, a fighter cannot run away or attack but takes no defensive penalties.) A victim within 5 feet of the harpy stands there and offers no resistance to the monster’s attacks. The effect continues for as long as the harpy sings and for 1 round thereafter. A bard’s countersong ability allows the captivated creature to attempt a new Will save.
 
-**Skills:**Harpies have a +4 racial bonus on Bluff and Listen checks.
+**Skills:** Harpies have a +4 racial bonus on Bluff and Listen checks.
 
 
 
@@ -1216,7 +1216,7 @@ A cruel hunter and roaming brigand, the harpy archer has trained as a fighter sp
 
 COMBAT
 
-**Captivating Song (Su):**Will DC 17 negates.
+**Captivating Song (Su):** Will DC 17 negates.
 
 Possessions: +3 studded leather, +1 frost composite longbow(+1 Str bonus), 10 cold iron arrows, 10 silvered arrows, 5+2 arrows, lesser bracers of archery, potion of cure moderate wounds, potion of cat’s grace, cloak of resistance +2, ring of protection +1.(Different harpy archers may have different possessions.)
 
@@ -1380,11 +1380,11 @@ A hell hound’s natural weapons, as well as any weapons it wields, are treated 
 
 and lawful-aligned for the purpose of overcoming damage reduction.
 
-**Breath Weapon (Su):**10-foot cone, once every 2d4 rounds, damage 2d6 fire, Reflex DC 13 half. The save DC is Constitution-based.
+**Breath Weapon (Su):** 10-foot cone, once every 2d4 rounds, damage 2d6 fire, Reflex DC 13 half. The save DC is Constitution-based.
 
-**Fiery Bite (Su):**A hell hound deals an extra 1d6 points of fire damage every time it bites an opponent, as if its bite were a flaming weapon.
+**Fiery Bite (Su):** A hell hound deals an extra 1d6 points of fire damage every time it bites an opponent, as if its bite were a flaming weapon.
 
-**Skills:**Hell hounds have a +5 racial bonus on Hide and Move Silently checks.
+**Skills:** Hell hounds have a +5 racial bonus on Hide and Move Silently checks.
 
 *They also receive a +8 racial bonus on Survival checks when tracking by scent, due to their keen sense of smell.
 
@@ -1398,9 +1398,9 @@ Nessian warhounds are coalblack mastiffs the size of draft horses, often fitted 
 
 Nessian warhounds resemble hell hounds, except as otherwise noted.
 
-**Breath Weapon (Su):**10-foot cone, once every 2d4 rounds, damage 3d6 fire, Reflex DC 21 half. The save DC is Constitution- based.
+**Breath Weapon (Su):** 10-foot cone, once every 2d4 rounds, damage 3d6 fire, Reflex DC 21 half. The save DC is Constitution- based.
 
-**Fiery Bite (Su):**A Nessian warhound deals an extra 1d8 points of fire d a m a g e every time it bites an opponent, as if its bite were a flaming weapon.
+**Fiery Bite (Su):** A Nessian warhound deals an extra 1d8 points of fire d a m a g e every time it bites an opponent, as if its bite were a flaming weapon.
 
 
 
@@ -1506,7 +1506,7 @@ COMBAT
 
 Hippogriffs dive at their prey and strike with their clawed forelegs. When they cannot dive, they slash with claws and beak. Mated pairs and flights of these creatures attack in concert, diving repeatedly to drive away or kill intruders. Hippogriffs fight to the death to defend their nests and their hatchlings, which are prized as aerial mounts and fetch a handsome price in many civilized areas.
 
-**Skills:**Hippogriffs have a +4 racial bonus on Spot checks.
+**Skills:** Hippogriffs have a +4 racial bonus on Spot checks.
 
 TRAINING A HIPPOGRIFF
 
@@ -1516,7 +1516,7 @@ Training a hippogriff requires six weeks of work and a DC 25 Handle Animal check
 
 Hippogriff eggs are worth 2,000 gp apiece on the open market, while young are worth 3,000 gp each. Professional trainers charge 1,000 gp to rear or train a hippogriff.
 
-**Carrying Capacity:**A light load for a hippogriff is up to 300 pounds; a medium load, 301–600 pounds; and a heavy load, 601–900 pounds.
+**Carrying Capacity:** A light load for a hippogriff is up to 300 pounds; a medium load, 301–600 pounds; and a heavy load, 601–900 pounds.
 
 
 
@@ -1626,7 +1626,7 @@ COMBAT
 
 These creatures have a strong grasp of strategy and tactics and are capable of carrying out sophisticated battle plans. Under the leadership of a skilled strategist or tactician, their discipline can prove a deciding factor. Hobgoblins hate elves and attack them first, in preference to other opponents.
 
-**Skills:**Hobgoblins have a +4 racial bonus on Move Silently checks.
+**Skills:** Hobgoblins have a +4 racial bonus on Move Silently checks.
 
 The hobgoblin warrior presented here had the following ability scores before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
 
@@ -1756,7 +1756,7 @@ COMBAT
 
 Homunculi land on their victims and bite with their venomous fangs.
 
-**Poison (Ex):**Injury, Fortitude DC 13, initial damage sleep for 1 minute, secondary damage sleep for another 5d6 minutes. The save DC is Constitution-based and includes a +2 racial bonus.
+**Poison (Ex):** Injury, Fortitude DC 13, initial damage sleep for 1 minute, secondary damage sleep for another 5d6 minutes. The save DC is Constitution-based and includes a +2 racial bonus.
 
 CONSTRUCTION
 
@@ -1872,17 +1872,17 @@ COMBAT
 
 Howlers attack in groups, for they are cowardly and cruel. They prefer to charge into combat, race out, and then charge in again. A howler’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming damage reduction.
 
-**Quills (Ex):**A howler’s neck bristles with long quills. While biting, the creature thrashes about, striking with 1d4 of them. An opponent hit by a howler’s quill attack must succeed on a DC 16 Reflex save or have the quill break off in his or her flesh. Lodged quills impose a –1 penalty on attacks, saves, and checks per quill. The save DC is Dexterity-based.
+**Quills (Ex):** A howler’s neck bristles with long quills. While biting, the creature thrashes about, striking with 1d4 of them. An opponent hit by a howler’s quill attack must succeed on a DC 16 Reflex save or have the quill break off in his or her flesh. Lodged quills impose a –1 penalty on attacks, saves, and checks per quill. The save DC is Dexterity-based.
 
 A quill can be removed safely with a DC 20 Heal check; otherwise, removing a quill deals an extra 1d6 points of damage.
 
-**Howl (Ex):**All beings other than outsiders that hear the creature’s howling for an hour or longer are subject to its effect, though it does not help the howler in combat. Anyone within hearing range of a howler for a full hour must succeed on a DC 12 Will save or take 1 point of Wisdom damage. The save DC is Charisma-based. The save must be repeated for each hour of exposure. This is a sonic mind-affecting effect.
+**Howl (Ex):** All beings other than outsiders that hear the creature’s howling for an hour or longer are subject to its effect, though it does not help the howler in combat. Anyone within hearing range of a howler for a full hour must succeed on a DC 12 Will save or take 1 point of Wisdom damage. The save DC is Charisma-based. The save must be repeated for each hour of exposure. This is a sonic mind-affecting effect.
 
 TRAINING A HOWLER
 
 Although intelligent, a howler requires training before it can bear a rider in combat. To be trained, a howler must have a friendly attitude toward the trainer (this can be achieved through a successful Diplomacy check). Training a friendly howler requires six weeks of work and a DC 25 Handle Animal check. Riding a howler requires an exotic saddle. A howler can fight while carrying a rider, but the rider cannot also attack unless he or she succeeds on a Ride check.
 
-**Carrying Capacity:**A light load for a howler is up to 460 pounds; a medium load, 461–920 pounds; and a heavy load, 921–1,380 pounds. A howler can drag 6,900 pounds.
+**Carrying Capacity:** A light load for a howler is up to 460 pounds; a medium load, 461–920 pounds; and a heavy load, 921–1,380 pounds. A howler can drag 6,900 pounds.
 
 
 
@@ -2478,13 +2478,13 @@ A hydra’s body can be slain just like any other creature’s, but hydras posse
 
 Targeted magical effects cannot sever a hydra’s heads (and thus must be directed at the body) unless they deal slashing damage and could be used to make sunder attempts.
 
-**Fast Healing (Ex):**Each round, a hydra heals damage equal to 10 + the number of its original heads.
+**Fast Healing (Ex):** Each round, a hydra heals damage equal to 10 + the number of its original heads.
 
-**Skills:**Hydras have a +2 racial bonus on Listen and Spot checks, thanks to their multiple heads.
+**Skills:** Hydras have a +2 racial bonus on Listen and Spot checks, thanks to their multiple heads.
 
 A hydra has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.
 
-**Feats:**A hydra’s Combat Reflexes feat allows it to use all its heads for attacks of opportunity.
+**Feats:** A hydra’s Combat Reflexes feat allows it to use all its heads for attacks of opportunity.
 
 
 
@@ -2534,7 +2534,7 @@ Unless their very existence is threatened, inevitables focus completely on the t
 
 An inevitable’s natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming damage reduction.
 
-**Fast Healing (Ex):**An inevitable heals a certain amount of damage each round (specified in each variety’s description) as long as it has at least 1 hit point. However, damage dealt by chaotic weapons heals at the normal rate.
+**Fast Healing (Ex):** An inevitable heals a certain amount of damage each round (specified in each variety’s description) as long as it has at least 1 hit point. However, damage dealt by chaotic weapons heals at the normal rate.
 
 KOLYARUT
 
@@ -2644,13 +2644,13 @@ A kolyarut’s favorite tactic is to useinvisibilityordisguise selfto sneak clos
 
 A kolyarut’s natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming damage reduction.
 
-**Enervation Ray (Su):**A kolyarut can fire a black enervation ray at targets within 200 feet. The effect is identical with theenervationspell (caster level 13th).
+**Enervation Ray (Su):** A kolyarut can fire a black enervation ray at targets within 200 feet. The effect is identical with theenervationspell (caster level 13th).
 
-**Spell-Like Abilities:**At will—discern lies(DC 17), disguise self, fear(DC 17), hold person(DC 16), invisibility, locate creature, suggestion(DC 16);1/day—hold monster(DC 17), mark of justice;1/week—geas/quest.Caster level 13th. The save DCs are Charisma-based.
+**Spell-Like Abilities:** At will—discern lies(DC 17), disguise self, fear(DC 17), hold person(DC 16), invisibility, locate creature, suggestion(DC 16);1/day—hold monster(DC 17), mark of justice;1/week—geas/quest.Caster level 13th. The save DCs are Charisma-based.
 
-**Vampiric Touch (Su):**As a melee touch attack, a kolyarut can steal life force from its foe, as thevampiric touchspell (caster level 13th).
+**Vampiric Touch (Su):** As a melee touch attack, a kolyarut can steal life force from its foe, as thevampiric touchspell (caster level 13th).
 
-**Skills:**A kolyarut has a +4 racial bonus on Disguise, Gather Information, and Sense Motive checks.
+**Skills:** A kolyarut has a +4 racial bonus on Disguise, Gather Information, and Sense Motive checks.
 
 
 
@@ -2762,11 +2762,11 @@ Once it has found its target, a marut brings it the death it has been trying to 
 
 A marut’s natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming damage reduction.
 
-**Fists of Thunder and Lightning (Su):**A marut’s left fist delivers a loud thunderclap whenever it hits something, dealing an extra 3d6 points of sonic damage and causing the target to be deafened for 2d6 rounds (Fortitude DC 31 negates the deafness). Its right fist delivers a shock for an extra 3d6 points of electricity damage, and the flash of lightning causes the target to be blinded for 2d6 rounds (Fortitude DC 31 negates the blindness). The save DCs are Strength-based and include the marut’s Ability Focus feat.
+**Fists of Thunder and Lightning (Su):** A marut’s left fist delivers a loud thunderclap whenever it hits something, dealing an extra 3d6 points of sonic damage and causing the target to be deafened for 2d6 rounds (Fortitude DC 31 negates the deafness). Its right fist delivers a shock for an extra 3d6 points of electricity damage, and the flash of lightning causes the target to be blinded for 2d6 rounds (Fortitude DC 31 negates the blindness). The save DCs are Strength-based and include the marut’s Ability Focus feat.
 
-**Spell-Like Abilities:**At will—air walk, dimension door, fear(DC 18), greater command(DC 19), greater dispel magic, mass inflict light wounds(DC 19),locate creature, true seeing;1/day—chain lightning(DC 20), circle of death(DC 20), mark of justice, wall of force;1/week—earthquake(DC 22), geas/quest, plane shift(DC 21).Caster level 14th. The save DCs are Charisma-based.
+**Spell-Like Abilities:** At will—air walk, dimension door, fear(DC 18), greater command(DC 19), greater dispel magic, mass inflict light wounds(DC 19),locate creature, true seeing;1/day—chain lightning(DC 20), circle of death(DC 20), mark of justice, wall of force;1/week—earthquake(DC 22), geas/quest, plane shift(DC 21).Caster level 14th. The save DCs are Charisma-based.
 
-**Skills:**A marut has a +4 racial bonus on Concentration, Listen, and Spot checks.
+**Skills:** A marut has a +4 racial bonus on Concentration, Listen, and Spot checks.
 
 
 
@@ -2876,11 +2876,11 @@ Once it has found its fugitive, a zelekhut uses its speed and its spell-like abi
 
 A zelekhut’s natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming damage reduction.
 
-**Spell-Like Abilities:**At will—clairaudience/clairvoyance, dimensional anchor, dispel magic, fear(DC 16), hold person(DC 15), locate creature, true seeing;3/day—hold monster(DC 17), mark of justice; 1/week—lesser geas(DC 16).Caster level 8th. The save DCs are Charisma-based.
+**Spell-Like Abilities:** At will—clairaudience/clairvoyance, dimensional anchor, dispel magic, fear(DC 16), hold person(DC 15), locate creature, true seeing;3/day—hold monster(DC 17), mark of justice; 1/week—lesser geas(DC 16).Caster level 8th. The save DCs are Charisma-based.
 
-**Skills:**A zelekhut has a +4 racial bonus on Search and Sense Motive checks.
+**Skills:** A zelekhut has a +4 racial bonus on Search and Sense Motive checks.
 
-**Feats:**Due to its centaur-like construction, a zelekhut qualifies for feats as if it had the Mounted Combat feat.
+**Feats:** Due to its centaur-like construction, a zelekhut qualifies for feats as if it had the Mounted Combat feat.
 
 
 
@@ -2994,7 +2994,7 @@ An invisible stalker attacks by using the air itself as a weapon. It creates a s
 
 An invisible stalker can be killed only when it is on the Elemental Plane of Air. When performing a task elsewhere, it automatically returns to its home plane when it takes damage sufficient to destroy it.
 
-**Natural Invisibility (Su):**This ability is constant, allowing a stalker to remain invisible even when attacking. This ability is inherent and not subject to theinvisibility purgespell.
+**Natural Invisibility (Su):** This ability is constant, allowing a stalker to remain invisible even when attacking. This ability is inherent and not subject to theinvisibility purgespell.
 
-**Improved Tracking (Ex):**An invisible stalker is a consummate tracker and makes Spot checks instead of the usual Survival checks to trace a creature’s passage.
+**Improved Tracking (Ex):** An invisible stalker is a consummate tracker and makes Spot checks instead of the usual Survival checks to trace a creature’s passage.
 

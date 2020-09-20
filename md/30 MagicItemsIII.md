@@ -16,13 +16,13 @@ Potions are like spells cast upon the imbiber. The character taking the potion d
 
 The person applying an oil is the effective caster, but the object is the target.
 
-**Physical Description:**A typical potion or oil consists of 1 ounce of liquid held in a ceramic or glass vial fitted with a tight stopper. The stoppered container is usually no more than 1 inch wide and 2 inches high. The vial has AC 13, 1 hit point, hardness 1, and a break DC of 12. Vials hold 1 ounce of liquid.
+**Physical Description:** A typical potion or oil consists of 1 ounce of liquid held in a ceramic or glass vial fitted with a tight stopper. The stoppered container is usually no more than 1 inch wide and 2 inches high. The vial has AC 13, 1 hit point, hardness 1, and a break DC of 12. Vials hold 1 ounce of liquid.
 
-**Identifying Potions:**In addition to the standard methods of identification, PCs can sample from each container they find to attempt to determine the nature of the liquid inside. An experienced character learns to identify potions by memory
+**Identifying Potions:** In addition to the standard methods of identification, PCs can sample from each container they find to attempt to determine the nature of the liquid inside. An experienced character learns to identify potions by memory
 
 —for example, the last time she tasted a liquid that reminded her of almonds, it turned out to be apotion of cure moderate wounds.
 
-**Activation:**Drinking a potion or applying an oil requires no special skill. The user merely removes the stopper and swallows the potion or smears on the oil. The following rules govern potion and oil use.
+**Activation:** Drinking a potion or applying an oil requires no special skill. The user merely removes the stopper and swallows the potion or smears on the oil. The following rules govern potion and oil use.
 
 Drinking a potion or using an oil on an item of gear is a standard action. The potion or oil takes effect immediately. Using a potion or oil provokes attacks of opportunity. A successful attack (including grappling attacks) against the character forces a Concentration check (as for casting a spell). If the character fails this check, she cannot drink the potion. An enemy may direct an attack of opportunity against the potion or oil container rather than against the character. A successful attack of this sort can destroy the container.
 
@@ -920,11 +920,11 @@ Rings bestow magical powers upon their wearers. Only a rare few have charges. An
 
 A character can only effectively wear two magic rings. A third magic ring doesn’t work if the wearer is already wearing two magic rings.
 
-**Physical Description:**Rings have no appreciable weight. Although exceptions exist that are crafted from glass or bone, the vast majority of rings are forged from metal—usually precious metals such as gold, silver, and platinum. A ring has AC 13, 2 hit points, hardness 10, and a break DC of 25.
+**Physical Description:** Rings have no appreciable weight. Although exceptions exist that are crafted from glass or bone, the vast majority of rings are forged from metal—usually precious metals such as gold, silver, and platinum. A ring has AC 13, 2 hit points, hardness 10, and a break DC of 25.
 
-**Activation:**Usually, a ring’s ability is activated by a command word (a standard action that does not provoke attacks of opportunity) or it works continually. Some rings have exceptional activation methods, according to their descriptions.
+**Activation:** Usually, a ring’s ability is activated by a command word (a standard action that does not provoke attacks of opportunity) or it works continually. Some rings have exceptional activation methods, according to their descriptions.
 
-**Special Qualities:**Roll d%. A result of 01 indicates the ring is intelligent, 02–31 indicates that something (a design, inscription, or the like) provides a clue to its function, and 32–100 indicates no special qualities. Intelligent items have extra abilities and sometimes extraordinary powers and special purposes. Rings with charges can never be intelligent.
+**Special Qualities:** Roll d%. A result of 01 indicates the ring is intelligent, 02–31 indicates that something (a design, inscription, or the like) provides a clue to its function, and 32–100 indicates no special qualities. Intelligent items have extra abilities and sometimes extraordinary powers and special purposes. Rings with charges can never be intelligent.
 
 
 
@@ -1414,35 +1414,35 @@ Ring Descriptions
 
 Standard rings are described below.
 
-**Animal Friendship:**On command, this ring affects an animal as if the wearer had castcharm animal.
+**Animal Friendship:** On command, this ring affects an animal as if the wearer had castcharm animal.
 
 Faint enchantment; CL 3rd; Forge Ring,charm animal;Price 10,800 gp.
 
-**Blinking:**On command, this ring makes the wearer blink, as with theblinkspell.
+**Blinking:** On command, this ring makes the wearer blink, as with theblinkspell.
 
 Moderate transmutation; CL 7th; Forge Ring,blink;Price 27,000 gp.
 
-**Chameleon Power:**As a free action, the wearer of this ring can gain the ability to magically blend in with the surroundings. This provides a +10 competence bonus on her Hide checks. As a standard action, she can also command the ring to utilize the spelldisguise selfas often as she wants.
+**Chameleon Power:** As a free action, the wearer of this ring can gain the ability to magically blend in with the surroundings. This provides a +10 competence bonus on her Hide checks. As a standard action, she can also command the ring to utilize the spelldisguise selfas often as she wants.
 
 Faint illusion; CL 3rd; Forge Ring,disguise self, invisibility;Price 12,700 gp.
 
-**Climbing:**This ring is actually a magic leather cord that ties around a finger. It continually grants the wearer a +5 competence bonus on Climb checks.
+**Climbing:** This ring is actually a magic leather cord that ties around a finger. It continually grants the wearer a +5 competence bonus on Climb checks.
 
 Faint transmutatation; CL 5th; Forge Ring, creator must have 5 ranks in the Climb skill; Price 2,500 gp.
 
-**Climbing, Improved:**As climbing, except it grants a +10 competence bonus on its wearer’s Climb checks.
+**Climbing, Improved:** As climbing, except it grants a +10 competence bonus on its wearer’s Climb checks.
 
 Faint transmutation; CL 5th; Forge Ring, creator must have 10 ranks in the Climb skill;Price 10,000 gp.
 
-**Counterspells:**This ring might seem to be aring of spell storingupon first examination. However, while it allows a single spell of 1st through 6th level to be cast into it, that spell cannot be cast out of the ring again. Instead, should that spell ever be cast upon the wearer, the spell is immediately countered, as a counterspell action, requiring no action (or even knowledge) on the wearer’s part. Once so used, the spell cast within the ring is gone. A new spell (or the same one as before) may be placed in it again.
+**Counterspells:** This ring might seem to be aring of spell storingupon first examination. However, while it allows a single spell of 1st through 6th level to be cast into it, that spell cannot be cast out of the ring again. Instead, should that spell ever be cast upon the wearer, the spell is immediately countered, as a counterspell action, requiring no action (or even knowledge) on the wearer’s part. Once so used, the spell cast within the ring is gone. A new spell (or the same one as before) may be placed in it again.
 
 Moderate evocation; CL 11th; Forge Ring,imbue with spell ability;Price 4,000 gp.
 
-**Djinni Calling:**One of the many rings of fable, this “genie” ring is most useful indeed. It serves as a specialgateby means of which a specific djinni can be called from the Elemental Plane of Air. When the ring is rubbed (a standard action), the call goes out, and the djinni appears on the next round. The djinni faithfully obeys and serves the wearer of the ring, but never for more than 1 hour per day. If the djinni of the ring is ever killed, the ring becomes nonmagical and worthless.
+**Djinni Calling:** One of the many rings of fable, this “genie” ring is most useful indeed. It serves as a specialgateby means of which a specific djinni can be called from the Elemental Plane of Air. When the ring is rubbed (a standard action), the call goes out, and the djinni appears on the next round. The djinni faithfully obeys and serves the wearer of the ring, but never for more than 1 hour per day. If the djinni of the ring is ever killed, the ring becomes nonmagical and worthless.
 
 Strong conjuration; CL 17th; Forge Ring,gate;Price 125,000 gp.
 
-**Elemental Command:**All four kinds ofelemental commandrings are very powerful. Each appears to be nothing more than a lesser magic ring until fully activated (by meeting a special condition, such as single-handedly slaying an elemental of the appropriate type or exposure to a sacred material of the appropriate element), but each has certain other powers as well as the following common properties.
+**Elemental Command:** All four kinds ofelemental commandrings are very powerful. Each appears to be nothing more than a lesser magic ring until fully activated (by meeting a special condition, such as single-handedly slaying an elemental of the appropriate type or exposure to a sacred material of the appropriate element), but each has certain other powers as well as the following common properties.
 
 Elementals of the plane to which the ring is attuned can’t attack the wearer, or even approach within 5 feet of him. If the wearer desires, he may forego this protection and instead attempt tocharmthe elemental (ascharm monster,Will DC 17 negates). If thecharmattempt fails, however, absolute protection is lost and no further attempt atcharmingcan be made.
 
@@ -1544,53 +1544,53 @@ The ring appears to be aring of water walkinguntil the established condition is 
 
 Strong conjuration; CL 15th; Forge Ring,summon monster VI, all appropriate spells; Price 200,000 gp.
 
-**Energy Resistance:**This reddish iron ring continually protects the wearer from damage from one type of energy—acid, cold, electricity, fire, or sonic (chosen by the creator of the item; determine randomly if found as part of a treasure hoard). Each time the wearer would normally take such damage, subtract the ring’s resistance value from the damage dealt.
+**Energy Resistance:** This reddish iron ring continually protects the wearer from damage from one type of energy—acid, cold, electricity, fire, or sonic (chosen by the creator of the item; determine randomly if found as part of a treasure hoard). Each time the wearer would normally take such damage, subtract the ring’s resistance value from the damage dealt.
 
 Aminor ring of energy resistancegrants 10 points of resistance. Amajor ring of energy resistancegrants 20 points of resistance. Agreater ring of energy resistancegrants 30 points of resistance.
 
 Faint (minor or major) or moderate (greater) abjuration; CL 3rd (minor), 7th (major), or 11th (greater); Forge Ring,resist energy;Price 12,000 gp (minor), 28,000 gp (major), 44,000 gp (greater).
 
-**Evasion:**This ring continually grants the wearer the ability to avoid damage as if she had evasion. Whenever she makes a Reflex saving throw to determine whether she takes half damage, a successful save results in no damage.
+**Evasion:** This ring continually grants the wearer the ability to avoid damage as if she had evasion. Whenever she makes a Reflex saving throw to determine whether she takes half damage, a successful save results in no damage.
 
 Moderate transmutation; CL 7th; Forge Ring,jump;Price 25,000 gp.
 
-**Feather Falling:**This ring is crafted with a feather pattern all around its edge. It acts exactly like afeather fallspell, activated immediately if the wearer falls more than 5 feet.
+**Feather Falling:** This ring is crafted with a feather pattern all around its edge. It acts exactly like afeather fallspell, activated immediately if the wearer falls more than 5 feet.
 
 Faint transmutation; CL 1st; Forge Ring,feather fall;Price 2,200 gp.
 
-**Force Shield:**An iron band, this simple ring generates a shield-sized (and shield-shaped)wall of forcethat stays with the ring and can be wielded by the wearer as if it were a heavy shield (+2 AC). This special creation has no armor check penalty or arcane spell failure chance since it is weightless and encumbrance-free. It can be activated and deactivated at will as a free action.
+**Force Shield:** An iron band, this simple ring generates a shield-sized (and shield-shaped)wall of forcethat stays with the ring and can be wielded by the wearer as if it were a heavy shield (+2 AC). This special creation has no armor check penalty or arcane spell failure chance since it is weightless and encumbrance-free. It can be activated and deactivated at will as a free action.
 
 Moderate evocation; CL 9th; Forge Ring,wall of force;Price 8,500 gp.
 
-**Freedom of Movement:**This gold ring allows the wearer to act as if continually under the effect of afreedom of movementspell.
+**Freedom of Movement:** This gold ring allows the wearer to act as if continually under the effect of afreedom of movementspell.
 
 Moderate abjuration; CL 7th; Forge Ring,freedom of movement;Price 40,000 gp.
 
-**Friend Shield:**These curious rings always come in pairs. Afriend shieldring without its mate is useless. Either wearer of one of a pair of the rings can, at any time, command his or her ring to cast ashield otherspell with the wearer of the mated ring as the recipient. This effect has no range limitation.
+**Friend Shield:** These curious rings always come in pairs. Afriend shieldring without its mate is useless. Either wearer of one of a pair of the rings can, at any time, command his or her ring to cast ashield otherspell with the wearer of the mated ring as the recipient. This effect has no range limitation.
 
 Moderate abjuration; CL 10th; Forge Ring,shield other;Price 50,000 gp (for a pair).
 
-**Invisibility:**By activating this simple silver ring, the wearer can benefit frominvisibility, as the spell.
+**Invisibility:** By activating this simple silver ring, the wearer can benefit frominvisibility, as the spell.
 
 Faint illusion; CL 3rd; Forge Ring,invisibility;Price 20,000 gp.
 
-**Jumping:**This ring continually allows the wearer to leap about, providing a +5 competence bonus on all his Jump checks.
+**Jumping:** This ring continually allows the wearer to leap about, providing a +5 competence bonus on all his Jump checks.
 
 Faint transmutation; CL 2nd; Forge Ring, creator must have 5 ranks in the Jump skill;Price 2,500 gp.
 
-**Jumping, Improved:**As jumping, except it grants a +10 competence bonus on its wearer’s Jump check.
+**Jumping, Improved:** As jumping, except it grants a +10 competence bonus on its wearer’s Jump check.
 
 Moderate transmutation; CL 7th; Forge Ring, creator must have 10 ranks in the Jump skill;Price 10,000 gp.
 
-**Mind Shielding:**This ring is usually of fine workmanship and wrought from heavy gold. The wearer is continually immune todetect thoughts, discern lies,and any attempt to magically discern her alignment.
+**Mind Shielding:** This ring is usually of fine workmanship and wrought from heavy gold. The wearer is continually immune todetect thoughts, discern lies,and any attempt to magically discern her alignment.
 
 Faint aburation; CL 3rd; Forge Ring,nondetection;Price 8,000 gp.
 
-**Protection:**This ring offers continual magical protection in the form of a deflection bonus of +1 to +5 to AC.
+**Protection:** This ring offers continual magical protection in the form of a deflection bonus of +1 to +5 to AC.
 
 Faint abjuration; CL 5th; Forge Ring,shield of faith,caster must be of a level at least three times greater than the bonus of the ring; Price 2,000 gp (ring +1); 8,000 gp (ring +2); 18,000 gp (ring +3); 32,000 gp (ring +4); 50,000 gp (ring +5).
 
-**Ram:**Thering of the ramis an ornate ring forged of hard metal, usually iron or an iron alloy. It has the head of a ram as its device.
+**Ram:** Thering of the ramis an ornate ring forged of hard metal, usually iron or an iron alloy. It has the head of a ram as its device.
 
 The wearer can command the ring to give forth a ramlike force, manifested by a vaguely discernible shape that resembles the head of a ram or a goat. This force strikes a single target, dealing 1d6 points of damage if 1 charge is expended, 2d6 points if 2 charges are used, or 3d6 points if 3 charges (the maximum) are used. Treat this as a ranged attack with a 50-foot maximum range and no penalties for distance.
 
@@ -1602,11 +1602,11 @@ A newly created ring has 50 charges. When all the charges are expended, the ring
 
 Moderate transmutation; CL 9th; Forge Ring,bull’s strength, telekinesis;Price 8,600 gp.
 
-**Regeneration:**This white gold ring continually allows a living wearer to heal 1 point of damage per level every hour rather than every day. (This ability cannot be aided by the Heal skill.) Nonlethal damage heals at a rate of 1 point of damage per level every 5 minutes. If the wearer loses a limb, an organ, or any other body part while wearing this ring, the ringregeneratesit as the spell. In either case, only damage taken while wearing the ring is regenerated.
+**Regeneration:** This white gold ring continually allows a living wearer to heal 1 point of damage per level every hour rather than every day. (This ability cannot be aided by the Heal skill.) Nonlethal damage heals at a rate of 1 point of damage per level every 5 minutes. If the wearer loses a limb, an organ, or any other body part while wearing this ring, the ringregeneratesit as the spell. In either case, only damage taken while wearing the ring is regenerated.
 
 Strong conjuration; CL 15th; Forge Ring,regenerate;Price 90,000 gp.
 
-**Shooting Stars:**This ring has two modes of operation, one for being in shadowy darkness or outdoors at night and a second one when the wearer is underground or indoors at night.
+**Shooting Stars:** This ring has two modes of operation, one for being in shadowy darkness or outdoors at night and a second one when the wearer is underground or indoors at night.
 
 During the night under the open sky or in areas of shadow or darkness, thering of shooting starscan perform the following functions on command.
 
@@ -1660,7 +1660,7 @@ Thespark showeris a flying cloud of sizzling purple sparks that fan out from the
 
 Strong evocation; CL 12th; Forge Ring,light, faerie fire, fireball, lightning bolt;Price 50,000 gp.
 
-**Spell Storing, Minor:**Aminor ring of spell storingcontains up to three levels of spells that the wearer can cast. Each spell has a caster level equal to the minimum level needed to cast that spell. The user need not provide any material components or focus, or pay an XP cost to cast the spell, and there is no arcane spell failure chance for wearing armor (because the ring wearer need not gesture). The activation time for the ring is same as the casting time for the relevant spell, with a minimum of 1 standard action.
+**Spell Storing, Minor:** Aminor ring of spell storingcontains up to three levels of spells that the wearer can cast. Each spell has a caster level equal to the minimum level needed to cast that spell. The user need not provide any material components or focus, or pay an XP cost to cast the spell, and there is no arcane spell failure chance for wearing armor (because the ring wearer need not gesture). The activation time for the ring is same as the casting time for the relevant spell, with a minimum of 1 standard action.
 
 For a randomly generated ring, treat it as a scroll to determine what spells are stored in it. If you roll a spell that would put the ring over the three-level limit, ignore that roll; the ring has no more spells in it. (Not every newly discovered ring need be fully charged.)
 
@@ -1670,47 +1670,47 @@ The ring magically imparts to the wearer the names of all spells currently store
 
 Faint evocation; CL 5th; Forge Ring,imbue with spell ability;Price 18,000 gp.
 
-**Spell Storing:**As theminor ring of spell storing,except it holds up to five levels of spells.
+**Spell Storing:** As theminor ring of spell storing,except it holds up to five levels of spells.
 
 Moderate evocation; CL 9th; Forge Ring,imbue with spell ability;Price 50,000 gp.
 
-**Spell Storing, Major:**As theminor ring of spell storing,except it holds up to ten levels of spells.
+**Spell Storing, Major:** As theminor ring of spell storing,except it holds up to ten levels of spells.
 
 Strong evocation; CL 17th; Forge Ring,imbue with spell ability;Price 200,000 gp.
 
-**Spell Turning:**Up to three times per day on command, this simple platinum band automatically reflects the next nine levels of spells cast at the wearer, exactly as ifspell turninghad been cast upon the wearer.
+**Spell Turning:** Up to three times per day on command, this simple platinum band automatically reflects the next nine levels of spells cast at the wearer, exactly as ifspell turninghad been cast upon the wearer.
 
 Strong abjuration; CL 13th; Forge Ring,spell turning;Price 98,280 gp.
 
-**Sustenance:**This ring continually provides its wearer with life-sustaining nourishment. The ring also refreshes the body and mind, so that its wearer needs only sleep 2 hours per day to gain the benefit of 8 hours of sleep. The ring must be worn for a full week before it begins to work. If it is removed, the owner must wear it for another week to reattune it to himself.
+**Sustenance:** This ring continually provides its wearer with life-sustaining nourishment. The ring also refreshes the body and mind, so that its wearer needs only sleep 2 hours per day to gain the benefit of 8 hours of sleep. The ring must be worn for a full week before it begins to work. If it is removed, the owner must wear it for another week to reattune it to himself.
 
 Faint conjuration; CL 5th; Forge Ring,create food and water;Price 2,500 gp.
 
-**Swimming:**This silver ring has a wave pattern etched into the band. It continually grants the wearer a +5 competence bonus on Swim checks.
+**Swimming:** This silver ring has a wave pattern etched into the band. It continually grants the wearer a +5 competence bonus on Swim checks.
 
 Faint transmutation; CL 2nd; Forge Ring, creator must have 5 ranks in the Swim skill; Price 2,500 gp.
 
-**Swimming, Improved:**As swimming, except it grants a +10 competence bonus on its wearer’s Swim checks.
+**Swimming, Improved:** As swimming, except it grants a +10 competence bonus on its wearer’s Swim checks.
 
 Moderate transmutation; CL 7th; Forge Ring, creator must have 10 ranks in the Swim skill;Price 10,000 gp.
 
-**Telekinesis:**This ring allows the caster to use the spelltelekinesison command.
+**Telekinesis:** This ring allows the caster to use the spelltelekinesison command.
 
 Moderate transmutation; CL 9th; Forge Ring,telekinesis;Price 75,000 gp.
 
-**Three Wishes:**This ring is set with three rubies. Each ruby stores awishspell, activated by the ring. When awishis used, that ruby disappears. For a randomly generated ring, roll 1d3 to determine the remaining number of rubies. When all thewishesare used, the ring becomes a nonmagical item.
+**Three Wishes:** This ring is set with three rubies. Each ruby stores awishspell, activated by the ring. When awishis used, that ruby disappears. For a randomly generated ring, roll 1d3 to determine the remaining number of rubies. When all thewishesare used, the ring becomes a nonmagical item.
 
 Strong evocation (ifmiracleis used); CL 20th; Forge Ring,wishormiracle;Price 97,950 gp; Cost 11,475 gp + 15,918 XP.
 
-**Water Walking:**This ring, set with an opal, allows the wearer to continually utilize the effects of the spellwater walk.
+**Water Walking:** This ring, set with an opal, allows the wearer to continually utilize the effects of the spellwater walk.
 
 Moderate transmutation; CL 9th; Forge Ring,water walk;Price 15,000 gp.
 
-**Wizardry:**This special ring comes in four kinds (ring of wizardry I, ring of wizardry II, ring of wizardry III,andring of wizardry IV), all of them useful only to arcane spellcasters. The wearer’s arcane spells per day are doubled for one specific spell level. Aring of wizardry Idoubles 1st-level spells, aring of wizardry IIdoubles 2nd-level spells, aring of wizardry IIIdoubles 3rd-level spells, and aring of wizardry IVdoubles 4th-level spells. Bonus spells from high ability scores or school specialization are not doubled.
+**Wizardry:** This special ring comes in four kinds (ring of wizardry I, ring of wizardry II, ring of wizardry III,andring of wizardry IV), all of them useful only to arcane spellcasters. The wearer’s arcane spells per day are doubled for one specific spell level. Aring of wizardry Idoubles 1st-level spells, aring of wizardry IIdoubles 2nd-level spells, aring of wizardry IIIdoubles 3rd-level spells, and aring of wizardry IVdoubles 4th-level spells. Bonus spells from high ability scores or school specialization are not doubled.
 
 Moderate (wizardry I) or strong (wizardry II–IV) (no school); CL 11th (I), 14th (II), 17th (III), 20th (IV); Forge Ring,limited wish; Price 20,000 gp (I), 40,000 gp (II), 70,000 gp (III), 100,000 gp (IV).
 
-**X-Ray Vision:**On command, this ring gives its possessor the ability to see into and through solid matter. Vision range is 20 feet, with the viewer seeing as if he were looking at something in normal light even if there is no illumination. X-ray vision can penetrate 1 foot of stone, 1 inch of common metal, or up to 3 feet of wood or dirt. Thicker substances or a thin sheet of lead blocks the vision.
+**X-Ray Vision:** On command, this ring gives its possessor the ability to see into and through solid matter. Vision range is 20 feet, with the viewer seeing as if he were looking at something in normal light even if there is no illumination. X-ray vision can penetrate 1 foot of stone, 1 inch of common metal, or up to 3 feet of wood or dirt. Thicker substances or a thin sheet of lead blocks the vision.
 
 Using the ring is physically exhausting, causing the wearer 1 point of Constitution damage per minute after the first 10 minutes of use in a single day.
 
@@ -1724,15 +1724,15 @@ RODS
 
 Rods are scepterlike devices that have unique magical powers and do not usually have charges. Anyone can use a rod.
 
-**Physical Description:**Rods weigh approximately 5 pounds.
+**Physical Description:** Rods weigh approximately 5 pounds.
 
 They range from 2 feet to 3 feet long and are usually made of iron or some other metal. (Many, as noted in their descriptions, can function as light maces or clubs due to their sturdy construction.)
 
 These sturdy items have AC 9, 10 hit points, hardness 10, and a break DC of 27.
 
-**Activation:**Details relating to rod use vary from item to item. See the individual descriptions for specifics.
+**Activation:** Details relating to rod use vary from item to item. See the individual descriptions for specifics.
 
-**Special Qualities:**Roll d%. A 01 result indicates the rod is intelligent, 02–31 indicates that something (a design, inscription, or the like) provides a clue to its function, and 32–100 indicates no special qualities. Intelligent items have extra abilities and sometimes extraordinary powers and special purposes.
+**Special Qualities:** Roll d%. A 01 result indicates the rod is intelligent, 02–31 indicates that something (a design, inscription, or the like) provides a clue to its function, and 32–100 indicates no special qualities. Intelligent items have extra abilities and sometimes extraordinary powers and special purposes.
 
 Rods with charges can never be intelligent.
 
@@ -2046,7 +2046,7 @@ Rod Descriptions
 
 Although all rods are generally scepterlike, their configurations and abilities run the magical gamut. Standard rods are described below.
 
-**Absorption:**This rod acts as a magnet, drawing spells or spell-like abilities into itself. The magic absorbed must be a single-target spell or a ray directed at either the character possessing the rod or her gear. The rod then nullifies the spell’s effect and stores its potential until the wielder releases this energy in the form of spells of her own. She can instantly detect a spell’s level as the rod absorbs that spell’s energy. Absorption requires no action on the part of the user if the rod is in hand at the time.
+**Absorption:** This rod acts as a magnet, drawing spells or spell-like abilities into itself. The magic absorbed must be a single-target spell or a ray directed at either the character possessing the rod or her gear. The rod then nullifies the spell’s effect and stores its potential until the wielder releases this energy in the form of spells of her own. She can instantly detect a spell’s level as the rod absorbs that spell’s energy. Absorption requires no action on the part of the user if the rod is in hand at the time.
 
 A running total of absorbed (and used) spell levels should be kept. The wielder of the rod can use captured spell energy to cast any spell she has prepared, without expending the preparation itself. The only restrictions are that the levels of spell energy stored in the rod must be equal to or greater than the level of the spell the wielder wants to cast, that any material components required for the spell be present, and that the rod be in hand when casting. For casters such as bards or sorcerers who do not prepare spells, the rod’s energy can be used to cast any spell of the appropriate level or levels that they know.
 
@@ -2056,21 +2056,21 @@ To determine the absorption potential remaining in a newly found rod, roll d% an
 
 Strong abjuration; CL 15th;Craft Rod,spell turning;Price 50,000 gp.
 
-**Alertness:**This rod is indistinguishable from a+1 light mace.It has eight flanges on its macelike head. The rod bestows a +1 insight bonus on initiative checks. If grasped firmly, the rod enables the holder to usedetect evil, detect good, detect chaos, detect law,detect magic, discern lies, light,orsee invisibility.Each different use is a standard action.
+**Alertness:** This rod is indistinguishable from a+1 light mace.It has eight flanges on its macelike head. The rod bestows a +1 insight bonus on initiative checks. If grasped firmly, the rod enables the holder to usedetect evil, detect good, detect chaos, detect law,detect magic, discern lies, light,orsee invisibility.Each different use is a standard action.
 
 If the head of arod of alertnessis planted in the ground, and the possessor wills it to alertness (a standard action), the rod senses any creature within 120 feet who intends to harm the possessor. At the same time, the rod creates the effect of aprayerspell upon all creatures friendly to the possessor in a 20-foot radius. Immediately thereafter, the rod sends forth a mental alert to these friendly creatures, warning them of possible danger from the unfriendly creature or creatures within the 120-foot radius. These effects last for 10 minutes, and the rod can perform this function once per day. Last, the rod can be used to simulate the casting of ananimate objectsspell, utilizing any eleven (or fewer) Small objects located roughly around the perimeter of a 5-foot-radius circle centered on the rod when planted in the ground. Objects remain animated for 11 rounds. The rod can perform this function once per day.
 
 Moderate abjuration, divination, enchantment, and evocation; CL 11th; Craft Rod,alarm, detect chaos, detect evil, detect good, detect law, detect magic, discern lies, light, see invisibility, prayer, animate objects;Price 85,000 gp.
 
-**Cancellation:**This dreaded rod is a bane to magic items, for its touch drains an item of all magical properties. The item touched must make a DC 23 Will save to prevent the rod from draining it. If a creature is holding it at the time, then the item can use the holder’s Will save bonus in place of its own if the holder’s is better. In such cases, contact is made by making a melee touch attack roll. Upon draining an item, the rod itself becomes brittle and cannot be used again. Drained items are only restorable bywish ormiracle.(If asphere of annihilationand arod of cancellationnegate each other, nothing can restore either of them.)
+**Cancellation:** This dreaded rod is a bane to magic items, for its touch drains an item of all magical properties. The item touched must make a DC 23 Will save to prevent the rod from draining it. If a creature is holding it at the time, then the item can use the holder’s Will save bonus in place of its own if the holder’s is better. In such cases, contact is made by making a melee touch attack roll. Upon draining an item, the rod itself becomes brittle and cannot be used again. Drained items are only restorable bywish ormiracle.(If asphere of annihilationand arod of cancellationnegate each other, nothing can restore either of them.)
 
 Strong abjuration; CL 17th; Craft Rod,mage’s disjunction;Price 11,000 gp.
 
-**Enemy Detection:**This device pulses in the wielder’s hand and points in the direction of any creature or creatures hostile to the bearer of the device (nearest ones first). These creatures can be invisible, ethereal, hidden, disguised, or in plain sight. Detection range is 60 feet. If the bearer of the rod concentrates for a full round, the rod pinpoints the location of the nearest enemy and indicates how many enemies are within range. The rod can be used three times each day, each use lasting up to 10 minutes. Activating the rod is a standard action.
+**Enemy Detection:** This device pulses in the wielder’s hand and points in the direction of any creature or creatures hostile to the bearer of the device (nearest ones first). These creatures can be invisible, ethereal, hidden, disguised, or in plain sight. Detection range is 60 feet. If the bearer of the rod concentrates for a full round, the rod pinpoints the location of the nearest enemy and indicates how many enemies are within range. The rod can be used three times each day, each use lasting up to 10 minutes. Activating the rod is a standard action.
 
 Moderate divination; CL 10th; Craft Rod,true seeing;Price 23,500 gp.
 
-**Flailing:**Upon the command of its possessor, the rod activates, changing from a normal-seeming rod to a+3 dire flail. The dire flail is a double weapon, which means that each of the weapon’s heads can be used to attack. The wielder can gain an extra attack (with the second head) at the cost of making all attacks at a –2 penalty (as if she had the Two-Weapon Fighting feat).
+**Flailing:** Upon the command of its possessor, the rod activates, changing from a normal-seeming rod to a+3 dire flail. The dire flail is a double weapon, which means that each of the weapon’s heads can be used to attack. The wielder can gain an extra attack (with the second head) at the cost of making all attacks at a –2 penalty (as if she had the Two-Weapon Fighting feat).
 
 Once per day the wielder can use a free action to cause the rod to grant her a +4 deflection bonus to Armor Class and a +4 resistance bonus on saving throws for 10 minutes. The rod need not be in weapon form to grant this benefit.
 
@@ -2078,7 +2078,7 @@ Transforming it into a weapon or back into a rod is a move action.
 
 Moderate enchantment; CL 9th; Craft Rod, Craft Magic Arms and Armor,bless;Price 50,000 gp.
 
-**Flame Extinguishing:**This rod can extinguish Medium or smaller nonmagical fires with simply a touch (a standard action). For the rod to be effective against other sorts of fires, the wielder must expend 1 or more of the rod’s charges.
+**Flame Extinguishing:** This rod can extinguish Medium or smaller nonmagical fires with simply a touch (a standard action). For the rod to be effective against other sorts of fires, the wielder must expend 1 or more of the rod’s charges.
 
 Extinguishing a Large or larger nonmagical fire, or a magic fire of Medium or smaller (such as that of a flaming weapon or aburning handsspell), expends 1 charge. Continual magic flames, such as those of a weapon or a fire creature, are suppressed for 6 rounds and flare up again after that time. To extinguish an instantaneous fire spell, the rod must be within the area of the effect and the wielder must have used a ready action, effectively countering the entire spell.
 
@@ -2090,11 +2090,11 @@ Arod of flame extinguishinghas 10 charges when found. Spent charges are renewed 
 
 Strong transmutation; CL 12th; Craft Rod,pyrotechnics;Price 15,000 gp.
 
-**Immovable Rod:**This rod is a flat iron bar with a small button on one end. When the button is pushed (a move action), the rod does not move from where it is, even if staying in place defies gravity. Thus, the owner can lift or place the rod wherever he wishes, push the button, and let go. Severalimmovable rodscan even make a ladder when used together (although only two are needed). Animmovable rodcan support up to 8,000 pounds before falling to the ground. If a creature pushes against animmovable rod,it must make a DC 30 Strength check to move the rod up to 10 feet in a single round.
+**Immovable Rod:** This rod is a flat iron bar with a small button on one end. When the button is pushed (a move action), the rod does not move from where it is, even if staying in place defies gravity. Thus, the owner can lift or place the rod wherever he wishes, push the button, and let go. Severalimmovable rodscan even make a ladder when used together (although only two are needed). Animmovable rodcan support up to 8,000 pounds before falling to the ground. If a creature pushes against animmovable rod,it must make a DC 30 Strength check to move the rod up to 10 feet in a single round.
 
 Moderate transmutation; CL 10th; Craft Rod,levitate;Price 5,000 gp.
 
-**Lordly Might:**This rod has functions that are spell-like, and it can also be used as a magic weapon of various sorts. It also has several more mundane uses. Therod of lordly mightis metal, thicker than other rods, with a flanged ball at one end and six studlike buttons along its length. (Pushing any of the rod’s buttons is equivalent to drawing a weapon.) It weighs 10 pounds.
+**Lordly Might:** This rod has functions that are spell-like, and it can also be used as a magic weapon of various sorts. It also has several more mundane uses. Therod of lordly mightis metal, thicker than other rods, with a flanged ball at one end and six studlike buttons along its length. (Pushing any of the rod’s buttons is equivalent to drawing a weapon.) It weighs 10 pounds.
 
 The following spell-like functions of the rod can each be used once per day.
 
@@ -2124,53 +2124,53 @@ The following other functions of the rod also have no limit on the number of tim
 
 Strong enchantment, evocation, necromancy, and transmutation; CL 19th; Craft Rod, Craft Magic Arms and Armor,inflict light wounds, bull’s strength, flame blade, hold person, fear;Price 70,000 gp.
 
-**Metal and Mineral Detection:**This rod pulses in the wielder’s hand and points to the largest mass of metal within 30 feet. However, the wielder can concentrate on a specific metal or mineral. If the specific mineral is within 30 feet, the rod points to any places it is located, and the rod wielder knows the approximate quantity as well. If more than one deposit of the specified metal or mineral is within range, the rod points to the largest cache first. Each operation requires a full-round action.
+**Metal and Mineral Detection:** This rod pulses in the wielder’s hand and points to the largest mass of metal within 30 feet. However, the wielder can concentrate on a specific metal or mineral. If the specific mineral is within 30 feet, the rod points to any places it is located, and the rod wielder knows the approximate quantity as well. If more than one deposit of the specified metal or mineral is within range, the rod points to the largest cache first. Each operation requires a full-round action.
 
 Moderate divination; CL 9th; Craft Rod,locate object;Price 10,500 gp.
 
-**Metamagic Rods:**Metamagic rods hold the essence of a metamagic feat but do not change the spell slot of the altered spell. All the rods described here are use-activated (but casting spells in a threatened area still draws an attack of opportunity). A caster may only use one metamagic rod on any given spell, but it is permissible to combine a rod with metamagic feats possessed by the rod’s wielder. In this case, only the feats possessed by the wielder adjust the spell slot of the spell being cast.
+**Metamagic Rods:** Metamagic rods hold the essence of a metamagic feat but do not change the spell slot of the altered spell. All the rods described here are use-activated (but casting spells in a threatened area still draws an attack of opportunity). A caster may only use one metamagic rod on any given spell, but it is permissible to combine a rod with metamagic feats possessed by the rod’s wielder. In this case, only the feats possessed by the wielder adjust the spell slot of the spell being cast.
 
 Possession of a metamagic rod does not confer the associated feat on the owner, only the ability to use the given feat a specified number of times per day. A sorcerer still must take a full-round action when using a metamagic rod, just as if using a metamagic feat he possesses.
 
 Lesser and Greater Metamagic Rods:Normal metamagic rods can be used with spells of 6th level or lower. Lesser rods can be used with spells of 3rd level or lower, while greater rods can be used with spells of 9th level or lower.
 
-**Metamagic, Empower:**The wielder can cast up to three spells per day that are empowered as though using the Empower Spell feat.
+**Metamagic, Empower:** The wielder can cast up to three spells per day that are empowered as though using the Empower Spell feat.
 
 Strong (no school); CL 17th; Craft Rod, Empower Spell; Price 9,000 gp (lesser), 32,500 gp (normal), 73,000 gp (greater).
 
-**Metamagic, Enlarge:**The wielder can cast up to three spells per day that are enlarged as though using the Enlarge Spell feat.
+**Metamagic, Enlarge:** The wielder can cast up to three spells per day that are enlarged as though using the Enlarge Spell feat.
 
 Strong (no school); CL 17th; Craft Rod, Enlarge Spell; Price 3,000 gp (lesser), 11,000 gp (normal), 24,500 gp (greater).
 
-**Metamagic, Extend:**The wielder can cast up to three spells per day that are extended as though using the Extend Spell feat.
+**Metamagic, Extend:** The wielder can cast up to three spells per day that are extended as though using the Extend Spell feat.
 
 Strong (no school); CL 17th; Craft Rod, Extend Spell; Price 3,000 gp (lesser), 11,000 gp (normal), 24,500 gp (greater).
 
-**Metamagic, Maximize:**The wielder can cast up to three spells per day that are maximized as though using the Maximize Spell feat.
+**Metamagic, Maximize:** The wielder can cast up to three spells per day that are maximized as though using the Maximize Spell feat.
 
 Strong (no school); CL 17th; Craft Rod, Maximize Spell feat; Price 14,000 gp (lesser), 54,000 gp (normal), 121,500 gp (greater).
 
-**Metamagic, Quicken:**The wielder can cast up to three spells per day that are quickened as though using the Quicken Spell feat.
+**Metamagic, Quicken:** The wielder can cast up to three spells per day that are quickened as though using the Quicken Spell feat.
 
 Strong (no school); CL 17th; Craft Rod, Quicken Spell; Price 35,000 gp (lesser), 75,500 gp (normal), 170,000 gp (greater).
 
-**Metamagic, Silent:**The wielder can cast up to three spells per day without verbal components as though using the Silent Spell feat.
+**Metamagic, Silent:** The wielder can cast up to three spells per day without verbal components as though using the Silent Spell feat.
 
 Strong (no school); CL 17th; Craft Rod, Silent Spell; Price 3,000 gp (lesser), 11,000 gp (normal), 24,500 gp (greater).
 
-**Negation:**This device negates the spell or spell-like function or functions of magic items. The wielder points the rod at the magic item, and a pale gray beam shoots forth to touch the target device, attacking as a ray (a ranged touch attack). The ray functions as agreater dispel magicspell, except it only affects magic items. To negate instantaneous effects from an item, the rod wielder needs to have used a ready action. The dispel check uses the rod’s caster level (15th). The target item gets no saving throw, although the rod can’t negate artifacts (even minor artifacts). The rod can function three times per day.
+**Negation:** This device negates the spell or spell-like function or functions of magic items. The wielder points the rod at the magic item, and a pale gray beam shoots forth to touch the target device, attacking as a ray (a ranged touch attack). The ray functions as agreater dispel magicspell, except it only affects magic items. To negate instantaneous effects from an item, the rod wielder needs to have used a ready action. The dispel check uses the rod’s caster level (15th). The target item gets no saving throw, although the rod can’t negate artifacts (even minor artifacts). The rod can function three times per day.
 
 Strong varied; CL 15th; Craft Rod,dispel magic,andlimited wishormiracle;Price 37,000 gp.
 
-**Python:**This rod is longer than normal rods. It is about 4 feet long and weighs 10 pounds. It strikes as a+1/+1 quarterstaff. If the user throws the rod to the ground (a standard action), it grows to become a giant constrictor snake by the end of the round. The python obeys all commands of the owner. (In animal form, it retains the +1 enhancement bonus on attacks and damage possessed by the rod form.) The serpent returns to rod form (a full-round action) whenever the wielder desires, or whenever it moves farther than 100 feet from the owner. If the snake form is slain, it returns to rod form and cannot be activated again for three days. Apython rodonly functions if the possessor is good.
+**Python:** This rod is longer than normal rods. It is about 4 feet long and weighs 10 pounds. It strikes as a+1/+1 quarterstaff. If the user throws the rod to the ground (a standard action), it grows to become a giant constrictor snake by the end of the round. The python obeys all commands of the owner. (In animal form, it retains the +1 enhancement bonus on attacks and damage possessed by the rod form.) The serpent returns to rod form (a full-round action) whenever the wielder desires, or whenever it moves farther than 100 feet from the owner. If the snake form is slain, it returns to rod form and cannot be activated again for three days. Apython rodonly functions if the possessor is good.
 
 Moderate transmutation; CL 10th; Craft Rod, Craft Magic Arms and Armor,baleful polymorph,creator must be good; Price 13,000 gp.
 
-**Rulership:**This rod looks like a royal scepter worth at least 5,000 gp in materials and workmanship alone. The wielder can command the obedience and fealty of creatures within 120 feet when she activates the device (a standard action). Creatures totaling 300 Hit Dice can be ruled, but creatures with Intelligence scores of 12 or higher are entitled to a DC 16 Will save to negate the effect. Ruled creatures obey the wielder as if she were their absolute sovereign. Still, if the wielder gives a command that is contrary to the nature of the creatures commanded, the magic is broken. The rod can be used for 500 total minutes before crumbling to dust. This duration need not be continuous.
+**Rulership:** This rod looks like a royal scepter worth at least 5,000 gp in materials and workmanship alone. The wielder can command the obedience and fealty of creatures within 120 feet when she activates the device (a standard action). Creatures totaling 300 Hit Dice can be ruled, but creatures with Intelligence scores of 12 or higher are entitled to a DC 16 Will save to negate the effect. Ruled creatures obey the wielder as if she were their absolute sovereign. Still, if the wielder gives a command that is contrary to the nature of the creatures commanded, the magic is broken. The rod can be used for 500 total minutes before crumbling to dust. This duration need not be continuous.
 
 Strong enchantment; CL 20th; Craft Rod,mass charm monster;Price 60,000 gp; Cost 27,500 gp + 2,200 XP.
 
-**Security:**This item creates a nondimensional space, a pocket paradise. There the rod’s possessor and as many as 199 other creatures can stay in complete safety for a period of time, up to 200 days divided by the number of creatures affected. All fractions are rounded down.
+**Security:** This item creates a nondimensional space, a pocket paradise. There the rod’s possessor and as many as 199 other creatures can stay in complete safety for a period of time, up to 200 days divided by the number of creatures affected. All fractions are rounded down.
 
 In this pocket paradise, creatures don’t age, and natural healing take place at twice the normal rate. Fresh water and food (fruits and vegetables only) are in abundance. The climate is comfortable for all creatures involved.
 
@@ -2180,7 +2180,7 @@ When the rod’s effect expires or is dispelled, all the affected creatures inst
 
 Strong conjuuration; CL 20th; Craft Rod,gate;Price 61,000 gp.
 
-**Splendor:**The possessor of this rod gains a +4 enhancement bonus to her Charisma score for as long as she holds or carries the item. Once per day, the rod creates and garbs her in clothing of the finest fabrics, plus adornments of furs and jewels.
+**Splendor:** The possessor of this rod gains a +4 enhancement bonus to her Charisma score for as long as she holds or carries the item. Once per day, the rod creates and garbs her in clothing of the finest fabrics, plus adornments of furs and jewels.
 
 Apparel created by the magic of the rod remains in existence for 12 hours. However, if the possessor attempts to sell or give away any part of it, to use it for a spell component, or the like, all the apparel immediately disappears. The same applies if any of it is forcibly taken from her.
 
@@ -2190,7 +2190,7 @@ In addition, the rod has a second special power, usable once per week. Upon comm
 
 Strong conjuration and transmutation; CL 12th; Craft Rod,eagle’s splendor, fabricate, major creation;Price 25,000 gp.
 
-**Thunder and Lightning:**Constructed of iron set with silver rivets, this rod has the properties of a+2 light mace. Its other magical powers are as follows.
+**Thunder and Lightning:** Constructed of iron set with silver rivets, this rod has the properties of a+2 light mace. Its other magical powers are as follows.
 
 •Thunder:Once per day, the rod can strike as a+3 light mace,and the opponent struck is stunned from the noise of the rod’s impact (Fortitude DC 16 negates). Activating this power counts as a free action, and it works if the wielder strikes an opponent within 1 round.
 
@@ -2204,15 +2204,15 @@ Strong conjuration and transmutation; CL 12th; Craft Rod,eagle’s splendor, fab
 
 Moderate evocation; CL 9th; Craft Rod, Craft Magic Arms and Armor,lightning bolt,shout; Price 33,000 gp.
 
-**Viper:**This rod strikes as a+2 heavy mace. Once per day, upon command, the head of the rod becomes that of an actual serpent for 10 minutes. During this period, any successful strike with the rod deals its usual damage and also poisons the creature hit. The poison deals 1d10 points of Constitution damage immediately (Fortitude DC 14 negates) and another 1d10 points of Constitution damage 1 minute later (Fortitude DC 14 negates). The rod only functions if its possessor is evil.
+**Viper:** This rod strikes as a+2 heavy mace. Once per day, upon command, the head of the rod becomes that of an actual serpent for 10 minutes. During this period, any successful strike with the rod deals its usual damage and also poisons the creature hit. The poison deals 1d10 points of Constitution damage immediately (Fortitude DC 14 negates) and another 1d10 points of Constitution damage 1 minute later (Fortitude DC 14 negates). The rod only functions if its possessor is evil.
 
 Moderate necromancy; CL 10th; Craft Rod, Craft Magic Arms and Armor,poison,creator must be evil; Price 19,000 gp.
 
-**Withering:**Arod of witheringacts as a+1 light macethat deals no hit point damage. Instead, the wielder deals 1d4 points of Strength damage and 1d4 points of Constitution damage to any creature she touches with the rod (by making a melee touch attack). If she scores a critical hit, the damage from that hit is permanent ability drain. In either case, the defender negates the effect with a DC 17 Fortitude save.
+**Withering:** Arod of witheringacts as a+1 light macethat deals no hit point damage. Instead, the wielder deals 1d4 points of Strength damage and 1d4 points of Constitution damage to any creature she touches with the rod (by making a melee touch attack). If she scores a critical hit, the damage from that hit is permanent ability drain. In either case, the defender negates the effect with a DC 17 Fortitude save.
 
 Strong necromancy; CL 13th; Craft Rod, Craft Magic Arms and Armor,contagion;Price 25,000 gp.
 
-**Wonder:**Arod of wonderis a strange and unpredictable device that randomly generates any number of weird effects each time it is used. (Activating the rod is a standard action.) Typical powers of the rod include the following.
+**Wonder:** Arod of wonderis a strange and unpredictable device that randomly generates any number of weird effects each time it is used. (Activating the rod is a standard action.) Typical powers of the rod include the following.
 
 
 

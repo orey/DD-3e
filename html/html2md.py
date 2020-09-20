@@ -111,7 +111,7 @@ class MyHTMLParser(HTMLParser):
             if (self.intable):
                 return
             else:
-                self.out.write("**")
+                self.out.write("** ")
                 return
         if (thetag == "A"):
             self.out.write(" [" + self.datalink + "](" + self.url + ") ")

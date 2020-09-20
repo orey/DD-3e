@@ -8,7 +8,7 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 
 
-**Aberration Type:**An aberration has a bizarre anatomy, strange abilities, an alien mindset, or any combination of the three.
+**Aberration Type:** An aberration has a bizarre anatomy, strange abilities, an alien mindset, or any combination of the three.
 
 Features:An aberration has the following features.
 
@@ -34,7 +34,7 @@ Traits:An aberration possesses the following traits (unless otherwise noted in a
 
 
 
-**Ability Score Loss (Su):**Some attacks reduce the opponent’s score in one or more abilities. This loss can be temporary (ability damage) or permanent (ability drain).
+**Ability Score Loss (Su):** Some attacks reduce the opponent’s score in one or more abilities. This loss can be temporary (ability damage) or permanent (ability drain).
 
 Ability Damage:This attack damages an opponent’s ability score. The creature’s descriptive text gives the ability and the amount of damage. If an attack that causes ability damage scores a critical hit, it deals twice the indicated amount of damage (if the damage is expressed as a die range, roll two dice). Ability damage returns at the rate of 1 point per day for each affected ability.
 
@@ -46,7 +46,7 @@ Some ability drain attacks allow a Fortitude save (DC 10 + 1/2 draining creature
 
 
 
-**Alternate Form (Su):**A creature with this special quality has the ability to assume one or more specific alternate forms. This ability works much like thepolymorphspell, except that the creature is limited to the forms specified, and does not regain any hit points for changing its form. Assuming an alternate form results in the following changes to the creature:
+**Alternate Form (Su):** A creature with this special quality has the ability to assume one or more specific alternate forms. This ability works much like thepolymorphspell, except that the creature is limited to the forms specified, and does not regain any hit points for changing its form. Assuming an alternate form results in the following changes to the creature:
 
 —The creature retains the type and subtype of its original form. It gains the size of its new form.
 
@@ -70,13 +70,13 @@ Some ability drain attacks allow a Fortitude save (DC 10 + 1/2 draining creature
 
 
 
-**Air Subtype:**This subtype usually is used for elementals and outsiders with a connection to the Elemental Plane Air. Air creatures always have fly speeds and usually have perfect maneuverability.
+**Air Subtype:** This subtype usually is used for elementals and outsiders with a connection to the Elemental Plane Air. Air creatures always have fly speeds and usually have perfect maneuverability.
 
 
 
 
 
-**Angel Subtype:**Angels are a race of celestials, or good outsiders, native to the good-aligned Outer Planes.
+**Angel Subtype:** Angels are a race of celestials, or good outsiders, native to the good-aligned Outer Planes.
 
 Traits:An angel possesses the following traits (unless otherwise noted in a creature’s entry).
 
@@ -96,7 +96,7 @@ Traits:An angel possesses the following traits (unless otherwise noted in a crea
 
 
 
-**Animal Type:**An animal is a living, nonhuman creature, usually a vertebrate with no magical abilities and no innate capacity for language or culture.
+**Animal Type:** An animal is a living, nonhuman creature, usually a vertebrate with no magical abilities and no innate capacity for language or culture.
 
 Features:An animal has the following features (unless otherwise noted in a creature’s entry).
 
@@ -128,13 +128,13 @@ Traits:An animal possesses the following traits (unless otherwise noted in a cre
 
 
 
-**Aquatic Subtype:**These creatures always have swim speeds and thus can move in water without making Swim checks. An aquatic creature can breathe underwater. It cannot also breathe air unless it has the amphibious special quality.
+**Aquatic Subtype:** These creatures always have swim speeds and thus can move in water without making Swim checks. An aquatic creature can breathe underwater. It cannot also breathe air unless it has the amphibious special quality.
 
 
 
 
 
-**Archon Subtype:**Archons are a race of celestials, or good outsiders, native to lawful good-aligned Outer Planes.
+**Archon Subtype:** Archons are a race of celestials, or good outsiders, native to lawful good-aligned Outer Planes.
 
 Traits:An archon possesses the following traits (unless otherwise noted in a creature’s entry).
 
@@ -156,25 +156,25 @@ Traits:An archon possesses the following traits (unless otherwise noted in a cre
 
 
 
-**Augmented Subtype:**A creature receives this subtype whenever something happens to change its original type. Some creatures (those with an inherited template) are born with this subtype; others acquire it when they take on an acquired template. The augmented subtype is always paired with the creature’s original type. A creature with the augmented subtype usually has the traits of its current type, but the features of its original type.
+**Augmented Subtype:** A creature receives this subtype whenever something happens to change its original type. Some creatures (those with an inherited template) are born with this subtype; others acquire it when they take on an acquired template. The augmented subtype is always paired with the creature’s original type. A creature with the augmented subtype usually has the traits of its current type, but the features of its original type.
 
 
 
 
 
-**Blindsense (Ex):**Using nonvisual senses, such as acute smell or hearing, a creature with blindsense notices things it cannot see. The creature usually does not need to make Spot or Listen checks to pinpoint the location of a creature within range of its blindsense ability, provided that it has line of effect to that creature. Any opponent the creature cannot see still has total concealment against the creature with blindsense, and the creature still has the normal miss chance when attacking foes that have concealment. Visibility still affects the movement of a creature with blindsense. A creature with blindsense is still denied its Dexterity bonus to Armor Class against attacks from creatures it cannot see.
+**Blindsense (Ex):** Using nonvisual senses, such as acute smell or hearing, a creature with blindsense notices things it cannot see. The creature usually does not need to make Spot or Listen checks to pinpoint the location of a creature within range of its blindsense ability, provided that it has line of effect to that creature. Any opponent the creature cannot see still has total concealment against the creature with blindsense, and the creature still has the normal miss chance when attacking foes that have concealment. Visibility still affects the movement of a creature with blindsense. A creature with blindsense is still denied its Dexterity bonus to Armor Class against attacks from creatures it cannot see.
 
 
 
 
 
-**Blindsight (Ex):**This ability is similar to blindsense, but is far more discerning. Using nonvisual senses, such as sensitivity to vibrations, keen smell, acute hearing, or echolocation, a creature with blindsight maneuvers and fights as well as a sighted creature. Invisibility, darkness, and most kinds of concealment are irrelevant, though the creature must have line of effect to a creature or object to discern that creature or object. The ability’s range is specified in the creature’s descriptive text. The creature usually does not need to make Spot or Listen checks to notice creatures within range of its blindsight ability. Unless noted otherwise, blindsight is continuous, and the creature need do nothing to use it. Some forms of blindsight, however, must be triggered as a free action. If so, this is noted in the creature’s description. If a creature must trigger its blindsight ability, the creature gains the benefits of blindsight only during its turn.
+**Blindsight (Ex):** This ability is similar to blindsense, but is far more discerning. Using nonvisual senses, such as sensitivity to vibrations, keen smell, acute hearing, or echolocation, a creature with blindsight maneuvers and fights as well as a sighted creature. Invisibility, darkness, and most kinds of concealment are irrelevant, though the creature must have line of effect to a creature or object to discern that creature or object. The ability’s range is specified in the creature’s descriptive text. The creature usually does not need to make Spot or Listen checks to notice creatures within range of its blindsight ability. Unless noted otherwise, blindsight is continuous, and the creature need do nothing to use it. Some forms of blindsight, however, must be triggered as a free action. If so, this is noted in the creature’s description. If a creature must trigger its blindsight ability, the creature gains the benefits of blindsight only during its turn.
 
 
 
 
 
-**Breath Weapon (Su):**A breath weapon attack usually deals damage and is often based on some type of energy.
+**Breath Weapon (Su):** A breath weapon attack usually deals damage and is often based on some type of energy.
 
 Such breath weapons allow a Reflex save for half damage (DC 10 + 1/2 breathing creature’s racial HD + breathing creature’s Con modifier; the exact DC is given in the creature’s descriptive text). A creature is immune to its own breath weapon unless otherwise noted. Some breath weapons allow a Fortitude save or a Will save instead of a Reflex save.
 
@@ -182,7 +182,7 @@ Such breath weapons allow a Reflex save for half damage (DC 10 + 1/2 breathing c
 
 
 
-**Change Shape (Su):**A creature with this special quality has the ability to assume the appearance of a specific creature or type of creature (usually a humanoid), but retains most of its own physical qualities. A creature cannot change shape to a form more than one size category smaller or larger than its original form. Changing shape results in the following changes to the creature:
+**Change Shape (Su):** A creature with this special quality has the ability to assume the appearance of a specific creature or type of creature (usually a humanoid), but retains most of its own physical qualities. A creature cannot change shape to a form more than one size category smaller or larger than its original form. Changing shape results in the following changes to the creature:
 
 —The creature retains the type and subtype of its original form. It gains the size of its new form.
 
@@ -204,25 +204,25 @@ Such breath weapons allow a Reflex save for half damage (DC 10 + 1/2 breathing c
 
 
 
-**Chaotic Subtype:**A subtype usually applied only to outsiders native to the chaotic-aligned Outer Planes. Most creatures that have this subtype also have chaotic alignments; however, if their alignments change they still retain the subtype. Any effect that depends on alignment affects a creature with this subtype as if the creature has a chaotic alignment, no matter what its alignment actually is. The creature also suffers effects according to its actual alignment. A creature with the chaotic subtype overcomes damage reduction as if its natural weapons and any weapons it wields were chaotic-aligned (see Damage Reduction, below).
+**Chaotic Subtype:** A subtype usually applied only to outsiders native to the chaotic-aligned Outer Planes. Most creatures that have this subtype also have chaotic alignments; however, if their alignments change they still retain the subtype. Any effect that depends on alignment affects a creature with this subtype as if the creature has a chaotic alignment, no matter what its alignment actually is. The creature also suffers effects according to its actual alignment. A creature with the chaotic subtype overcomes damage reduction as if its natural weapons and any weapons it wields were chaotic-aligned (see Damage Reduction, below).
 
 
 
 
 
-**Cold Subtype:**A creature with the cold subtype has immunity to cold. It has vulnerability to fire, which means it takes half again as much (+50%) damage as normal from fire, regardless of whether a saving throw is allowed, or if the save is a success or failure.
+**Cold Subtype:** A creature with the cold subtype has immunity to cold. It has vulnerability to fire, which means it takes half again as much (+50%) damage as normal from fire, regardless of whether a saving throw is allowed, or if the save is a success or failure.
 
 
 
 
 
-**Constrict (Ex):**A creature with this special attack can crush an opponent, dealing bludgeoning damage, after making a successful grapple check. The amount of damage is given in the creature’s entry. If the creature also has the improved grab ability it deals constriction damage in addition to damage dealt by the weapon used to grab.
+**Constrict (Ex):** A creature with this special attack can crush an opponent, dealing bludgeoning damage, after making a successful grapple check. The amount of damage is given in the creature’s entry. If the creature also has the improved grab ability it deals constriction damage in addition to damage dealt by the weapon used to grab.
 
 
 
 
 
-**Construct Type:**A construct is an animated object or artificially constructed creature.
+**Construct Type:** A construct is an animated object or artificially constructed creature.
 
 Features:A construct has the following features.
 
@@ -320,7 +320,7 @@ Traits:A construct possesses the following traits (unless otherwise noted in a c
 
 
 
-**Damage Reduction (Ex or Su):**A creature with this special quality ignores damage from most weapons and natural attacks. Wounds heal immediately, or the weapon bounces off harmlessly (in either case, the opponent knows the attack was ineffective). The creature takes normal damage from energy attacks (even nonmagical ones), spells, spell-like abilities, and supernatural abilities. A certain kind of weapon can sometimes damage the creature normally, as noted below.
+**Damage Reduction (Ex or Su):** A creature with this special quality ignores damage from most weapons and natural attacks. Wounds heal immediately, or the weapon bounces off harmlessly (in either case, the opponent knows the attack was ineffective). The creature takes normal damage from energy attacks (even nonmagical ones), spells, spell-like abilities, and supernatural abilities. A certain kind of weapon can sometimes damage the creature normally, as noted below.
 
 The entry indicates the amount of damage ignored (usually 5 to 15 points) and the type of weapon that negates the ability.
 
@@ -344,7 +344,7 @@ A few other creatures require combinations of different types of attacks to over
 
 
 
-**Dragon Type:**A dragon is a reptilelike creature, usually winged, with magical or unusual abilities.
+**Dragon Type:** A dragon is a reptilelike creature, usually winged, with magical or unusual abilities.
 
 Features:A dragon has the following features.
 
@@ -372,13 +372,13 @@ Traits:A dragon possesses the following traits (unless otherwise noted in the de
 
 
 
-**Earth Subtype:**This subtype usually is used for elementals and outsiders with a connection to the Elemental Plane of Earth. Earth creatures usually have burrow speeds, and most earth creatures can burrow through solid rock.
+**Earth Subtype:** This subtype usually is used for elementals and outsiders with a connection to the Elemental Plane of Earth. Earth creatures usually have burrow speeds, and most earth creatures can burrow through solid rock.
 
 
 
 
 
-**Elemental Type:**An elemental is a being composed of one of the four classical elements: air, earth, fire, or water.
+**Elemental Type:** An elemental is a being composed of one of the four classical elements: air, earth, fire, or water.
 
 Features:An elemental has the following features.
 
@@ -410,31 +410,31 @@ Traits:An elemental possesses the following traits (unless otherwise noted in a 
 
 
 
-**Energy Drain (Su):**This attack saps a living opponent’s vital energy and happens automatically when a melee or ranged attack hits. Each successful energy drain bestows one or more negative levels (the creature’s description specifies how many). If an attack that includes an energy drain scores a critical hit, it drains twice the given amount. Unless otherwise specified in the creature’s description, a draining creature gains 5 temporary hit points (10 on a critical hit) for each negative level it bestows on an opponent. These temporary hit points last for a maximum of 1 hour. An affected opponent takes a –1 penalty on all skill checks and ability checks, attack rolls, and saving throws, and loses one effective level or Hit Die (whenever level is used in a die roll or calculation) for each negative level. A spellcaster loses one spell slot of the highest level of spells she can cast and (if applicable) one prepared spell of that level; this loss persists until the negative level is removed. Negative levels remain until 24 hours have passed or until they are removed with a spell, such asrestoration. If a negative level is not removed before 24 hours have passed, the affected creature must attempt a Fortitude save (DC 10 + 1/2 draining creature’s racial HD + draining creature’s Cha modifier; the exact DC is given in the creature’s descriptive text). On a success, the negative level goes away with no harm to the creature. On a failure, the negative level goes away, but the creature’s level is also reduced by one. A separate saving throw is required for each negative level.
+**Energy Drain (Su):** This attack saps a living opponent’s vital energy and happens automatically when a melee or ranged attack hits. Each successful energy drain bestows one or more negative levels (the creature’s description specifies how many). If an attack that includes an energy drain scores a critical hit, it drains twice the given amount. Unless otherwise specified in the creature’s description, a draining creature gains 5 temporary hit points (10 on a critical hit) for each negative level it bestows on an opponent. These temporary hit points last for a maximum of 1 hour. An affected opponent takes a –1 penalty on all skill checks and ability checks, attack rolls, and saving throws, and loses one effective level or Hit Die (whenever level is used in a die roll or calculation) for each negative level. A spellcaster loses one spell slot of the highest level of spells she can cast and (if applicable) one prepared spell of that level; this loss persists until the negative level is removed. Negative levels remain until 24 hours have passed or until they are removed with a spell, such asrestoration. If a negative level is not removed before 24 hours have passed, the affected creature must attempt a Fortitude save (DC 10 + 1/2 draining creature’s racial HD + draining creature’s Cha modifier; the exact DC is given in the creature’s descriptive text). On a success, the negative level goes away with no harm to the creature. On a failure, the negative level goes away, but the creature’s level is also reduced by one. A separate saving throw is required for each negative level.
 
 
 
 
 
-**Evil Subtype:**A subtype usually applied only to outsiders native to the evil-aligned Outer Planes. Evil outsiders are also called fiends. Most creatures that have this subtype also have evil alignments; however, if their alignments change, they still retain the subtype. Any effect that depends on alignment affects a creature with this subtype as if the creature has an evil alignment, no matter what its alignment actually is. The creature also suffers effects according to its actual alignment. A creature with the evil subtype overcomes damage reduction as if its natural weapons and any weapons it wields were evil-aligned (see Damage Reduction, above).
+**Evil Subtype:** A subtype usually applied only to outsiders native to the evil-aligned Outer Planes. Evil outsiders are also called fiends. Most creatures that have this subtype also have evil alignments; however, if their alignments change, they still retain the subtype. Any effect that depends on alignment affects a creature with this subtype as if the creature has an evil alignment, no matter what its alignment actually is. The creature also suffers effects according to its actual alignment. A creature with the evil subtype overcomes damage reduction as if its natural weapons and any weapons it wields were evil-aligned (see Damage Reduction, above).
 
 
 
 
 
-**Extraplanar Subtype:**A subtype applied to any creature when it is on a plane other than its native plane. A creature that travels the planes can gain or lose this subtype as it goes from plane to plane. Monster entries assume that encounters with creatures take place on the Material Plane, and every creature whose native plane is not the Material Plane has the extraplanar subtype (but would not have when on its home plane). Every extraplanar creature in this book has a home plane mentioned in its description. Creatures not labeled as extraplanar are natives of the Material Plane, and they gain the extraplanar subtype if they leave the Material Plane. No creature has the extraplanar subtype when it is on a transitive plane, such as the Astral Plane, the Ethereal Plane, and the Plane of Shadow.
+**Extraplanar Subtype:** A subtype applied to any creature when it is on a plane other than its native plane. A creature that travels the planes can gain or lose this subtype as it goes from plane to plane. Monster entries assume that encounters with creatures take place on the Material Plane, and every creature whose native plane is not the Material Plane has the extraplanar subtype (but would not have when on its home plane). Every extraplanar creature in this book has a home plane mentioned in its description. Creatures not labeled as extraplanar are natives of the Material Plane, and they gain the extraplanar subtype if they leave the Material Plane. No creature has the extraplanar subtype when it is on a transitive plane, such as the Astral Plane, the Ethereal Plane, and the Plane of Shadow.
 
 
 
 
 
-**Fast Healing (Ex):**A creature with the fast healing special quality regains hit points at an exceptionally fast rate, usually 1 or more hit points per round, as given in the creature’s entry. Except where noted here, fast healing is just like natural healing. Fast healing does not restore hit points lost from starvation, thirst, or suffocation, and it does not allow a creature to regrow lost body parts. Unless otherwise stated, it does not allow lost body parts to be reattached.
+**Fast Healing (Ex):** A creature with the fast healing special quality regains hit points at an exceptionally fast rate, usually 1 or more hit points per round, as given in the creature’s entry. Except where noted here, fast healing is just like natural healing. Fast healing does not restore hit points lost from starvation, thirst, or suffocation, and it does not allow a creature to regrow lost body parts. Unless otherwise stated, it does not allow lost body parts to be reattached.
 
 
 
 
 
-**Fear (Su or Sp):**Fear attacks can have various effects.
+**Fear (Su or Sp):** Fear attacks can have various effects.
 
 Fear Aura (Su):The use of this ability is a free action. The aura can freeze an opponent (such as a mummy’s despair) or function like thefearspell. Other effects are possible. A fear aura is an area effect. The descriptive text gives the size and kind of area.
 
@@ -446,7 +446,7 @@ If a fear effect allows a saving throw, it is a Will save (DC 10 + 1/2 fearsome 
 
 
 
-**Fey Type:**A fey is a creature with supernatural abilities and connections to nature or to some other force or place. Fey are usually human-shaped.
+**Fey Type:** A fey is a creature with supernatural abilities and connections to nature or to some other force or place. Fey are usually human-shaped.
 
 Features:A fey has the following features.
 
@@ -472,25 +472,25 @@ Traits:A fey possesses the following traits (unless otherwise noted in a creatur
 
 
 
-**Fire Subtype:**A creature with the fire subtype has immunity to fire. It has vulnerability to cold, which means it takes half again as much (+50%) damage as normal from cold, regardless of whether a saving throw is allowed, or if the save is a success or failure.
+**Fire Subtype:** A creature with the fire subtype has immunity to fire. It has vulnerability to cold, which means it takes half again as much (+50%) damage as normal from cold, regardless of whether a saving throw is allowed, or if the save is a success or failure.
 
 
 
 
 
-**Flight (Ex or Su):**A creature with this ability can cease or resume flight as a free action. If the ability is supernatural, it becomes ineffective in an antimagic field, and the creature loses its ability to fly for as long as the antimagic effect persists.
+**Flight (Ex or Su):** A creature with this ability can cease or resume flight as a free action. If the ability is supernatural, it becomes ineffective in an antimagic field, and the creature loses its ability to fly for as long as the antimagic effect persists.
 
 
 
 
 
-**Frightful Presence (Ex):**This special quality makes a creature’s very presence unsettling to foes. It takes effect automatically when the creature performs some sort of dramatic action (such as charging, attacking, or snarling). Opponents within range who witness the action may become frightened or shaken. Actions required to trigger the ability are given in the creature’s descriptive text. The range is usually 30 feet, and the duration is usually 5d6 rounds. This ability affects only opponents with fewer Hit Dice or levels than the creature has. An affected opponent can resist the effects with a successful Will save (DC 10 + 1/2 frightful creature’s racial HD + frightful creature’s Cha modifier; the exact DC is given in the creature’s descriptive text). An opponent that succeeds on the saving throw is immune to that same creature’s frightful presence for 24 hours. Frightful presence is a mind-affecting fear effect.
+**Frightful Presence (Ex):** This special quality makes a creature’s very presence unsettling to foes. It takes effect automatically when the creature performs some sort of dramatic action (such as charging, attacking, or snarling). Opponents within range who witness the action may become frightened or shaken. Actions required to trigger the ability are given in the creature’s descriptive text. The range is usually 30 feet, and the duration is usually 5d6 rounds. This ability affects only opponents with fewer Hit Dice or levels than the creature has. An affected opponent can resist the effects with a successful Will save (DC 10 + 1/2 frightful creature’s racial HD + frightful creature’s Cha modifier; the exact DC is given in the creature’s descriptive text). An opponent that succeeds on the saving throw is immune to that same creature’s frightful presence for 24 hours. Frightful presence is a mind-affecting fear effect.
 
 
 
 
 
-**Gaze (Su):**A gaze special attack takes effect when opponents look at the creature’s eyes. The attack can have almost any sort of effect: petrification, death, charm, and so on. The typical range is 30 feet, but check the creature’s entry for details. The type of saving throw for a gaze attack varies, but it is usually a Will or Fortitude save (DC 10 + 1/2 gazing creature’s racial HD + gazing creature’s Cha modifier; the exact DC is given in the creature’s descriptive text). A successful saving throw negates the effect. A monster’s gaze attack is described in abbreviated form in its description. Each opponent within range of a gaze attack must attempt a saving throw each round at the beginning of his or her turn in the initiative order. Only looking directly at a creature with a gaze attack leaves an opponent vulnerable. Opponents can avoid the need to make the saving throw by not looking at the creature, in one of two ways.
+**Gaze (Su):** A gaze special attack takes effect when opponents look at the creature’s eyes. The attack can have almost any sort of effect: petrification, death, charm, and so on. The typical range is 30 feet, but check the creature’s entry for details. The type of saving throw for a gaze attack varies, but it is usually a Will or Fortitude save (DC 10 + 1/2 gazing creature’s racial HD + gazing creature’s Cha modifier; the exact DC is given in the creature’s descriptive text). A successful saving throw negates the effect. A monster’s gaze attack is described in abbreviated form in its description. Each opponent within range of a gaze attack must attempt a saving throw each round at the beginning of his or her turn in the initiative order. Only looking directly at a creature with a gaze attack leaves an opponent vulnerable. Opponents can avoid the need to make the saving throw by not looking at the creature, in one of two ways.
 
 Averting Eyes:The opponent avoids looking at the creature’s face, instead looking at its body, watching its shadow, tracking it in a reflective surface, and so on. Each round, the opponent has a 50% chance to not need to make a saving throw against the gaze attack. The creature with the gaze attack, however, gains concealment against that opponent.
 
@@ -506,7 +506,7 @@ Allies of a creature with a gaze attack might be affected. All the creature’s 
 
 
 
-**Giant Type:**A giant is a humanoid-shaped creature of great strength, usually of at least Large size.
+**Giant Type:** A giant is a humanoid-shaped creature of great strength, usually of at least Large size.
 
 Features:A giant has the following features.
 
@@ -532,19 +532,19 @@ Traits:A giant possesses the following traits (unless otherwise noted in a creat
 
 
 
-**Goblinoid Subtype:**Goblinoids are stealthy humanoids who live by hunting and raiding and who all speak Goblin.
+**Goblinoid Subtype:** Goblinoids are stealthy humanoids who live by hunting and raiding and who all speak Goblin.
 
 
 
 
 
-**Good Subtype:**A subtype usually applied only to outsiders native to the good-aligned Outer Planes. Most creatures that have this subtype also have good alignments; however, if their alignments change, they still retain the subtype. Any effect that depends on alignment affects a creature with this subtype as if the creature has a good alignment, no matter what its alignment actually is. The creature also suffers effects according to its actual alignment. A creature with the good subtype overcomes damage reduction as if its natural weapons and any weapons it wields were good-aligned (see Damage Reduction, above).
+**Good Subtype:** A subtype usually applied only to outsiders native to the good-aligned Outer Planes. Most creatures that have this subtype also have good alignments; however, if their alignments change, they still retain the subtype. Any effect that depends on alignment affects a creature with this subtype as if the creature has a good alignment, no matter what its alignment actually is. The creature also suffers effects according to its actual alignment. A creature with the good subtype overcomes damage reduction as if its natural weapons and any weapons it wields were good-aligned (see Damage Reduction, above).
 
 
 
 
 
-**Humanoid Type:**A humanoid usually has two arms, two legs, and one head, or a humanlike torso, arms, and a head. Humanoids have few or no supernatural or extraordinary abilities, but most can speak and usually have well-developed societies. They usually are Small or Medium. Every humanoid creature also has a subtype.
+**Humanoid Type:** A humanoid usually has two arms, two legs, and one head, or a humanlike torso, arms, and a head. Humanoids have few or no supernatural or extraordinary abilities, but most can speak and usually have well-developed societies. They usually are Small or Medium. Every humanoid creature also has a subtype.
 
 Humanoids with 1 Hit Die exchange the features of their humanoid Hit Die for the class features of a PC or NPC class. Humanoids of this sort are presented as 1st-level warriors, which means that they have average combat ability and poor saving throws.
 
@@ -572,13 +572,13 @@ Traits:A humanoid possesses the following traits (unless otherwise noted in a cr
 
 
 
-**Improved Grab (Ex):**If a creature with this special attack hits with a melee weapon (usually a claw or bite attack), it deals normal damage and attempts to start a grapple as a free action without provoking an attack of opportunity. No initial touch attack is required. Unless otherwise noted, improved grab works only against opponents at least one size category smaller than the creature. The creature has the option to conduct the grapple normally, or simply use the part of its body it used in the improved grab to hold the opponent. If it chooses to do the latter, it takes a –20 penalty on grapple checks, but is not considered grappled itself; the creature does not lose its Dexterity bonus to AC, still threatens an area, and can use its remaining attacks against other opponents. A successful hold does not deal any extra damage unless the creature also has the constrict special attack. If the creature does not constrict, each successful grapple check it makes during successive rounds automatically deals the damage indicated for the attack that established the hold. Otherwise, it deals constriction damage as well (the amount is given in the creature’s descriptive text). When a creature gets a hold after an improved grab attack, it pulls the opponent into its space. This act does not provoke attacks of opportunity. It can even move (possibly carrying away the opponent), provided it can drag the opponent’s weight.
+**Improved Grab (Ex):** If a creature with this special attack hits with a melee weapon (usually a claw or bite attack), it deals normal damage and attempts to start a grapple as a free action without provoking an attack of opportunity. No initial touch attack is required. Unless otherwise noted, improved grab works only against opponents at least one size category smaller than the creature. The creature has the option to conduct the grapple normally, or simply use the part of its body it used in the improved grab to hold the opponent. If it chooses to do the latter, it takes a –20 penalty on grapple checks, but is not considered grappled itself; the creature does not lose its Dexterity bonus to AC, still threatens an area, and can use its remaining attacks against other opponents. A successful hold does not deal any extra damage unless the creature also has the constrict special attack. If the creature does not constrict, each successful grapple check it makes during successive rounds automatically deals the damage indicated for the attack that established the hold. Otherwise, it deals constriction damage as well (the amount is given in the creature’s descriptive text). When a creature gets a hold after an improved grab attack, it pulls the opponent into its space. This act does not provoke attacks of opportunity. It can even move (possibly carrying away the opponent), provided it can drag the opponent’s weight.
 
 
 
 
 
-**Incorporeal Subtype:**An incorporeal creature has no physical body. It can be harmed only by other incorporeal creatures, magic weapons or creatures that strike as magic weapons, and spells, spell-like abilities, or supernatural abilities. It is immune to all nonmagical attack forms. Even when hit by spells or magic weapons, it has a 50% chance to ignore any damage from a corporeal source (except for positive energy, negative energy, force effects such asmagic missile,or attacks made withghost touchweapons). Although it is not a magical attack, holy water can affect incorporeal undead, but a hit with holy water has a 50% chance of not affecting an incorporeal creature.
+**Incorporeal Subtype:** An incorporeal creature has no physical body. It can be harmed only by other incorporeal creatures, magic weapons or creatures that strike as magic weapons, and spells, spell-like abilities, or supernatural abilities. It is immune to all nonmagical attack forms. Even when hit by spells or magic weapons, it has a 50% chance to ignore any damage from a corporeal source (except for positive energy, negative energy, force effects such asmagic missile,or attacks made withghost touchweapons). Although it is not a magical attack, holy water can affect incorporeal undead, but a hit with holy water has a 50% chance of not affecting an incorporeal creature.
 
 An incorporeal creature has no natural armor bonus but has a deflection bonus equal to its Charisma bonus (always at least +1, even if the creature’s Charisma score does not normally provide a bonus).
 
@@ -592,19 +592,19 @@ An incorporeal creature moves silently and cannot be heard with Listen checks if
 
 
 
-**Lawful:**A subtype usually applied only to outsiders native to the lawful-aligned Outer Planes. Most creatures that have this subtype also have lawful alignments; however, if their alignments change, they still retain the subtype. Any effect that depends on alignment affects a creature with this subtype as if the creature has a lawful alignment, no matter what its alignment actually is. The creature also suffers effects according to its actual alignment. A creature with the lawful subtype overcomes damage reduction as if its natural weapons and any weapons it wields were lawful-aligned (see Damage Reduction, above).
+**Lawful:** A subtype usually applied only to outsiders native to the lawful-aligned Outer Planes. Most creatures that have this subtype also have lawful alignments; however, if their alignments change, they still retain the subtype. Any effect that depends on alignment affects a creature with this subtype as if the creature has a lawful alignment, no matter what its alignment actually is. The creature also suffers effects according to its actual alignment. A creature with the lawful subtype overcomes damage reduction as if its natural weapons and any weapons it wields were lawful-aligned (see Damage Reduction, above).
 
 
 
 
 
-**Low-Light Vision (Ex):**A creature with low-light vision can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of shadowy illumination. It retains the ability to distinguish color and detail under these conditions.
+**Low-Light Vision (Ex):** A creature with low-light vision can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of shadowy illumination. It retains the ability to distinguish color and detail under these conditions.
 
 
 
 
 
-**Magical Beast Type:**Magical beasts are similar to animals but can have Intelligence scores higher than 2. Magical beasts usually have supernatural or extraordinary abilities, but sometimes are merely bizarre in appearance or habits.
+**Magical Beast Type:** Magical beasts are similar to animals but can have Intelligence scores higher than 2. Magical beasts usually have supernatural or extraordinary abilities, but sometimes are merely bizarre in appearance or habits.
 
 Features:A magical beast has the following features.
 
@@ -630,7 +630,7 @@ Traits:A magical beast possesses the following traits (unless otherwise noted in
 
 
 
-**Manufactured Weapons:**Some monsters employ manufactured weapons when they attack. Creatures that use swords, bows, spears, and the like follow the same rules as characters, including those for additional attacks from a high base attack bonus and two-weapon fighting penalties. This category also includes “found items,” such as rocks and logs, that a creature wields in combat— in essence, any weapon that is not intrinsic to the creature.
+**Manufactured Weapons:** Some monsters employ manufactured weapons when they attack. Creatures that use swords, bows, spears, and the like follow the same rules as characters, including those for additional attacks from a high base attack bonus and two-weapon fighting penalties. This category also includes “found items,” such as rocks and logs, that a creature wields in combat— in essence, any weapon that is not intrinsic to the creature.
 
 Some creatures combine attacks with natural and manufactured weapons when they make a full attack. When they do so, the manufactured weapon attack is considered the primary attack unless the creature’s description indicates otherwise and any natural weapons the creature also uses are considered secondary natural attacks. These secondary attacks do not interfere with the primary attack as attacking with an off-hand weapon does, but they take the usual –5 penalty (or –2 with the Multiattack feat) for such attacks, even if the natural weapon used is normally the creature’s primary natural weapon.
 
@@ -638,7 +638,7 @@ Some creatures combine attacks with natural and manufactured weapons when they m
 
 
 
-**Monstrous Humanoid Type:**Monstrous humanoids are similar to humanoids, but with monstrous or animalistic features. They often have magical abilities as well.
+**Monstrous Humanoid Type:** Monstrous humanoids are similar to humanoids, but with monstrous or animalistic features. They often have magical abilities as well.
 
 Features:A monstrous humanoid has the following features.
 
@@ -664,7 +664,7 @@ Traits:A monstrous humanoid possesses the following traits (unless otherwise not
 
 
 
-**Movement Modes:**Creatures may have modes of movement other than walking and running. These are natural, not magical, unless specifically noted in a monster description.
+**Movement Modes:** Creatures may have modes of movement other than walking and running. These are natural, not magical, unless specifically noted in a monster description.
 
 Burrow:A creature with a burrow speed can tunnel through dirt, but not through rock unless the descriptive text says otherwise. Creatures cannot charge or run while burrowing. Most burrowing creatures do not leave behind tunnels other creatures can use (either because the material they tunnel through fills in behind them or because they do not actually dislocate any material when burrowing); see the individual creature descriptions for details.
 
@@ -690,13 +690,13 @@ Swim:A creature with a swim speed can move through water at its swim speed witho
 
 
 
-**Native Subtype:**A subtype applied only to outsiders. These creatures have mortal ancestors or a strong connection to the Material Plane and can be raised, reincarnated, or resurrected just as other living creatures can be. Creatures with this subtype are native to the Material Plane (hence the subtype’s name). Unlike true outsiders, native outsiders need to eat and sleep.
+**Native Subtype:** A subtype applied only to outsiders. These creatures have mortal ancestors or a strong connection to the Material Plane and can be raised, reincarnated, or resurrected just as other living creatures can be. Creatures with this subtype are native to the Material Plane (hence the subtype’s name). Unlike true outsiders, native outsiders need to eat and sleep.
 
 
 
 
 
-**Natural Weapons:**Natural weapons are weapons that are physically a part of a creature. A creature making a melee attack with a natural weapon is considered armed and does not provoke attacks of opportunity. Likewise, it threatens any space it can reach. Creatures do not receive additional attacks from a high base attack bonus when using natural weapons. The number of attacks a creature can make with its natural weapons depends on the type of the attack—generally, a creature can make one bite attack, one attack per claw or tentacle, one gore attack, one sting attack, or one slam attack (although Large creatures with arms or arm-like limbs can make a slam attack with each arm). Refer to the individual monster descriptions.
+**Natural Weapons:** Natural weapons are weapons that are physically a part of a creature. A creature making a melee attack with a natural weapon is considered armed and does not provoke attacks of opportunity. Likewise, it threatens any space it can reach. Creatures do not receive additional attacks from a high base attack bonus when using natural weapons. The number of attacks a creature can make with its natural weapons depends on the type of the attack—generally, a creature can make one bite attack, one attack per claw or tentacle, one gore attack, one sting attack, or one slam attack (although Large creatures with arms or arm-like limbs can make a slam attack with each arm). Refer to the individual monster descriptions.
 
 Unless otherwise noted, a natural weapon threatens a critical hit on a natural attack roll of 20.
 
@@ -722,7 +722,7 @@ Tentacle:The creature flails at opponents with a powerful tentacle, dealing blud
 
 
 
-**Nonabilities:**Some creatures lack certain ability scores. These creatures do not have an ability score of 0—they lack the ability altogether. The modifier for a nonability is +0. Other effects of nonabilities are detailed below.
+**Nonabilities:** Some creatures lack certain ability scores. These creatures do not have an ability score of 0—they lack the ability altogether. The modifier for a nonability is +0. Other effects of nonabilities are detailed below.
 
 Strength:Any creature that can physically manipulate other objects has at least 1 point of Strength. A creature with no Strength score can’t exert force, usually because it has no physical body or because it doesn’t move. The creature automatically fails Strength checks. If the creature can attack, it applies its Dexterity modifier to its base attack bonus instead of a Strength modifier.
 
@@ -742,7 +742,7 @@ Charisma:Any creature capable of telling the difference between itself and thing
 
 
 
-**Ooze Type:**An ooze is an amorphous or mutable creature, usually mindless.
+**Ooze Type:** An ooze is an amorphous or mutable creature, usually mindless.
 
 Features:An ooze has the following features.
 
@@ -776,7 +776,7 @@ Traits:An ooze possesses the following traits (unless otherwise noted in a creat
 
 
 
-**Outsider Type:**An outsider is at least partially composed of the essence (but not necessarily the material) of some plane other than the Material Plane. Some creatures start out as some other type and become outsiders when they attain a higher (or lower) state of spiritual existence.
+**Outsider Type:** An outsider is at least partially composed of the essence (but not necessarily the material) of some plane other than the Material Plane. Some creatures start out as some other type and become outsiders when they attain a higher (or lower) state of spiritual existence.
 
 Features:An outsider has the following features.
 
@@ -804,13 +804,13 @@ Traits:An outsider possesses the following traits (unless otherwise noted in a c
 
 
 
-**Paralysis (Ex or Su):**This special attack renders the victim immobile. Paralyzed creatures cannot move, speak, or take any physical actions. The creature is rooted to the spot, frozen and helpless. Paralysis works on the body, and a character can usually resist it with a Fortitude saving throw (the DC is given in the creature’s description). Unlikehold personand similar effects, a paralysis effect does not allow a new save each round. A winged creature flying in the air at the time that it is paralyzed cannot flap its wings and falls. A swimmer can’t swim and may drown.
+**Paralysis (Ex or Su):** This special attack renders the victim immobile. Paralyzed creatures cannot move, speak, or take any physical actions. The creature is rooted to the spot, frozen and helpless. Paralysis works on the body, and a character can usually resist it with a Fortitude saving throw (the DC is given in the creature’s description). Unlikehold personand similar effects, a paralysis effect does not allow a new save each round. A winged creature flying in the air at the time that it is paralyzed cannot flap its wings and falls. A swimmer can’t swim and may drown.
 
 
 
 
 
-**Plant Type:**This type comprises vegetable creatures. Note that regular plants, such as one finds growing in gardens and fields, lack Wisdom and Charisma scores (see Nonabilities, above) and are not creatures, but objects, even though they are alive.
+**Plant Type:** This type comprises vegetable creatures. Note that regular plants, such as one finds growing in gardens and fields, lack Wisdom and Charisma scores (see Nonabilities, above) and are not creatures, but objects, even though they are alive.
 
 Features:A plant creature has the following features.
 
@@ -842,7 +842,7 @@ Traits:A plant creature possesses the following traits (unless otherwise noted i
 
 
 
-**Poison (Ex):**Poison attacks deal initial damage, such as ability damage (see page 305) or some other effect, to the opponent on a failed Fortitude save. Unless otherwise noted, another saving throw is required 1 minute later (regardless of the first save’s result) to avoid secondary damage. A creature’s descriptive text provides the details.
+**Poison (Ex):** Poison attacks deal initial damage, such as ability damage (see page 305) or some other effect, to the opponent on a failed Fortitude save. Unless otherwise noted, another saving throw is required 1 minute later (regardless of the first save’s result) to avoid secondary damage. A creature’s descriptive text provides the details.
 
 A creature with a poison attack is immune to its own poison and the poison of others of its kind.
 
@@ -854,25 +854,25 @@ A successful save avoids (negates) the damage.
 
 
 
-**Pounce (Ex):**When a creature with this special attack makes a charge, it can follow with a full attack—including rake attacks if the creature also has the rake ability.
+**Pounce (Ex):** When a creature with this special attack makes a charge, it can follow with a full attack—including rake attacks if the creature also has the rake ability.
 
 
 
 
 
-**Powerful Charge (Ex):**When a creature with this special attack makes a charge, its attack deals extra damage in addition to the normal benefits and hazards of a charge. The amount of damage from the attack is given in the creature’s description.
+**Powerful Charge (Ex):** When a creature with this special attack makes a charge, its attack deals extra damage in addition to the normal benefits and hazards of a charge. The amount of damage from the attack is given in the creature’s description.
 
 
 
 
 
-**Psionics (Sp):**These are spell-like abilities that a creature generates with the power of its mind. Psionic abilities are usually usable at will.
+**Psionics (Sp):** These are spell-like abilities that a creature generates with the power of its mind. Psionic abilities are usually usable at will.
 
 
 
 
 
-**Rake (Ex):**A creature with this special attack gains extra natural attacks when it grapples its foe. Normally, a monster can attack with only one of its natural weapons while grappling, but a monster with the rake ability usually gains two additional claw attacks that it can use only against a grappled foe. Rake attacks are not subject to the usual –4 penalty for attacking with a natural weapon in a grapple.
+**Rake (Ex):** A creature with this special attack gains extra natural attacks when it grapples its foe. Normally, a monster can attack with only one of its natural weapons while grappling, but a monster with the rake ability usually gains two additional claw attacks that it can use only against a grappled foe. Rake attacks are not subject to the usual –4 penalty for attacking with a natural weapon in a grapple.
 
 A monster with the rake ability must begin its turn grappling to use its rake—it can’t begin a grapple and rake in the same turn.
 
@@ -880,13 +880,13 @@ A monster with the rake ability must begin its turn grappling to use its rake—
 
 
 
-**Ray (Su or Sp):**This form of special attack works like a ranged attack. Hitting with a ray attack requires a successful ranged touch attack roll, ignoring armor, natural armor, and shield and using the creature’s ranged attack bonus. Ray attacks have no range increment. The creature’s descriptive text specifies the maximum range, effects, and any applicable saving throw.
+**Ray (Su or Sp):** This form of special attack works like a ranged attack. Hitting with a ray attack requires a successful ranged touch attack roll, ignoring armor, natural armor, and shield and using the creature’s ranged attack bonus. Ray attacks have no range increment. The creature’s descriptive text specifies the maximum range, effects, and any applicable saving throw.
 
 
 
 
 
-**Regeneration (Ex):**A creature with this ability is difficult to kill. Damage dealt to the creature is treated as nonlethal damage. The creature automatically heals nonlethal damage at a fixed rate per round, as given in the entry. Certain attack forms, typically fire and acid, deal lethal damage to the creature, which doesn’t go away. The creature’s descriptive text describes the details. A regenerating creature that has been rendered unconscious through nonlethal damage can be killed with a coup de grace. The attack cannot be of a type that automatically converts to nonlethal damage.
+**Regeneration (Ex):** A creature with this ability is difficult to kill. Damage dealt to the creature is treated as nonlethal damage. The creature automatically heals nonlethal damage at a fixed rate per round, as given in the entry. Certain attack forms, typically fire and acid, deal lethal damage to the creature, which doesn’t go away. The creature’s descriptive text describes the details. A regenerating creature that has been rendered unconscious through nonlethal damage can be killed with a coup de grace. The attack cannot be of a type that automatically converts to nonlethal damage.
 
 Attack forms that don’t deal hit point damage ignore regeneration. Regeneration also does not restore hit points lost from starvation, thirst, or suffocation. Regenerating creatures can regrow lost portions of their bodies and can reattach severed limbs or body parts; details are in the creature’s descriptive text. Severed parts that are not reattached wither and die normally.
 
@@ -896,19 +896,19 @@ A creature must have a Constitution score to have the regeneration ability.
 
 
 
-**Reptilian Subtype:**These creatures are scaly and usually coldblooded. The reptilian subtype is only used to describe a set of humanoid races, not all animals and monsters that are truly reptiles.
+**Reptilian Subtype:** These creatures are scaly and usually coldblooded. The reptilian subtype is only used to describe a set of humanoid races, not all animals and monsters that are truly reptiles.
 
 
 
 
 
-**Resistance to Energy (Ex):**A creature with this special quality ignores some damage of the indicated type each time it takes damage of that kind (commonly acid, cold, fire, or electricity). The entry indicates the amount and type of damage ignored.
+**Resistance to Energy (Ex):** A creature with this special quality ignores some damage of the indicated type each time it takes damage of that kind (commonly acid, cold, fire, or electricity). The entry indicates the amount and type of damage ignored.
 
 
 
 
 
-**Scent (Ex):**This special quality allows a creature to detect approaching enemies, sniff out hidden foes, and track by sense of smell. Creatures with the scent ability can identify familiar odors just as humans do familiar sights.
+**Scent (Ex):** This special quality allows a creature to detect approaching enemies, sniff out hidden foes, and track by sense of smell. Creatures with the scent ability can identify familiar odors just as humans do familiar sights.
 
 The creature can detect opponents within 30 feet by sense of smell. If the opponent is upwind, the range increases to 60 feet; if downwind, it drops to 15 feet. Strong scents, such as smoke or rotting garbage, can be detected at twice the ranges noted above. Overpowering scents, such as skunk musk or troglodyte stench, can be detected at triple normal range.
 
@@ -922,7 +922,7 @@ A creature with the Track feat and the scent ability can follow tracks by smell,
 
 
 
-**Shapechanger Subtype:**A shapechanger has the supernatural ability to assume one or more alternate forms. Many magical effects allow some kind of shape shifting, and not every creature that can change shapes has the shapechanger subtype.
+**Shapechanger Subtype:** A shapechanger has the supernatural ability to assume one or more alternate forms. Many magical effects allow some kind of shape shifting, and not every creature that can change shapes has the shapechanger subtype.
 
 Traits:A shapechanger possesses the following traits (unless otherwise noted in a creature’s entry).
 
@@ -934,13 +934,13 @@ Traits:A shapechanger possesses the following traits (unless otherwise noted in 
 
 
 
-**Sonic Attacks (Su):**Unless otherwise noted, a sonic attack follows the rules for spreads. The range of the spread is measured from the creature using the sonic attack. Once a sonic attack has taken effect, deafening the subject or stopping its ears does not end the effect. Stopping one’s ears ahead of time allows opponents to avoid having to make saving throws against mind-affecting sonic attacks, but not other kinds of sonic attacks (such as those that deal damage). Stopping one’s ears is a full-round action and requires wax or other soundproof material to stuff into the ears.
+**Sonic Attacks (Su):** Unless otherwise noted, a sonic attack follows the rules for spreads. The range of the spread is measured from the creature using the sonic attack. Once a sonic attack has taken effect, deafening the subject or stopping its ears does not end the effect. Stopping one’s ears ahead of time allows opponents to avoid having to make saving throws against mind-affecting sonic attacks, but not other kinds of sonic attacks (such as those that deal damage). Stopping one’s ears is a full-round action and requires wax or other soundproof material to stuff into the ears.
 
 
 
 
 
-**Special Abilities:**A special ability is either extraordinary (Ex), spell-like (Sp), or supernatural (Su).
+**Special Abilities:** A special ability is either extraordinary (Ex), spell-like (Sp), or supernatural (Su).
 
 Extraordinary:Extraordinary abilities are nonmagical, don’t become ineffective in anantimagic field,and are not subject to any effect that disrupts magic. Using an extraordinary ability is a free action unless otherwise noted.
 
@@ -958,19 +958,19 @@ Supernatural:Supernatural abilities are magical and go away in anantimagic field
 
 
 
-**Spell Immunity (Ex):**A creature with spell immunity avoids the effects of spells and spell-like abilities that directly affect it. This works exactly like spell resistance, except that it cannot be overcome. Sometimes spell immunity is conditional or applies to only spells of a certain kind or level. Spells that do not allow spell resistance are not affected by spell immunity.
+**Spell Immunity (Ex):** A creature with spell immunity avoids the effects of spells and spell-like abilities that directly affect it. This works exactly like spell resistance, except that it cannot be overcome. Sometimes spell immunity is conditional or applies to only spells of a certain kind or level. Spells that do not allow spell resistance are not affected by spell immunity.
 
 
 
 
 
-**Spell Resistance (Ex):**A creature with spell resistance can avoid the effects of spells and spell-like abilities that directly affect it.To determine if a spell or spell-like ability works against a creature with spell resistance, the caster must make a caster level check (1d20 + caster level). If the result equals or exceeds the creature’s spell resistance, the spell works normally, although the creature is still allowed a saving throw.
+**Spell Resistance (Ex):** A creature with spell resistance can avoid the effects of spells and spell-like abilities that directly affect it.To determine if a spell or spell-like ability works against a creature with spell resistance, the caster must make a caster level check (1d20 + caster level). If the result equals or exceeds the creature’s spell resistance, the spell works normally, although the creature is still allowed a saving throw.
 
 
 
 
 
-**Spells:**Sometimes a creature can cast arcane or divine spells just as a member of a spellcasting class can (and can activate magic items accordingly). Such creatures are subject to the same spellcasting rules that characters are, except as follows.
+**Spells:** Sometimes a creature can cast arcane or divine spells just as a member of a spellcasting class can (and can activate magic items accordingly). Such creatures are subject to the same spellcasting rules that characters are, except as follows.
 
 A spellcasting creature that lacks hands or arms can provide any somatic component a spell might require by moving its body. Such a creature also does need material components for its spells. The creature can cast the spell by either touching the required component (but not if the component is in another creature’s possession) or having the required component on its person. Sometimes spellcasting creatures utilize the Eschew Materials feat to avoid fussing with noncostly components.
 
@@ -980,19 +980,19 @@ A spellcasting creature is not actually a member of a class unless its entry say
 
 
 
-**Summon****(Sp):**A creature with thesummonability can summon specific other creatures of its kind much as though casting asummon monsterspell, but it usually has only a limited chance of success (as specified in the creature’s entry). Roll d%: On a failure, no creature answers the summons. Summoned creatures automatically return whence they came after 1 hour. A creature that has just been summoned cannot use its own summon ability for 1 hour. Most creatures with the ability to summon do not use it lightly, since it leaves them beholden to the summoned creature. In general, they use it only when necessary to save their own lives. An appropriate spell level is given for each summoning ability for purposes of Concentration checks and attempts to dispel the summoned creature. No experience points are awarded for summoned monsters.
+**Summon** **(Sp):** A creature with thesummonability can summon specific other creatures of its kind much as though casting asummon monsterspell, but it usually has only a limited chance of success (as specified in the creature’s entry). Roll d%: On a failure, no creature answers the summons. Summoned creatures automatically return whence they came after 1 hour. A creature that has just been summoned cannot use its own summon ability for 1 hour. Most creatures with the ability to summon do not use it lightly, since it leaves them beholden to the summoned creature. In general, they use it only when necessary to save their own lives. An appropriate spell level is given for each summoning ability for purposes of Concentration checks and attempts to dispel the summoned creature. No experience points are awarded for summoned monsters.
 
 
 
 
 
-**Swallow Whole (Ex):**If a creature with this special attack begins its turn with an opponent held in its mouth (see Improved Grab), it can attempt a new grapple check (as though attempting to pin the opponent). If it succeeds, it swallows its prey, and the opponent takes bite damage. Unless otherwise noted, the opponent can be up to one size category smaller than the swallowing creature. Being swallowed has various consequences, depending on the creature doing the swallowing. A swallowed creature is considered to be grappled, while the creature that did the swallowing is not. A swallowed creature can try to cut its way free with any light slashing or piercing weapon (the amount of cutting damage required to get free is noted in the creature description), or it can just try to escape the grapple. The Armor Class of the interior of a creature that swallows whole is normally 10 + 1/2 its natural armor bonus, with no modifiers for size or Dexterity. If the swallowed creature escapes the grapple, success puts it back in the attacker’s mouth, where it may be bitten or swallowed again.
+**Swallow Whole (Ex):** If a creature with this special attack begins its turn with an opponent held in its mouth (see Improved Grab), it can attempt a new grapple check (as though attempting to pin the opponent). If it succeeds, it swallows its prey, and the opponent takes bite damage. Unless otherwise noted, the opponent can be up to one size category smaller than the swallowing creature. Being swallowed has various consequences, depending on the creature doing the swallowing. A swallowed creature is considered to be grappled, while the creature that did the swallowing is not. A swallowed creature can try to cut its way free with any light slashing or piercing weapon (the amount of cutting damage required to get free is noted in the creature description), or it can just try to escape the grapple. The Armor Class of the interior of a creature that swallows whole is normally 10 + 1/2 its natural armor bonus, with no modifiers for size or Dexterity. If the swallowed creature escapes the grapple, success puts it back in the attacker’s mouth, where it may be bitten or swallowed again.
 
 
 
 
 
-**Swarm Subtype:**A swarm is a collection of Fine, Diminutive, or Tiny creatures that acts as a single creature. A swarm has the characteristics of its type, except as noted here. A swarm has a single pool of Hit Dice and hit points, a single initiative modifier, a single speed, and a single Armor Class. A swarm makes saving throws as a single creature. A single swarm occupies a square (if it is made up of nonflying creatures) or a cube (of flying creatures) 10 feet on a side, but its reach is 0 feet, like its component creatures. In order to attack, it moves into an opponent’s space, which provokes an attack of opportunity. It can occupy the same space as a creature of any size, since it crawls all over its prey. A swarm can move through squares occupied by enemies and vice versa without impediment, although the swarm provokes an attack of opportunity if it does so. A swarm can move through cracks or holes large enough for its component creatures.
+**Swarm Subtype:** A swarm is a collection of Fine, Diminutive, or Tiny creatures that acts as a single creature. A swarm has the characteristics of its type, except as noted here. A swarm has a single pool of Hit Dice and hit points, a single initiative modifier, a single speed, and a single Armor Class. A swarm makes saving throws as a single creature. A single swarm occupies a square (if it is made up of nonflying creatures) or a cube (of flying creatures) 10 feet on a side, but its reach is 0 feet, like its component creatures. In order to attack, it moves into an opponent’s space, which provokes an attack of opportunity. It can occupy the same space as a creature of any size, since it crawls all over its prey. A swarm can move through squares occupied by enemies and vice versa without impediment, although the swarm provokes an attack of opportunity if it does so. A swarm can move through cracks or holes large enough for its component creatures.
 
 A swarm of Tiny creatures consists of 300 nonflying creatures or 1,000 flying creatures. A swarm of Diminutive creatures consists of 1,500 nonflying creatures or 5,000 flying creatures. A swarm of Fine creatures consists of 10,000 creatures, whether they are flying or not. Swarms of nonflying creatures include many more creatures than could normally fit in a 10-foot square based on their normal space, because creatures in a swarm are packed tightly together and generally crawl over each other and their prey when moving or attacking. Larger swarms are represented by multiples of single swarms. The area occupied by a large swarm is completely shapeable, though the swarm usually remains in contiguous squares.
 
@@ -1042,7 +1042,7 @@ Distraction (Ex):Any living creature vulnerable to a swarm’s damage that begin
 
 
 
-**Telepathy (Su):**A creature with this ability can communicate telepathically with any other creature within a certain range (specified in the creature’s entry, usually 100 feet) that has a language. It is possible to address multiple creatures at once telepathically, although maintaining a telepathic conversation with more than one creature at a time is just as difficult as simultaneously speaking and listening to multiple people at the same time.
+**Telepathy (Su):** A creature with this ability can communicate telepathically with any other creature within a certain range (specified in the creature’s entry, usually 100 feet) that has a language. It is possible to address multiple creatures at once telepathically, although maintaining a telepathic conversation with more than one creature at a time is just as difficult as simultaneously speaking and listening to multiple people at the same time.
 
 Some creatures have a limited form of telepathy, while others have a more powerful form of the ability.
 
@@ -1050,7 +1050,7 @@ Some creatures have a limited form of telepathy, while others have a more powerf
 
 
 
-**Trample (Ex):**As a full-round action, a creature with this special attack can move up to twice its speed and literally run over any opponents at least one size category smaller than itself. The creature merely has to move over the opponents in its path; any creature whose space is completely covered by the trampling creature’s space is subject to the trample attack. If a target’s space is larger than 5 feet, it is only considered trampled if the trampling creature moves over all the squares it occupies. If the trampling creature moves over only some of a target’s space, the target can make an attack of opportunity against the trampling creature at a –4 penalty. A trampling creature that accidentally ends its movement in an illegal space returns to the last legal position it occupied, or the closest legal position, if there’s a legal position that’s closer.
+**Trample (Ex):** As a full-round action, a creature with this special attack can move up to twice its speed and literally run over any opponents at least one size category smaller than itself. The creature merely has to move over the opponents in its path; any creature whose space is completely covered by the trampling creature’s space is subject to the trample attack. If a target’s space is larger than 5 feet, it is only considered trampled if the trampling creature moves over all the squares it occupies. If the trampling creature moves over only some of a target’s space, the target can make an attack of opportunity against the trampling creature at a –4 penalty. A trampling creature that accidentally ends its movement in an illegal space returns to the last legal position it occupied, or the closest legal position, if there’s a legal position that’s closer.
 
 A trample attack deals bludgeoning damage (the creature’s slam damage + 1-1/2 times its Str modifier). The creature’s descriptive text gives the exact amount.
 
@@ -1062,13 +1062,13 @@ The save DC against a creature’s trample attack is 10 + 1/2 creature’s HD + 
 
 
 
-**Tremorsense (Ex):**A creature with tremorsense is sensitive to vibrations in the ground and can automatically pinpoint the location of anything that is in contact with the ground. Aquatic creatures with tremorsense can also sense the location of creatures moving through water. The ability’s range is specified in the creature’s descriptive text.
+**Tremorsense (Ex):** A creature with tremorsense is sensitive to vibrations in the ground and can automatically pinpoint the location of anything that is in contact with the ground. Aquatic creatures with tremorsense can also sense the location of creatures moving through water. The ability’s range is specified in the creature’s descriptive text.
 
 
 
 
 
-**Treasure:**This entry in a monster description describes how much wealth a creature owns. In most cases, a creature keeps valuables in its home or lair and has no treasure with it when it travels. Intelligent creatures that own useful, portable treasure (such as magic items) tend to carry and use these, leaving bulky items at home. Treasure can include coins, goods, and items. Creatures can have varying amounts of each, as follows.
+**Treasure:** This entry in a monster description describes how much wealth a creature owns. In most cases, a creature keeps valuables in its home or lair and has no treasure with it when it travels. Intelligent creatures that own useful, portable treasure (such as magic items) tend to carry and use these, leaving bulky items at home. Treasure can include coins, goods, and items. Creatures can have varying amounts of each, as follows.
 
 Standard:Refer to the treasure tablesand roll d% once for each type of treasure (Coins, Goods, Items) on the Level section of the table that corresponds to the creature’s Challenge Rating (for groups of creatures, use the Encounter Level for the encounter instead). Some creatures have double, triple, or even quadruple standard treasure; in these cases, roll for each type of treasure two, three, or four times.
 
@@ -1096,13 +1096,13 @@ It’s sometimes necessary to reroll until the right sort of item appears.
 
 
 
-**Turn Resistance (Ex):**A creature with this special quality (usually an undead) is less easily affected by clerics or paladins. When resolving a turn, rebuke, command, or bolster attempt, add the indicated number to the creature’s Hit Dice total.
+**Turn Resistance (Ex):** A creature with this special quality (usually an undead) is less easily affected by clerics or paladins. When resolving a turn, rebuke, command, or bolster attempt, add the indicated number to the creature’s Hit Dice total.
 
 
 
 
 
-**Undead Type:**Undead are once-living creatures animated by spiritual or supernatural forces.
+**Undead Type:** Undead are once-living creatures animated by spiritual or supernatural forces.
 
 Features:An undead creature has the following features.
 
@@ -1146,7 +1146,7 @@ Traits:An undead creature possesses the following traits (unless otherwise noted
 
 
 
-**Vermin Type:**This type includes insects, arachnids, other arthropods, worms, and similar invertebrates.
+**Vermin Type:** This type includes insects, arachnids, other arthropods, worms, and similar invertebrates.
 
 Features:Vermin have the following features.
 
@@ -1174,11 +1174,11 @@ Traits:Vermin possess the following traits (unless otherwise noted in a creature
 
 
 
-**Vulnerability to Energy:**Some creatures have vulnerability to a certain kind of energy effect (typically either cold or fire). Such a creature takes half again as much (+50%) damage as normal from the effect, regardless of whether a saving throw is allowed, or if the save is a success or failure.
+**Vulnerability to Energy:** Some creatures have vulnerability to a certain kind of energy effect (typically either cold or fire). Such a creature takes half again as much (+50%) damage as normal from the effect, regardless of whether a saving throw is allowed, or if the save is a success or failure.
 
 
 
 
 
-**Water Subtype:**This subtype usually is used for elementals and outsiders with a connection to the Elemental Plane of Water. Creatures with the water subtype always have swim speeds and can move in water without making Swim checks. A water creature can breathe underwater and usually can breathe air as well.
+**Water Subtype:** This subtype usually is used for elementals and outsiders with a connection to the Elemental Plane of Water. Creatures with the water subtype always have swim speeds and can move in water without making Swim checks. A water creature can breathe underwater and usually can breathe air as well.
 

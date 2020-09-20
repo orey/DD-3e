@@ -12,21 +12,21 @@ Call Lightning
 
 Evocation [Electricity]
 
-**Level:**Drd 3
+**Level:** Drd 3
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 round
+**Casting Time:** 1 round
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Effect:**One or more 30-ft.-long vertical lines of lightning
+**Effect:** One or more 30-ft.-long vertical lines of lightning
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**Reflex half
+**Saving Throw:** Reflex half
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Immediately upon completion of the spell, and once per round thereafter, you may call down a 5-foot-wide, 30-foot-long, vertical bolt of lightning that deals 3d6 points of electricity damage. The bolt of lightning flashes down in a vertical stroke at whatever target point you choose within the spell’s range (measured from your position at the time). Any creature in the target square or in the path of the bolt is affected.
 
@@ -44,9 +44,9 @@ Call Lightning Storm
 
 Evocation [Electricity]
 
-**Level:**Drd 5
+**Level:** Drd 5
 
-**Range:**Long (400 ft. + 40 ft./level)
+**Range:** Long (400 ft. + 40 ft./level)
 
 This spell functions likecall lightning, except that each bolt deals 5d6 points of electricity damage (or 5d10 if created outdoors in a stormy area), and you may call a maximum of 15 bolts.
 
@@ -58,21 +58,21 @@ Calm Animals
 
 Enchantment (Compulsion) [Mind-Affecting]
 
-**Level:**Animal 1, Drd 1, Rgr 1
+**Level:** Animal 1, Drd 1, Rgr 1
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Targets:**Animals within 30 ft. of each other
+**Targets:** Animals within 30 ft. of each other
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**Will negates; see text
+**Saving Throw:** Will negates; see text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 This spell soothes and quiets animals, rendering them docile and harmless. Only ordinary animals (those with Intelligence scores of 1 or 2) can be affected by this spell. All the subjects must be of the same kind, and no two may be more than 30 feet apart. The maximum number of Hit Dice of animals you can affect is equal to 2d4 + caster level. A dire animal or an animal trained to attack or guard is allowed a saving throw; other animals are not.
 
@@ -86,21 +86,21 @@ Calm Emotions
 
 Enchantment (Compulsion) [Mind-Affecting]
 
-**Level:**Brd 2, Clr 2, Law 2
+**Level:** Brd 2, Clr 2, Law 2
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Area:**Creatures in a 20-ft.-radius spread
+**Area:** Creatures in a 20-ft.-radius spread
 
-**Duration:**Concentration, up to 1 round/level (D)
+**Duration:** Concentration, up to 1 round/level (D)
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 This spell calms agitated creatures. You have no control over the affected creatures, butcalm emotionscan stop raging creatures from fighting or joyous ones from reveling. Creatures so affected cannot take violent actions (although they can defend themselves) or do anything destructive. Any aggressive action against or damage dealt to a calmed creature immediately breaks the spell on all calmed creatures.
 
@@ -114,21 +114,21 @@ Cat’s Grace
 
 Transmutation
 
-**Level:**Brd 2, Drd 2, Rgr 2, Sor/Wiz 2
+**Level:** Brd 2, Drd 2, Rgr 2, Sor/Wiz 2
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 The transmuted creature becomes more graceful, agile, and coordinated. The spell grants a +4 enhancement bonus to Dexterity, adding the usual benefits to AC, Reflex saves, and other uses of the Dexterity modifier.
 
@@ -142,11 +142,11 @@ Cat’s Grace, Mass
 
 Transmutation
 
-**Level:**Brd 6, Drd 6, Sor/Wiz 6
+**Level:** Brd 6, Drd 6, Sor/Wiz 6
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Targets:**One creature/level, no two of which can be more than 30 ft. apart
+**Targets:** One creature/level, no two of which can be more than 30 ft. apart
 
 This spell functions likecat’s grace, except that it affects multiple creatures.
 
@@ -158,21 +158,21 @@ Cause Fear
 
 Necromancy [Fear, Mind-Affecting]
 
-**Level:**Brd 1, Clr 1, Death 1, Sor/Wiz 1
+**Level:** Brd 1, Clr 1, Death 1, Sor/Wiz 1
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One living creature with 5 or fewer HD
+**Target:** One living creature with 5 or fewer HD
 
-**Duration:**1d4 rounds or 1 round; see text
+**Duration:** 1d4 rounds or 1 round; see text
 
-**Saving Throw:**Will partial
+**Saving Throw:** Will partial
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 The affected creature becomes frightened. If the subject succeeds on a Will save, it is shaken for 1 round. Creatures with 6 or more Hit Dice are immune to this effect.
 
@@ -186,21 +186,21 @@ Chain Lightning
 
 Evocation [Electricity]
 
-**Level:**Air 6, Sor/Wiz 6
+**Level:** Air 6, Sor/Wiz 6
 
-**Components:**V, S, F
+**Components:** V, S, F
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Long (400 ft. + 40 ft./level)
+**Range:** Long (400 ft. + 40 ft./level)
 
-**Targets:**One primary target, plus one secondary target/level (each of which must be within 30 ft. of the primary target)
+**Targets:** One primary target, plus one secondary target/level (each of which must be within 30 ft. of the primary target)
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Reflex half
+**Saving Throw:** Reflex half
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 This spell creates an electrical discharge that begins as a single stroke commencing from your fingertips. Unlikelightning bolt,chain lightningstrikes one object or creature initially, then arcs to other targets.
 
@@ -218,21 +218,21 @@ Changestaff
 
 Transmutation
 
-**Level:**Drd 7
+**Level:** Drd 7
 
-**Components:**V, S, F
+**Components:** V, S, F
 
-**Casting Time:**1 round
+**Casting Time:** 1 round
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Your touched staff
+**Target:** Your touched staff
 
-**Duration:**1 hour/level (D)
+**Duration:** 1 hour/level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You change a specially prepared quarterstaff into a Huge treantlike creature, about 24 feet tall. When you plant the end of the staff in the ground and speak a special command to conclude the casting of the spell, your staff turns into a creature that looks and fights just like a treant. The staff-treant defends you and obeys any spoken commands. However, it is by no means a true treant; it cannot converse with actual treants or control trees. If the staff-treant is reduced to 0 or fewer hit points, it crumbles to powder and the staff is destroyed. Otherwise, the staff returns to its normal form when the spell duration expires (or when the spell is dismissed), and it can be used as the focus for another casting of the spell. The staff-treant is always at full strength when created, despite any wounds it may have incurred the last time it appeared.
 
@@ -248,21 +248,21 @@ Chaos Hammer
 
 Evocation [Chaotic]
 
-**Level:**Chaos 4
+**Level:** Chaos 4
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Area:**20-ft.-radius burst
+**Area:** 20-ft.-radius burst
 
-**Duration:**Instantaneous (1d6 rounds); see text
+**Duration:** Instantaneous (1d6 rounds); see text
 
-**Saving Throw:**Will partial; see text
+**Saving Throw:** Will partial; see text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 You unleash chaotic power to smite your enemies. The power takes the form of a multicolored explosion of leaping, ricocheting energy. Only lawful and neutral (not chaotic) creatures are harmed by the spell.
 
@@ -278,9 +278,9 @@ Charm Animal
 
 Enchantment (Charm) [Mind-Affecting]
 
-**Level:**Drd 1, Rgr 1
+**Level:** Drd 1, Rgr 1
 
-**Target:**One animal
+**Target:** One animal
 
 This spell functions likecharm person, except that it affects a creature of the animal type.
 
@@ -292,11 +292,11 @@ Charm Monster
 
 Enchantment (Charm) [Mind-Affecting]
 
-**Level:**Brd 3, Sor/Wiz 4
+**Level:** Brd 3, Sor/Wiz 4
 
-**Target:**One living creature
+**Target:** One living creature
 
-**Duration:**One day/level
+**Duration:** One day/level
 
 This spell functions likecharm person, except that the effect is not restricted by creature type or size.
 
@@ -308,13 +308,13 @@ Charm Monster, Mass
 
 Enchantment (Charm) [Mind-Affecting]
 
-**Level:**Brd 6, Sor/Wiz 8
+**Level:** Brd 6, Sor/Wiz 8
 
-**Components:**V
+**Components:** V
 
-**Targets:**One or more creatures, no two of which can be more than 30 ft. apart
+**Targets:** One or more creatures, no two of which can be more than 30 ft. apart
 
-**Duration:**One day/level
+**Duration:** One day/level
 
 This spell functions likecharm monster,except thatmass charm monsteraffects a number of creatures whose combined HD do not exceed twice your level, or at least one creature regardless of HD. If there are more potential targets than you can affect, you choose them one at a time until you choose a creature with too many HD.
 
@@ -326,21 +326,21 @@ Charm Person
 
 Enchantment (Charm) [Mind-Affecting]
 
-**Level:**Brd 1, Sor/Wiz 1
+**Level:** Brd 1, Sor/Wiz 1
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One humanoid creature
+**Target:** One humanoid creature
 
-**Duration:**1 hour/level
+**Duration:** 1 hour/level
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 This charm makes a humanoid creature regard you as its trusted friend and ally (treat the target’s attitude as friendly). If the creature is currently being threatened or attacked by you or your allies, however, it receives a +5 bonus on its saving throw.
 
@@ -354,21 +354,21 @@ Chill Metal
 
 Transmutation [Cold]
 
-**Level:**Drd 2
+**Level:** Drd 2
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**Metal equipment of one creature per two levels, no two of which can be more than 30 ft. apart; or 25 lb. of metal/level, none of which can be more than 30 ft. away from any of the rest
+**Target:** Metal equipment of one creature per two levels, no two of which can be more than 30 ft. apart; or 25 lb. of metal/level, none of which can be more than 30 ft. away from any of the rest
 
-**Duration:**7 rounds
+**Duration:** 7 rounds
 
-**Saving Throw:**Will negates (object)
+**Saving Throw:** Will negates (object)
 
-**Spell Resistance:**Yes (object)
+**Spell Resistance:** Yes (object)
 
 Chill metalmakes metal extremely cold. Unattended, nonmagical metal gets no saving throw. Magical metal is allowed a saving throw against the spell. An item in a creature’s possession uses the creature’s saving throw bonus unless its own is higher.
 
@@ -428,21 +428,21 @@ Chill Touch
 
 Necromancy
 
-**Level:**Sor/Wiz 1
+**Level:** Sor/Wiz 1
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Targets:**Creature or creatures touched (up to one/level)
+**Targets:** Creature or creatures touched (up to one/level)
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Fortitude partial or Will negates; see text
+**Saving Throw:** Fortitude partial or Will negates; see text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 A touch from your hand, which glows with blue energy, disrupts the life force of living creatures. Each touch channels negative energy that deals 1d6 points of damage. The touched creature also takes 1 point of Strength damage unless it makes a successful Fortitude saving throw. You can use this melee touch attack up to one time per level.
 
@@ -456,21 +456,21 @@ Circle of Death
 
 Necromancy [Death]
 
-**Level:**Sor/Wiz 6
+**Level:** Sor/Wiz 6
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Area:**Several living creatures within a 40-ft.-radius burst
+**Area:** Several living creatures within a 40-ft.-radius burst
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Fortitude negates
+**Saving Throw:** Fortitude negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Acircle of deathsnuffs out the life force of living creatures, killing them instantly.
 
@@ -486,21 +486,21 @@ Clairaudience/Clairvoyance
 
 Divination (Scrying)
 
-**Level:**Brd 3, Knowledge 3, Sor/Wiz 3
+**Level:** Brd 3, Knowledge 3, Sor/Wiz 3
 
-**Components:**V, S, F/DF
+**Components:** V, S, F/DF
 
-**Casting Time:**10 minutes
+**Casting Time:** 10 minutes
 
-**Range:**Long (400 ft. + 40 ft./level)
+**Range:** Long (400 ft. + 40 ft./level)
 
-**Effect:**Magical sensor
+**Effect:** Magical sensor
 
-**Duration:**1 min./level (D)
+**Duration:** 1 min./level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 Clairaudience/clairvoyancecreates an invisible magical sensor at a specific location that enables you to hear or see (your choice) almost as if you were there. You don’t need line of sight or line of effect, but the locale must be known—a place familiar to you or an obvious one. Once you have selected the locale, the sensor doesn’t move, but you can rotate it in all directions to view the area as desired. Unlike other scrying spells, this spell does not allow magically or supernaturally enhanced senses to work through it. If the chosen locale is magically dark, you see nothing. If it is naturally pitch black, you can see in a 10- foot radius around the center of the spell’s effect.Clairaudience/clairvoyancefunctions only on the plane of existence you are currently occupying.
 
@@ -514,9 +514,9 @@ Clenched Fist
 
 Evocation [Force]
 
-**Level:**Sor/Wiz 8, Strength 8
+**Level:** Sor/Wiz 8, Strength 8
 
-**Components:**V, S, F/DF
+**Components:** V, S, F/DF
 
 This spell functions likeinterposing hand,except that the hand can interpose itself, push, or strike one opponent that you select. The floating hand can move as far as 60 feet and can attack in the same round. Since this hand is directed by you, its ability to notice or attack invisible or concealed creatures is no better than yours.
 
@@ -536,21 +536,21 @@ Cloak of Chaos
 
 Abjuration [Chaotic]
 
-**Level:**Chaos 8, Clr 8
+**Level:** Chaos 8, Clr 8
 
-**Components:**V, S, F
+**Components:** V, S, F
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**20 ft.
+**Range:** 20 ft.
 
-**Targets:**One creature/level in a 20-ft.-radius burst centered on you
+**Targets:** One creature/level in a 20-ft.-radius burst centered on you
 
-**Duration:**1 round/level (D)
+**Duration:** 1 round/level (D)
 
-**Saving Throw:**See text
+**Saving Throw:** See text
 
-**Spell Resistance:**Yes (harmless)
+**Spell Resistance:** Yes (harmless)
 
 A random pattern of color surrounds the subjects, protecting them from attacks, granting them resistance to spells cast by lawful creatures, and causing lawful creatures that strike the subjects to becomeconfused.This abjuration has four effects.
 
@@ -572,21 +572,21 @@ Clone
 
 Necromancy
 
-**Level:**Sor/Wiz 8
+**Level:** Sor/Wiz 8
 
-**Components:**V, S, M, F
+**Components:** V, S, M, F
 
-**Casting Time:**10 minutes
+**Casting Time:** 10 minutes
 
-**Range:**0 ft.
+**Range:** 0 ft.
 
-**Effect:**One clone
+**Effect:** One clone
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 This spell makes an inert duplicate of a creature. If the original individual has been slain, its soul immediately transfers to the clone, creating a replacement (provided that the soul is free and willing to return). The original’s physical remains, should they still exist, become inert and cannot thereafter be restored to life. If the original creature has reached the end of its natural life span (that is, it has died of natural causes), any cloning attempt fails.
 
@@ -610,21 +610,21 @@ Cloudkill
 
 Conjuration (Creation)
 
-**Level:**Sor/Wiz 5
+**Level:** Sor/Wiz 5
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Effect:**Cloud spreads in 20-ft. radius, 20 ft. high
+**Effect:** Cloud spreads in 20-ft. radius, 20 ft. high
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**Fortitude partial; see text
+**Saving Throw:** Fortitude partial; see text
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 This spell generates a bank of fog, similar to afog cloud,except that its vapors are yellowish green and poisonous. These vapors automatically kill any living creature with 3 or fewer HD (no save). A living creature with 4 to 6 HD is slain unless it succeeds on a Fortitude save (in which case it takes 1d4 points of Constitution damage on your turn each round while in the cloud).
 
@@ -644,21 +644,21 @@ Color Spray
 
 Illusion (Pattern) [Mind-Affecting]
 
-**Level:**Sor/Wiz 1
+**Level:** Sor/Wiz 1
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**15 ft.
+**Range:** 15 ft.
 
-**Area:**Cone-shaped burst
+**Area:** Cone-shaped burst
 
-**Duration:**Instantaneous; see text
+**Duration:** Instantaneous; see text
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 A vivid cone of clashing colors springs forth from your hand, causing creatures to become stunned, perhaps also blinded, and possibly knocking them unconscious.
 
@@ -682,21 +682,21 @@ Command
 
 Enchantment (Compulsion) [Language-Dependent, Mind-Affecting]
 
-**Level:**Clr 1
+**Level:** Clr 1
 
-**Components:**V
+**Components:** V
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One living creature
+**Target:** One living creature
 
-**Duration:**1 round
+**Duration:** 1 round
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 You give the subject a single command, which it obeys to the best of its ability at its earliest opportunity. You may select from the following options.
 
@@ -720,11 +720,11 @@ Command, Greater
 
 Enchantment (Compulsion) [Language-Dependent, Mind-Affecting]
 
-**Level:**Clr 5
+**Level:** Clr 5
 
-**Targets:**One creature/level, no two of which can be more than 30 ft. apart
+**Targets:** One creature/level, no two of which can be more than 30 ft. apart
 
-**Duration:**1 round/level
+**Duration:** 1 round/level
 
 This spell functions likecommand,except that up to one creature per level may be affected, and the activities continue beyond 1 round. At the start of each commanded creature’s action after the first, it gets another Will save to attempt to break free from the spell. Each creature must receive the same command.
 
@@ -736,21 +736,21 @@ Command Plants
 
 Transmutation
 
-**Level:**Drd 4, Plant 4, Rgr 3
+**Level:** Drd 4, Plant 4, Rgr 3
 
-**Components:**V
+**Components:** V
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Targets:**Up to 2 HD/level of plant creatures, no two of which can be more than 30 ft. apart
+**Targets:** Up to 2 HD/level of plant creatures, no two of which can be more than 30 ft. apart
 
-**Duration:**One day/level
+**Duration:** One day/level
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 This spell allows you some degree of control over one or more plant creatures. Affected plant creatures can understand you, and they perceive your words and actions in the most favorable way (treat their attitude as friendly). They will not attack you while the spell lasts. You can try to give a subject orders, but you must win an opposed Charisma check to convince it to do anything it wouldn’t ordinarily do. (Retries are not allowed.) A commanded plant never obeys suicidal or obviously harmful orders, but it might be convinced that something very dangerous is worth doing.
 
@@ -764,21 +764,21 @@ Command Undead
 
 Necromancy
 
-**Level:**Sor/Wiz 2
+**Level:** Sor/Wiz 2
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Targets:**One undead creature
+**Targets:** One undead creature
 
-**Duration:**One day/level
+**Duration:** One day/level
 
-**Saving Throw:**Will negates; see text
+**Saving Throw:** Will negates; see text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 This spell allows you some degree of control over an undead creature. Assuming the subject is intelligent, it perceives your words and actions in the most favorable way (treat its attitude as friendly). It will not attack you while the spell lasts. You can try to give the subject orders, but you must win an opposed Charisma check to convince it to do anything it wouldn’t ordinarily do. (Retries are not allowed.) An intelligent commanded undead never obeys suicidal or obviously harmful orders, but it might be convinced that something very dangerous is worth doing.
 
@@ -798,17 +798,17 @@ Commune
 
 Divination
 
-**Level:**Clr 5
+**Level:** Clr 5
 
-**Components:**V, S, M, DF, XP
+**Components:** V, S, M, DF, XP
 
-**Casting Time:**10 minutes
+**Casting Time:** 10 minutes
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 round/level
+**Duration:** 1 round/level
 
 You contact your deity—or agents thereof —and ask questions that can be answered by a simple yes or no. (A cleric of no particular deity contacts a philosophically allied deity.) You are allowed one such question per caster level. The answers given are correct within the limits of the entity’s knowledge. “Unclear” is a legitimate answer, because powerful beings of the Outer Planes are not necessarily omniscient. In cases where a one-word answer would be misleading or contrary to the deity’s interests, a short phrase (five words or less) may be given as an answer instead.
 
@@ -826,17 +826,17 @@ Commune with Nature
 
 Divination
 
-**Level:**Animal 5, Drd 5, Rgr 4
+**Level:** Animal 5, Drd 5, Rgr 4
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**10 minutes
+**Casting Time:** 10 minutes
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
 You become one with nature, attaining knowledge of the surrounding territory. You instantly gain knowledge of as many as three facts from among the following subjects: the ground or terrain, plants, minerals, bodies of water, people, general animal population, presence of woodland creatures, presence of powerful unnatural creatures, or even the general state of the natural setting.
 
@@ -850,17 +850,17 @@ Comprehend Languages
 
 Divination
 
-**Level:**Brd 1, Clr 1, Sor/Wiz 1
+**Level:** Brd 1, Clr 1, Sor/Wiz 1
 
-**Components:**V, S, M/DF
+**Components:** V, S, M/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**10 min./level
+**Duration:** 10 min./level
 
 You can understand the spoken words of creatures or read otherwise incomprehensible written messages. In either case, you must touch the creature or the writing. The ability to read does not necessarily impart insight into the material, merely its literal meaning. The spell enables you to understand or read an unknown language, not speak or write it.
 
@@ -878,21 +878,21 @@ Cone of Cold
 
 Evocation [Cold]
 
-**Level:**Sor/Wiz 5, Water 6
+**Level:** Sor/Wiz 5, Water 6
 
-**Components:**V, S, M/DF
+**Components:** V, S, M/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**60 ft.
+**Range:** 60 ft.
 
-**Area:**Cone-shaped burst
+**Area:** Cone-shaped burst
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Reflex half
+**Saving Throw:** Reflex half
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Cone of coldcreates an area of extreme cold, originating at your hand and extending outward in a cone. It drains heat, dealing 1d6 points of cold damage per caster level (maximum 15d6).
 
@@ -906,21 +906,21 @@ Confusion
 
 Enchantment (Compulsion) [Mind-Affecting]
 
-**Level:**Brd 3, Sor/Wiz 4, Trickery 4
+**Level:** Brd 3, Sor/Wiz 4, Trickery 4
 
-**Components:**V, S, M/DF
+**Components:** V, S, M/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Targets:**All creatures in a 15-ft. radius burst
+**Targets:** All creatures in a 15-ft. radius burst
 
-**Duration:**1 round/level
+**Duration:** 1 round/level
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 This spell causes the targets to becomeconfused,making them unable to independently determine what they will do.
 
@@ -966,15 +966,15 @@ Confusion, Lesser
 
 Enchantment (Compulsion) [Mind-Affecting]
 
-**Level:**Brd 1
+**Level:** Brd 1
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One living creature
+**Target:** One living creature
 
-**Duration:**1 round
+**Duration:** 1 round
 
 This spell causes a single creature to becomeconfusedfor 1 round. See theconfusionspell, above, to determine the exact effect on the subject.
 
@@ -986,21 +986,21 @@ Consecrate
 
 Evocation [Good]
 
-**Level:**Clr 2
+**Level:** Clr 2
 
-**Components:**V, S, M, DF
+**Components:** V, S, M, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Area:**20-ft.-radius emanation
+**Area:** 20-ft.-radius emanation
 
-**Duration:**2 hours/level
+**Duration:** 2 hours/level
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 This spell blesses an area with positive energy. Each Charisma check made to turn undead within this area gains a +3 sacred bonus. Every undead creature entering aconsecratedarea suffers minor disruption, giving it a –1 penalty on attack rolls, damage rolls, and saves. Undead cannot be created within or summoned into aconsecratedarea.
 
@@ -1020,17 +1020,17 @@ Contact Other Plane
 
 Divination
 
-**Level:**Sor/Wiz 5
+**Level:** Sor/Wiz 5
 
-**Components:**V
+**Components:** V
 
-**Casting Time:**10 minutes
+**Casting Time:** 10 minutes
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**Concentration
+**Duration:** Concentration
 
 You send your mind to another plane of existence (an Elemental Plane or some plane farther removed) in order to receive advice and information from powers there. (See the accompanying table for possible consequences and results of the attempt.) The powers reply in a language you understand, but they resent such contact and give only brief answers to your questions. (All questions are answered with “yes,” “no,” “maybe,” “never,” “irrelevant,” or some other one-word answer.)
 
@@ -1156,7 +1156,7 @@ On rare occasions, this divination may be blocked by an act of certain deities o
 
 Avoid Int/Cha Decrease:You must succeed on an Intelligence check against this DC to avoid a decrease in Intelligence and Charisma. If the check fails, your Intelligence and Charisma scores each fall to 8 for the stated duration, and you become unable to cast arcane spells. If you lose Intelligence and Charisma, the effect strikes as soon as the first question is asked, and no answer is received. (The entries in parentheses are for questions that pertain to the appropriate Elemental Plane.)
 
-**Results of a Successful Contact:**d% is rolled for the result shown on the table:
+**Results of a Successful Contact:** d% is rolled for the result shown on the table:
 
 True Answer:You get a true, one-word answer. Questions that cannot be answered in this way are answered randomly.
 
@@ -1174,21 +1174,21 @@ Contagion
 
 Necromancy [Evil]
 
-**Level:**Clr 3, Destruction 3, Drd 3, Sor/Wiz 4
+**Level:** Clr 3, Destruction 3, Drd 3, Sor/Wiz 4
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Living creature touched
+**Target:** Living creature touched
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Fortitude negates
+**Saving Throw:** Fortitude negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 The subject contracts a disease selected from the table below, which strikes immediately (no incubation period). The DC noted is for the subsequent saves (usecontagion’s normal save DC for the initial saving throw).
 
@@ -1254,17 +1254,17 @@ Contingency
 
 Evocation
 
-**Level:**Sor/Wiz 6
+**Level:** Sor/Wiz 6
 
-**Components:**V, S, M, F
+**Components:** V, S, M, F
 
-**Casting Time:**At least 10 minutes; see text
+**Casting Time:** At least 10 minutes; see text
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**One day/level (D) or until discharged
+**Duration:** One day/level (D) or until discharged
 
 You can place another spell upon your person so that it comes into effect under some condition you dictate when castingcontingency. Thecontingencyspell and the companion spell are cast at the same time. The 10-minute casting time is the minimum total for both castings; if the companion spell has a casting time longer than 10 minutes, use that instead.
 
@@ -1286,23 +1286,23 @@ Continual Flame
 
 Evocation [Light]
 
-**Level:**Clr 3, Sor/Wiz 2
+**Level:** Clr 3, Sor/Wiz 2
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Object touched
+**Target:** Object touched
 
-**Effect:**Magical, heatless flame
+**Effect:** Magical, heatless flame
 
-**Duration:**Permanent
+**Duration:** Permanent
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 A flame, equivalent in brightness to a torch, springs forth from an object that you touch. The effect looks like a regular flame, but it creates no heat and doesn’t use oxygen. Acontinual flamecan be covered and hidden but not smothered or quenched.
 
@@ -1318,21 +1318,21 @@ Control Plants
 
 Transmutation
 
-**Level:**Drd 8, Plant 8
+**Level:** Drd 8, Plant 8
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Targets:**Up to 2 HD/level of plant creatures, no two of which can be more than 30 ft. apart
+**Targets:** Up to 2 HD/level of plant creatures, no two of which can be more than 30 ft. apart
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 This spell enables you to control the actions of one or more plant creatures for a short period of time. You command the creatures by voice and they understand you, no matter what language you speak. Even if vocal communication is impossible the controlled plants do not attack you. At the end of the spell, the subjects revert to their normal behavior.
 
@@ -1346,21 +1346,21 @@ Control Undead
 
 Necromancy
 
-**Level:**Sor/Wiz 7
+**Level:** Sor/Wiz 7
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Targets:**Up to 2 HD/level of undead creatures, no two of which can be more than 30 ft. apart
+**Targets:** Up to 2 HD/level of undead creatures, no two of which can be more than 30 ft. apart
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 This spell enables you to command undead creatures for a short period of time. You command them by voice and they understand you, no matter what language you speak. Even if vocal communication is impossible the controlled undead do not attack you. At the end of the spell, the subjects revert to their normal behavior.
 
@@ -1376,21 +1376,21 @@ Control Water
 
 Transmutation [Water]
 
-**Level:**Clr 4, Drd 4, Sor/Wiz 6, Water 4
+**Level:** Clr 4, Drd 4, Sor/Wiz 6, Water 4
 
-**Components:**V, S, M/DF
+**Components:** V, S, M/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Long (400 ft. + 40 ft./level)
+**Range:** Long (400 ft. + 40 ft./level)
 
-**Area:**Water in a volume of 10 ft./level by 10 ft./level by 2 ft./level (S)
+**Area:** Water in a volume of 10 ft./level by 10 ft./level by 2 ft./level (S)
 
-**Duration:**10 min./level (D)
+**Duration:** 10 min./level (D)
 
-**Saving Throw:**None; see text
+**Saving Throw:** None; see text
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 Depending on the version you choose, thecontrol waterspell raises or lowers water.
 
@@ -1410,21 +1410,21 @@ Control Weather
 
 Transmutation
 
-**Level:**Air 7, Clr 7, Drd 7, Sor/Wiz 7
+**Level:** Air 7, Clr 7, Drd 7, Sor/Wiz 7
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**10 minutes; see text
+**Casting Time:** 10 minutes; see text
 
-**Range:**2 miles
+**Range:** 2 miles
 
-**Area:**2-mile-radius circle, centered on you; see text
+**Area:** 2-mile-radius circle, centered on you; see text
 
-**Duration:**4d12 hours; see text
+**Duration:** 4d12 hours; see text
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You change the weather in the local area. It takes 10 minutes to cast the spell and an additional 10 minutes for the effects to manifest.You can call forth weather appropriate to the climate and season of the area you are in.
 
@@ -1470,21 +1470,21 @@ Control Winds
 
 Transmutation [Air]
 
-**Level:**Air 5, Drd 5
+**Level:** Air 5, Drd 5
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**40 ft./level
+**Range:** 40 ft./level
 
-**Area:**40 ft./level radius cylinder 40 ft. high
+**Area:** 40 ft./level radius cylinder 40 ft. high
 
-**Duration:**10 min./level
+**Duration:** 10 min./level
 
-**Saving Throw:**Fortitude negates
+**Saving Throw:** Fortitude negates
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You alter wind force in the area surrounding you. You can make the wind blow in a certain direction or manner, increase its strength, or decrease its strength. The new wind direction and strength persist until the spell ends or until you choose to alter your handiwork, which requires concentration. You may create an “eye” of calm air up to 80 feet in diameter at the center of the area if you so desire, and you may choose to limit the area to any cylindrical area less than your full limit.
 
@@ -1518,21 +1518,21 @@ Create Food and Water
 
 Conjuration (Creation)
 
-**Level:**Clr 3
+**Level:** Clr 3
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**10 minutes
+**Casting Time:** 10 minutes
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Effect:**Food and water to sustain three humans or one horse/level for 24 hours
+**Effect:** Food and water to sustain three humans or one horse/level for 24 hours
 
-**Duration:**24 hours; see text
+**Duration:** 24 hours; see text
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 The food that this spell creates is simple fare of your choice—highly nourishing, if rather bland. Food so created decays and becomes inedible within 24 hours, although it can be kept fresh for another 24 hours by casting apurify food and waterspell on it. The water created by this spell is just like clean rain water, and it doesn’t go bad as the food does.
 
@@ -1544,7 +1544,7 @@ Create Greater Undead
 
 Necromancy [Evil]
 
-**Level:**Clr 8, Death 8, Sor/Wiz 8
+**Level:** Clr 8, Death 8, Sor/Wiz 8
 
 This spell functions like create undead, except that you can create more powerful and intelligent sorts of undead: shadows, wraiths, spectres, and devourers. The type or types of undead you can create is based on your caster level, as shown on the table below.
 
@@ -1580,21 +1580,21 @@ Create Undead
 
 Necromancy [Evil]
 
-**Level:**Clr 6, Death 6, Evil 6, Sor/Wiz 6
+**Level:** Clr 6, Death 6, Evil 6, Sor/Wiz 6
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 hour
+**Casting Time:** 1 hour
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One corpse
+**Target:** One corpse
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 A much more potent spell thananimate dead,this evil spell allows you to create more powerful sorts of undead: ghouls, ghasts, mummies, and mohrgs. The type or types of undead you can create is based on your caster level, as shown on the table below.
 
@@ -1636,21 +1636,21 @@ Create Water
 
 Conjuration (Creation) [Water]
 
-**Level:**Clr 0, Drd 0, Pal 1
+**Level:** Clr 0, Drd 0, Pal 1
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Effect:**Up to 2 gallons of water/level
+**Effect:** Up to 2 gallons of water/level
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 This spell generates wholesome, drinkable water, just like clean rain water. Water can be created in an area as small as will actually contain the liquid, or in an area three times as large—possibly creating a downpour or filling many small receptacles.
 
@@ -1664,21 +1664,21 @@ Creeping Doom
 
 Conjuration (Summoning)
 
-**Level:**Drd 7
+**Level:** Drd 7
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 round
+**Casting Time:** 1 round
 
-**Range:**Close (25 ft. + 5 ft./2 levels)/ 100 ft.; see text
+**Range:** Close (25 ft. + 5 ft./2 levels)/ 100 ft.; see text
 
-**Effect:**One swarm of centipedes per two levels
+**Effect:** One swarm of centipedes per two levels
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 When you utter the spell ofcreeping doom,you call forth a mass of centipede swarms (one per two caster levels, to a maximum of ten swarms at 20th level), which need not appear adjacent to one another.
 
@@ -1692,21 +1692,21 @@ Crushing Despair
 
 Enchantment (Compulsion) [Mind-Affecting]
 
-**Level:**Brd 3, Sor/Wiz 4
+**Level:** Brd 3, Sor/Wiz 4
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**30 ft.
+**Range:** 30 ft.
 
-**Area:**Cone-shaped burst
+**Area:** Cone-shaped burst
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 An invisible cone of despair causes great sadness in the subjects. Each affected creature takes a –2 penalty on attack rolls, saving throws, ability checks, skill checks, and weapon damage rolls.
 
@@ -1722,9 +1722,9 @@ Crushing Hand
 
 Evocation [Force]
 
-**Level:**Sor/Wiz 9, Strength 9
+**Level:** Sor/Wiz 9, Strength 9
 
-**Components:**V, S, M, F/DF
+**Components:** V, S, M, F/DF
 
 This spell functions likeinterposing hand,except that the hand can interpose itself, push, or crush one opponent that you select.
 
@@ -1748,7 +1748,7 @@ Cure Critical Wounds
 
 Conjuration (Healing)
 
-**Level:**Brd 4, Clr 4, Drd 5, Healing 4
+**Level:** Brd 4, Clr 4, Drd 5, Healing 4
 
 This spell functions likecure light wounds, except that it cures 4d8 points of damage +1 point per caster level (maximum +20).
 
@@ -1760,7 +1760,7 @@ Cure Critical Wounds, Mass
 
 Conjuration (Healing)
 
-**Level:**Clr 8, Drd 9, Healing 8
+**Level:** Clr 8, Drd 9, Healing 8
 
 This spell functions likemass cure light wounds, except that it cures 4d8 points of damage +1 point per caster level (maximum +40).
 
@@ -1772,21 +1772,21 @@ Cure Light Wounds
 
 Conjuration (Healing)
 
-**Level:**Brd 1, Clr 1, Drd 1, Healing 1, Pal 1, Rgr 2
+**Level:** Brd 1, Clr 1, Drd 1, Healing 1, Pal 1, Rgr 2
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Will half (harmless); see text
+**Saving Throw:** Will half (harmless); see text
 
-**Spell Resistance:**Yes (harmless); see text
+**Spell Resistance:** Yes (harmless); see text
 
 When laying your hand upon a living creature, you channel positive energy that cures 1d8 points of damage +1 point per caster level (maximum +5).
 
@@ -1800,21 +1800,21 @@ Cure Light Wounds, Mass
 
 Conjuration (Healing)
 
-**Level:**Brd 5, Clr 5, Drd 6, Healing 5
+**Level:** Brd 5, Clr 5, Drd 6, Healing 5
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One creature/level, no two of which can be more than 30 ft. apart
+**Target:** One creature/level, no two of which can be more than 30 ft. apart
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Will half (harmless) or Will half; see text
+**Saving Throw:** Will half (harmless) or Will half; see text
 
-**Spell Resistance:**Yes (harmless) or Yes; see text
+**Spell Resistance:** Yes (harmless) or Yes; see text
 
 You channel positive energy to cure 1d8 points of damage +1 point per caster level (maximum +25) in each selected creature.
 
@@ -1828,7 +1828,7 @@ Cure Minor Wounds
 
 Conjuration (Healing)
 
-**Level:**Clr 0, Drd 0
+**Level:** Clr 0, Drd 0
 
 This spell functions likecure light wounds, except that it cures only 1 point of damage.
 
@@ -1840,7 +1840,7 @@ Cure Moderate Wounds
 
 Conjuration (Healing)
 
-**Level:**Brd 2, Clr 2, Drd 3, Healing 2, Pal 3, Rgr 3
+**Level:** Brd 2, Clr 2, Drd 3, Healing 2, Pal 3, Rgr 3
 
 This spell functions likecure light wounds, except that it cures 2d8 points of damage +1 point per caster level (maximum +10).
 
@@ -1852,7 +1852,7 @@ Cure Moderate Wounds, Mass
 
 Conjuration (Healing)
 
-**Level:**Brd 6, Clr 6, Drd 7
+**Level:** Brd 6, Clr 6, Drd 7
 
 This spell functions likemass cure light wounds, except that it cures 2d8 points of damage +1 point per caster level (maximum +30).
 
@@ -1864,7 +1864,7 @@ Cure Serious Wounds
 
 Conjuration (Healing)
 
-**Level:**Brd 3, Clr 3, Drd 4, Pal 4, Rgr 4, Healing 3
+**Level:** Brd 3, Clr 3, Drd 4, Pal 4, Rgr 4, Healing 3
 
 This spell functions likecure light wounds, except that it cures 3d8 points of damage +1 point per caster level (maximum +15).
 
@@ -1876,7 +1876,7 @@ Cure Serious Wounds, Mass
 
 Conjuration (Healing)
 
-**Level:**Clr 7, Drd 8
+**Level:** Clr 7, Drd 8
 
 This spell functions likemass cure light wounds, except that it cures 3d8 points of damage +1 point per caster level (maximum +35).
 
@@ -1888,21 +1888,21 @@ Curse Water
 
 Necromancy [Evil]
 
-**Level:**Clr 1
+**Level:** Clr 1
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 minute
+**Casting Time:** 1 minute
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Flask of water touched
+**Target:** Flask of water touched
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Will negates (object)
+**Saving Throw:** Will negates (object)
 
-**Spell Resistance:**Yes (object)
+**Spell Resistance:** Yes (object)
 
 This spell imbues a flask (1 pint) of water with negative energy, turning it into unholy water. Unholy water damages good outsiders the way holy water damages undead and evil outsiders.
 

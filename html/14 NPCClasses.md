@@ -10,15 +10,15 @@ NPC CLASSES
 
 ADEPT
 
-**Hit Die:**d6.
+**Hit Die:** d6.
 
 ## Class Skills
 
 The adept’s class skills (and the key ability for each skill) are Concentration (Con), Craft (Int), Handle Animal (Cha), Heal (Wis), Knowledge (all skills taken individually) (Int), Profession (Wis), Spellcraft (Int), and Survival (Wis).
 
-**Skill Points at 1st Level:**(2 + Int modifier) x4.
+**Skill Points at 1st Level:** (2 + Int modifier) x4.
 
-**Skill Points at Each Additional Level:**2 + Int modifier.
+**Skill Points at Each Additional Level:** 2 + Int modifier.
 
 
 
@@ -564,9 +564,9 @@ The adept’s class skills (and the key ability for each skill) are Concentratio
 
 All of the following are class features of the adept NPC class.
 
-**Weapon and Armor Proficiency:**Adepts are skilled with all simple weapons. Adepts are not proficient with any type of armor nor with shields.
+**Weapon and Armor Proficiency:** Adepts are skilled with all simple weapons. Adepts are not proficient with any type of armor nor with shields.
 
-**Spells:**An adept casts divine spells which are drawn from the adept spell list (see below). Like a cleric, an adept must choose and prepare her spells in advance. Unlike a cleric, an adept cannot spontaneously castcureorinflictspells.
+**Spells:** An adept casts divine spells which are drawn from the adept spell list (see below). Like a cleric, an adept must choose and prepare her spells in advance. Unlike a cleric, an adept cannot spontaneously castcureorinflictspells.
 
 To prepare or cast a spell, an adept must have a Wisdom score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against an adept’s spell is 10 + the spell level + the adept’s Wisdom modifier.
 
@@ -578,13 +578,13 @@ When Table: The Adept indicates that the adept gets 0 spells per day of a given 
 
 Each adept has a particular holy symbol (as a divine focus) depending on the adept’s magical tradition.
 
-**Summon Familiar:**At 2nd level, an adept can call a familiar, just as a sorcerer or wizard can.
+**Summon Familiar:** At 2nd level, an adept can call a familiar, just as a sorcerer or wizard can.
 
 
 
 
 
-**Adept Spell List**
+**Adept Spell List** 
 
 Adepts choose their spells from the following list.
 
@@ -606,15 +606,15 @@ Adepts choose their spells from the following list.
 
 ARISTOCRAT
 
-**Hit Die:**d8.
+**Hit Die:** d8.
 
 ### Class Skills
 
 The aristocrat’s class skills (and the key ability for each skill) are Appraise (Int), Bluff (Cha), Diplomacy (Cha), Disguise (Cha), Forgery (Int), Gather Information (Cha), Handle Animal (Cha), Intimidate (Cha), Knowledge (all skills taken individually) (Int), Listen (Wis), Perform (Cha), Ride (Dex), Sense Motive (Wis), Speak Language, Spot (Wis), Swim (Str), and Survival (Wis).
 
-**Skill Points at 1st Level:**(4 + Int modifier) x4.
+**Skill Points at 1st Level:** (4 + Int modifier) x4.
 
-**Skill Points at Each Additional Level:**4 + Int modifier.
+**Skill Points at Each Additional Level:** 4 + Int modifier.
 
 ### 
 
@@ -852,7 +852,7 @@ The aristocrat’s class skills (and the key ability for each skill) are Apprais
 
 The following is a class feature of the aristocrat NPC class.
 
-**Weapon and Armor Proficiency:**The aristocrat is proficient in the use of all simple and martial weapons and with all types of armor and shields.
+**Weapon and Armor Proficiency:** The aristocrat is proficient in the use of all simple and martial weapons and with all types of armor and shields.
 
 
 
@@ -860,15 +860,15 @@ The following is a class feature of the aristocrat NPC class.
 
 COMMONER
 
-**Hit Die:**d4.
+**Hit Die:** d4.
 
 ## Class Skills
 
 The commoner’s class skills (and the key ability for each skill) are Climb (Str), Craft (Int), Handle Animal (Cha), Jump (Str), Listen (Wis), Profession (Wis), Ride (Dex), Spot (Wis), Swim (Str), and Use Rope (Dex).
 
-**Skill Points at 1st Level:**(2 + Int modifier) x 4.
+**Skill Points at 1st Level:** (2 + Int modifier) x 4.
 
-**Skill Points at Each Additional Level:**2 + Int modifier.
+**Skill Points at Each Additional Level:** 2 + Int modifier.
 
 
 
@@ -1106,7 +1106,7 @@ The commoner’s class skills (and the key ability for each skill) are Climb (St
 
 The following is a class feature of the commoner NPC class.
 
-**Weapon and Armor Proficiency:**The commoner is proficient with one simple weapon. He is not proficient with any other weapons, nor is he proficient with any type of armor or shields.
+**Weapon and Armor Proficiency:** The commoner is proficient with one simple weapon. He is not proficient with any other weapons, nor is he proficient with any type of armor or shields.
 
 
 
@@ -1114,15 +1114,15 @@ The following is a class feature of the commoner NPC class.
 
 EXPERT
 
-**Hit Die:**d6.
+**Hit Die:** d6.
 
 ## Class Skills
 
 The expert can choose any ten skills to be class skills.
 
-**Skill Points at 1st Level:**(6 + Int modifier) x4.
+**Skill Points at 1st Level:** (6 + Int modifier) x4.
 
-**Skill Points at Each Additional Level:**6 + Int modifier.
+**Skill Points at Each Additional Level:** 6 + Int modifier.
 
 
 
@@ -1360,7 +1360,7 @@ The expert can choose any ten skills to be class skills.
 
 The following is a class feature of the expert NPC class.
 
-**Weapon and Armor Proficiency:**The expert is proficient in the use of all simple weapons and with light armor but not shields.
+**Weapon and Armor Proficiency:** The expert is proficient in the use of all simple weapons and with light armor but not shields.
 
 
 
@@ -1368,15 +1368,15 @@ The following is a class feature of the expert NPC class.
 
 WARRIOR
 
-**Hit Die:**d8.
+**Hit Die:** d8.
 
 ## Class Skills
 
 The warrior’s class skills (and the key ability for each skill) are Climb (Str), Handle Animal (Cha), Intimidate (Cha), Jump (Str), Ride (Dex), and Swim (Str).
 
-**Skill Points at 1st Level:**(2 + Int modifier) x 4.
+**Skill Points at 1st Level:** (2 + Int modifier) x 4.
 
-**Skill Points at Each Additional Level:**2 + Int modifier.
+**Skill Points at Each Additional Level:** 2 + Int modifier.
 
 
 
@@ -1614,5 +1614,5 @@ The warrior’s class skills (and the key ability for each skill) are Climb (Str
 
 The following is a class feature of the warrior NPC class.
 
-**Weapon and Armor Proficiency:**The warrior is proficient in the use of all simple and martial weapons and all armor and shields.
+**Weapon and Armor Proficiency:** The warrior is proficient in the use of all simple and martial weapons and all armor and shields.
 

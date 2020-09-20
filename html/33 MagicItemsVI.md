@@ -898,11 +898,11 @@ Cursed items are magic items with some sort of potentially negative impact. Some
 
 ![33 MagicItemsVI-Table08.png](33 MagicItemsVI-Table08.png)
 
-**Delusion:**The user believes the item is what it appears to be, yet it actually has no magical power other than to deceive. The user is mentally fooled into thinking the item is functioning and cannot be convinced otherwise without the help of aremove cursespell.
+**Delusion:** The user believes the item is what it appears to be, yet it actually has no magical power other than to deceive. The user is mentally fooled into thinking the item is functioning and cannot be convinced otherwise without the help of aremove cursespell.
 
-**Opposite Effect or Target:**These cursed items malfunction, so that either they do the opposite of what the creator intended, or they target the user instead of someone else. The interesting point to keep in mind here is that these items aren’t always bad to have. Opposite-effect items include weapons that impose penalties on attack and damage rolls rather than bonuses. Just as a character shouldn’t necessarily immediately know what the enhancement bonus of a noncursed magic item is, she shouldn’t immediately know that a weapon is cursed. Once she knows, however, the item can be discarded unless some sort of compulsion is placed upon it that compels the wielder to keep and use it. In such cases, aremove cursespell is generally needed to get rid of the item.
+**Opposite Effect or Target:** These cursed items malfunction, so that either they do the opposite of what the creator intended, or they target the user instead of someone else. The interesting point to keep in mind here is that these items aren’t always bad to have. Opposite-effect items include weapons that impose penalties on attack and damage rolls rather than bonuses. Just as a character shouldn’t necessarily immediately know what the enhancement bonus of a noncursed magic item is, she shouldn’t immediately know that a weapon is cursed. Once she knows, however, the item can be discarded unless some sort of compulsion is placed upon it that compels the wielder to keep and use it. In such cases, aremove cursespell is generally needed to get rid of the item.
 
-**Intermittent Functioning:**The three varieties of intermittent functioning items all function perfectly as described—at least some of the time. The three varieties are unreliable, dependent, and uncontrolled items.
+**Intermittent Functioning:** The three varieties of intermittent functioning items all function perfectly as described—at least some of the time. The three varieties are unreliable, dependent, and uncontrolled items.
 
 Unreliable:Each time the item is activated, there is a 5% chance (01–05 on d%) that it does not function.
 
@@ -998,7 +998,7 @@ Dependent:The item only functions in certain situations. To determine what the s
 
 Uncontrolled:An uncontrolled item occasionally activates at random times. Roll d% every day. On a result of 01–05 the item activates at some random point during that day.
 
-**Requirement:**In a sense, a command word is a requirement. Nevertheless, some items have much more stringent requirements that must be met for them to be usable. To keep an item with this kind of curse functioning, one or more of the following conditions must be met.
+**Requirement:** In a sense, a command word is a requirement. Nevertheless, some items have much more stringent requirements that must be met for them to be usable. To keep an item with this kind of curse functioning, one or more of the following conditions must be met.
 
 •Character must eat twice as much as normal.
 
@@ -1038,7 +1038,7 @@ Uncontrolled:An uncontrolled item occasionally activates at random times. Roll d
 
 Requirements are so dependent upon suitability to the item that they should never be determined randomly. An item with a requirement that is also intelligent often imposes its requirement through its personality. If the requirement is not met, the item ceases to function. If it is met, usually the item functions for one day before the requirement must be met again (although some requirements are one time only, others monthly, and still others continuous).
 
-**Drawback:**Items with drawbacks are usually still beneficial to the possessor but they also carry some negative aspect. Although sometimes drawbacks occur only when the item is used (or held, in the case of some items such as weapons), usually the drawback remains with the character for as long as she has the item.
+**Drawback:** Items with drawbacks are usually still beneficial to the possessor but they also carry some negative aspect. Although sometimes drawbacks occur only when the item is used (or held, in the case of some items such as weapons), usually the drawback remains with the character for as long as she has the item.
 
 Roll on the table below to generate a drawback that (unless otherwise indicated) remains in effect as long as the item is in the character’s possession.
 
@@ -1372,19 +1372,19 @@ A simpledetect magicspell yields a misleading aura and strength, often indicatin
 
 
 
-**Amulet of Inescapable Location:**This device is typically worn on a chain or as a brooch. It appears, to magical analysis, to prevent location, scrying or detection or influence bydetect thoughtsor telepathy. It seems to be anamulet of proof against detection and location. Actually, the amulet gives the wearer a –10 penalty on all saves against divination spells.
+**Amulet of Inescapable Location:** This device is typically worn on a chain or as a brooch. It appears, to magical analysis, to prevent location, scrying or detection or influence bydetect thoughtsor telepathy. It seems to be anamulet of proof against detection and location. Actually, the amulet gives the wearer a –10 penalty on all saves against divination spells.
 
 Moderate abjuration; CL 10th; Create Wondrous Item,bestow curse;Price 1,000 gp.
 
-**Armor of Arrow Attraction:**Magical analysis indicates that this armor is a normal suit of+3 full plate.However, the armor is cursed. It works normally with regard to melee attacks but actually serves to attract ranged weapons. The wearer takes a –15 penalty to AC against any attack by a ranged weapon. The true nature of the armor does not reveal itself until the character is fired upon in earnest.
+**Armor of Arrow Attraction:** Magical analysis indicates that this armor is a normal suit of+3 full plate.However, the armor is cursed. It works normally with regard to melee attacks but actually serves to attract ranged weapons. The wearer takes a –15 penalty to AC against any attack by a ranged weapon. The true nature of the armor does not reveal itself until the character is fired upon in earnest.
 
 Strong abjuration; CL 16th; Craft Magic Arms and Armor,bestow curse;Price 9,000 gp.
 
-**Armor of Rage:**This armor is similar in appearance toarmor of commandand functions as a suit of+1 full plate. However, when it is worn, the armor causes the character to take a –4 penalty to Charisma. All unfriendly characters within 300 feet have a +1 morale bonus on attack rolls against her. The effect is not noticeable to the wearer or those affected. (In other words, the wearer does not immediately notice that donning the armor is the cause of her problems, nor do foes understand the reason for the depth of their enmity.)
+**Armor of Rage:** This armor is similar in appearance toarmor of commandand functions as a suit of+1 full plate. However, when it is worn, the armor causes the character to take a –4 penalty to Charisma. All unfriendly characters within 300 feet have a +1 morale bonus on attack rolls against her. The effect is not noticeable to the wearer or those affected. (In other words, the wearer does not immediately notice that donning the armor is the cause of her problems, nor do foes understand the reason for the depth of their enmity.)
 
 Strong necromancy; CL 16th; Craft Magic Arms and Armor,bestow curse;Price 1,600 gp.
 
-**Bag of Devouring:**This bag appears to be an ordinary sack. Detection for magical properties makes it seem as if it were abag of holding. The sack is, however, a lure used by an extradimensional creature—in fact, one of its feeding orifices.
+**Bag of Devouring:** This bag appears to be an ordinary sack. Detection for magical properties makes it seem as if it were abag of holding. The sack is, however, a lure used by an extradimensional creature—in fact, one of its feeding orifices.
 
 Any substance of animal or vegetable nature is subject to “swallowing’’ if thrust within the bag. Thebag of devouringis 90% likely to ignore any initial intrusion, but any time thereafter that it senses living flesh within (such as if someone reaches into the bag to pull something out), it is 60% likely to close around the offending member and attempt to draw the whole victim in. The bag has a +8 bonus on grapple checks made to pull someone in.
 
@@ -1392,15 +1392,15 @@ The bag can hold up to 30 cubic feet of matter. It acts as abag of holding type 
 
 Moderate conjuration; CL 17th; In effect, this is a creature and cannot be created; Price n/a.
 
-**Boots of Dancing:**These boots initially appear and function as one of the other kinds of magic boots. But when the wearer is in (or fleeing from) melee combat,boots of dancingimpede movement, making him behave as ifirresistible dancehad been cast upon him. Only aremove cursespell enables the wearer to be rid of the boots once their true nature is revealed.
+**Boots of Dancing:** These boots initially appear and function as one of the other kinds of magic boots. But when the wearer is in (or fleeing from) melee combat,boots of dancingimpede movement, making him behave as ifirresistible dancehad been cast upon him. Only aremove cursespell enables the wearer to be rid of the boots once their true nature is revealed.
 
 Strong enchantment; CL 16th; Create Wondrous Item,irresistible dance;Price 30,000 gp.
 
-**Bracers of Defenselessness:**These appear to bebracers of armor +5and actually serve as such until the wearer is attacked in anger by an enemy with a Challenge Rating equal to or greater than her level. At that moment and thereafter, the bracers cause a –5 penalty to AC. Once their curse is activated,bracers of defenselessnesscan be removed only by means of aremove cursespell.
+**Bracers of Defenselessness:** These appear to bebracers of armor +5and actually serve as such until the wearer is attacked in anger by an enemy with a Challenge Rating equal to or greater than her level. At that moment and thereafter, the bracers cause a –5 penalty to AC. Once their curse is activated,bracers of defenselessnesscan be removed only by means of aremove cursespell.
 
 Moderate conjuration; CL 16th; Create Wondrous Item,mage armor, bestow curse;Price 1,200 gp.
 
-**Broom of Animated Attack:**This item is indistinguishable in appearance from a normal broom. It is identical to abroom of flyingby all tests short of attempted use.
+**Broom of Animated Attack:** This item is indistinguishable in appearance from a normal broom. It is identical to abroom of flyingby all tests short of attempted use.
 
 If a command is spoken, the broom does a loop-the-loop with its hopeful rider, dumping him on his head from 1d4+5 feet off the ground (no falling damage, since the fall is less than 10 feet). The broom then attacks the victim, swatting the face with the straw or twig end and beating him with the handle end.
 
@@ -1408,101 +1408,101 @@ The broom gets two attacks per round with each end (two swats with the straw and
 
 Moderate transmutation; CL 10th; Create Wondrous Item,fly, animate objects;Price 5,200 gp.
 
-**Cloak of Poisonousness:**This cloak is usually made of a woolen material, although it can be made of leather. Adetect poisonspell can reveal the presence of poison impregnated in the cloak’s fabric. The garment can be handled without harm, but as soon as it is actually donned the wearer is killed instantly unless she succeeds on a DC 28 Fortitude save.
+**Cloak of Poisonousness:** This cloak is usually made of a woolen material, although it can be made of leather. Adetect poisonspell can reveal the presence of poison impregnated in the cloak’s fabric. The garment can be handled without harm, but as soon as it is actually donned the wearer is killed instantly unless she succeeds on a DC 28 Fortitude save.
 
 Once donned, acloak of poisonousnesscan be removed only with aremove cursespell; doing this destroys the magical property of the cloak. If aneutralize poisonspell is then used, it is possible to revive the victim with araise deadorresurrectionspell, but not before.
 
 Strong abjuration; CL 15th; Create Wondrous Item,poison,andlimited wishormiracle;Price 62,000 gp.
 
-**Crystal Hypnosis Ball:**This cursed item is indistinguishable from a normalcrystal ball.However, anyone attempting to use the scrying device becomes fascinated for 1d6 minutes, and a telepathicsuggestionis implanted in his mind (Will DC 19 negates).
+**Crystal Hypnosis Ball:** This cursed item is indistinguishable from a normalcrystal ball.However, anyone attempting to use the scrying device becomes fascinated for 1d6 minutes, and a telepathicsuggestionis implanted in his mind (Will DC 19 negates).
 
 The user of the device believes that the desired creature or scene was viewed, but actually he came under the influence of a powerful wizard, lich, or even some power or being from another plane. Each further use brings thecrystal hypnosis ballgazer deeper under the influence of the controller, either as a servant or a tool. Note that throughout this time, the user remains unaware of his subjugation.
 
 Moderate divination; CL 17th; In effect, this is a minor artifact and cannot be created; Price n/a.
 
-**Dust of Sneezing and Choking:**This fine dust appears to bedust of appearance.If cast into the air, it causes those within a 20- foot spread to fall into fits of sneezing and coughing. Those failing a DC 15 Fortitude save take 2d6 points of Constitution damage immediately. In addition, those failing a second DC 15 Fortitude save 1 minute later are dealt 1d6 points of Constitution damage. Those who succeed on either saving throw are nonetheless disabled by choking (treat as stunned) for 5d4 rounds.
+**Dust of Sneezing and Choking:** This fine dust appears to bedust of appearance.If cast into the air, it causes those within a 20- foot spread to fall into fits of sneezing and coughing. Those failing a DC 15 Fortitude save take 2d6 points of Constitution damage immediately. In addition, those failing a second DC 15 Fortitude save 1 minute later are dealt 1d6 points of Constitution damage. Those who succeed on either saving throw are nonetheless disabled by choking (treat as stunned) for 5d4 rounds.
 
 Faint conjuration; CL 7th; Create Wondrous Item,poison;Price 2,400 gp.
 
-**Flask of Curses:**This item looks like an ordinary beaker, bottle, container, decanter, flask, or jug. It may contain a liquid, or it may emit smoke. When the flask is first unstoppered, all within 30 feet must make a DC 17 Will save or be cursed, taking a –2 penalty on attack rolls, saving throws, and skill checks until aremove cursespell is cast upon them.
+**Flask of Curses:** This item looks like an ordinary beaker, bottle, container, decanter, flask, or jug. It may contain a liquid, or it may emit smoke. When the flask is first unstoppered, all within 30 feet must make a DC 17 Will save or be cursed, taking a –2 penalty on attack rolls, saving throws, and skill checks until aremove cursespell is cast upon them.
 
 Moderate conjuration; CL 7th; Create Wondrous Item,bestow curse;Price 2,100 gp.
 
-**Gauntlets of Fumbling:**These gauntlets may be of supple leather or heavy protective material suitable for use with armor. In the former instance, they appear to begloves of Dexterity.In the latter case, they appear to begauntlets of ogre power.The gauntlets perform according to every test as if they weregloves of Dexterityorgauntlets of ogre poweruntil the wearer finds herself under attack or in a life-and-death situation. At that time, the curse is activated. The wearer becomes fumble-fingered, with a 50% chance each round of dropping anything held in either hand. The gauntlets also lower Dexterity by 2 points. Once the curse is activated, the gloves can be removed only by means of aremove cursespell, awish,or amiracle.
+**Gauntlets of Fumbling:** These gauntlets may be of supple leather or heavy protective material suitable for use with armor. In the former instance, they appear to begloves of Dexterity.In the latter case, they appear to begauntlets of ogre power.The gauntlets perform according to every test as if they weregloves of Dexterityorgauntlets of ogre poweruntil the wearer finds herself under attack or in a life-and-death situation. At that time, the curse is activated. The wearer becomes fumble-fingered, with a 50% chance each round of dropping anything held in either hand. The gauntlets also lower Dexterity by 2 points. Once the curse is activated, the gloves can be removed only by means of aremove cursespell, awish,or amiracle.
 
 Moderate transmutation; CL 7th; Create Wondrous Item,bestow curse;Price 1,300 gp.
 
-**Helm of Opposite Alignment:**This metal hat looks like a typical helmet. When placed upon the head, however, its curse immediately takes effect (Will DC 15 negates). On a failed save, the alignment of the wearer is radically altered to an alignment as different as possible from the former alignment—good to evil, chaotic to lawful, neutral to some extreme commitment (LE, LG, CE, or CG). Alteration in alignment is mental as well as moral, and the individual changed by the magic thoroughly enjoys his new outlook. A character who succeeds on his save can continue to wear the helmet without suffering the effect of the curse, but if he takes it off and later puts it on again, another save is required. The curse only works once; that is, a character whose alignment has been changed cannot change it again by donning the helmet a second time.
+**Helm of Opposite Alignment:** This metal hat looks like a typical helmet. When placed upon the head, however, its curse immediately takes effect (Will DC 15 negates). On a failed save, the alignment of the wearer is radically altered to an alignment as different as possible from the former alignment—good to evil, chaotic to lawful, neutral to some extreme commitment (LE, LG, CE, or CG). Alteration in alignment is mental as well as moral, and the individual changed by the magic thoroughly enjoys his new outlook. A character who succeeds on his save can continue to wear the helmet without suffering the effect of the curse, but if he takes it off and later puts it on again, another save is required. The curse only works once; that is, a character whose alignment has been changed cannot change it again by donning the helmet a second time.
 
 Only awishor amiraclecan restore former alignment, and the affected individual does not make any attempt to return to the former alignment. (In fact, he views the prospect with horror and avoids it in any way possible.) If a character of a class with an alignment requirement is affected, anatonementspell is needed as well if the curse is to be obliterated. When ahelm of opposite alignmenthas functioned once, it loses its magical properties.
 
 Strong transmutation; CL 12th; Create Wondrous Item, creator must be 12th level; Price 4,000 gp;Weight 3 lb.
 
-**Incense of Obsession:**These blocks of incense appear to beincense of meditation.If meditation and prayer are conducted whileincense of obsessionis burning nearby, its odor and smoke cause the user to become totally confident that her spell ability is superior, due to the magic incense. The user is determined to use her spells at every opportunity, even when not needed or when useless. The user remains obsessed with her abilities and spells until all have been used or cast, or until 24 hours have elapsed.
+**Incense of Obsession:** These blocks of incense appear to beincense of meditation.If meditation and prayer are conducted whileincense of obsessionis burning nearby, its odor and smoke cause the user to become totally confident that her spell ability is superior, due to the magic incense. The user is determined to use her spells at every opportunity, even when not needed or when useless. The user remains obsessed with her abilities and spells until all have been used or cast, or until 24 hours have elapsed.
 
 Moderate enchantment; CL 6th; Create Wondrous Item,bestow curse;Price 200 gp.
 
-**Mace of Blood:**This+3 heavy macemust be coated in blood every day, or its bonus fades away (until the mace is coated again). The character using this mace must make a DC 13 Will save every day it is within his possession or become chaotic evil.
+**Mace of Blood:** This+3 heavy macemust be coated in blood every day, or its bonus fades away (until the mace is coated again). The character using this mace must make a DC 13 Will save every day it is within his possession or become chaotic evil.
 
 Moderate abjuration; CL 8th; Craft Magic Arms and Armor, creator must be at least 9th level and chaotic evil; Price 16,000 gp.
 
-**Medallion of Thought Projection:**This device seems like amedallion of thoughts, even down to the range at which it functions, except that the thoughts overheard are muffled and distorted, requiring a DC 15 Will save to sort out. However, while the user thinks she is picking up the thoughts of others, all she is really hearing are figments created by the medallion itself. These illusory thoughts always seem plausible and thus can seriously mislead any who rely upon them. What’s worse, unknown to her, the cursed medallion actually broadcasts her thoughts to creatures in the path of the beam, thus alerting them to her presence.
+**Medallion of Thought Projection:** This device seems like amedallion of thoughts, even down to the range at which it functions, except that the thoughts overheard are muffled and distorted, requiring a DC 15 Will save to sort out. However, while the user thinks she is picking up the thoughts of others, all she is really hearing are figments created by the medallion itself. These illusory thoughts always seem plausible and thus can seriously mislead any who rely upon them. What’s worse, unknown to her, the cursed medallion actually broadcasts her thoughts to creatures in the path of the beam, thus alerting them to her presence.
 
 Faint divination; CL 7th; Create Wondrous Item,detect thoughts, ghost sound;Price 1,800 gp.
 
-**Necklace of Strangulation:**Anecklace of strangulationappears to be a rare and wondrous piece of valuable jewelry and, short of the use of something as powerful as amiracleor awish, can only be identified as a cursed item when placed around a character’s neck. The necklace immediately constricts, dealing 6 points of damage per round. It cannot be removed by any means short of alimited wish, wish,ormiracleand remains clasped around the victim’s throat even after his death. Only when he has decayed to a dry skeleton (after approximately one month) does the necklace loosen, ready for another victim.
+**Necklace of Strangulation:** Anecklace of strangulationappears to be a rare and wondrous piece of valuable jewelry and, short of the use of something as powerful as amiracleor awish, can only be identified as a cursed item when placed around a character’s neck. The necklace immediately constricts, dealing 6 points of damage per round. It cannot be removed by any means short of alimited wish, wish,ormiracleand remains clasped around the victim’s throat even after his death. Only when he has decayed to a dry skeleton (after approximately one month) does the necklace loosen, ready for another victim.
 
 Strong conjuration; CL 18th; Create Wondrous Item,slay living;Price 60,000 gp.
 
-**Net of Snaring:**This net provides a +3 bonus on attack rolls but can only be used underwater, thus making it a somewhat useful item rather than what most would really call a cursed item. Underwater, it can be commanded to shoot forth up to 30 feet to trap a creature.
+**Net of Snaring:** This net provides a +3 bonus on attack rolls but can only be used underwater, thus making it a somewhat useful item rather than what most would really call a cursed item. Underwater, it can be commanded to shoot forth up to 30 feet to trap a creature.
 
 Moderate evocation; CL 8th; Craft Magic Arms and Armor,freedom of movement;Price 10,000 gp.
 
-**Periapt of Foul Rotting:**This engraved gem appears to be of little value. If any character keeps the periapt in her possession for more than 24 hours, she contracts a terrible rotting affliction that permanently drains 1 point of Dexterity, Constitution, and Charisma every week. The periapt (and the affliction) can be removed only by application of aremove cursespell followed by acure diseaseand then aheal, miracle, limited wish, orwishspell. The rotting can also be countered by crushing aperiapt of healthand sprinkling its dust upon the afflicted character (a full-round action), whereupon the periapt of foul rotting likewise crumbles to dust.
+**Periapt of Foul Rotting:** This engraved gem appears to be of little value. If any character keeps the periapt in her possession for more than 24 hours, she contracts a terrible rotting affliction that permanently drains 1 point of Dexterity, Constitution, and Charisma every week. The periapt (and the affliction) can be removed only by application of aremove cursespell followed by acure diseaseand then aheal, miracle, limited wish, orwishspell. The rotting can also be countered by crushing aperiapt of healthand sprinkling its dust upon the afflicted character (a full-round action), whereupon the periapt of foul rotting likewise crumbles to dust.
 
 Faint abjuration; CL 10th; Create Wondrous Item,contagion;Price 17,000 gp.
 
-**Potion of Poison:**This potion has lost its once beneficial magical abilities and has become a potent poison. The imbiber must make a DC 16 Fortitude save or take 1d10 points of Constitution damage. A minute later he must save again (DC 16) or take 1d10 points of Constitution damage.
+**Potion of Poison:** This potion has lost its once beneficial magical abilities and has become a potent poison. The imbiber must make a DC 16 Fortitude save or take 1d10 points of Constitution damage. A minute later he must save again (DC 16) or take 1d10 points of Constitution damage.
 
 Moderate conjuration; CL 12th; Craft Wondrous Item,poison;Price 5,000 gp.
 
-**Robe of Powerlessness:**Arobe of powerlessnessappears to be a magic robe of another sort. As soon as a character dons this garment, she takes a –10 penalty to Strength and Intelligence, forgetting spells and magic knowledge accordingly. The robe can be removed easily, but in order to restore mind and body, the character must receive aremove cursespell followed byheal.
+**Robe of Powerlessness:** Arobe of powerlessnessappears to be a magic robe of another sort. As soon as a character dons this garment, she takes a –10 penalty to Strength and Intelligence, forgetting spells and magic knowledge accordingly. The robe can be removed easily, but in order to restore mind and body, the character must receive aremove cursespell followed byheal.
 
 Moderate transmutation; CL 13th; Create Wondrous Item,bestow curse, permanency;Price 5,500 gp.
 
-**Robe of Vermin:**The wearer notices nothing unusual when the robe is donned, other than that it offers great magical defense (as acloak of protection +4). However, as soon as he is in a situation requiring concentration and action against hostile opponents, the true nature of the garment is revealed: The wearer immediately suffers a multitude of bites from the insects that magically infest the garment. He must cease all other activities in order to scratch, shift the robe, and generally show signs of the extreme discomfort caused by the bites and movement of these pests.
+**Robe of Vermin:** The wearer notices nothing unusual when the robe is donned, other than that it offers great magical defense (as acloak of protection +4). However, as soon as he is in a situation requiring concentration and action against hostile opponents, the true nature of the garment is revealed: The wearer immediately suffers a multitude of bites from the insects that magically infest the garment. He must cease all other activities in order to scratch, shift the robe, and generally show signs of the extreme discomfort caused by the bites and movement of these pests.
 
 The wearer takes a –5 penalty on initiative checks and a –2 penalty on all attack rolls, saves, and skill checks. If he tries to cast a spell, he must make a Concentration check (DC 20 + spell level) or lose the spell.
 
 Moderate abjuration; CL 13th; Create Wondrous Item,summon swarm,creator must be at least 13th level; Price 16,500 gp.
 
-**Ring of Clumsiness:**This ring operates exactly like aring of feather falling. However, it also makes the wearer clumsy. She takes a –4 penalty to Dexterity and has a 20% chance of spell failure when trying to cast any arcane spell that has a somatic component. (This chance of spell failure stacks with other arcane spell failure chances.)
+**Ring of Clumsiness:** This ring operates exactly like aring of feather falling. However, it also makes the wearer clumsy. She takes a –4 penalty to Dexterity and has a 20% chance of spell failure when trying to cast any arcane spell that has a somatic component. (This chance of spell failure stacks with other arcane spell failure chances.)
 
 Strong transmutation; CL 15th; Forge Ring,feather fall, bestow curse;Price 500 gp.
 
-**Scarab of Death:**This small pin appears to be any one of the various beneficial amulets, brooches, or scarabs. However, if it is held for more than 1 round or carried by a living creature for 1 minute, it changes into a horrible burrowing beetlelike creature. The thing tears through any leather or cloth, burrows into flesh, and reaches the victim’s heart in 1 round, causing death. A DC 25 Reflex save allows the wearer to tear the scarab away before it burrows out of sight, but he still takes 3d6 points of damage. The beetle then returns to its scarab form. Placing the scarab in a container of wood, ceramic, bone, ivory, or metal prevents the monster from coming to life and allows for long-term storage of the item.
+**Scarab of Death:** This small pin appears to be any one of the various beneficial amulets, brooches, or scarabs. However, if it is held for more than 1 round or carried by a living creature for 1 minute, it changes into a horrible burrowing beetlelike creature. The thing tears through any leather or cloth, burrows into flesh, and reaches the victim’s heart in 1 round, causing death. A DC 25 Reflex save allows the wearer to tear the scarab away before it burrows out of sight, but he still takes 3d6 points of damage. The beetle then returns to its scarab form. Placing the scarab in a container of wood, ceramic, bone, ivory, or metal prevents the monster from coming to life and allows for long-term storage of the item.
 
 Strong abjuration; CL 19th; Create Wondrous Item,slay living;Price 80,000 gp.
 
-**Spear, Cursed Backbiter:**This is a+2 shortspear,but each time it is used in melee against a foe and the attack roll is a natural 1, it damages its wielder instead of her intended target. When the curse takes effect, the spear curls around to strike its wielder in the back, automatically dealing the damage to the wielder. The curse even functions when the spear is hurled, and in such a case the damage to the hurler is doubled.
+**Spear, Cursed Backbiter:** This is a+2 shortspear,but each time it is used in melee against a foe and the attack roll is a natural 1, it damages its wielder instead of her intended target. When the curse takes effect, the spear curls around to strike its wielder in the back, automatically dealing the damage to the wielder. The curse even functions when the spear is hurled, and in such a case the damage to the hurler is doubled.
 
 Moderate evocation; CL 10th; Craft Magic Arms and Armor,bestow curse;Price 7,500 gp.
 
-**Stone of Weight (Loadstone):**This stone appears to be a dark, smoothly polished stone. It reduces the possessor’s base land speed to one-half of normal. Once picked up, the stone cannot be disposed of by any nonmagical means—if it is thrown away or smashed, it reappears somewhere on his person. If aremove cursespell is cast upon aloadstone,the item may be discarded normally and no longer haunts the individual.
+**Stone of Weight (Loadstone):** This stone appears to be a dark, smoothly polished stone. It reduces the possessor’s base land speed to one-half of normal. Once picked up, the stone cannot be disposed of by any nonmagical means—if it is thrown away or smashed, it reappears somewhere on his person. If aremove cursespell is cast upon aloadstone,the item may be discarded normally and no longer haunts the individual.
 
 Faint transmutation; CL 5th; Create Wondrous Item,slow;Price 1,000 gp.
 
-–**2 Sword, Cursed:**This longsword performs well against targets in practice, but when used against an opponent in combat, it causes its wielder to take a –2 penalty on attack rolls.
+–**2 Sword, Cursed:** This longsword performs well against targets in practice, but when used against an opponent in combat, it causes its wielder to take a –2 penalty on attack rolls.
 
 All damage dealt is also reduced by 2 points, but never below a minimum of 1 point of damage on any successful hit. After one week in a character’s possession, the sword always forces that character to employ it rather than another weapon. The sword’s owner automatically draws it and fights with it even when she meant to draw or ready some other weapon. The sword can be gotten rid of only by means oflimited wish,wish,ormiracle.
 
 Strong evocation; CL 15th; Craft Magic Arms and Armor,bestow curse,andlimited wishormiracle;Price 1,500 gp.
 
-**Sword, Berserking:**This item appears to have the characteristics of a+2 greatsword.However, whenever the sword is used in battle, its wielder goes berserk (gaining all the benefits and drawbacks of the barbarian’s rage ability). He attacks the nearest creature and continues to fight until unconscious or dead or until no living thing remains within 30 feet. Although many see this sword as a cursed object, others see it as a boon.
+**Sword, Berserking:** This item appears to have the characteristics of a+2 greatsword.However, whenever the sword is used in battle, its wielder goes berserk (gaining all the benefits and drawbacks of the barbarian’s rage ability). He attacks the nearest creature and continues to fight until unconscious or dead or until no living thing remains within 30 feet. Although many see this sword as a cursed object, others see it as a boon.
 
 Moderate evocation; CL 8th; Craft Magic Arms and Armor,rage, bestow curse;Price 17,500 gp.
 
-**Vacuous Grimoire:**A book of this sort looks like a normal one on some mildly interesting topic. Any character who opens the work and reads so much as a single word therein must make two DC 15 Will saves. The first is to determine if the reader takes 1 point of permanent Intelligence drain. The second is to find out if the reader takes 2 points of permanent Wisdom drain. To destroy the book, a character must burn it while castingremove curse. If the grimoire is placed with other books, its appearance instantly alters to conform to the look of those other works.
+**Vacuous Grimoire:** A book of this sort looks like a normal one on some mildly interesting topic. Any character who opens the work and reads so much as a single word therein must make two DC 15 Will saves. The first is to determine if the reader takes 1 point of permanent Intelligence drain. The second is to find out if the reader takes 2 points of permanent Wisdom drain. To destroy the book, a character must burn it while castingremove curse. If the grimoire is placed with other books, its appearance instantly alters to conform to the look of those other works.
 
 Strong enchantment; CL 20th; Create Wondrous Item,feeblemind;Price 6,000 gp.
 
@@ -1540,7 +1540,7 @@ Described below is a selection of the most well-known (not necessarily the most 
 
 
 
-**Book of Infinite Spells:**This work bestows upon any character of any class the ability to use the spells within its pages. However, any character not already able to use spells gains one negative level for as long as the book is in her possession or while she uses its power. Abook of infinite spellscontains 1d8+22 pages. The nature of each page is determined by a dice roll: 01–50, arcane spell; 51–100, divine spell.
+**Book of Infinite Spells:** This work bestows upon any character of any class the ability to use the spells within its pages. However, any character not already able to use spells gains one negative level for as long as the book is in her possession or while she uses its power. Abook of infinite spellscontains 1d8+22 pages. The nature of each page is determined by a dice roll: 01–50, arcane spell; 51–100, divine spell.
 
 Determine the exact spell by using the tables for determining major scroll spells.
 
@@ -1584,7 +1584,7 @@ Strong (all schools); CL 18th;Weight 3 lb.
 
 
 
-**Deck of Many Things:**Adeck of many things(both beneficial and baneful) is usually found in a box or leather pouch. Each deck contains a number of cards or plaques made of ivory or vellum. Each is engraved with glyphs, characters, and sigils. As soon as one of these cards is drawn from the pack, its magic is bestowed upon the person who drew it, for better or worse.
+**Deck of Many Things:** Adeck of many things(both beneficial and baneful) is usually found in a box or leather pouch. Each deck contains a number of cards or plaques made of ivory or vellum. Each is engraved with glyphs, characters, and sigils. As soon as one of these cards is drawn from the pack, its magic is bestowed upon the person who drew it, for better or worse.
 
 The character with adeck of many thingswho wishes to draw a card must announce how many cards she will draw before she begins. Cards must be drawn within 1 hour of each other, and a character can never again draw from this deck any more cards than she has announced. If the character does not willingly draw her allotted number (or if she is somehow prevented from doing so), the cards flip out of the deck on their own.Exception:If the jester is drawn, the possessor of the deck may elect to draw two additional cards.
 
@@ -1842,7 +1842,7 @@ Strong (all schools); CL 20th.
 
 
 
-**Hammer of Thunderbolts:**This+3 Large returning warhammerdeals 4d6 points of damage on any hit. Further, if the wielder wears abelt of giant Strengthandgauntlets of ogre powerand he knows that the hammer is ahammer of thunderbolts(not just a+3 warhammer), the weapon can be used to full effect: It gains a total +5 enhancement bonus, allows allbeltandgauntletbonuses to stack (only when using this weapon), and strikes dead any giant upon whom it scores a hit (Fortitude DC 20 negates the death effect but not the damage).
+**Hammer of Thunderbolts:** This+3 Large returning warhammerdeals 4d6 points of damage on any hit. Further, if the wielder wears abelt of giant Strengthandgauntlets of ogre powerand he knows that the hammer is ahammer of thunderbolts(not just a+3 warhammer), the weapon can be used to full effect: It gains a total +5 enhancement bonus, allows allbeltandgauntletbonuses to stack (only when using this weapon), and strikes dead any giant upon whom it scores a hit (Fortitude DC 20 negates the death effect but not the damage).
 
 When hurled, on a successful attack the hammer emits a great noise, like a clap of thunder, causing all creatures within 90 feet to be stunned for 1 round (Fortitude DC 15 negates). The hammer’s range increment is 30 feet.
 
@@ -1852,7 +1852,7 @@ Strong evocation, necromancy, and transmutation; CL 20th; Weight 15 lb.
 
 
 
-**Philosopher’s Stone:**This rare substance appears to be an ordinary, sooty piece of blackish rock. If the stone is broken open (break DC 20), a cavity is revealed at the stone’s heart. This cavity is lined with a magical type of quicksilver that enables any arcane spellcaster to transmute base metals (iron and lead) into silver and gold. A singlephilosopher’s stonecan turn from up to 5,000 pounds of iron into silver, or up to 1,000 pounds of lead into gold. However, the quicksilver becomes unstable once the stone is opened and loses its potency within 24 hours, so all transmutations must take place within that period.
+**Philosopher’s Stone:** This rare substance appears to be an ordinary, sooty piece of blackish rock. If the stone is broken open (break DC 20), a cavity is revealed at the stone’s heart. This cavity is lined with a magical type of quicksilver that enables any arcane spellcaster to transmute base metals (iron and lead) into silver and gold. A singlephilosopher’s stonecan turn from up to 5,000 pounds of iron into silver, or up to 1,000 pounds of lead into gold. However, the quicksilver becomes unstable once the stone is opened and loses its potency within 24 hours, so all transmutations must take place within that period.
 
 The quicksilver found in the center of the stone may also be put to another use. If mixed with anycurepotion while the substance is still potent, it creates a specialoil of lifethat acts as atrue resurrectionspell for any dead body it is sprinkled upon.
 
@@ -1862,7 +1862,7 @@ Strong transmutation; CL 20th;Weight 3 lb.
 
 
 
-**Sphere of Annihilation:**Asphere of annihilationis a globe of absolute blackness, a ball of nothingness 2 feet in diameter. The object is actually a hole in the continuity of the multiverse. Any matter that comes in contact with a sphere is instantly sucked into the void, gone, and utterly destroyed. Only the direct intervention of a deity can restore an annihilated character.
+**Sphere of Annihilation:** Asphere of annihilationis a globe of absolute blackness, a ball of nothingness 2 feet in diameter. The object is actually a hole in the continuity of the multiverse. Any matter that comes in contact with a sphere is instantly sucked into the void, gone, and utterly destroyed. Only the direct intervention of a deity can restore an annihilated character.
 
 Asphere of annihilationis static, resting in some spot as if it were a normal hole. It can be caused to move, however, by mental effort (think of this as a mundane form of telekinesis, too weak to move actual objects but a force to which the sphere, being weightless, is sensitive). A character’s ability to gain control of asphere of annihilation(or to keep controlling one) is based on the result of a control check against DC 30 (a move action). A control check is 1d20 + character level + character Int modifier. If the check succeeds, the character can move the sphere (perhaps to bring it into contact with an enemy) as a free action.
 
@@ -1886,7 +1886,7 @@ Strong transmutation; CL 20th.
 
 
 
-**Staff of the Magi:**A long wooden staff, shod in iron and inscribed with sigils and runes of all types, this potent artifact contains many spell powers and other functions. Some of its powers use charges, while others don’t. The following powers do not use charges:
+**Staff of the Magi:** A long wooden staff, shod in iron and inscribed with sigils and runes of all types, this potent artifact contains many spell powers and other functions. Some of its powers use charges, while others don’t. The following powers do not use charges:
 
 •Detect magic
 
@@ -1942,7 +1942,7 @@ Strong (all schools); CL 20th;Weight 5 lb.
 
 
 
-**Talisman of Pure Good:**A good (LG, NG, CG) divine spellcaster who possesses this item can cause a flaming crack to open at the feet of an evil (LE, NE, CE) divine spellcaster who is up to 100 feet away. The intended victim is swallowed up forever and sent hurtling to the center of the earth. The wielder of the talisman must be good, and if he is not exceptionally pure in thought and deed the evil character gains a DC 19 Reflex saving throw to leap away from the crack. Obviously, the target must be standing on solid ground for this item to function.
+**Talisman of Pure Good:** A good (LG, NG, CG) divine spellcaster who possesses this item can cause a flaming crack to open at the feet of an evil (LE, NE, CE) divine spellcaster who is up to 100 feet away. The intended victim is swallowed up forever and sent hurtling to the center of the earth. The wielder of the talisman must be good, and if he is not exceptionally pure in thought and deed the evil character gains a DC 19 Reflex saving throw to leap away from the crack. Obviously, the target must be standing on solid ground for this item to function.
 
 Atalisman of pure goodhas 6 charges. If a neutral (LN, N, CN) divine spellcaster touches one of these stones, he takes 6d6 points of damage. If an evil divine spellcaster touches one, he takes 8d6 points of damage. All other characters are unaffected by the device.
 
@@ -1952,7 +1952,7 @@ Strong evocation [good]; CL 18th.
 
 
 
-**Talisman of the Sphere:**This small adamantine loop and handle are useless to those unable to cast arcane spells. Characters
+**Talisman of the Sphere:** This small adamantine loop and handle are useless to those unable to cast arcane spells. Characters
 
 who cannot cast arcane spells take 5d6 points of damage merely from picking up and holding a talisman of this sort. However, when held by an arcane spellcaster who is concentrating on control of asphere of annihilation,atalisman of the spheredoubles the character’s modifier on his control check (doubling both his Intelligence bonus and his character level for this purpose).
 
@@ -1964,7 +1964,7 @@ Strong transmutation; CL 16th;Weight 1 lb.
 
 
 
-**Talisman of Reluctant Wishes:**A talisman of this sort appears the same as astone of controlling earth elementals.Its powers are quite different, however, and dependent on the Charisma of the individual holding the talisman. Whenever a character touches atalisman of reluctant wishes,he must make a DC 15 Charisma check.
+**Talisman of Reluctant Wishes:** A talisman of this sort appears the same as astone of controlling earth elementals.Its powers are quite different, however, and dependent on the Charisma of the individual holding the talisman. Whenever a character touches atalisman of reluctant wishes,he must make a DC 15 Charisma check.
 
 If he fails, the device acts as astone of weight. Discarding or destroying it results in 5d6 points of damage to the character and the disappearance of the talisman.
 
@@ -1980,7 +1980,7 @@ Strong conjuration; CL 20th;Weight 1 lb.
 
 
 
-**Talisman of Ultimate Evil:**An evil (LE, NE, CE) divine spellcaster who possesses this item can cause a flaming crack to open at the feet of a good (LG, NG, CG) divine spellcaster who is up to 100 feet away. The intended victim is swallowed up forever and sent hurtling to the center of the earth. The wielder of the talisman must be evil, and if she is not exceptionally foul and perverse in the sights of her evil deity the good character gains a DC 19 Reflex save to leap away from the crack. Obviously, the target must be standing on solid ground for this item to function.
+**Talisman of Ultimate Evil:** An evil (LE, NE, CE) divine spellcaster who possesses this item can cause a flaming crack to open at the feet of a good (LG, NG, CG) divine spellcaster who is up to 100 feet away. The intended victim is swallowed up forever and sent hurtling to the center of the earth. The wielder of the talisman must be evil, and if she is not exceptionally foul and perverse in the sights of her evil deity the good character gains a DC 19 Reflex save to leap away from the crack. Obviously, the target must be standing on solid ground for this item to function.
 
 Atalisman of ultimate evilhas 6 charges. If a neutral (LN, N, CN) divine spellcaster touches one of these stones, she takes 6d6 points of damage. If a good divine spellcaster touches one, she takes 8d6 points of damage. All other characters are unaffected by the device.
 
@@ -2006,13 +2006,13 @@ Major Artifact Descriptions
 
 
 
-**The Moaning Diamond:**TheMoaning Diamondappears to be an uncut diamond the size of a human fist. At all times, it gives forth a baleful moaning sound, as if in pain. Despite the noise, theMoaning Diamondis not evil. The wielder of the stone can, three times per day, call upon it to reshape earth and stone as if by the spellstone shape,affecting 5,000 cubic feet of material. TheMoaning Diamondcan summon an elder earth elemental with maximum hit points that serves the caster until it is slain. Only one such elemental can be summoned at a time; if it is slain, a new creature cannot be summoned for 24 hours.
+**The Moaning Diamond:** TheMoaning Diamondappears to be an uncut diamond the size of a human fist. At all times, it gives forth a baleful moaning sound, as if in pain. Despite the noise, theMoaning Diamondis not evil. The wielder of the stone can, three times per day, call upon it to reshape earth and stone as if by the spellstone shape,affecting 5,000 cubic feet of material. TheMoaning Diamondcan summon an elder earth elemental with maximum hit points that serves the caster until it is slain. Only one such elemental can be summoned at a time; if it is slain, a new creature cannot be summoned for 24 hours.
 
 
 
 
 
-**The Orbs of Dragonkind:**Each of these fabled orbs contains the essence and personality of an ancient dragon of a different variety (one for each of the major ten different chromatic and metallic dragons). The bearer of anOrbcandominatedragons of its particular variety within 500 feet (asdominate monster), the dragon being forced to make a DC 25 Will save to resist. (Spell resistance is not useful against this effect.) EachOrb of Dragonkindbestows upon the wielder the AC and saving throw bonuses of the dragon within. These values replace whatever values the character would otherwise have, whether they are better or worse. These values cannot be modified by any means short of ridding the character of theOrb.A character possessing anOrb of Dragonkindis immune to the breath weapon—but only the breath weapon—of the dragon variety keyed to theOrb.Finally, a character possessing anOrbcan herself use the breath weapon of the dragon in theOrbthree times per day.
+**The Orbs of Dragonkind:** Each of these fabled orbs contains the essence and personality of an ancient dragon of a different variety (one for each of the major ten different chromatic and metallic dragons). The bearer of anOrbcandominatedragons of its particular variety within 500 feet (asdominate monster), the dragon being forced to make a DC 25 Will save to resist. (Spell resistance is not useful against this effect.) EachOrb of Dragonkindbestows upon the wielder the AC and saving throw bonuses of the dragon within. These values replace whatever values the character would otherwise have, whether they are better or worse. These values cannot be modified by any means short of ridding the character of theOrb.A character possessing anOrb of Dragonkindis immune to the breath weapon—but only the breath weapon—of the dragon variety keyed to theOrb.Finally, a character possessing anOrbcan herself use the breath weapon of the dragon in theOrbthree times per day.
 
 AllOrbs of Dragonkindcan be used to communicate verbally and visually with the possessors of the otherOrbs.The owner of anOrbknows whether there are dragons within 10 miles at all times. For dragons of theOrb’s particular variety, the range is 100 miles. If within 1 mile of a dragon of theOrb’s variety, the wielder can determine the exact location and age of the creature. The bearer of one of theseOrbsearns the enmity forever of all dragonkind for profiting by the enslavement of one of their kin, even if she later loses the item.
 
@@ -2044,13 +2044,13 @@ power once per day. She can usedominateon any other possessor of anOrbwithin 1 m
 
 
 
-**The Saint’s Mace:**This relic appears to be a simple, well-used cudgel, but its simple appearance hides great power. Thesaint’s macehas a +5 enhancement bonus and functions as a heavy mace with the holy, lawful, and disruption special abilities. The wielder can projectsearing lightfrom the mace at will, at caster level 20th.
+**The Saint’s Mace:** This relic appears to be a simple, well-used cudgel, but its simple appearance hides great power. Thesaint’s macehas a +5 enhancement bonus and functions as a heavy mace with the holy, lawful, and disruption special abilities. The wielder can projectsearing lightfrom the mace at will, at caster level 20th.
 
 
 
 
 
-**The Shadowstaff:**This artifact was crafted centuries ago, weaving together the wispy strands of shadow itself into a twisted black staff. TheShadowstaffmakes the wielder slightly shadowy and incorporeal, granting him a +4 bonus to AC and Reflex saves (which stacks with any other bonuses). However, in bright light (such as that of the sun, but not a torch) or in absolute darkness, the wielder takes a –2 penalty on all attack rolls, saves, and checks.
+**The Shadowstaff:** This artifact was crafted centuries ago, weaving together the wispy strands of shadow itself into a twisted black staff. TheShadowstaffmakes the wielder slightly shadowy and incorporeal, granting him a +4 bonus to AC and Reflex saves (which stacks with any other bonuses). However, in bright light (such as that of the sun, but not a torch) or in absolute darkness, the wielder takes a –2 penalty on all attack rolls, saves, and checks.
 
 TheShadowstaffalso has these powers.
 

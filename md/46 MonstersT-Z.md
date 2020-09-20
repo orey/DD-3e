@@ -112,25 +112,25 @@ The tarrasque attacks with its claws, teeth, horns, and tail.
 
 The tarrasque’s natural weapons are treated as epic weapons for the purpose of overcoming damage reduction.
 
-**Augmented Critical (Ex):**The tarrasque’s bite threatens a critical hit on a natural attack roll of 18–20, dealing triple damage on a successful critical hit.
+**Augmented Critical (Ex):** The tarrasque’s bite threatens a critical hit on a natural attack roll of 18–20, dealing triple damage on a successful critical hit.
 
-**Frightful Presence (Su):**The tarrasque can inspire terror by charging or attacking. Affected creatures must succeed on a DC 36 Will save or become shaken, remaining in that condition as long as they remain with 60 feet of the tarrasque. The save DC is Charisma-based.
+**Frightful Presence (Su):** The tarrasque can inspire terror by charging or attacking. Affected creatures must succeed on a DC 36 Will save or become shaken, remaining in that condition as long as they remain with 60 feet of the tarrasque. The save DC is Charisma-based.
 
-**Improved Grab (Ex):**To use this ability, the tarrasque must hit a Huge or smaller opponent with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can try to swallow the foe the following round.
+**Improved Grab (Ex):** To use this ability, the tarrasque must hit a Huge or smaller opponent with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can try to swallow the foe the following round.
 
-**Rush (Ex):**Once per minute, the normally slow-moving tarrasque can move at a speed of 150 feet.
+**Rush (Ex):** Once per minute, the normally slow-moving tarrasque can move at a speed of 150 feet.
 
-**Swallow Whole (Ex):**The tarrasque can try to swallow a grabbed opponent of Huge or smaller size by making a successful grapple check. Once inside, the opponent takes 2d8+8 points of crushing damage plus 2d8+6 points of acid damage per round from the tarrasque’s digestive juices. A swallowed creature can cut its way out by dealing 50 points of damage to the tarrasque’s digestive tract (AC 25). Once the creature exits, muscular action closes the hole; another swallowed opponent must cut its own way out. The tarrasque’s gullet can hold 2 Huge, 8 Large, 32 Medium, 128 Small, or 512 Tiny or smaller creatures.
+**Swallow Whole (Ex):** The tarrasque can try to swallow a grabbed opponent of Huge or smaller size by making a successful grapple check. Once inside, the opponent takes 2d8+8 points of crushing damage plus 2d8+6 points of acid damage per round from the tarrasque’s digestive juices. A swallowed creature can cut its way out by dealing 50 points of damage to the tarrasque’s digestive tract (AC 25). Once the creature exits, muscular action closes the hole; another swallowed opponent must cut its own way out. The tarrasque’s gullet can hold 2 Huge, 8 Large, 32 Medium, 128 Small, or 512 Tiny or smaller creatures.
 
-**Carapace (Ex):**The tarrasque’s armorlike carapace is exceptionally tough and highly reflective, deflecting all rays, lines, cones, and evenmagic missile spells. There is a 30% chance of reflecting any such effect back at the caster; otherwise, it is merely negated. Check for reflection before rolling to overcome the creature’s spell resistance.
+**Carapace (Ex):** The tarrasque’s armorlike carapace is exceptionally tough and highly reflective, deflecting all rays, lines, cones, and evenmagic missile spells. There is a 30% chance of reflecting any such effect back at the caster; otherwise, it is merely negated. Check for reflection before rolling to overcome the creature’s spell resistance.
 
-**Regeneration (Ex):**No form of attack deals lethal damage to the tarrasque. The tarrasque regenerates even if it fails a saving throw against adisintegratespell or a death effect. If the tarrasque fails its save against a spell or effect that would kill it instantly (such as those mentioned above), the spell or effect instead deals nonlethal damage equal to the creature’s full normal hit points +10 (or 868 hp). The tarrasque is immune to effects that produce incurable or bleeding wounds, such as mummy rot, a sword with the wounding special ability, or a clay golem’s cursed wound ability.
+**Regeneration (Ex):** No form of attack deals lethal damage to the tarrasque. The tarrasque regenerates even if it fails a saving throw against adisintegratespell or a death effect. If the tarrasque fails its save against a spell or effect that would kill it instantly (such as those mentioned above), the spell or effect instead deals nonlethal damage equal to the creature’s full normal hit points +10 (or 868 hp). The tarrasque is immune to effects that produce incurable or bleeding wounds, such as mummy rot, a sword with the wounding special ability, or a clay golem’s cursed wound ability.
 
 The tarrasque can be slain only by raising its nonlethal damage total to its full normal hit points +10 (or 868 hit points) and using awishormiraclespell to keep it dead.
 
 If the tarrasque loses a limb or body part, the lost portion regrows in 1d6 minutes (the detached piece dies and decays normally). The creature can reattach the severed member instantly by holding it to the stump.
 
-**Skills:**The tarrasque has a +8 racial bonus on Listen and Spot checks.
+**Skills:** The tarrasque has a +8 racial bonus on Listen and Spot checks.
 
 
 
@@ -238,11 +238,11 @@ COMBAT
 
 Prowling deep forests or waiting in vegetated areas (looking like nothing more than a small hillock), a tendriculos attacks savagely, showing no fear. It attempts to swallow as much flesh as it can, as quickly as it can.
 
-**Improved Grab (Ex):**To use this ability, a tendriculos must hit a creature at least one size smaller than itself with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can try to swallow the opponent in the following round. A tendriculos can also use its improved grab ability on a tendril attack. If it wins the grapple check, it establishes a hold, picks up the opponent, and transfers it to the mouth as a free action, automatically dealing bite damage.
+**Improved Grab (Ex):** To use this ability, a tendriculos must hit a creature at least one size smaller than itself with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can try to swallow the opponent in the following round. A tendriculos can also use its improved grab ability on a tendril attack. If it wins the grapple check, it establishes a hold, picks up the opponent, and transfers it to the mouth as a free action, automatically dealing bite damage.
 
-**Swallow Whole/Paralysis (Ex):**A tendriculos can try to swallow a grabbed opponent by making a successful grapple check. Once inside the plant’s mass, the opponent must succeed on a DC 20 Fortitude save or be paralyzed for 3d6 rounds by the tendriculos’s digestive juices, taking 2d6 points of acid damage per round. A new save is required each round inside the plant. The save DC is Constitution-based. A swallowed creature that avoids paralysis can climb out of the mass with a successful grapple check. This returns it to the plant’s maw, where another successful grapple check is needed to get free. A swallowed creature can also cut its way out by using a light slashing or piercing weapon to deal 25 points of damage to the tendriculos’s interior (AC 14). Once the creature exits, the plant’s regenerative capacity closes the hole; another swallowed opponent must cut its own way out. A Huge tendriculos’s interior can hold 2 Large, 8 Medium, 32 Small, 128 Tiny, or 512 Diminutive or smaller opponents.
+**Swallow Whole/Paralysis (Ex):** A tendriculos can try to swallow a grabbed opponent by making a successful grapple check. Once inside the plant’s mass, the opponent must succeed on a DC 20 Fortitude save or be paralyzed for 3d6 rounds by the tendriculos’s digestive juices, taking 2d6 points of acid damage per round. A new save is required each round inside the plant. The save DC is Constitution-based. A swallowed creature that avoids paralysis can climb out of the mass with a successful grapple check. This returns it to the plant’s maw, where another successful grapple check is needed to get free. A swallowed creature can also cut its way out by using a light slashing or piercing weapon to deal 25 points of damage to the tendriculos’s interior (AC 14). Once the creature exits, the plant’s regenerative capacity closes the hole; another swallowed opponent must cut its own way out. A Huge tendriculos’s interior can hold 2 Large, 8 Medium, 32 Small, 128 Tiny, or 512 Diminutive or smaller opponents.
 
-**Regeneration (Ex):**Bludgeoning weapons and acid deal normal damage to a tendriculos. A tendriculos that loses part of its body mass can regrow it in 1d6 minutes. Holding the severed portion against the mass enables it to reattach instantly.
+**Regeneration (Ex):** Bludgeoning weapons and acid deal normal damage to a tendriculos. A tendriculos that loses part of its body mass can regrow it in 1d6 minutes. Holding the severed portion against the mass enables it to reattach instantly.
 
 
 
@@ -348,9 +348,9 @@ COMBAT
 
 When a thoqqua is disturbed, its first instinct is to attack. Its favored tactic is to spring directly at a foe, either by bursting out of the rock or by coiling up its body and launching itself like a spring. (Treat this as a charge, even though the thoqqua does not need to move 10 feet before attacking.)
 
-**Heat (Ex):**Merely touching or being touched by a thoqqua automatically deals 2d6 fire damage.
+**Heat (Ex):** Merely touching or being touched by a thoqqua automatically deals 2d6 fire damage.
 
-**Burn (Ex):**When a thoqqua hits with its slam attack, the opponent must succeed on a DC 12 Reflex save or catch fire. The save DC is Constitution-based. The flame burns for 1d4 rounds if not extinguished sooner. A burning creature can use a full-round action to put out the flame.
+**Burn (Ex):** When a thoqqua hits with its slam attack, the opponent must succeed on a DC 12 Reflex save or catch fire. The save DC is Constitution-based. The flame burns for 1d4 rounds if not extinguished sooner. A burning creature can use a full-round action to put out the flame.
 
 
 
@@ -458,9 +458,9 @@ COMBAT
 
 A titan’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned for the purpose of overcoming damage reduction.
 
-**Oversized Weapon (Ex):**A titan wields a great, two-handed warhammer (big enough for Gargantuan creatures) without penalty.
+**Oversized Weapon (Ex):** A titan wields a great, two-handed warhammer (big enough for Gargantuan creatures) without penalty.
 
-**Spell-Like Abilities:**At will—chain lightning(DC 23),charm monster(DC 21),cure critical wounds(DC 21),fire storm(DC 24),greater dispel magic, hold monster(DC 22),invisibility, invisibility purge, levitate, persistent image(DC 22),polymorph(humanoid forms only, duration 1 hour); 3/day—etherealness, word of chaos(DC 22),summon nature’s ally IX; 1/day—gate, maze, meteor swarm(DC 26). Caster level 20th. The save DCs are Charisma-based.
+**Spell-Like Abilities:** At will—chain lightning(DC 23),charm monster(DC 21),cure critical wounds(DC 21),fire storm(DC 24),greater dispel magic, hold monster(DC 22),invisibility, invisibility purge, levitate, persistent image(DC 22),polymorph(humanoid forms only, duration 1 hour); 3/day—etherealness, word of chaos(DC 22),summon nature’s ally IX; 1/day—gate, maze, meteor swarm(DC 26). Caster level 20th. The save DCs are Charisma-based.
 
 In addition, titans of good or neutral alignment can use the following additional spell-like abilities: At will—daylight, holy smite(DC 21),remove curse(DC 21); 1/day—greater restoration. Caster level 20th. The save DCs are Charisma-based.
 
@@ -688,13 +688,13 @@ Tojanidas speak Aquan and can be loquacious, but usually only on the subject of 
 
 COMBAT
 
-**Improved Grab (Ex):**To use this ability, a tojanida must hit with a bite or claw attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. Underwater, a tojanida can tow a grabbed victim of its own size or smaller at its swim speed (but it cannot run). A favorite tactic is to grab a single opponent, then withdraw, hauling the opponent away from its allies.
+**Improved Grab (Ex):** To use this ability, a tojanida must hit with a bite or claw attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. Underwater, a tojanida can tow a grabbed victim of its own size or smaller at its swim speed (but it cannot run). A favorite tactic is to grab a single opponent, then withdraw, hauling the opponent away from its allies.
 
-**Ink Cloud (Ex):**A tojanida can emit a spherical cloud of jet-black ink with a radius of 30 feet once per minute as a free action. The effect is otherwise similar tofog cloudcast by an individual of a level equal to the tojanida’s Hit Dice. Out of water, the ink emerges in a stream up to 30 feet long, which a tojanida can squirt into an opponent’s eyes. The affected creature must succeed on a Reflex save or be blinded for 1 round. The save DC is 13 against a juvenile, 15 against an adult, and 21 against an elder. The save DCs are Constitution based.
+**Ink Cloud (Ex):** A tojanida can emit a spherical cloud of jet-black ink with a radius of 30 feet once per minute as a free action. The effect is otherwise similar tofog cloudcast by an individual of a level equal to the tojanida’s Hit Dice. Out of water, the ink emerges in a stream up to 30 feet long, which a tojanida can squirt into an opponent’s eyes. The affected creature must succeed on a Reflex save or be blinded for 1 round. The save DC is 13 against a juvenile, 15 against an adult, and 21 against an elder. The save DCs are Constitution based.
 
-**All-Around Vision (Ex):**The multiple apertures in a tojanida’s shell allow it to look in any direction, bestowing a +4 racial bonus on Spot and Search checks. Opponents gain no flanking bonuses when attacking a tojanida.
+**All-Around Vision (Ex):** The multiple apertures in a tojanida’s shell allow it to look in any direction, bestowing a +4 racial bonus on Spot and Search checks. Opponents gain no flanking bonuses when attacking a tojanida.
 
-**Skills:**A tojanida has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.
+**Skills:** A tojanida has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.
 
 
 
@@ -804,11 +804,11 @@ COMBAT
 
 Treants prefer to watch potential foes carefully before attacking. They often charge suddenly from cover to trample the despoilers of forests. If sorely pressed, they animate trees as reinforcements.
 
-**Animate Trees****(Sp):**A treant can animate trees within 180 feet at will, controlling up to two trees at a time. It takes 1 full round for a normal tree to uproot itself. Thereafter it moves at a speed of 10 feet and fights as a treant in all respects. Animated trees lose their ability to move if the treant that animated them is incapacitated or moves out of range. The ability is otherwise similar toliveoak(caster level 12th). Animated trees have the same vulnerability to fire that a treant has.
+**Animate Trees** **(Sp):** A treant can animate trees within 180 feet at will, controlling up to two trees at a time. It takes 1 full round for a normal tree to uproot itself. Thereafter it moves at a speed of 10 feet and fights as a treant in all respects. Animated trees lose their ability to move if the treant that animated them is incapacitated or moves out of range. The ability is otherwise similar toliveoak(caster level 12th). Animated trees have the same vulnerability to fire that a treant has.
 
-**Double Damage against Objects (Ex):**A treant or animated tree that makes a full attack against an object or structure deals double damage.
+**Double Damage against Objects (Ex):** A treant or animated tree that makes a full attack against an object or structure deals double damage.
 
-**Trample (Ex):**Reflex DC 22 half. The save DC is Strength-based. Skills: *Treants have a +16 racial bonus on Hide checks made in forested areas.
+**Trample (Ex):** Reflex DC 22 half. The save DC is Strength-based. Skills: *Treants have a +16 racial bonus on Hide checks made in forested areas.
 
 
 
@@ -916,9 +916,9 @@ COMBAT
 
 The reclusive tritons prefer to avoid combat, but they fiercely defend their homes. They attack with either melee or ranged weapons as the circumstances warrant. When encountered outside their lair, they are 90% likely to be mounted on friendly sea creatures such as porpoises.
 
-**Spell-Like Abilities:**1/day—summon nature’s ally IV.Caster level 7th. Tritons often choose water elementals for their companions.
+**Spell-Like Abilities:** 1/day—summon nature’s ally IV.Caster level 7th. Tritons often choose water elementals for their companions.
 
-**Skills:**A triton has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.
+**Skills:** A triton has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.
 
 
 
@@ -1224,9 +1224,9 @@ COMBAT
 
 Trolls have no fear of death: They launch themselves into combat without hesitation, flailing wildly at the closest opponent. Even when confronted with fire, they try to get around the flames and attack.
 
-**Rend (Ex):**If a troll hits with both claw attacks, it latches onto the opponent’s body and tears the flesh. This attack automatically deals an additional 2d6+9 points of damage.
+**Rend (Ex):** If a troll hits with both claw attacks, it latches onto the opponent’s body and tears the flesh. This attack automatically deals an additional 2d6+9 points of damage.
 
-**Regeneration (Ex):**Fire and acid deal normal damage to a troll. If a troll loses a limb or body part, the lost portion regrows in 3d6 minutes. The creature can reattach the severed member instantly by holding it to the stump.
+**Regeneration (Ex):** Fire and acid deal normal damage to a troll. If a troll loses a limb or body part, the lost portion regrows in 3d6 minutes. The creature can reattach the severed member instantly by holding it to the stump.
 
 
 
@@ -1448,17 +1448,17 @@ COMBAT
 
 Unicorns normally attack only when defending themselves or their forests. They either charge, impaling foes with their horns like lances, or strike with their hooves. The horn is a +3 magic weapon, though its power fades if removed from the unicorn.
 
-**Magic Circle against Evil (Su):**This ability continuously duplicates the effect of the spell. A unicorn cannot suppress this ability.
+**Magic Circle against Evil (Su):** This ability continuously duplicates the effect of the spell. A unicorn cannot suppress this ability.
 
-**Spell-Like Abilities:**Unicorns can usedetect evilat will as a free action.
+**Spell-Like Abilities:** Unicorns can usedetect evilat will as a free action.
 
 Once per day a unicorn can usegreater teleportto move anywhere within its home. It cannot teleport beyond the forest boundaries nor back from outside.
 
 A unicorn can usecure light woundsthree times per day andcure moderate woundsonce per day (caster level 5th) by touching a wounded creature with its horn. Once per day it can useneutralize poison(DC 21, caster level 8th) with a touch of its horn. The save DC is Charisma-based.
 
-**Wild Empathy (Ex):**This power works like the druid’s wild empathy class feature, except that a unicorn has a +6 racial bonus on the check.
+**Wild Empathy (Ex):** This power works like the druid’s wild empathy class feature, except that a unicorn has a +6 racial bonus on the check.
 
-**Skills:**Unicorns have a +4 racial bonus on Move Silently checks. *Unicorns have a +3 competence bonus on Survival checks within the boundaries of their forest.
+**Skills:** Unicorns have a +4 racial bonus on Move Silently checks. *Unicorns have a +3 competence bonus on Survival checks within the boundaries of their forest.
 
 
 
@@ -1474,7 +1474,7 @@ The save DC for this celestial charger’sneutralize poisonability (DC 20) is ad
 
 A celestial charger’s natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
 
-**Smite Evil (Su):**Once per day a celestial charger can make a normal melee attack to deal 15 points of extra damage against an evil foe.
+**Smite Evil (Su):** Once per day a celestial charger can make a normal melee attack to deal 15 points of extra damage against an evil foe.
 
 Cleric Spells Prepared(6/7/6/5/4; save DC 18 + spell level): 0—detect magic, detect poison(2),light, virtue(2); 1st—bless(2),calm animals*, obscuring mist, remove fear, sanctuary, shield of faith; 2nd—aid* (2),animal messenger, lesser restoration, remove paralysis, shield other; 3rd—prayer, protection from energy, remove curse, searing light(2); 4th—air walk, divine power, holy smite*, restoration.
 
@@ -1498,19 +1498,19 @@ CREATING A VAMPIRE
 
 A vampire uses all the base creature’s statistics and special abilities except as noted here.
 
-**Size and Type:**The creature’s type changes to undead (augmented humanoid or monstrous humanoid). Do not recalculate base attack bonus, saves, or skill points. Size is unchanged.
+**Size and Type:** The creature’s type changes to undead (augmented humanoid or monstrous humanoid). Do not recalculate base attack bonus, saves, or skill points. Size is unchanged.
 
-**Hit Dice:**Increase all current and future Hit Dice to d12s.
+**Hit Dice:** Increase all current and future Hit Dice to d12s.
 
-**Speed:**Same as the base creature. If the base creature has a swim speed, the vampire retains the ability to swim and is not vulnerable to immersion in running water (see below).
+**Speed:** Same as the base creature. If the base creature has a swim speed, the vampire retains the ability to swim and is not vulnerable to immersion in running water (see below).
 
-**Armor Class:**The base creature’s natural armor bonus improves by +6.
+**Armor Class:** The base creature’s natural armor bonus improves by +6.
 
-**Attack:**A vampire retains all the attacks of the base creature and also gains a slam attack if it didn’t already have one. If the base creature can use weapons, the vampire retains this ability. A creature with natural weapons retains those natural weapons. A vampire fighting without weapons uses either its slam attack or its primary natural weapon (if it has any). A vampire armed with a weapon uses its slam or a weapon, as it desires.
+**Attack:** A vampire retains all the attacks of the base creature and also gains a slam attack if it didn’t already have one. If the base creature can use weapons, the vampire retains this ability. A creature with natural weapons retains those natural weapons. A vampire fighting without weapons uses either its slam attack or its primary natural weapon (if it has any). A vampire armed with a weapon uses its slam or a weapon, as it desires.
 
-**Full Attack:**A vampire fighting without weapons uses either its slam attack (see above) or its natural weapons (if it has any). If armed with a weapon, it usually uses the weapon as its primary attack along with a slam or other natural weapon as a natural secondary attack.
+**Full Attack:** A vampire fighting without weapons uses either its slam attack (see above) or its natural weapons (if it has any). If armed with a weapon, it usually uses the weapon as its primary attack along with a slam or other natural weapon as a natural secondary attack.
 
-**Damage:**Vampires have slam attacks. If the base creature does not have this attack form, use the appropriate damage value from the table below according to the vampire’s size. Creatures that have other kinds of natural weapons retain their old damage values or use the appropriate value from the table below, whichever is better.
+**Damage:** Vampires have slam attacks. If the base creature does not have this attack form, use the appropriate damage value from the table below according to the vampire’s size. Creatures that have other kinds of natural weapons retain their old damage values or use the appropriate value from the table below, whichever is better.
 
 
 
@@ -1556,21 +1556,21 @@ A vampire uses all the base creature’s statistics and special abilities except
 
 ![46 MonstersT-Z-Table11.png](46 MonstersT-Z-Table11.png)
 
-**Special Attacks:**A vampire retains all the special attacks of the base creature and gains those described below. Saves have a DC of 10 + 1/2 vampire’s HD + vampire’s Cha modifier unless noted otherwise.
+**Special Attacks:** A vampire retains all the special attacks of the base creature and gains those described below. Saves have a DC of 10 + 1/2 vampire’s HD + vampire’s Cha modifier unless noted otherwise.
 
-**Blood Drain (Ex):**A vampire can suck blood from a living victim with its fangs by making a successful grapple check. If it pins the foe, it drains blood, dealing 1d4 points of Constitution drain each round the pin is maintained. On each such successful attack, the vampire gains 5 temporary hit points.
+**Blood Drain (Ex):** A vampire can suck blood from a living victim with its fangs by making a successful grapple check. If it pins the foe, it drains blood, dealing 1d4 points of Constitution drain each round the pin is maintained. On each such successful attack, the vampire gains 5 temporary hit points.
 
-**Children of the Night (Su):**Vampires command the lesser creatures of the world and once per day can call forth 1d6+1 rat swarms, 1d4+1 bat swarms, or a pack of 3d6 wolves as a standard action. (If the base creature is not terrestrial, this power might summon other creatures of similar power.) These creatures arrive in 2d6 rounds and serve the vampire for up to 1 hour.
+**Children of the Night (Su):** Vampires command the lesser creatures of the world and once per day can call forth 1d6+1 rat swarms, 1d4+1 bat swarms, or a pack of 3d6 wolves as a standard action. (If the base creature is not terrestrial, this power might summon other creatures of similar power.) These creatures arrive in 2d6 rounds and serve the vampire for up to 1 hour.
 
-**Dominate (Su):**A vampire can crush an opponent’s will just by looking onto his or her eyes. This is similar to a gaze attack, except that the vampire must use a standard action, and those merely looking at it are not affected. Anyone the vampire targets must succeed on a Will save or fall instantly under the vampire’s influence as though by adominate personspell (caster level 12th). The ability has a range of 30 feet.
+**Dominate (Su):** A vampire can crush an opponent’s will just by looking onto his or her eyes. This is similar to a gaze attack, except that the vampire must use a standard action, and those merely looking at it are not affected. Anyone the vampire targets must succeed on a Will save or fall instantly under the vampire’s influence as though by adominate personspell (caster level 12th). The ability has a range of 30 feet.
 
-**Create Spawn (Su):**A humanoid or monstrous humanoid slain by a vampire’s energy drain rises as a vampire spawn (see the Vampire Spawn entry) 1d4 days after burial.
+**Create Spawn (Su):** A humanoid or monstrous humanoid slain by a vampire’s energy drain rises as a vampire spawn (see the Vampire Spawn entry) 1d4 days after burial.
 
 If the vampire instead drains the victim’s Constitution to 0 or lower, the victim returns as a spawn if it had 4 or less HD and as a vampire if it had 5 or more HD. In either case, the new vampire or spawn is under the command of the vampire that created it and remains enslaved until its master’s destruction. At any given time a vampire may have enslaved spawn totaling no more than twice its own Hit Dice; any spawn it creates that would exceed this limit are created as free-willed vampires or vampire spawn. A vampire that is enslaved may create and enslave spawn of its own, so a master vampire can control a number of lesser vampires in this fashion. A vampire may voluntarily free an enslaved spawn in order to enslave a new spawn, but once freed, a vampire or vampire spawn cannot be enslaved again.
 
-**Energy Drain (Su):**Living creatures hit by a vampire’s slam attack (or any other natural weapon the vampire might possess) gain two negative levels. For each negative level bestowed, the vampire gains 5 temporary hit points. A vampire can use its energy drain ability once per round.
+**Energy Drain (Su):** Living creatures hit by a vampire’s slam attack (or any other natural weapon the vampire might possess) gain two negative levels. For each negative level bestowed, the vampire gains 5 temporary hit points. A vampire can use its energy drain ability once per round.
 
-**Special Qualities:**A vampire retains all the special qualities of the base creature and gains those described below.
+**Special Qualities:** A vampire retains all the special qualities of the base creature and gains those described below.
 
 Alternate Form (Su):A vampire can assume the shape of a bat, dire bat, wolf, or dire wolf as a standard action. This ability is similar to apolymorphspell cast by a 12th-level character, except that the vampire does not regain hit points for changing form and must choose from among the forms mentioned here. While in its alternate form, the vampire loses its natural slam attack and dominate ability, but it gains the natural weapons and extraordinary special attacks of its new form. It can remain in that form until it assumes another or until the next sunrise. (If the base creature is not terrestrial, this power might allow other forms.)
 
@@ -1586,25 +1586,25 @@ Spider Climb (Ex):A vampire can climb sheer surfaces as though with aspider clim
 
 Turn Resistance (Ex):A vampire has +4 turn resistance.
 
-**Abilities:**Increase from the base creature as follows: Str +6, Dex +4, Int +2, Wis +2, Cha +4. As an undead creature, a vampire has no Constitution score.
+**Abilities:** Increase from the base creature as follows: Str +6, Dex +4, Int +2, Wis +2, Cha +4. As an undead creature, a vampire has no Constitution score.
 
-**Skills:**Vampires have a +8 racial bonus on Bluff, Hide, Listen, Move Silently, Search, Sense Motive, and Spot checks. Otherwise same as the base creature.
+**Skills:** Vampires have a +8 racial bonus on Bluff, Hide, Listen, Move Silently, Search, Sense Motive, and Spot checks. Otherwise same as the base creature.
 
-**Feats:**Vampires gain Alertness, Combat Reflexes, Dodge, Improved Initiative, and Lightning Reflexes, assuming the base creature meets the prerequisites and doesn’t already have these feats.
+**Feats:** Vampires gain Alertness, Combat Reflexes, Dodge, Improved Initiative, and Lightning Reflexes, assuming the base creature meets the prerequisites and doesn’t already have these feats.
 
-**Environment:**Any, usually same as base creature.
+**Environment:** Any, usually same as base creature.
 
-**Organization:**Solitary, pair, gang (3–5), or troupe (1–2 plus 2–5 vampire spawn)
+**Organization:** Solitary, pair, gang (3–5), or troupe (1–2 plus 2–5 vampire spawn)
 
-**Challenge Rating:**Same as the base creature +2.
+**Challenge Rating:** Same as the base creature +2.
 
-**Treasure:**Double standard.
+**Treasure:** Double standard.
 
-**Alignment:**Always evil (any).
+**Alignment:** Always evil (any).
 
-**Advancement:**By character class.
+**Advancement:** By character class.
 
-**Level Adjustment:**Same as the base creature +8.
+**Level Adjustment:** Same as the base creature +8.
 
 
 
@@ -1614,13 +1614,13 @@ Vampire Weaknesses
 
 For all their power, vampires have a number of weaknesses.
 
-**Repelling a Vampire:**Vampires cannot tolerate the strong odor of garlic and will not enter an area laced with it. Similarly, they recoil from a mirror or a strongly presented holy symbol. These things don’t harm the vampire—they merely keep it at bay. A recoiling vampire must stay at least 5 feet away from a creature holding the mirror or holy symbol and cannot touch or make melee attacks against the creature holding the item for the rest of the encounter. Holding a vampire at bay takes a standard action.
+**Repelling a Vampire:** Vampires cannot tolerate the strong odor of garlic and will not enter an area laced with it. Similarly, they recoil from a mirror or a strongly presented holy symbol. These things don’t harm the vampire—they merely keep it at bay. A recoiling vampire must stay at least 5 feet away from a creature holding the mirror or holy symbol and cannot touch or make melee attacks against the creature holding the item for the rest of the encounter. Holding a vampire at bay takes a standard action.
 
 Vampires are also unable to cross running water, although they can be carried over it while resting in their coffins or aboard a ship.
 
 They are utterly unable to enter a home or other building unless invited in by someone with the authority to do so. They may freely enter public places, since these are by definition open to all.
 
-**Slaying a Vampire:**Reducing a vampire’s hit points to 0 or lower incapacitates it but doesn’t always destroy it (see the note on fast healing). However, certain attacks can slay vampires. Exposing any vampire to direct sunlight disorients it: It can take only a single move action or attack action and is destroyed utterly in the next round if it cannot escape. Similarly, immersing a vampire in running water robs it of one-third of its hit points each round until it is destroyed at the end of the third round of immersion. Driving a wooden stake through a vampire’s heart instantly slays the monster. However, it returns to life if the stake is removed, unless the body is destroyed. A popular tactic is to cut off the creature’s head and fill its mouth with holy wafers (or their equivalent).
+**Slaying a Vampire:** Reducing a vampire’s hit points to 0 or lower incapacitates it but doesn’t always destroy it (see the note on fast healing). However, certain attacks can slay vampires. Exposing any vampire to direct sunlight disorients it: It can take only a single move action or attack action and is destroyed utterly in the next round if it cannot escape. Similarly, immersing a vampire in running water robs it of one-third of its hit points each round until it is destroyed at the end of the third round of immersion. Driving a wooden stake through a vampire’s heart instantly slays the monster. However, it returns to life if the stake is removed, unless the body is destroyed. A popular tactic is to cut off the creature’s head and fill its mouth with holy wafers (or their equivalent).
 
 ## 
 
@@ -1630,9 +1630,9 @@ They are utterly unable to enter a home or other building unless invited in by s
 
 Vampires are always evil, which causes characters of certain classes to lose some class abilities. In addition, certain classes take additional penalties.
 
-**Clerics:**Vampire clerics lose their ability to turn undead but gain the ability to rebuke undead. This ability does not affect the vampire’s controller or any other vampires that a master controls. A vampire cleric has access to two of the following domains: Chaos, Destruction, Evil, or Trickery.
+**Clerics:** Vampire clerics lose their ability to turn undead but gain the ability to rebuke undead. This ability does not affect the vampire’s controller or any other vampires that a master controls. A vampire cleric has access to two of the following domains: Chaos, Destruction, Evil, or Trickery.
 
-**Sorcerers and Wizards:**Vampire sorcerers and wizards retain their class abilities, but if a character has a familiar other than a rat or bat, the link between them is broken, and the familiar shuns its former companion. The character can summon another familiar, but it must be a rat or bat.
+**Sorcerers and Wizards:** Vampire sorcerers and wizards retain their class abilities, but if a character has a familiar other than a rat or bat, the link between them is broken, and the familiar shuns its former companion. The character can summon another familiar, but it must be a rat or bat.
 
 
 
@@ -1740,19 +1740,19 @@ COMBAT
 
 Vampire spawn use their inhuman strength when engaging mortals, hammering their foes with powerful blows and dashing them against rocks or walls. They also use their gaseous form and flight abilities to strike where opponents are most vulnerable.
 
-**Blood Drain (Ex):**A vampire spawn can suck blood from a living victim with its fangs by making a successful grapple check. If it pins the foe, it drains blood, dealing 1d4 points of Constitution drain each round. On each such successful drain attack, the vampire spawn gains 5 temporary hit pints.
+**Blood Drain (Ex):** A vampire spawn can suck blood from a living victim with its fangs by making a successful grapple check. If it pins the foe, it drains blood, dealing 1d4 points of Constitution drain each round. On each such successful drain attack, the vampire spawn gains 5 temporary hit pints.
 
-**Domination (Su):**A vampire spawn can crush an opponent’s will just by looking onto his or her eyes. This is similar to a gaze attack, except that the vampire must take a standard action, and those merely looking at it are not affected. Anyone the vampire targets must succeed on a DC 14 Will save or fall instantly under the vampire’s influence as though by adominate personspell from a 5thlevel caster. The ability has a range of 30 feet. The save DC is Charisma-based.
+**Domination (Su):** A vampire spawn can crush an opponent’s will just by looking onto his or her eyes. This is similar to a gaze attack, except that the vampire must take a standard action, and those merely looking at it are not affected. Anyone the vampire targets must succeed on a DC 14 Will save or fall instantly under the vampire’s influence as though by adominate personspell from a 5thlevel caster. The ability has a range of 30 feet. The save DC is Charisma-based.
 
-**Energy Drain (Su):**Living creatures hit by a vampire spawn’s slam attack gain one negative level. The DC is 14 for the Fortitude save to remove a negative level. The save DC is Charisma-based. For each such negative level bestowed, the vampire spawn gains 5 temporary hit points.
+**Energy Drain (Su):** Living creatures hit by a vampire spawn’s slam attack gain one negative level. The DC is 14 for the Fortitude save to remove a negative level. The save DC is Charisma-based. For each such negative level bestowed, the vampire spawn gains 5 temporary hit points.
 
-**Fast Healing (Ex):**A vampire spawn heals 2 points of damage each round so long as it has at least 1 hit point. If reduced to 0 hit points in combat, it automatically assumes gaseous form and attempts to escape. It must reach its coffin home within 2 hours or be utterly destroyed. (It can travel up to nine miles in 2 hours.) Once at rest in its coffin, it is helpless. It regains 1 hit point after 1 hour, then is no longer helpless and resumes healing at the rate of 2 hit points per round.
+**Fast Healing (Ex):** A vampire spawn heals 2 points of damage each round so long as it has at least 1 hit point. If reduced to 0 hit points in combat, it automatically assumes gaseous form and attempts to escape. It must reach its coffin home within 2 hours or be utterly destroyed. (It can travel up to nine miles in 2 hours.) Once at rest in its coffin, it is helpless. It regains 1 hit point after 1 hour, then is no longer helpless and resumes healing at the rate of 2 hit points per round.
 
-**Gaseous Form (Su):**As a standard action, a vampire spawn can assumegaseous format will as the spell (caster level 6th), but it can remain gaseous indefinitely and has a fly speed of 20 feet with perfect maneuverability.
+**Gaseous Form (Su):** As a standard action, a vampire spawn can assumegaseous format will as the spell (caster level 6th), but it can remain gaseous indefinitely and has a fly speed of 20 feet with perfect maneuverability.
 
-**Spider Climb (Ex):**A vampire spawn can climb sheer surfaces as though with aspider climbspell.
+**Spider Climb (Ex):** A vampire spawn can climb sheer surfaces as though with aspider climbspell.
 
-**Skills:**Vampire spawn have a +4 racial bonus on Bluff, Hide, Listen, Move Silently, Search, Sense Motive, and Spot checks.
+**Skills:** Vampire spawn have a +4 racial bonus on Bluff, Hide, Listen, Move Silently, Search, Sense Motive, and Spot checks.
 
 VAMPIRE SPAWN WEAKNESSES
 
@@ -1864,15 +1864,15 @@ COMBAT
 
 Vargouilles attack by biting with their jagged teeth. Their special attacks make them even more dangerous. A vargouille’s natural weapons, as well as any weapons it wields, are treated as evil-aligned for the purpose of overcoming damage reduction.
 
-**Shriek (Su):**Instead of biting, a vargouille can open its distended mouth and let out a terrible shriek. Those within 60 feet (except other vargouilles) who hear the shriek and can clearly see the creature must succeed on a DC 12 Fortitude save or be paralyzed with fear for 2d4 rounds or until the monster attacks them, goes out of range, or leaves their sight. A paralyzed creature is susceptible to the vargouille’s kiss (see below). A creature that successfully saves cannot be affected again by the same vargouille’s shriek for 24 hours. The shriek is a mind-affecting fear effect. The save DC is Constitution-based and includes a +1 racial bonus.
+**Shriek (Su):** Instead of biting, a vargouille can open its distended mouth and let out a terrible shriek. Those within 60 feet (except other vargouilles) who hear the shriek and can clearly see the creature must succeed on a DC 12 Fortitude save or be paralyzed with fear for 2d4 rounds or until the monster attacks them, goes out of range, or leaves their sight. A paralyzed creature is susceptible to the vargouille’s kiss (see below). A creature that successfully saves cannot be affected again by the same vargouille’s shriek for 24 hours. The shriek is a mind-affecting fear effect. The save DC is Constitution-based and includes a +1 racial bonus.
 
-**Kiss (Su):**A vargouille can kiss a paralyzed target with a successful melee touch attack. An affected opponent must succeed on a DC 15 Fortitude save or begin a terrible transformation that turns the creature into a vargouille within 24 hours (and often much sooner; roll 1d6 separately for each phase of the transformation).
+**Kiss (Su):** A vargouille can kiss a paralyzed target with a successful melee touch attack. An affected opponent must succeed on a DC 15 Fortitude save or begin a terrible transformation that turns the creature into a vargouille within 24 hours (and often much sooner; roll 1d6 separately for each phase of the transformation).
 
 First, over a period of 1d6 hours, all the victim’s hair falls out. Within another 1d6 hours thereafter, the ears grow into leathery wings, tentacles sprout on the chin and scalp, and the teeth become long, pointed fangs. During the next 1d6 hours, the victim takes Intelligence drain and Charisma drain equal to 1 point per hour (to a minimum of 3). The transformation is complete 1d6 hours later, when the head breaks free of the body (which promptly dies) and becomes a vargouille. This transformation is interrupted by sunlight, and even adaylightspell can delay death, but to reverse the transformation requiresremove disease. The save DC is Constitution-based and
 
 includes a +4 racial bonus.
 
-**Poison (Ex):**Injury, Fortitude DC 12 or be unable to heal the vargouille’s bite damage naturally or magically. Aneutralize poisonorhealspell removes the effect, whiledelay poisonallows magical healing. The save DC is Constitution-based and includes a +1 racial bonus.
+**Poison (Ex):** Injury, Fortitude DC 12 or be unable to heal the vargouille’s bite damage naturally or magically. Aneutralize poisonorhealspell removes the effect, whiledelay poisonallows magical healing. The save DC is Constitution-based and includes a +1 racial bonus.
 
 
 
@@ -1980,11 +1980,11 @@ COMBAT
 
 Wights attack by hammering with their fists.
 
-**Create Spawn (Su):**Any humanoid slain by a wight becomes a wight in 1d4 rounds. Spawn are under the command of the wight that created them and remain enslaved until its death. They do not possess any of the abilities they had in life.
+**Create Spawn (Su):** Any humanoid slain by a wight becomes a wight in 1d4 rounds. Spawn are under the command of the wight that created them and remain enslaved until its death. They do not possess any of the abilities they had in life.
 
-**Energy Drain (Su):**Living creatures hit by a wight’s slam attack gain one negative level. The DC is 14 for the Fortitude save to remove a negative level. The save DC is Charisma-based. For each such negative level bestowed, the wight gains 5 temporary hit points.
+**Energy Drain (Su):** Living creatures hit by a wight’s slam attack gain one negative level. The DC is 14 for the Fortitude save to remove a negative level. The save DC is Charisma-based. For each such negative level bestowed, the wight gains 5 temporary hit points.
 
-**Skills:**Wights have a +8 racial bonus on Move Silently checks.
+**Skills:** Wights have a +8 racial bonus on Move Silently checks.
 
 
 
@@ -2092,9 +2092,9 @@ COMBAT
 
 Will-o’-wisps usually avoid combat. They prefer to confuse and bewilder adventurers, luring them into morasses or other hazardous places. When they are forced to fight, they loose small electrical shocks, which act as melee touch attacks.
 
-**Immunity to Magic (Ex):**A will-o’-wisp is immune to most spells or spell-like abilities that allow spell resistance, exceptmagic missileandmaze.
+**Immunity to Magic (Ex):** A will-o’-wisp is immune to most spells or spell-like abilities that allow spell resistance, exceptmagic missileandmaze.
 
-**Natural Invisibility (Ex):**A startled or frightened will-o’-wisp can extinguish its glow, effectively becoming invisible as the spell.
+**Natural Invisibility (Ex):** A startled or frightened will-o’-wisp can extinguish its glow, effectively becoming invisible as the spell.
 
 
 
@@ -2202,13 +2202,13 @@ COMBAT
 
 Winter wolves typically hunt in packs. Their size, cunning, and formidable breath weapon allow them to hunt and kill creatures much larger than themselves. A pack usually circles an opponent, each wolf attacking in turn to exhaust it. If they’re in a hurry, white wolves try to pin their foes.
 
-**Breath Weapon (Su):**15-foot cone, once every 1d4 rounds, damage 4d6 cold, Reflex DC 16 half. The save DC is Constitution-based.
+**Breath Weapon (Su):** 15-foot cone, once every 1d4 rounds, damage 4d6 cold, Reflex DC 16 half. The save DC is Constitution-based.
 
-**Freezing Bite (Su):**A winter wolf deals an extra 1d6 points of cold damage every time it bites an opponent, as if its bite were a frost weapon.
+**Freezing Bite (Su):** A winter wolf deals an extra 1d6 points of cold damage every time it bites an opponent, as if its bite were a frost weapon.
 
-**Trip (Ex):**A winter wolf that hits with a bite attack can attempt to trip the opponent (+8 check modifier) as a free action without making a touch attack or provoking an attack of opportunity. If the attempt fails, the opponent cannot react to trip the winter wolf.
+**Trip (Ex):** A winter wolf that hits with a bite attack can attempt to trip the opponent (+8 check modifier) as a free action without making a touch attack or provoking an attack of opportunity. If the attempt fails, the opponent cannot react to trip the winter wolf.
 
-**Skills:**Winter wolves have a +1 racial bonus on Listen, Move Silently, and Spot checks. Winter wolves have a +2 racial bonus on Hide checks. *Their natural coloration grants them a +7 racial bonus on Hide checks in areas of snow and ice. A winter wolf has a +4 racial bonus on Survival checks when tracking by scent.
+**Skills:** Winter wolves have a +1 racial bonus on Listen, Move Silently, and Spot checks. Winter wolves have a +2 racial bonus on Hide checks. *Their natural coloration grants them a +7 racial bonus on Hide checks in areas of snow and ice. A winter wolf has a +4 racial bonus on Survival checks when tracking by scent.
 
 
 
@@ -2316,9 +2316,9 @@ COMBAT
 
 Mated pairs or packs work together to bring down large game, while lone worgs usually chase down creatures smaller than themselves. Both often use hit-and-run tactics to exhaust their quarry. A pack usually circles a larger opponent: Each wolf attacks in turn, biting and retreating, until the creature is exhausted, at which point the pack moves in for the kill. If they get impatient or heavily outnumber the opponent, worgs attempt to pin it.
 
-**Trip (Ex):**A worg that hits with a bite attack can attempt to trip the opponent (+3 check modifier) as a free action without making a touch attack or provoking an attack of opportunity. If the attempt fails, the opponent cannot react to trip the worg.
+**Trip (Ex):** A worg that hits with a bite attack can attempt to trip the opponent (+3 check modifier) as a free action without making a touch attack or provoking an attack of opportunity. If the attempt fails, the opponent cannot react to trip the worg.
 
-**Skills:**A worg has a +1 racial bonus on Listen, Move Silently, and Spot checks, and a +2 racial bonus on Hide checks. *A worg has a +4 racial bonus on Survival checks when tracking
+**Skills:** A worg has a +1 racial bonus on Listen, Move Silently, and Spot checks, and a +2 racial bonus on Hide checks. *A worg has a +4 racial bonus on Survival checks when tracking
 
 by scent.
 
@@ -2480,25 +2480,25 @@ COMBAT
 
 Both the wraith and the dread wraith share the following abilities.
 
-**Unnatural Aura (Su):**Animals, whether wild or domesticated, can sense the unnatural presence of a wraith at a distance of 30 feet. They will not willingly approach nearer than that and panic if forced to do so; they remain panicked as long as they are within that range.
+**Unnatural Aura (Su):** Animals, whether wild or domesticated, can sense the unnatural presence of a wraith at a distance of 30 feet. They will not willingly approach nearer than that and panic if forced to do so; they remain panicked as long as they are within that range.
 
-**Daylight Powerlessness (Ex):**Wraiths are utterly powerless in natural sunlight (not merely adaylightspell) and flee from it.
+**Daylight Powerlessness (Ex):** Wraiths are utterly powerless in natural sunlight (not merely adaylightspell) and flee from it.
 
 WRAITH
 
-**Constitution Drain (Su):**Living creatures hit by a wraith’s incorporeal touch attack must succeed on a DC 14 Fortitude save or take 1d6 points of Constitution drain. The save DC is Charisma-based. On each such successful attack, the wraith gains 5 temporary hit points.
+**Constitution Drain (Su):** Living creatures hit by a wraith’s incorporeal touch attack must succeed on a DC 14 Fortitude save or take 1d6 points of Constitution drain. The save DC is Charisma-based. On each such successful attack, the wraith gains 5 temporary hit points.
 
-**Create Spawn (Su):**Any humanoid slain by a wraith becomes a wraith in 1d4 rounds. Its body remains intact and inanimate, but its spirit is torn free from its corpse and transformed. Spawn are under the command of the wraith that created them and remain enslaved until its death. They do not possess any of the abilities they had in life.
+**Create Spawn (Su):** Any humanoid slain by a wraith becomes a wraith in 1d4 rounds. Its body remains intact and inanimate, but its spirit is torn free from its corpse and transformed. Spawn are under the command of the wraith that created them and remain enslaved until its death. They do not possess any of the abilities they had in life.
 
 DREAD WRAITH
 
 The oldest and most malevolent wraiths lurk in the depths of forgotten temples and other forsaken places. They can sense the approach of living creatures, and hunger for them. Despite its size, the dread wraith possesses unearthly quickness, and makes use of its Spring Attack feat and natural reach to strike with deadly effect and melt back into the shadows—or the walls.
 
-**Lifesense (Su):**A dread wraith notices and locates living creatures within 60 feet, just as if it possessed the blindsight ability. It also senses the strength of their life force automatically, as if it had castdeathwatch.
+**Lifesense (Su):** A dread wraith notices and locates living creatures within 60 feet, just as if it possessed the blindsight ability. It also senses the strength of their life force automatically, as if it had castdeathwatch.
 
-**Constitution Drain (Su):**Living creatures hit by a dread wraith’s incorporeal touch attack must succeed on a DC 25 Fortitude save or take 1d8 points of Constitution drain. The save DC is Charisma-based. On each such successful attack, the dread wraith gains 5 temporary hit points.
+**Constitution Drain (Su):** Living creatures hit by a dread wraith’s incorporeal touch attack must succeed on a DC 25 Fortitude save or take 1d8 points of Constitution drain. The save DC is Charisma-based. On each such successful attack, the dread wraith gains 5 temporary hit points.
 
-**Create Spawn (Su):**Any humanoid slain by a dread wraith becomes a wraith in 1d4 rounds. Its body remains intact and inanimate, but its spirit is torn free from its corpse and transformed. Spawn are under the command of the wraith that created them and remain enslaved until its death. They do not possess any of the abilities they had in life.
+**Create Spawn (Su):** Any humanoid slain by a dread wraith becomes a wraith in 1d4 rounds. Its body remains intact and inanimate, but its spirit is torn free from its corpse and transformed. Spawn are under the command of the wraith that created them and remain enslaved until its death. They do not possess any of the abilities they had in life.
 
 
 
@@ -2608,11 +2608,11 @@ COMBAT
 
 Wyverns are rather stupid but always aggressive: They attack nearly anything that isn’t obviously more powerful than themselves. A wyvern dives from the air, snatching the opponent with its talons and stinging it to death. A wyvern can slash with its talons only when making a flyby attack.
 
-**Improved Grab (Ex):**To use this ability, a wyvern must hit with its talons. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and stings.
+**Improved Grab (Ex):** To use this ability, a wyvern must hit with its talons. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and stings.
 
-**Poison (Ex):**Injury, Fortitude DC 17, initial and secondary damage 2d6 Con. The save DC is Constitution-based.
+**Poison (Ex):** Injury, Fortitude DC 17, initial and secondary damage 2d6 Con. The save DC is Constitution-based.
 
-**Skills:**Wyverns have a +3 racial bonus on Spot checks.
+**Skills:** Wyverns have a +3 racial bonus on Spot checks.
 
 
 
@@ -2718,13 +2718,13 @@ COMBAT
 
 Xills are dangerous opponents, attacking with all four limbs. More civilized ones use weapons, usually fighting with two at a time so as to leave two claws free for grab attacks. Xills typically lie in wait on the Ethereal Plane for suitable prey to happen by, then ambush it using their planewalk ability. They make full use of their Tumble skill in combat: Usually, one or two distract physically powerful enemies by attacking, then assuming a defensive stance while their fellows maneuver to advantage.
 
-**Implant (Ex):**As a standard action, a xill can lay eggs inside a paralyzed creature. The young emerge about 90 days later, literally devouring the host from inside. Aremove diseasespell rids a victim of the egg, as does a DC 25 Heal check. If the check fails, the healer can try again, but each attempt (successful or not) deals 1d4 points of damage to the patient.
+**Implant (Ex):** As a standard action, a xill can lay eggs inside a paralyzed creature. The young emerge about 90 days later, literally devouring the host from inside. Aremove diseasespell rids a victim of the egg, as does a DC 25 Heal check. If the check fails, the healer can try again, but each attempt (successful or not) deals 1d4 points of damage to the patient.
 
-**Improved Grab (Ex):**To use this ability, a xill must hit with one or more claw attacks. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. It receives a +2 bonus on the grapple check for each claw that hits. If it wins the grapple check and maintains the hold in the next round, it automatically bites the foe at that time. The bite deals no damage but injects a paralyzing venom.
+**Improved Grab (Ex):** To use this ability, a xill must hit with one or more claw attacks. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. It receives a +2 bonus on the grapple check for each claw that hits. If it wins the grapple check and maintains the hold in the next round, it automatically bites the foe at that time. The bite deals no damage but injects a paralyzing venom.
 
-**Paralysis (Ex):**Those bitten by a xill must succeed on a DC 14 Fortitude save or be paralyzed for 1d4 hours. The save DC is Constitution-based.
+**Paralysis (Ex):** Those bitten by a xill must succeed on a DC 14 Fortitude save or be paralyzed for 1d4 hours. The save DC is Constitution-based.
 
-**Planewalk (Su):**These planar travelers like to slip between the folds of space to attack enemies as though from thin air. They can cross from the Ethereal Plane with a move action but take 2 rounds to cross back, during which time they are immobile. As a xill fades away, it becomes harder to hit: Opponents have a 20% miss chance in
+**Planewalk (Su):** These planar travelers like to slip between the folds of space to attack enemies as though from thin air. They can cross from the Ethereal Plane with a move action but take 2 rounds to cross back, during which time they are immobile. As a xill fades away, it becomes harder to hit: Opponents have a 20% miss chance in
 
 the first round and a 50% miss chance in the second. A xill can planewalk with a willing or helpless creature.
 
@@ -2924,9 +2924,9 @@ Xorns do not attack fleshly beings except to defend themselves or their property
 
 A xorn’s favorite mode of attack is to wait just beneath a stone surface until a foe comes within reach, then emerge suddenly. Groups of xorns often send one of their number to the surface to negotiate for food while the remainder position themselves for a surprise attack.
 
-**All-Around Vision (Ex):**A xorn’s symmetrically placed eyes allow it to look in any direction, providing a +4 racial bonus on Spot and Search checks. A xorn can’t be flanked.
+**All-Around Vision (Ex):** A xorn’s symmetrically placed eyes allow it to look in any direction, providing a +4 racial bonus on Spot and Search checks. A xorn can’t be flanked.
 
-**Earth Glide (Ex):**A xorn can glide through stone, dirt, or almost any other sort of earth except metal as easily as a fish swims through water. Its burrowing leaves behind no tunnel or hole, nor does it create any ripple or other signs of its presence. Amove earthspell cast on an area containing a burrowing xorn flings the xorn back 30 feet, stunning the creature for 1 round unless it succeeds on a DC 15 Fortitude save.
+**Earth Glide (Ex):** A xorn can glide through stone, dirt, or almost any other sort of earth except metal as easily as a fish swims through water. Its burrowing leaves behind no tunnel or hole, nor does it create any ripple or other signs of its presence. Amove earthspell cast on an area containing a burrowing xorn flings the xorn back 30 feet, stunning the creature for 1 round unless it succeeds on a DC 15 Fortitude save.
 
 
 
@@ -3036,13 +3036,13 @@ Yeth hounds hunt only at night. They fear the sun and never venture out in dayli
 
 A yeth hound’s natural weapons, as well as any weapons it wields, are treated as evil-aligned for the purpose of overcoming damage reduction.
 
-**Bay (Su):**When a yeth hound howls or barks, all creatures except other evil outsiders within a 300-foot spread must succeed on a DC 11 Will save or become panicked for 2d4 rounds. This is a sonic mind-affecting fear effect. Whether or not the save is successful, an affected creature is immune to the same hound’s bay for 24 hours. The save DC is Charisma-based.
+**Bay (Su):** When a yeth hound howls or barks, all creatures except other evil outsiders within a 300-foot spread must succeed on a DC 11 Will save or become panicked for 2d4 rounds. This is a sonic mind-affecting fear effect. Whether or not the save is successful, an affected creature is immune to the same hound’s bay for 24 hours. The save DC is Charisma-based.
 
-**Trip (Ex):**A yeth hound that hits with its bite attack can attempt to trip the opponent (+3 check modifier) as a free action without making a touch attack or provoking an attack of opportunity. If the attempt fails, the opponent cannot react to trip the yeth hound.
+**Trip (Ex):** A yeth hound that hits with its bite attack can attempt to trip the opponent (+3 check modifier) as a free action without making a touch attack or provoking an attack of opportunity. If the attempt fails, the opponent cannot react to trip the yeth hound.
 
-**Flight (Su):**A yeth hound can cease or resume flight as a free action.
+**Flight (Su):** A yeth hound can cease or resume flight as a free action.
 
-**Skills:***A yeth hound has a +4 racial bonus on Survival checks when tracking by scent.
+**Skills:** *A yeth hound has a +4 racial bonus on Survival checks when tracking by scent.
 
 
 
@@ -3152,15 +3152,15 @@ COMBAT
 
 A yrthak prefers to attack from the air, strafing the ground with sonic attacks or snatching up and dropping prey.
 
-**Sonic Lance (Su):**Once every 2 rounds, a yrthak can focus sonic energy in a ray up to 60 feet long. This is a ranged touch attack that deals 6d6 points of damage to a single target.
+**Sonic Lance (Su):** Once every 2 rounds, a yrthak can focus sonic energy in a ray up to 60 feet long. This is a ranged touch attack that deals 6d6 points of damage to a single target.
 
-**Explosion (Su):**A yrthak can fire its sonic lance at the ground, a large rock, a stone wall, or the like to create an explosion of shattered stone. This attack deals 2d6 points of piercing damage to all within 10 feet of the effect’s center. This counts as a use of the sonic lance attack and thus is usable only once every 2 rounds, and never on the round following a sonic lance attack.
+**Explosion (Su):** A yrthak can fire its sonic lance at the ground, a large rock, a stone wall, or the like to create an explosion of shattered stone. This attack deals 2d6 points of piercing damage to all within 10 feet of the effect’s center. This counts as a use of the sonic lance attack and thus is usable only once every 2 rounds, and never on the round following a sonic lance attack.
 
-**Blindsight (Ex):**A yrthak can ascertain all foes within 120 feet. Beyond that range it is considered blinded. Yrthaks are invulnerable to gaze attacks, visual effects of spells such as illusions, and other attack forms that rely on sight. A yrthak whose sense of hearing is impaired is effectively blinded, treating all targets as having total concealment.
+**Blindsight (Ex):** A yrthak can ascertain all foes within 120 feet. Beyond that range it is considered blinded. Yrthaks are invulnerable to gaze attacks, visual effects of spells such as illusions, and other attack forms that rely on sight. A yrthak whose sense of hearing is impaired is effectively blinded, treating all targets as having total concealment.
 
-**Immunities:**Yrthaks have immunity to gaze attacks, visual effects, illusions, and other attack forms that rely on sight.
+**Immunities:** Yrthaks have immunity to gaze attacks, visual effects, illusions, and other attack forms that rely on sight.
 
-**Skills:**Yrthaks have a +4 racial bonus on Listen checks.
+**Skills:** Yrthaks have a +4 racial bonus on Listen checks.
 
 
 
@@ -3176,13 +3176,13 @@ CREATING A ZOMBIE
 
 “Zombie” is an acquired template that can be added to any corporeal creature (other than an undead) that has a skeletal system (referred to hereafter as the base creature).
 
-**Size and Type:**The creature’s type changes to undead. It retains any subtypes except alignment subtypes and subtypes that indicate kind. It does not gain the augmented subtype. It uses all the base creature’s statistics and special abilities except as noted here.
+**Size and Type:** The creature’s type changes to undead. It retains any subtypes except alignment subtypes and subtypes that indicate kind. It does not gain the augmented subtype. It uses all the base creature’s statistics and special abilities except as noted here.
 
-**Hit Dice:**Drop any Hit Dice from class levels (to a minimum of 1), double the number of Hit Dice left, and raise them to d12s. If the base creature has more than 10 Hit Dice (not counting those gained with experience), it can’t be made into a zombie with theanimate deadspell.
+**Hit Dice:** Drop any Hit Dice from class levels (to a minimum of 1), double the number of Hit Dice left, and raise them to d12s. If the base creature has more than 10 Hit Dice (not counting those gained with experience), it can’t be made into a zombie with theanimate deadspell.
 
-**Speed:**If the base creature can fly, its maneuverability rating drops to clumsy.
+**Speed:** If the base creature can fly, its maneuverability rating drops to clumsy.
 
-**Armor Class:**Natural armor bonus increases by a number based on the zombie’s size:
+**Armor Class:** Natural armor bonus increases by a number based on the zombie’s size:
 
 
 
@@ -3216,11 +3216,11 @@ CREATING A ZOMBIE
 
 ![46 MonstersT-Z-Table24.png](46 MonstersT-Z-Table24.png)
 
-**Base Attack:**A zombie has a base attack bonus equal to 1/2 its Hit Dice.
+**Base Attack:** A zombie has a base attack bonus equal to 1/2 its Hit Dice.
 
-**Attacks:**A zombie retains all the natural weapons, manufactured weapon attacks, and weapon proficiencies of the base creature. A zombie also gains a slam attack.
+**Attacks:** A zombie retains all the natural weapons, manufactured weapon attacks, and weapon proficiencies of the base creature. A zombie also gains a slam attack.
 
-**Damage:**Natural and manufactured weapons deal damage normally. A slam attack deals damage depending on the zombie’s size. (Use the base creature’s slam damage if it’s better.)
+**Damage:** Natural and manufactured weapons deal damage normally. A slam attack deals damage depending on the zombie’s size. (Use the base creature’s slam damage if it’s better.)
 
 
 
@@ -3262,25 +3262,25 @@ CREATING A ZOMBIE
 
 ![46 MonstersT-Z-Table25.png](46 MonstersT-Z-Table25.png)
 
-**Special Attacks:**A zombie retains none of the base creature’s special attacks.
+**Special Attacks:** A zombie retains none of the base creature’s special attacks.
 
-**Special Qualities:**A zombie loses most special qualities of the base creature. It retains any extraordinary special qualities that improve its melee or ranged attacks. A zombie gains the following special quality.
+**Special Qualities:** A zombie loses most special qualities of the base creature. It retains any extraordinary special qualities that improve its melee or ranged attacks. A zombie gains the following special quality.
 
 Single Actions Only (Ex):Zombies have poor reflexes and can perform only a single move action or attack action each round. A zombie can move up to its speed and attack in the same round, but only if it attempts a charge.
 
-**Saves:**Base save bonuses are Fort +1/3 HD, Ref +1/3 HD, and Will +1/2 HD + 2.
+**Saves:** Base save bonuses are Fort +1/3 HD, Ref +1/3 HD, and Will +1/2 HD + 2.
 
-**Abilities:**A zombie’s Strength increases by +2, its Dexterity decreases by 2, it has no Constitution or Intelligence score, its Wisdom changes to 10, and its Charisma changes to 1.
+**Abilities:** A zombie’s Strength increases by +2, its Dexterity decreases by 2, it has no Constitution or Intelligence score, its Wisdom changes to 10, and its Charisma changes to 1.
 
-**Skills:**A zombie has no skills.
+**Skills:** A zombie has no skills.
 
-**Feats:**A zombie loses all feats of the base creature and gains Toughness.
+**Feats:** A zombie loses all feats of the base creature and gains Toughness.
 
-**Environment:**Any land and underground.
+**Environment:** Any land and underground.
 
-**Organization:**Any.
+**Organization:** Any.
 
-**Challenge Rating:**Depends on Hit Dice, as follows:
+**Challenge Rating:** Depends on Hit Dice, as follows:
 
 
 
@@ -3326,13 +3326,13 @@ Single Actions Only (Ex):Zombies have poor reflexes and can perform only a singl
 
 ![46 MonstersT-Z-Table26.png](46 MonstersT-Z-Table26.png)
 
-**Treasure:**None.
+**Treasure:** None.
 
-**Alignment:**Always neutral evil.
+**Alignment:** Always neutral evil.
 
 Advancement: As base creature, but double Hit Dice (maximum 20), or — if the base creature advances by character class.
 
-**Level Adjustment:**—.
+**Level Adjustment:** —.
 
 
 

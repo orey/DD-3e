@@ -14,13 +14,13 @@ While every monsterhas the statistics that a player would need to play the creat
 
 
 
-**Starting Level of a Monster PC:**Monsters suitable for play have a level adjustment given in their statistics. Add a monster’s level adjustment to its Hit Dice and class levels to get the creature’s effective character level, or ECL. Effectively, monsters with a level adjustment become multiclass character when they take class levels.A creature’s “monster class” is always a favored class, and the creature never takes XP penalties for having it.
+**Starting Level of a Monster PC:** Monsters suitable for play have a level adjustment given in their statistics. Add a monster’s level adjustment to its Hit Dice and class levels to get the creature’s effective character level, or ECL. Effectively, monsters with a level adjustment become multiclass character when they take class levels.A creature’s “monster class” is always a favored class, and the creature never takes XP penalties for having it.
 
 
 
 
 
-**Humanoids and Class Levels:**Creatures with 1 or less HD replace their monster levels with their character levels. The monster loses the attack bonus, saving throw bonuses, skills, and feats granted by its 1 monster HD and gains the attack bonus, save bonuses, skills, feats, and other class abilities of a 1st-level character of the appropriate class.
+**Humanoids and Class Levels:** Creatures with 1 or less HD replace their monster levels with their character levels. The monster loses the attack bonus, saving throw bonuses, skills, and feats granted by its 1 monster HD and gains the attack bonus, save bonuses, skills, feats, and other class abilities of a 1st-level character of the appropriate class.
 
 Characters with more than 1 Hit Die because of their race do not get a feat for their first class level as members of the common races do, and they do not multiply the skill points for their first class level by four. Instead, they have already received a feat for their first Hit Die because of race, and they have already multiplied their racial skill points for their first Hit Die by four.
 
@@ -28,7 +28,7 @@ Characters with more than 1 Hit Die because of their race do not get a feat for 
 
 
 
-**Level Adjustment and Effective Character Level:**To determine the effective character level (ECL) of a monster character, add its level adjustment to its racial Hit Dice and character class levels.
+**Level Adjustment and Effective Character Level:** To determine the effective character level (ECL) of a monster character, add its level adjustment to its racial Hit Dice and character class levels.
 
 Use ECL instead of character levelto determine how many experience points a monster character needs to reach its next level. Also use ECL to determine starting wealth for a monster character.
 
@@ -48,15 +48,15 @@ Even if the creature is of a kind that normally advances by Hit Dice rather than
 
 
 
-**Feat Acquisition and Ability Score Increases:**A monster’s total Hit Dice, not its ECL, govern its acquisition of feats and ability score increases.
+**Feat Acquisition and Ability Score Increases:** A monster’s total Hit Dice, not its ECL, govern its acquisition of feats and ability score increases.
 
 
 
 
 
-**Ability Scores for Monster PCs:**While a monsters statistics give the ability scores for a typical creature of a certain kind, any “monster” creature that becomes an adventurer is definitely not typical. Therefore, when creating a PC from a creature,check to see if the creature’s entry has any ability scores of 10 or higher. If so, for each score, subtract 10 (if the score is even) or 11 (if the score is odd) to get the creature’s modifier for that ability based on its race or kind. Generate the character’s ability scores as normal, then add the racial ability modifiers to get their ability scores.
+**Ability Scores for Monster PCs:** While a monsters statistics give the ability scores for a typical creature of a certain kind, any “monster” creature that becomes an adventurer is definitely not typical. Therefore, when creating a PC from a creature,check to see if the creature’s entry has any ability scores of 10 or higher. If so, for each score, subtract 10 (if the score is even) or 11 (if the score is odd) to get the creature’s modifier for that ability based on its race or kind. Generate the character’s ability scores as normal, then add the racial ability modifiers to get their ability scores.
 
-**Note:**Some monsters have base ability scores other than 10 and 11. If alternate scores were used this will be indicated in the monster entry. Also, some monsters that make good PCs have their racial ability modifiers and other traits already listed in their monster entry.
+**Note:** Some monsters have base ability scores other than 10 and 11. If alternate scores were used this will be indicated in the monster entry. Also, some monsters that make good PCs have their racial ability modifiers and other traits already listed in their monster entry.
 
 
 
@@ -468,7 +468,7 @@ The separate table for Intelligence ensures that no PC ends up with an Intellige
 
 
 
-**Other Statistics for Monsters:**Creatures with Hit Dice of 1 or less have normal, class-based Hit Dice and features. They get skills and feats appropriate to a 1st-level character (even if they have a level adjustment).
+**Other Statistics for Monsters:** Creatures with Hit Dice of 1 or less have normal, class-based Hit Dice and features. They get skills and feats appropriate to a 1st-level character (even if they have a level adjustment).
 
 Those with 2 or more Hit Dice have statistics based on these Hit Dice plus Hit Dice for class levels (if any).
 
@@ -476,7 +476,7 @@ Those with 2 or more Hit Dice have statistics based on these Hit Dice plus Hit D
 
 
 
-**Experience for Monsters:**A monster with Hit Dice of 1 or less, no level adjustment, and class levels uses the same tables as standard PC races when determining experience needed.
+**Experience for Monsters:** A monster with Hit Dice of 1 or less, no level adjustment, and class levels uses the same tables as standard PC races when determining experience needed.
 
 A monster with Hit Dice of 1 or less, a level adjustment, and class levels adds its class levels, Hit Die, and level adjustment together when determining experience needed (class level + HD + level adjustment).
 

@@ -108,11 +108,11 @@ COMBAT
 
 A digester is a hunting and eating machine. When it is not hungry (which is rarely), it lies low and avoids most other creatures. When hunting, it looks about for a likely target, then charges forth and delivers a gout of acid. If the initial attack is insufficient to kill the prey, the digester attacks with its hind feet until it can spray acid again.
 
-**Acid Spray (Ex):**A digester can spray acid in a 20-foot cone, dealing 4d8 points of damage to everything in the area. Once a digester uses this ability, it can’t use it again until 1d4 rounds later.
+**Acid Spray (Ex):** A digester can spray acid in a 20-foot cone, dealing 4d8 points of damage to everything in the area. Once a digester uses this ability, it can’t use it again until 1d4 rounds later.
 
 The creature can also produce a concentrated stream of acid that deals 8d8 points of damage to a single target within 5 feet. In either case, a DC 17 Reflex save halves the damage. The save DC is Constitution-based.
 
-**Skills:**A digester’s coloration gives it a +4 racial bonus on Hide checks. It also has a +4 racial bonus on Jump checks.
+**Skills:** A digester’s coloration gives it a +4 racial bonus on Hide checks. It also has a +4 racial bonus on Jump checks.
 
 
 
@@ -226,9 +226,9 @@ Combat
 
 A deinonychus uses a combination of speed, grasping forearms, large teeth, and hind legs with ripping talons. It hunts by running at prey, leaping, and ripping with its rear talons as it claws and bites. The talons count as one attack. A deinonychus has a relatively large brain for a dinosaur, and its pack hunts with cunning tactics.
 
-**Pounce (Ex):**If a deinonychus charges, it can make a full attack.
+**Pounce (Ex):** If a deinonychus charges, it can make a full attack.
 
-**Skills:**A deinonychus has a +8 racial bonus on Hide, Jump, Listen, Spot, and Survival checks.
+**Skills:** A deinonychus has a +8 racial bonus on Hide, Jump, Listen, Spot, and Survival checks.
 
 
 
@@ -334,7 +334,7 @@ Combat
 
 An elasmosaurus is aggressive and attacks anything it notices. The creature is strong, fast, and highly maneuverable, able to turn quickly and lunge at prey. When hunting, it travels with its head out of the water, snapping down quickly to seize prey.
 
-**Skills:***An elasmosaurus has a +8 racial bonus on Hide checks in water.
+**Skills:** *An elasmosaurus has a +8 racial bonus on Hide checks in water.
 
 
 
@@ -436,9 +436,9 @@ MEGARAPTOR
 
 This creature is a larger version of the deinonychus, standing about 12 feet tall with a total length of 24 feet. It has the same appearance, habits, and abilities of the smaller version.
 
-**Pounce (Ex):**If a megaraptor charges, it can make a full attack.
+**Pounce (Ex):** If a megaraptor charges, it can make a full attack.
 
-**Skills:**A megaraptor has a +8 racial bonus on Hide, Jump, Listen, Spot, and Survival checks.
+**Skills:** A megaraptor has a +8 racial bonus on Hide, Jump, Listen, Spot, and Survival checks.
 
 
 
@@ -544,9 +544,9 @@ Combat
 
 These creatures are likely to charge and skewer any creature of at least Large size that infringes on their territory. A triceratops uses its trample attack on smaller opponents.
 
-**Powerful Charge (Ex):**When a triceratops charges, its gore attack deals 4d8+20 points of damage.
+**Powerful Charge (Ex):** When a triceratops charges, its gore attack deals 4d8+20 points of damage.
 
-**Trample (Ex):**Reflex half DC 28. The save DC is Strength-based.
+**Trample (Ex):** Reflex half DC 28. The save DC is Strength-based.
 
 
 
@@ -652,13 +652,13 @@ Combat
 
 A tyrannosaurus pursues and eats just about anything it sees. Its tactics are simple—charge in and bite.
 
-**Improved Grab (Ex):**To use this ability, a tyrannosaurus must hit an opponent of up to one size smaller with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can try to swallow the foe the following round.
+**Improved Grab (Ex):** To use this ability, a tyrannosaurus must hit an opponent of up to one size smaller with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can try to swallow the foe the following round.
 
-**Swallow Whole (Ex):**A tyrannosaurus can try to swallow a grabbed opponent of up to two sizes smaller by making a successful grapple check. The swallowed creature takes 2d8+8 points of bludgeoning damage and 8 points of acid damage per round from the tyrannosaurus’s gizzard. A swallowed creature can cut its way out by using a light slashing or piercing weapon to deal 25 points of damage to the gizzard (AC 12). Once the creature exits, muscular action closes the hole; another swallowed opponent must cut its own way out.
+**Swallow Whole (Ex):** A tyrannosaurus can try to swallow a grabbed opponent of up to two sizes smaller by making a successful grapple check. The swallowed creature takes 2d8+8 points of bludgeoning damage and 8 points of acid damage per round from the tyrannosaurus’s gizzard. A swallowed creature can cut its way out by using a light slashing or piercing weapon to deal 25 points of damage to the gizzard (AC 12). Once the creature exits, muscular action closes the hole; another swallowed opponent must cut its own way out.
 
 A Huge tyrannosaurus’s gizzard can hold 2 Medium, 8 Small, 32 Tiny, or 128 Diminutive or smaller opponents.
 
-**Skills:**A tyrannosaurus has a +2 racial bonus on Listen and Spot checks.
+**Skills:** A tyrannosaurus has a +2 racial bonus on Listen and Spot checks.
 
 
 
@@ -772,9 +772,9 @@ Combat
 
 Dire apes attack anything that enters their territory, even other dire apes. If an opponent’s armor foils a dire ape’s attacks, the creature will attempt to grapple and pin, then rend the prone opponent.
 
-**Rend (Ex):**A dire ape that hits with both claw attacks latches onto the opponent’s body and tears the flesh. This attack automatically deals an extra 2d6+12 points of damage.
+**Rend (Ex):** A dire ape that hits with both claw attacks latches onto the opponent’s body and tears the flesh. This attack automatically deals an extra 2d6+12 points of damage.
 
-**Skills:**Dire apes have a +8 racial bonus on Climb checks and can always choose to take 10 on Climb checks, even if rushed or threatened.
+**Skills:** Dire apes have a +8 racial bonus on Climb checks and can always choose to take 10 on Climb checks, even if rushed or threatened.
 
 
 
@@ -882,7 +882,7 @@ Combat
 
 Dire badgers attack with their sharp claws and teeth.
 
-**Rage (Ex):**A dire badger that takes damage in combat flies into a berserk rage on its next turn, clawing and biting madly until either it or its opponent is dead. It gains +4 Strength, +4 Constitution, and –2 AC. The creature cannot end its rage voluntarily.
+**Rage (Ex):** A dire badger that takes damage in combat flies into a berserk rage on its next turn, clawing and biting madly until either it or its opponent is dead. It gains +4 Strength, +4 Constitution, and –2 AC. The creature cannot end its rage voluntarily.
 
 
 
@@ -988,9 +988,9 @@ Combat
 
 Dire bats swoop down upon unsuspecting prey from above.
 
-**Blindsense (Ex):**A dire bat uses echolocation to pinpoint creatures within 40 feet. Opponents still have total concealment against the bat unless it can actually see them.
+**Blindsense (Ex):** A dire bat uses echolocation to pinpoint creatures within 40 feet. Opponents still have total concealment against the bat unless it can actually see them.
 
-**Skills:**Dire bats have a +4 racial bonus on Spot and Listen checks. These bonuses are lost if its blindsense is negated.
+**Skills:** Dire bats have a +4 racial bonus on Spot and Listen checks. These bonuses are lost if its blindsense is negated.
 
 
 
@@ -1098,7 +1098,7 @@ Combat
 
 A dire bear attacks by tearing at opponents with its claws.
 
-**Improved Grab (Ex):**To use this ability, a dire bear must hit with a claw attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity.
+**Improved Grab (Ex):** To use this ability, a dire bear must hit with a claw attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity.
 
 
 
@@ -1206,7 +1206,7 @@ Combat
 
 A dire boar charges its opponent, trying to rip the target open with its tusks.
 
-**Ferocity (Ex):**A dire boar is such a tenacious combatant that it continues to fight without penalty even while disabled or dying.
+**Ferocity (Ex):** A dire boar is such a tenacious combatant that it continues to fight without penalty even while disabled or dying.
 
 
 
@@ -1314,13 +1314,13 @@ Combat
 
 A dire lion attacks by running at prey, leaping, and clawing and biting as it rakes with its rear claws. It often jumps onto a creature larger than itself.
 
-**Improved Grab (Ex):**To use this ability, a dire lion must hit with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can rake.
+**Improved Grab (Ex):** To use this ability, a dire lion must hit with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can rake.
 
-**Pounce (Ex):**If a dire lion charges, it can make a full attack, including two rake attacks.
+**Pounce (Ex):** If a dire lion charges, it can make a full attack, including two rake attacks.
 
-**Rake (Ex):**Attack bonus +12 melee, damage 1d6+3.
+**Rake (Ex):** Attack bonus +12 melee, damage 1d6+3.
 
-**Skills:**Dire lions have a +4 racial bonus on Hide and Move Silently checks.
+**Skills:** Dire lions have a +4 racial bonus on Hide and Move Silently checks.
 
 *In areas of tall grass or heavy undergrowth, the Hide bonus improves to +8.
 
@@ -1430,9 +1430,9 @@ Combat
 
 Dire rat packs attack fearlessly, biting and chewing with their sharp incisors.
 
-**Disease (Ex):**Filth fever—bite, Fortitude DC 11, incubation period 1d3 days, damage 1d3 Dex and 1d3 Con. The save DC is Constitution-based.
+**Disease (Ex):** Filth fever—bite, Fortitude DC 11, incubation period 1d3 days, damage 1d3 Dex and 1d3 Con. The save DC is Constitution-based.
 
-**Skills:**Dire rats have a +8 racial bonus on Swim checks. Dire rats have a +8 racial bonus on Climb checks and can always choose to take 10 on Climb checks, even if rushed or threatened.
+**Skills:** Dire rats have a +8 racial bonus on Swim checks. Dire rats have a +8 racial bonus on Climb checks and can always choose to take 10 on Climb checks, even if rushed or threatened.
 
 Dire rats use their Dexterity modifier for Climb and Swim checks.
 
@@ -1542,15 +1542,15 @@ Combat
 
 Dire sharks bite with their powerful jaws, swallowing smaller creatures in one gulp.
 
-**Improved Grab (Ex):**To use this ability, a dire shark must hit with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can try to swallow the foe in the following round.
+**Improved Grab (Ex):** To use this ability, a dire shark must hit with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can try to swallow the foe in the following round.
 
-**Swallow Whole (Ex):**A dire shark can try to swallow a grabbed opponent of up to one size smaller by making a successful grapple check. Once inside, the opponent takes 2d6+6 points of bludgeoning damage plus 1d8+4 points of acid damage per round from the shark’s digestive juices. A swallowed creature can cut its way out using a light slashing or piercing weapon by dealing 25 points of damage to the shark’s digestive tract (AC 13). Once the creature exits, muscular action closes the hole; another swallowed opponent must cut its own way out.
+**Swallow Whole (Ex):** A dire shark can try to swallow a grabbed opponent of up to one size smaller by making a successful grapple check. Once inside, the opponent takes 2d6+6 points of bludgeoning damage plus 1d8+4 points of acid damage per round from the shark’s digestive juices. A swallowed creature can cut its way out using a light slashing or piercing weapon by dealing 25 points of damage to the shark’s digestive tract (AC 13). Once the creature exits, muscular action closes the hole; another swallowed opponent must cut its own way out.
 
 A Huge dire shark’s gullet can hold 2 Large, 8 Medium or Small, 32 Tiny, 128 Diminutive, or 512 Fine or smaller opponents.
 
-**Keen Scent (Ex):**A dire shark can notice creatures by scent in a 180-foot radius and can detect blood in the water at a range of up to 1 mile.
+**Keen Scent (Ex):** A dire shark can notice creatures by scent in a 180-foot radius and can detect blood in the water at a range of up to 1 mile.
 
-**Skills:**A dire shark has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered.
+**Skills:** A dire shark has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered.
 
 It can use the run action while swimming, provided it swims in a straight line.
 
@@ -1660,13 +1660,13 @@ Combat
 
 A dire tiger attacks by running at prey, leaping, and clawing and biting as it rakes with its rear claws.
 
-**Improved Grab (Ex):**To use this ability, a dire tiger must hit with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can rake.
+**Improved Grab (Ex):** To use this ability, a dire tiger must hit with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can rake.
 
-**Pounce (Ex):**If a dire tiger charges, it can make a full attack, including two rake attacks.
+**Pounce (Ex):** If a dire tiger charges, it can make a full attack, including two rake attacks.
 
-**Rake (Ex):**Attack bonus +18 melee, damage 2d4+4.
+**Rake (Ex):** Attack bonus +18 melee, damage 2d4+4.
 
-**Skills:**Dire tigers have a +4 racial bonus on Hide and Move Silently checks. *In areas of tall grass or heavy undergrowth, the Hide bonus improves to +8.
+**Skills:** Dire tigers have a +4 racial bonus on Hide and Move Silently checks. *In areas of tall grass or heavy undergrowth, the Hide bonus improves to +8.
 
 
 
@@ -1772,9 +1772,9 @@ Combat
 
 Dire weasels stalk their prey in the dark and then leap on it, biting and clawing.
 
-**Attach (Ex):**A dire weasel that hits with its bite attack latches onto the opponent’s body with its powerful jaws. An attached dire weasel loses its Dexterity bonus to AC and thus has an AC of 12. An attached dire weasel can be struck with a weapon or grappled itself. To remove an attached dire weasel through grappling, the opponent must achieve a pin against the creature.
+**Attach (Ex):** A dire weasel that hits with its bite attack latches onto the opponent’s body with its powerful jaws. An attached dire weasel loses its Dexterity bonus to AC and thus has an AC of 12. An attached dire weasel can be struck with a weapon or grappled itself. To remove an attached dire weasel through grappling, the opponent must achieve a pin against the creature.
 
-**Blood Drain (Ex):**A dire weasel drains blood for 1d4 points of Constitution damage each round it remains attached.
+**Blood Drain (Ex):** A dire weasel drains blood for 1d4 points of Constitution damage each round it remains attached.
 
 
 
@@ -1882,9 +1882,9 @@ Combat
 
 Dire wolves prefer to attack in packs, surrounding and flanking a foe when they can.
 
-**Trip (Ex):**A dire wolf that hits with a bite attack can attempt to trip its opponent (+11 check modifier) as a free action without making a touch attack or provoking an attack of opportunity. If the attempt fails, the opponent cannot react to trip the dire wolf.
+**Trip (Ex):** A dire wolf that hits with a bite attack can attempt to trip its opponent (+11 check modifier) as a free action without making a touch attack or provoking an attack of opportunity. If the attempt fails, the opponent cannot react to trip the dire wolf.
 
-**Skills:**A dire wolf has a +2 racial bonus on Hide, Listen, Move Silently, and Spot checks.
+**Skills:** A dire wolf has a +2 racial bonus on Hide, Listen, Move Silently, and Spot checks.
 
 *It also has a +4 racial bonus on Survival checks when tracking by scent.
 
@@ -1992,9 +1992,9 @@ Combat
 
 Dire wolverines attack opponents wantonly, fearing no other creatures.
 
-**Rage (Ex):**A dire wolverine that takes damage in combat flies into a berserk rage on its next turn, clawing and biting madly until either it or its opponent is dead. An enraged dire wolverine gains +4 Strength, +4 Constitution, and –2 AC. The creature cannot end its rage voluntarily.
+**Rage (Ex):** A dire wolverine that takes damage in combat flies into a berserk rage on its next turn, clawing and biting madly until either it or its opponent is dead. An enraged dire wolverine gains +4 Strength, +4 Constitution, and –2 AC. The creature cannot end its rage voluntarily.
 
-**Skills:**A dire wolverine has a +8 racial bonus on Climb checks and can always choose to take 10 on Climb checks, even if rushed or threatened.
+**Skills:** A dire wolverine has a +8 racial bonus on Climb checks and can always choose to take 10 on Climb checks, even if rushed or threatened.
 
 
 
@@ -2104,11 +2104,11 @@ COMBAT
 
 When in its natural form, a doppelganger strikes with its powerful fists. In the shape of a warrior or some other armed person, it attacks with whatever weapon is appropriate. In such cases, it uses its detect thoughts ability to employ the same tactics and strategies as the person it is impersonating.
 
-**Detect Thoughts (Su):**A doppelganger can continuously use detect thoughts as the spell (caster level 18th; Will DC 13 negates). It can suppress or resume this ability as a free action. The save DC is Charisma-based.
+**Detect Thoughts (Su):** A doppelganger can continuously use detect thoughts as the spell (caster level 18th; Will DC 13 negates). It can suppress or resume this ability as a free action. The save DC is Charisma-based.
 
-**Change Shape (Su):**A doppelganger can assume the shape of any Small or Medium humanoid. In humanoid form, the doppelganger loses its natural attacks. A doppelganger can remain in its humanoid form until it chooses to assume a new one. A change in form cannot be dispelled, but a doppelganger reverts to its natural form when killed. Atrue seeingspell or ability reveals its natural form.
+**Change Shape (Su):** A doppelganger can assume the shape of any Small or Medium humanoid. In humanoid form, the doppelganger loses its natural attacks. A doppelganger can remain in its humanoid form until it chooses to assume a new one. A change in form cannot be dispelled, but a doppelganger reverts to its natural form when killed. Atrue seeingspell or ability reveals its natural form.
 
-**Skills:**A doppelganger has a +4 racial bonus on Bluff and Disguise checks.
+**Skills:** A doppelganger has a +4 racial bonus on Bluff and Disguise checks.
 
 *When using its change shape ability, a doppelganger gets an additional +10 circumstance bonus on Disguise checks. If it can read an opponent’s mind, it gets a further +4 circumstance bonus on Bluff and Disguise checks.
 

@@ -112,9 +112,9 @@ Gargoyles either remain still, then suddenly attack, or dive onto their prey.
 
 A gargoyle’s natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
 
-**Freeze (Ex):**A gargoyle can hold itself so still it appears to be a statue. An observer must succeed on a DC 20 Spot check to notice the gargoyle is really alive.
+**Freeze (Ex):** A gargoyle can hold itself so still it appears to be a statue. An observer must succeed on a DC 20 Spot check to notice the gargoyle is really alive.
 
-**Skills:**Gargoyles have a +2 racial bonus on Hide, Listen, and Spot checks. *The Hide bonus increases by +8 when a gargoyle is concealed against a background of stone.
+**Skills:** Gargoyles have a +2 racial bonus on Hide, Listen, and Spot checks. *The Hide bonus increases by +8 when a gargoyle is concealed against a background of stone.
 
 KAPOACINTH
 
@@ -160,7 +160,7 @@ COMBAT
 
 Genies prefer to outmaneuver and outthink their foes. They are not too proud to flee if it means they’ll live to fight another day. If trapped, they bargain, offering treasure or favors in return for their lives and freedom.
 
-**Plane Shift****(Sp):**A genie can enter any of the elemental planes, the Astral Plane, or the Material Plane. This ability transports the genie and up to eight other creatures, provided they all link hands with the genie. It is otherwise similar to the spell of the same name (caster level 13th).
+**Plane Shift** **(Sp):** A genie can enter any of the elemental planes, the Astral Plane, or the Material Plane. This ability transports the genie and up to eight other creatures, provided they all link hands with the genie. It is otherwise similar to the spell of the same name (caster level 13th).
 
 DJINNI
 
@@ -266,11 +266,11 @@ Combat
 
 Djinn disdain physical combat, preferring to use their magical powers and aerial abilities against foes. A djinni overmatched in combat usually takes flight and becomes a whirlwind to harass those who follow.
 
-**Air Mastery (Ex):**Airborne creatures take a –1 penalty on attack and damage rolls against a djinni.
+**Air Mastery (Ex):** Airborne creatures take a –1 penalty on attack and damage rolls against a djinni.
 
-**Spell-Like Abilities:**At will—invisibility(self only); 1/day—create food and water, create wine(ascreate water,but wine instead),major creation(created vegetable matter is permanent),persistent image(DC 17),wind walk.Once per day, a djinni can assumegaseous form(as the spell) for up to 1 hour. Caster level 20th. The save DCs are Charisma-based.
+**Spell-Like Abilities:** At will—invisibility(self only); 1/day—create food and water, create wine(ascreate water,but wine instead),major creation(created vegetable matter is permanent),persistent image(DC 17),wind walk.Once per day, a djinni can assumegaseous form(as the spell) for up to 1 hour. Caster level 20th. The save DCs are Charisma-based.
 
-**Whirlwind (Su):**A djinni can transform itself into a whirlwind once every 10 minutes and remain in that form for up to 7 rounds. In this form, it can move through the air or along a surface at its fly speed.
+**Whirlwind (Su):** A djinni can transform itself into a whirlwind once every 10 minutes and remain in that form for up to 7 rounds. In this form, it can move through the air or along a surface at its fly speed.
 
 The whirlwind is 5 feet wide at the base, up to 30 feet wide at the top and up to 50 feet tall. The djinni controls the exact height, but it must be at least 10 feet.
 
@@ -396,11 +396,11 @@ Combat
 
 Efreet love to mislead, befuddle, and confuse their foes. They do so for enjoyment as well as a battle tactic.
 
-**Change Size****(Sp):**Twice per day, an efreeti can magically change a creature’s size. This works just like anenlarge personorreduce personspell (the efreeti chooses when using the ability), except that the ability can work on the efreeti. A DC 13 Fortitude save negates the effect. The save DC is Charisma-based. This is the equivalent of a 2nd-level spell.
+**Change Size** **(Sp):** Twice per day, an efreeti can magically change a creature’s size. This works just like anenlarge personorreduce personspell (the efreeti chooses when using the ability), except that the ability can work on the efreeti. A DC 13 Fortitude save negates the effect. The save DC is Charisma-based. This is the equivalent of a 2nd-level spell.
 
-**Heat (Ex):**An efreeti’s red-hot body deals 1d6 points of extra fire damage whenever it hits in melee, or in each round it maintains a hold when grappling.
+**Heat (Ex):** An efreeti’s red-hot body deals 1d6 points of extra fire damage whenever it hits in melee, or in each round it maintains a hold when grappling.
 
-**Spell-Like Abilities:**At will—detect magic, produce flame, pyrotechnics(DC 14),scorching ray(1 ray only); 3/day—invisibility, wall of fire(DC 16); 1/day—grant up to threewishes(to nongenies only),gaseous form, permanent image(DC 18),polymorph(self only). Caster level 12th. The save DCs are Charisma-based.
+**Spell-Like Abilities:** At will—detect magic, produce flame, pyrotechnics(DC 14),scorching ray(1 ray only); 3/day—invisibility, wall of fire(DC 16); 1/day—grant up to threewishes(to nongenies only),gaseous form, permanent image(DC 18),polymorph(self only). Caster level 12th. The save DCs are Charisma-based.
 
 JANNI
 
@@ -504,11 +504,11 @@ Combat
 
 Jann are physically strong and courageous, and do not take kindly to insult or injury. If they meet a foe they cannot defeat in a standup fight, they use flight andinvisibilityto regroup and maneuver to a more advantageous position.
 
-**Change Size****(Sp):**Twice per day, a janni can magically change a creature’s size. This works just like anenlarge personorreduce personspell (the janni chooses when using the ability), except that the ability can work on the janni. A DC 13 Fortitude save negates the effect. The save DC is Charisma-based. This is the equivalent of a 2nd-level spell.
+**Change Size** **(Sp):** Twice per day, a janni can magically change a creature’s size. This works just like anenlarge personorreduce personspell (the janni chooses when using the ability), except that the ability can work on the janni. A DC 13 Fortitude save negates the effect. The save DC is Charisma-based. This is the equivalent of a 2nd-level spell.
 
-**Spell-Like Abilities:**3/day—invisibility(self only),speak with animals.Caster level 12th. Once per day a janni cancreate food and water(caster level 7th) and can useethereal jaunt(caster level 12th) for 1 hour. The save DCs are Charisma-based.
+**Spell-Like Abilities:** 3/day—invisibility(self only),speak with animals.Caster level 12th. Once per day a janni cancreate food and water(caster level 7th) and can useethereal jaunt(caster level 12th) for 1 hour. The save DCs are Charisma-based.
 
-**Elemental Endurance (Ex):**Jann can survive on the Elemental Planes of Air, Earth, Fire, or Water for up to 48 hours. Failure to return to the Material Plane before that time expires causes a janni to take 1 point of damage per additional hour spent on the elemental plane, until it dies or returns to the Material Plane.
+**Elemental Endurance (Ex):** Jann can survive on the Elemental Planes of Air, Earth, Fire, or Water for up to 48 hours. Failure to return to the Material Plane before that time expires causes a janni to take 1 point of damage per additional hour spent on the elemental plane, until it dies or returns to the Material Plane.
 
 ## Jann as Characters
 
@@ -650,25 +650,25 @@ Ghaeles who enter combat prefer direct confrontation and damaging attacks to mor
 
 A ghaele’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and good-aligned for the purpose of overcoming damage reduction.
 
-**Spell-Like Abilities:**At will—aid, charm monster(DC 17),color spray(DC 14),comprehend languages, continual flame, cure light wounds(DC 14),dancing lights, detect evil, detect thoughts(DC 15),disguise self, dispel magic, hold monster(DC 18),greater invisibility(self only),major image(DC 16),see invisibility, greater teleport(self plus 50 pounds of objects only); 1/day—chain lightning(DC 19),prismatic spray(DC 20),wall of force.Caster level 12th. The save DCs are Charisma-based.
+**Spell-Like Abilities:** At will—aid, charm monster(DC 17),color spray(DC 14),comprehend languages, continual flame, cure light wounds(DC 14),dancing lights, detect evil, detect thoughts(DC 15),disguise self, dispel magic, hold monster(DC 18),greater invisibility(self only),major image(DC 16),see invisibility, greater teleport(self plus 50 pounds of objects only); 1/day—chain lightning(DC 19),prismatic spray(DC 20),wall of force.Caster level 12th. The save DCs are Charisma-based.
 
-**Spells:**Ghaeles in humanoid form can cast divine spells as 14th-level clerics. A ghaele has access to two of the following domains: Air, Animal, Chaos, Good, or Plant (plus any others from its deity). The save DCs are Wisdom-based.
+**Spells:** Ghaeles in humanoid form can cast divine spells as 14th-level clerics. A ghaele has access to two of the following domains: Air, Animal, Chaos, Good, or Plant (plus any others from its deity). The save DCs are Wisdom-based.
 
 Typical Cleric Spells Prepared(6/7/7/6/5/4/4/3; save DC 13 + spell level): 0—cure minor wounds, detect magic, guidance, light, resistance, virtue;1st—bless, calm animals*, command, divine favor, obscuring mist, sanctuary, shield of faith;2nd—aid, align weapon, bear ’s endurance, hold animal*, lesser restoration, remove paralysis, zone of truth;3rd—daylight, gaseous form*, prayer, remove curse, searing light, water breathing;4th—death ward, dismissal, divine power, restoration, summon nature’s ally IV (animal)*;5th—control winds*, flame strike, raise dead, true seeing;6th—banishment, blade barrier, chain lightning*, heal;7th—animal shapes*, holy word, summon monster VII.
 
 *Domain spell. Domains: Air and Animal.
 
-**Gaze (Su):**In humanoid form—slay evil creatures of 5 or less HD, range 60 feet, Will DC 18 negates. Even if the save succeeds, the creature is affected as though by afearspell for 2d10 rounds. Nonevil creatures, and evil creatures with more than 5 HD, must succeed on a DC 18 Will save or suffer thefeareffect. The save DCs are Charisma-based.
+**Gaze (Su):** In humanoid form—slay evil creatures of 5 or less HD, range 60 feet, Will DC 18 negates. Even if the save succeeds, the creature is affected as though by afearspell for 2d10 rounds. Nonevil creatures, and evil creatures with more than 5 HD, must succeed on a DC 18 Will save or suffer thefeareffect. The save DCs are Charisma-based.
 
-**Light Ray (Ex):**A ghaele in globe form can project light rays with a range of 300 feet. This attack overcomes damage reduction of any type.
+**Light Ray (Ex):** A ghaele in globe form can project light rays with a range of 300 feet. This attack overcomes damage reduction of any type.
 
-**Alternate Form (Su):**A ghaele can shift between its humanoid and globe forms as a standard action. In humanoid form, it cannot fly or use its light rays, but it can use its gaze attack and spell-like abilities, make physical attacks, and cast spells. In globe form, it can fly, use its light rays, and use spell-like abilities, but it cannot cast spells or use its gaze attack. The globe form is incorporeal, and the ghaele has no Strength score while in that form.
+**Alternate Form (Su):** A ghaele can shift between its humanoid and globe forms as a standard action. In humanoid form, it cannot fly or use its light rays, but it can use its gaze attack and spell-like abilities, make physical attacks, and cast spells. In globe form, it can fly, use its light rays, and use spell-like abilities, but it cannot cast spells or use its gaze attack. The globe form is incorporeal, and the ghaele has no Strength score while in that form.
 
 A ghaele remains in one form until it chooses to assume a new one. A change in form cannot be dispelled, nor does the ghaele revert to any particular form when killed. Atrue seeingspell or ability, however, reveals both forms simultaneously.
 
-**Protective Aura (Su):**Against attacks made or effects created by evil creatures,this ability provides a +4 deflection bonus to AC and a +4 resistance bonus on saving throws to anyone within 20 feet of the ghaele. Otherwise, it functions as amagic circle against evileffect and alesser globe of invulnerability,both with a radius of 20 feet (caster level equals ghaele’s HD). (The defensive benefits from the circle are not included in a ghaele’s statistics block.)
+**Protective Aura (Su):** Against attacks made or effects created by evil creatures,this ability provides a +4 deflection bonus to AC and a +4 resistance bonus on saving throws to anyone within 20 feet of the ghaele. Otherwise, it functions as amagic circle against evileffect and alesser globe of invulnerability,both with a radius of 20 feet (caster level equals ghaele’s HD). (The defensive benefits from the circle are not included in a ghaele’s statistics block.)
 
-**Tongues (Su):**Ghaeles can speak with any creature that has a language, as though using atonguesspell (caster level 14th). This ability is always active.
+**Tongues (Su):** Ghaeles can speak with any creature that has a language, as though using atonguesspell (caster level 14th). This ability is always active.
 
 
 
@@ -690,21 +690,21 @@ CREATING A GHOST
 
 A ghost uses all the base creature’s statistics and special abilities except as noted here.
 
-**Size and Type:**The creature’s type changes to undead. Do not recalculate the creature’s base attack bonus, saves, or skill points. It gains the incorporeal subtype. Size is unchanged.
+**Size and Type:** The creature’s type changes to undead. Do not recalculate the creature’s base attack bonus, saves, or skill points. It gains the incorporeal subtype. Size is unchanged.
 
-**Hit Dice:**All current and future Hit Dice become d12s.
+**Hit Dice:** All current and future Hit Dice become d12s.
 
-**Speed:**Ghosts have a fly speed of 30 feet, unless the base creature has a higher fly speed, with perfect maneuverability.
+**Speed:** Ghosts have a fly speed of 30 feet, unless the base creature has a higher fly speed, with perfect maneuverability.
 
-**Armor Class:**Natural armor is the same as the base creature’s but applies only to ethereal encounters. When the ghost manifests (see below), its natural armor bonus is +0, but it gains a deflection bonus equal to its Charisma modifier or +1, whichever is higher.
+**Armor Class:** Natural armor is the same as the base creature’s but applies only to ethereal encounters. When the ghost manifests (see below), its natural armor bonus is +0, but it gains a deflection bonus equal to its Charisma modifier or +1, whichever is higher.
 
-**Attack:**A ghost retains all the attacks of the base creature, although those relying on physical contact do not affect creatures that are not ethereal.
+**Attack:** A ghost retains all the attacks of the base creature, although those relying on physical contact do not affect creatures that are not ethereal.
 
-**Full Attack:**A ghost retains all the attacks of the base creature, although those relying on physical contact do not affect creatures that are not ethereal.
+**Full Attack:** A ghost retains all the attacks of the base creature, although those relying on physical contact do not affect creatures that are not ethereal.
 
-**Damage:**Against ethereal creatures, a ghost uses the base creature’s damage values. Against nonethereal creatures, the ghost usually cannot deal physical damage at all but can use its special attacks, if any, when it manifests (see below).
+**Damage:** Against ethereal creatures, a ghost uses the base creature’s damage values. Against nonethereal creatures, the ghost usually cannot deal physical damage at all but can use its special attacks, if any, when it manifests (see below).
 
-**Special Attacks:**A ghost retains all the special attacks of the base creature, although those relying on physical contact do not affect nonethereal creatures. The ghost also gains a manifestation ability plus one to three other special attacks as described below. The save DC against a special attack is equal to 10 + 1/2 ghost’s HD + ghost’s Cha modifier unless otherwise noted.
+**Special Attacks:** A ghost retains all the special attacks of the base creature, although those relying on physical contact do not affect nonethereal creatures. The ghost also gains a manifestation ability plus one to three other special attacks as described below. The save DC against a special attack is equal to 10 + 1/2 ghost’s HD + ghost’s Cha modifier unless otherwise noted.
 
 Corrupting Gaze (Su):A ghost can blast living beings with a glance, at a range of up to 30 feet. Creatures that meet the ghost’s gaze must succeed on a Fortitude save or take 2d10 points of damage and 1d4 points of Charisma damage.
 
@@ -726,27 +726,27 @@ A ghost has two home planes, the Material Plane and the Ethereal Plane. It is no
 
 Telekinesis (Su):A ghost can usetelekinesisas a standard action (caster level 12th or equal to the ghost’s HD, whichever is higher). When a ghost uses this power, it must wait 1d4 rounds before using it again.
 
-**Special Qualities:**A ghost has all the special qualities of the base creature as well as those described below.
+**Special Qualities:** A ghost has all the special qualities of the base creature as well as those described below.
 
 Rejuvenation (Su):In most cases, it’s difficult to destroy a ghost through simple combat: The “destroyed” spirit will often restore itself in 2d4 days. Even the most powerful spells are usually only temporary solutions. A ghost that would otherwise be destroyed returns to its old haunts with a successful level check (1d20 + ghost’s HD) against DC 16. As a rule, the only way to get rid of a ghost for sure is to determine the reason for its existence and set right whatever prevents it from resting in peace. The exact means varies with each spirit and may require a good deal of research.
 
 Turn Resistance (Ex):A ghost has +4 turn resistance.
 
-**Abilities:**Same as the base creature, except that the ghost has no Constitution score, and its Charisma score increases by +4.
+**Abilities:** Same as the base creature, except that the ghost has no Constitution score, and its Charisma score increases by +4.
 
-**Skills:**Ghosts have a +8 racial bonus on Hide, Listen, Search, and Spot checks. Otherwise same as the base creature.
+**Skills:** Ghosts have a +8 racial bonus on Hide, Listen, Search, and Spot checks. Otherwise same as the base creature.
 
-**Environment:**Any, often as base creature.
+**Environment:** Any, often as base creature.
 
-**Organization:**Solitary, gang (2–4), or mob (7–12).
+**Organization:** Solitary, gang (2–4), or mob (7–12).
 
-**Challenge Rating:**Same as the base creature +2.
+**Challenge Rating:** Same as the base creature +2.
 
-**Treasure:**None.
+**Treasure:** None.
 
-**Alignment:**Any.
+**Alignment:** Any.
 
-**Level Adjustment:**Same as the base creature +5.
+**Level Adjustment:** Same as the base creature +5.
 
 
 
@@ -914,11 +914,11 @@ COMBAT
 
 Ghouls try to attack with surprise whenever possible. They strike from behind tombstones and burst from shallow graves.
 
-**Ghoul Fever (Su):**Disease—bite, Fortitude DC 12, incubation period 1 day, damage 1d3 Con and 1d3 Dex. The save DC is Charisma-based.
+**Ghoul Fever (Su):** Disease—bite, Fortitude DC 12, incubation period 1 day, damage 1d3 Con and 1d3 Dex. The save DC is Charisma-based.
 
 An afflicted humanoid who dies of ghoul fever rises as a ghoul at the next midnight. A humanoid who becomes a ghoul in this way retains none of the abilities it possessed in life. It is not under the control of any other ghouls, but it hungers for the flesh of the living and behaves like a normal ghoul in all respects. A humanoid of 4 Hit Dice or more rises as a ghast, not a ghoul.
 
-**Paralysis (Ex):**Those hit by a ghoul’s bite or claw attack must succeed on a DC 12 Fortitude save or be paralyzed for 1d4+1 rounds. Elves have immunity to this paralysis. The save DC is Charisma-based.
+**Paralysis (Ex):** Those hit by a ghoul’s bite or claw attack must succeed on a DC 12 Fortitude save or be paralyzed for 1d4+1 rounds. Elves have immunity to this paralysis. The save DC is Charisma-based.
 
 LACEDON
 
@@ -930,11 +930,11 @@ Although these creatures look just like their lesser kin, they are far more dead
 
 Combat
 
-**Ghoul Fever (Su):**Disease—bite, Fortitude DC 15, incubation period 1 day, damage 1d3 Con and 1d3 Dex. The save DC is Charisma-based.
+**Ghoul Fever (Su):** Disease—bite, Fortitude DC 15, incubation period 1 day, damage 1d3 Con and 1d3 Dex. The save DC is Charisma-based.
 
-**Paralysis (Ex):**Those hit by a ghast’s bite or claw attack must succeed on a DC 15 Fortitude save or be paralyzed for 1d4+1 rounds. Even elves can be affected by this paralysis. The save DC is Charisma-based.
+**Paralysis (Ex):** Those hit by a ghast’s bite or claw attack must succeed on a DC 15 Fortitude save or be paralyzed for 1d4+1 rounds. Even elves can be affected by this paralysis. The save DC is Charisma-based.
 
-**Stench (Ex):**The stink of death and corruption surrounding these creatures is overwhelming. Living creatures
+**Stench (Ex):** The stink of death and corruption surrounding these creatures is overwhelming. Living creatures
 
 within 10 feet must succeed on a DC 15 Fortitude save or be sickened for 1d6+4 minutes. A creature that successfully saves cannot be affected again by the same ghast’s stench for 24 hours. Adelay poisonorneutralize poisonspell removes the effect from a sickened creature. Creatures with immunity to poison are unaffected, and creatures resistant to poison receive their normal bonus on their saving throws. The save DC is Charisma-based.
 
@@ -950,11 +950,11 @@ COMBAT
 
 Giants relish melee combat. They favor massive two-handed weapons and wield them with impressive skill. They have enough cunning to soften up a foe with ranged attacks first, if they can. A giant’s favorite ranged weapon is a big rock.
 
-**Rock Throwing (Ex):**Adult giants are accomplished rock throwers and receive a +1 racial bonus on attack rolls when throwing rocks. A giant of at least Large size can hurl rocks weighing 40 to 50 pounds each (Small objects) up to five range increments. The size of the range increment varies with the giant’s variety. A Huge giant can
+**Rock Throwing (Ex):** Adult giants are accomplished rock throwers and receive a +1 racial bonus on attack rolls when throwing rocks. A giant of at least Large size can hurl rocks weighing 40 to 50 pounds each (Small objects) up to five range increments. The size of the range increment varies with the giant’s variety. A Huge giant can
 
 hurl rocks of 60 to 80 pounds (Medium objects).
 
-**Rock Catching (Ex):**A giant of at least Large size can catch Small, Medium, or Large rocks (or projectiles of similar shape).
+**Rock Catching (Ex):** A giant of at least Large size can catch Small, Medium, or Large rocks (or projectiles of similar shape).
 
 Once per round, a giant that would normally be hit by a rock can make a Reflex save to catch it as a free action. The DC is 15 for a Small rock, 20 for a Medium one, and 25 for a Large one. (If the projectile provides a magical bonus on attack rolls, the DC increases by that amount.) The giant must be ready for and aware of the attack in order to make a rock catching attempt.
 
@@ -1064,11 +1064,11 @@ COMBAT
 
 Cloud giants fight in well-organized units, using carefully developed battle plans. They prefer to fight from a position above their opponents. A favorite tactic is to circle the enemies, barraging them with rocks while the giants with magical abilities confound them with spells.
 
-**Rock Throwing (Ex):**The range increment is 140 feet for a cloud giant’s thrown rocks.
+**Rock Throwing (Ex):** The range increment is 140 feet for a cloud giant’s thrown rocks.
 
-**Oversized Weapon (Ex):**A cloud giant wields a great, two-handed morningstar (big enough for Gargantuan creatures) without penalty.
+**Oversized Weapon (Ex):** A cloud giant wields a great, two-handed morningstar (big enough for Gargantuan creatures) without penalty.
 
-**Spell-Like Abilities:**3/day—levitate(self plus 2,000 pounds),obscuring mist; 1/day—fog cloud. Caster level 15th.
+**Spell-Like Abilities:** 3/day—levitate(self plus 2,000 pounds),obscuring mist; 1/day—fog cloud. Caster level 15th.
 
 
 
@@ -1190,7 +1190,7 @@ COMBAT
 
 Fire giants heat their rocks in a nearby fire, geyser, or lava pools, so that they deal extra fire damage. They favor magic flaming swords in melee (when they can get them). They are also fond of grabbing smaller opponents and tossing them somewhere very hot.
 
-**Rock Throwing (Ex):**The range increment is 120 feet for a fire giant’s thrown rocks.
+**Rock Throwing (Ex):** The range increment is 120 feet for a fire giant’s thrown rocks.
 
 Fire Giant Characters
 
@@ -1354,7 +1354,7 @@ Frost giants usually start combat at a distance, throwing rocks until they run o
 
 A favorite tactic is to lay an ambush by hiding buried in the snow at the top of an icy or snowy slope, where opponents will have difficulty reaching them.
 
-**Rock Throwing (Ex):**The range increment is 120 feet for a frost giant’s thrown rocks.
+**Rock Throwing (Ex):** The range increment is 120 feet for a frost giant’s thrown rocks.
 
 
 
@@ -1366,19 +1366,19 @@ A frost giant leader is often a barbarian, cleric, fighter, or sorcerer, but som
 
 The frost giant jarl described here has all the qualities and abilities of a typical frost giant, as well as other abilities (see the statistics block) from being a blackguard. Details on some of these abilities follow.
 
-**Aura of Despair (Su):**This jarl radiates a malign aura that causes enemies within 10 feet of him to take a –2 penalty on all saving throws.
+**Aura of Despair (Su):** This jarl radiates a malign aura that causes enemies within 10 feet of him to take a –2 penalty on all saving throws.
 
-**Aura of Evil (Ex):**This jarl radiates a strong aura of evil (see thedetect evilspell) as an 8th-level cleric of an evil deity.
+**Aura of Evil (Ex):** This jarl radiates a strong aura of evil (see thedetect evilspell) as an 8th-level cleric of an evil deity.
 
-**Command Undead (Su):**This jarl can command and rebuke undead as a 6th-level cleric.
+**Command Undead (Su):** This jarl can command and rebuke undead as a 6th-level cleric.
 
-**Dark Blessing (Su):**This jarl applies his Charisma modifier as a bonus on all saving throws.
+**Dark Blessing (Su):** This jarl applies his Charisma modifier as a bonus on all saving throws.
 
-**Detect Good****(Sp):**At will, this jarl can usedetect goodas a spell-like ability, duplicating the effect of thedetect goodspell.
+**Detect Good** **(Sp):** At will, this jarl can usedetect goodas a spell-like ability, duplicating the effect of thedetect goodspell.
 
-**Poison Use:**Blackguards are skilled in the use of poison and never risk accidentally poisoning themselves when applying poison to a blade.
+**Poison Use:** Blackguards are skilled in the use of poison and never risk accidentally poisoning themselves when applying poison to a blade.
 
-**Smite Good (Su):**Twice per day, this jarl may attempt to smite good with one normal melee attack. He adds his +4 Charisma modifier to his attack roll and deals 8 points of extra damage (1 per blackguard level) if the attack hits. If he accidentally smites a creature that is not good, the smite has no effect but it is still used up for that day.
+**Smite Good (Su):** Twice per day, this jarl may attempt to smite good with one normal melee attack. He adds his +4 Charisma modifier to his attack roll and deals 8 points of extra damage (1 per blackguard level) if the attack hits. If he accidentally smites a creature that is not good, the smite has no effect but it is still used up for that day.
 
 Typical Blackguard Spells Prepared(3/1; save DC 11 + spell level): 1st—cause fear, doom, magic weapon;2nd—bull’s strength.
 
@@ -1500,7 +1500,7 @@ Hill giants prefer to fight from high, rocky outcroppings, where they can pelt o
 
 Hill giants love to make overrun attacks against smaller creatures when they first join battle. Thereafter, they stand fast and swing away with their massive clubs.
 
-**Rock Throwing (Ex):**The range increment is 120 feet for a hill giant’s thrown rocks.
+**Rock Throwing (Ex):** The range increment is 120 feet for a hill giant’s thrown rocks.
 
 
 
@@ -1650,11 +1650,11 @@ COMBAT
 
 Stone giants fight from a distance whenever possible, but if they can’t avoid melee, they use gigantic clubs chiseled out of stone. A favorite tactic of stone giants is to stand nearly motionless, blending in with the background, then move forward to throw rocks and surprise their foes.
 
-**Rock Throwing (Ex):**The range increment is 180 feet for a stone giant’s thrown rocks. It uses both hands when throwing a rock.
+**Rock Throwing (Ex):** The range increment is 180 feet for a stone giant’s thrown rocks. It uses both hands when throwing a rock.
 
-**Rock Catching (Ex):**A stone giant gains a +4 racial bonus on its Reflex save when attempting to catch a thrown rock.
+**Rock Catching (Ex):** A stone giant gains a +4 racial bonus on its Reflex save when attempting to catch a thrown rock.
 
-**Skills:***A stone giant gains a +8 racial bonus on Hide checks in rocky terrain.
+**Skills:** *A stone giant gains a +8 racial bonus on Hide checks in rocky terrain.
 
 
 
@@ -1806,13 +1806,13 @@ Combat
 
 Storm giants use weapons and spell-like abilities instead of throwing rocks. Their composite longbows have a range increment of 180 feet.
 
-**Spell-Like Abilities:**1/day—call lightning(DC 15),chain lightning(DC 18). Caster level 15th. 2/day—control weather,levitate.Caster level 20th. The save DCs are Charisma-based.
+**Spell-Like Abilities:** 1/day—call lightning(DC 15),chain lightning(DC 18). Caster level 15th. 2/day—control weather,levitate.Caster level 20th. The save DCs are Charisma-based.
 
-**Freedom of Movement (Su):**Storm giants have a continuous freedom of movement ability as the spell (caster level 20th). The effect can be dispelled, but the storm giant can create it again on its next turn as a free action.
+**Freedom of Movement (Su):** Storm giants have a continuous freedom of movement ability as the spell (caster level 20th). The effect can be dispelled, but the storm giant can create it again on its next turn as a free action.
 
-**Water Breathing (Ex):**Storm giants can breathe underwater indefinitely and can freely use their spell-like abilities while submerged.
+**Water Breathing (Ex):** Storm giants can breathe underwater indefinitely and can freely use their spell-like abilities while submerged.
 
-**Skills:**A storm giant has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line. *Storm giants ignore all weight penalties for gear carried when swimming.
+**Skills:** A storm giant has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line. *Storm giants ignore all weight penalties for gear carried when swimming.
 
 Storm Giant Characters
 
@@ -1926,25 +1926,25 @@ COMBAT
 
 A gibbering mouther attacks by shooting out strings of protoplasmic flesh, each ending in one or more eyes and a mouth that bites at the enemy. A mouther can send out a total of six such members in any round.
 
-**Gibbering (Su):**As soon as a mouther spots something edible, it begins a constant gibbering as a free action. All creatures (other than mouthers) within a 60-foot spread must succeed on a DC 13 Will save or be affected as though by aconfusionspell for 1d2 rounds. This is a sonic mind-affecting compulsion effect. A creature that successfully saves cannot be affected by the same gibbering mouther’s gibbering for 24 hours. The save DC is Charisma-based.
+**Gibbering (Su):** As soon as a mouther spots something edible, it begins a constant gibbering as a free action. All creatures (other than mouthers) within a 60-foot spread must succeed on a DC 13 Will save or be affected as though by aconfusionspell for 1d2 rounds. This is a sonic mind-affecting compulsion effect. A creature that successfully saves cannot be affected by the same gibbering mouther’s gibbering for 24 hours. The save DC is Charisma-based.
 
-**Spittle (Ex):**As a free action every round, a gibbering mouther fires a stream of spittle at one opponent within 30 feet. The mouther makes a ranged touch attack; if it hits, it deals 1d4 points of acid damage, and the target must succeed on a DC 18 Fortitude save or be blinded for 1d4 rounds. Eyeless creatures are immune to the blinding effect, but are still subject to the acid damage. The save DC is Constitution-based.
+**Spittle (Ex):** As a free action every round, a gibbering mouther fires a stream of spittle at one opponent within 30 feet. The mouther makes a ranged touch attack; if it hits, it deals 1d4 points of acid damage, and the target must succeed on a DC 18 Fortitude save or be blinded for 1d4 rounds. Eyeless creatures are immune to the blinding effect, but are still subject to the acid damage. The save DC is Constitution-based.
 
-**Improved Grab (Ex):**To use this ability, a gibbering mouther must hit with a bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity.
+**Improved Grab (Ex):** To use this ability, a gibbering mouther must hit with a bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity.
 
-**Blood Drain (Ex):**On a successful grapple check after grabbing, that mouth attaches to the opponent. It automatically deals bite damage and drains blood, dealing 1 point of Constitution damage each round. A mouth can be ripped off (dealing 1 point of damage) with a DC 12 Strength check or severed by a successful sunder attempt (the mouth has 2 hit points).
+**Blood Drain (Ex):** On a successful grapple check after grabbing, that mouth attaches to the opponent. It automatically deals bite damage and drains blood, dealing 1 point of Constitution damage each round. A mouth can be ripped off (dealing 1 point of damage) with a DC 12 Strength check or severed by a successful sunder attempt (the mouth has 2 hit points).
 
 A severed mouth continues to bite and drain blood for 1d4 rounds after such an attack. A creature whose Constitution is reduced to 0 is killed.
 
-**Engulf (Ex):**A gibbering mouther can try to engulf a Medium or smaller opponent grabbed by three or more mouths.
+**Engulf (Ex):** A gibbering mouther can try to engulf a Medium or smaller opponent grabbed by three or more mouths.
 
 The opponent must succeed on a DC 14 Reflex save or fall and be engulfed. In the next round, the mouther makes twelve bite attacks instead of six (each with a +4 attack bonus). An engulfed creature cannot attack the mouther from within. The previously attached mouths are now free to attack others. The save DC is Strength-based and includes a +2 racial bonus.
 
-**Ground Manipulation (Su):**At will, as a standard action, a gibbering mouther can cause stone and earth in all adjacent squares to become a morass akin to quicksand. Softening earth, sand, or the like takes 1 round, while stone takes 2 rounds. Anyone other than the mouther in that area must take a move-equivalent action to avoid becoming mired (treat as being pinned).
+**Ground Manipulation (Su):** At will, as a standard action, a gibbering mouther can cause stone and earth in all adjacent squares to become a morass akin to quicksand. Softening earth, sand, or the like takes 1 round, while stone takes 2 rounds. Anyone other than the mouther in that area must take a move-equivalent action to avoid becoming mired (treat as being pinned).
 
-**Amorphous (Ex):**A gibbering mouther is not subject to critical hits. It cannot be flanked.
+**Amorphous (Ex):** A gibbering mouther is not subject to critical hits. It cannot be flanked.
 
-**Skills:**Thanks to their multiple eyes, gibbering mouthers have a +4 racial bonus on Spot checks.
+**Skills:** Thanks to their multiple eyes, gibbering mouthers have a +4 racial bonus on Spot checks.
 
 A gibbering mouther has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It always can choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.
 
@@ -2052,9 +2052,9 @@ COMBAT
 
 A solitary girallon usually conceals itself in the branches of a tree or under a pile of leaves and brush, with only its nose showing. When it spots or scents prey, it charges to the attack. A girallon picks up prey that is small enough to carry and withdraws, often vanishing into the trees before the victim’s companions can do anything to retaliate. Against larger foes, a girallon seeks to tear a single opponent to bits as quickly as it can.
 
-**Rend (Ex):**A girallon that hits with two or more claw attacks latches onto the opponent’s body and tears the flesh. This attack automatically deals an extra 2d4+12 points of damage.
+**Rend (Ex):** A girallon that hits with two or more claw attacks latches onto the opponent’s body and tears the flesh. This attack automatically deals an extra 2d4+12 points of damage.
 
-**Skills:**A girallon has a +8 racial bonus on Climb checks and can always choose to take 10 on a Climb check, even if rushed or threatened.
+**Skills:** A girallon has a +8 racial bonus on Climb checks and can always choose to take 10 on a Climb check, even if rushed or threatened.
 
 
 
@@ -2348,7 +2348,7 @@ They would rather befuddle or embarrass foes (other than goblinoids or kobolds) 
 
 Gnomes make heavy use of illusion magic and carefully prepared ambushes and traps whenever they can.
 
-**Gnome Traits (Ex):**Gnomes possess the following racial traits.
+**Gnome Traits (Ex):** Gnomes possess the following racial traits.
 
 —+2 Constitution, –2 Strength.
 
@@ -2394,7 +2394,7 @@ A svirfneblin has wiry, rock-colored skin usually medium brown to brownish gray.
 
 Svirfneblin speak Gnome, Common, and Undercommon.
 
-**Svirfneblin Traits (Ex):**These traits are in addition to the rock gnome traits, except where noted.
+**Svirfneblin Traits (Ex):** These traits are in addition to the rock gnome traits, except where noted.
 
 — –2 Strength, +2 Dexterity, +2 Wisdom, –4 Charisma. These adjustments replace the rock gnome’s ability score adjustments.
 
@@ -2434,7 +2434,7 @@ Forest Gnome
 
 They are the smallest of all the gnomes, averaging 2 to 2-1/2 feet in height, but look just like regular gnomes except with bark-colored or gray-green skin, and eyes that can be brown or green as well as blue. A very long-lived people, forest gnomes have an average life expectancy of 500 years.
 
-**Forest Gnome Traits (Ex):**These traits are in addition to the rock gnome traits, except where noted.
+**Forest Gnome Traits (Ex):** These traits are in addition to the rock gnome traits, except where noted.
 
 —Pass without Trace(Su): A forest gnome has the innate ability to usepass without trace(self only, as a free action) as the spell cast by a druid of the forest gnome’s class levels.
 
@@ -2556,9 +2556,9 @@ Being bullied by bigger, stronger creatures has taught goblins to exploit what f
 
 Goblins have a poor grasp of strategy and are cowardly by nature, tending to flee the field if a battle turns against them. With proper supervision, though, they can implement reasonably complex plans, and in such circumstances their numbers can be a deadly advantage.
 
-**Skills:**Goblins have a +4 racial bonus on Move Silently and Ride checks. Goblin cavalry (mounted on worgs) usually select the Mounted Combat feat in place of the Alertness feat, which reduces their Spot and Listen check modifiers from +3 to +1.
+**Skills:** Goblins have a +4 racial bonus on Move Silently and Ride checks. Goblin cavalry (mounted on worgs) usually select the Mounted Combat feat in place of the Alertness feat, which reduces their Spot and Listen check modifiers from +3 to +1.
 
-**Challenge Rating:**Goblins with levels in NPC classes have a CR equal to their character level –2.
+**Challenge Rating:** Goblins with levels in NPC classes have a CR equal to their character level –2.
 
 GOBLINS AS CHARACTERS
 
@@ -2596,7 +2596,7 @@ Golems are tenacious in combat and prodigiously strong as well. Being mindless, 
 
 A golem’s creator can command it if the golem is within 60 feet and can see and hear its creator. If uncommanded, a golem usually follows its last instruction to the best of its ability, though if attacked it returns the attack. The creator can give the golem a simple command to govern its actions in his or her absence. The golem’s creator can order the golem to obey the commands of another person (who might in turn place the golem under someone else’s control, and so on), but the golem’s creator can always resume control over his creation by commanding the golem to obey him alone.
 
-**Immunity to Magic (Ex):**Golems have immunity to most magical and supernatural effects, except when otherwise noted.
+**Immunity to Magic (Ex):** Golems have immunity to most magical and supernatural effects, except when otherwise noted.
 
 CONSTRUCTION
 
@@ -2710,11 +2710,11 @@ A clay golem golem cannot speak or make any vocal noise. It walks and moves with
 
 Combat
 
-**Berserk (Ex):**When a clay golem enters combat, there is a cumulative 1% chance each round that its elemental spirit breaks free and the golem goes berserk. The uncontrolled golem goes on a rampage, attacking the nearest living creature or smashing some object smaller than itself if no creature is within reach, then moving on to spread more destruction. Once a clay golem goes berserk, no known method can reestablish control.
+**Berserk (Ex):** When a clay golem enters combat, there is a cumulative 1% chance each round that its elemental spirit breaks free and the golem goes berserk. The uncontrolled golem goes on a rampage, attacking the nearest living creature or smashing some object smaller than itself if no creature is within reach, then moving on to spread more destruction. Once a clay golem goes berserk, no known method can reestablish control.
 
-**Cursed Wound (Ex):**The damage a clay golem deals doesn’t heal naturally and resists healing spells. A character attempting to cast a conjuration (healing) spell on a creature damaged by a clay golem must succeed on a DC 26 caster level check, or the spell has no effect on the injured character.
+**Cursed Wound (Ex):** The damage a clay golem deals doesn’t heal naturally and resists healing spells. A character attempting to cast a conjuration (healing) spell on a creature damaged by a clay golem must succeed on a DC 26 caster level check, or the spell has no effect on the injured character.
 
-**Immunity to Magic (Ex):**A clay golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
+**Immunity to Magic (Ex):** A clay golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
 
 Amove earthspell drives the golem back 120 feet and deals 3d12 points of damage to it.
 
@@ -2724,7 +2724,7 @@ Anearthquakespell cast directly at a clay golem stops it from moving on its next
 
 Any magical attack against a clay golem that deals acid damage heals 1 point of damage for every 3 points of damage it would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. For example, a clay golem hit by the breath weapon of a black dragon heals 7 points of damage if the attack would have dealt 22 points of damage. A clay golem golem gets no saving throw against magical attacks that deal acid damage.
 
-**Haste (Su):**After it has engaged in at least 1 round of combat, a clay golem can haste itself once per day as a free action. The effect lasts 3 rounds and is otherwise the same as the spell.
+**Haste (Su):** After it has engaged in at least 1 round of combat, a clay golem can haste itself once per day as a free action. The effect lasts 3 rounds and is otherwise the same as the spell.
 
 Construction
 
@@ -2836,9 +2836,9 @@ A flesh golem golem cannot speak, although it can emit a hoarse roar of sorts. I
 
 Combat
 
-**Berserk (Ex):**When a flesh golem enters combat, there is a cumulative 1% chance each round that its elemental spirit breaks free and the golem goes berserk. The uncontrolled golem goes on a rampage, attacking the nearest living creature or smashing some object smaller than itself if no creature is within reach, then moving on to spread more destruction. The golem’s creator, if within 60 feet, can try to regain control by speaking firmly and persuasively to the golem, which requires a DC 19 Charisma check. It takes 1 minute of inactivity by the golem to reset the golem’s berserk chance to 0%.
+**Berserk (Ex):** When a flesh golem enters combat, there is a cumulative 1% chance each round that its elemental spirit breaks free and the golem goes berserk. The uncontrolled golem goes on a rampage, attacking the nearest living creature or smashing some object smaller than itself if no creature is within reach, then moving on to spread more destruction. The golem’s creator, if within 60 feet, can try to regain control by speaking firmly and persuasively to the golem, which requires a DC 19 Charisma check. It takes 1 minute of inactivity by the golem to reset the golem’s berserk chance to 0%.
 
-**Immunity to Magic (Ex):**A flesh golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
+**Immunity to Magic (Ex):** A flesh golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
 
 A magical attack that deals cold or fire damage slows a flesh golem (as theslowspell) for 2d6 rounds, with no saving throw.
 
@@ -2954,9 +2954,9 @@ This golem has a humanoid body made from iron. An iron golem can be fashioned in
 
 Combat
 
-**Breath Weapon (Su):**10-foot cube, cloud of poisonous gas lasting 1 round, free action once every 1d4+1 rounds; initial damage 1d4 Con, secondary damage 3d4 Con, Fortitude DC 19 negates. The save DC is Constitution-based.
+**Breath Weapon (Su):** 10-foot cube, cloud of poisonous gas lasting 1 round, free action once every 1d4+1 rounds; initial damage 1d4 Con, secondary damage 3d4 Con, Fortitude DC 19 negates. The save DC is Constitution-based.
 
-**Immunity to Magic (Ex):**An iron golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
+**Immunity to Magic (Ex):** An iron golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
 
 A magical attack that deals electricity damage slows an iron golem (as theslowspell) for 3 rounds, with no saving throw.
 
@@ -3124,9 +3124,9 @@ COMBAT
 
 Stone golems are formidable opponents, being physically powerful and difficult to harm.
 
-**Slow (Su):**A stone golem can use a slow effect, as the spell, as a free action once every 2 rounds. The effect has a range of 10 feet and a duration of 7 rounds, requiring a DC 17 Will save to negate. The save DC is Constitution-based.
+**Slow (Su):** A stone golem can use a slow effect, as the spell, as a free action once every 2 rounds. The effect has a range of 10 feet and a duration of 7 rounds, requiring a DC 17 Will save to negate. The save DC is Constitution-based.
 
-**Immunity to Magic (Ex):**A stone golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
+**Immunity to Magic (Ex):** A stone golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
 
 Atransmute rock to mudspell slows a stone golem (as theslowspell) for 2d6 rounds, with no saving throw, whiletransmute mud to rockheals all of its lost hit points.
 
@@ -3252,9 +3252,9 @@ COMBAT
 
 Whenever possible, a gorgon begins an encounter by charging at its opponents.
 
-**Breath Weapon (Su):**60-foot cone, once every 1d4 rounds (but no more than five times per day), turn to stone permanently, Fortitude DC 19 negates. The save DC is Constitution-based.
+**Breath Weapon (Su):** 60-foot cone, once every 1d4 rounds (but no more than five times per day), turn to stone permanently, Fortitude DC 19 negates. The save DC is Constitution-based.
 
-**Trample (Ex):**Reflex DC 19 half. The save DC is Strength-based.
+**Trample (Ex):** Reflex DC 19 half. The save DC is Strength-based.
 
 
 
@@ -3364,11 +3364,11 @@ COMBAT
 
 A gray render attacks to kill, whether to bring down prey or to protect itself or those it has adopted. When hunting, it sometimes attempts to hide and wait for prey to wander close.
 
-**Improved Grab (Ex):**To use this ability, a gray render must hit with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity.
+**Improved Grab (Ex):** To use this ability, a gray render must hit with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity.
 
-**Rend (Ex):**A gray render that wins a grapple check after a successful bite attack establishes a hold, latching onto the opponent’s body and tearing the flesh. This attack automatically deals 2d6+9 points of damage.
+**Rend (Ex):** A gray render that wins a grapple check after a successful bite attack establishes a hold, latching onto the opponent’s body and tearing the flesh. This attack automatically deals 2d6+9 points of damage.
 
-**Skills:**Gray renders have a +4 racial bonus on Spot checks due to their six keen eyes.
+**Skills:** Gray renders have a +4 racial bonus on Spot checks due to their six keen eyes.
 
 
 
@@ -3478,7 +3478,7 @@ A grick’s natural weapons are treated as magic weapons for the purpose of over
 
 Multiple gricks do not fight in concert. Each attacks the prey closest to it, and breaks off the fight as soon as it can drag dead or unconscious prey away.
 
-**Skills:**A grick has a +8 racial bonus on Climb checks and can always choose to take 10 on a Climb check, even if rushed or threatened.
+**Skills:** A grick has a +8 racial bonus on Climb checks and can always choose to take 10 on a Climb check, even if rushed or threatened.
 
 *Their coloration affords gricks a +8 racial bonus on Hide checks when in natural rocky areas.
 
@@ -3588,11 +3588,11 @@ COMBAT
 
 Griffons prefer to pounce on their prey, either diving to the attack or leaping from above.
 
-**Pounce (Ex):**If a griffon dives upon or charges a foe, it can make a full attack, including two rake attacks.
+**Pounce (Ex):** If a griffon dives upon or charges a foe, it can make a full attack, including two rake attacks.
 
-**Rake (Ex):**Attack bonus +8 melee, damage 1d6+2.
+**Rake (Ex):** Attack bonus +8 melee, damage 1d6+2.
 
-**Skills:**Griffons have a +4 racial bonus on Jump and Spot checks.
+**Skills:** Griffons have a +4 racial bonus on Jump and Spot checks.
 
 TRAINING A GRIFFON
 
@@ -3704,13 +3704,13 @@ COMBAT
 
 Grimlocks are blind, but their exceptional senses of smell and hearing allow them to notice foes nearby. As a result, they usually shun ranged weapons and rush to the attack, brandishing their stone battleaxes.
 
-**Blindsight (Ex):**Grimlocks can sense all foes within 40 feet as a sighted creature would. Beyond that range, they treat all targets as having total concealment.
+**Blindsight (Ex):** Grimlocks can sense all foes within 40 feet as a sighted creature would. Beyond that range, they treat all targets as having total concealment.
 
 Grimlocks are susceptible to sound- and scent-based attacks, however, and are affected normally by loud noises and sonic spells (such asghost soundorsilence) and overpowering odors (such asstinking cloudor incense-heavy air). Negating a grimlock’s sense of smell or hearing reduces this ability to normal Blind-Fight (as the feat). If both these senses are negated, a grimlock is effectively blinded.
 
-**Immunities:**Grimlocks are immune to gaze attacks, visual effects, illusions, and other attack forms that rely on sight.
+**Immunities:** Grimlocks are immune to gaze attacks, visual effects, illusions, and other attack forms that rely on sight.
 
-**Skills:***A grimlock’s dull gray skin helps it hide in its native terrain, conferring a +10 racial bonus on Hide checks when in mountains or underground.
+**Skills:** *A grimlock’s dull gray skin helps it hide in its native terrain, conferring a +10 racial bonus on Hide checks when in mountains or underground.
 
 GRIMLOCKS AS CHARACTERS
 

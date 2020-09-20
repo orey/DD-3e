@@ -38,7 +38,7 @@ ATTACK ROLL
 
 An attack roll represents your attempt to strike your opponent on your turn in a round. When you make an attack roll, you roll a d20 and add your attack bonus. (Other modifiers may also apply to this roll.) If your result equals or beats the target’s Armor Class, you hit and deal damage.
 
-**Automatic Misses and Hits:**A natural 1 (the d20 comes up 1) on an attack roll is always a miss. A natural 20 (the d20 comes up 20) is always a hit. A natural 20 is also a threat—a possible critical hit.
+**Automatic Misses and Hits:** A natural 1 (the d20 comes up 1) on an attack roll is always a miss. A natural 20 (the d20 comes up 20) is always a hit. A natural 20 is also a threat—a possible critical hit.
 
 
 
@@ -122,7 +122,7 @@ When your attack succeeds, you deal damage. The type of weapon used determines t
 
 Damage reduces a target’s current hit points.
 
-**Minimum Damage:**If penalties reduce the damage result to less than 1, a hit still deals 1 point of damage.
+**Minimum Damage:** If penalties reduce the damage result to less than 1, a hit still deals 1 point of damage.
 
 Strength Bonus: When you hit with a melee or thrown weapon, including a sling, add your Strength modifier to the damage result. A Strength penalty, but not a bonus, applies on attacks made with a bow that is not a composite bow.
 
@@ -130,11 +130,11 @@ Off-Hand Weapon:When you deal damage with a weapon in your off hand, you add onl
 
 Wielding a Weapon Two-Handed:When you deal damage with a weapon that you are wielding two-handed, you add 1-1/2 times your Strength bonus. However, you don’t get this higher Strength bonus when using a light weapon with two hands.
 
-**Multiplying Damage:**Sometimes you multiply damage by some factor, such as on a critical hit. Roll the damage (with all modifiers) multiple times and total the results.Note:When you multiply damage more than once, each multiplier works off the original, unmultiplied damage.
+**Multiplying Damage:** Sometimes you multiply damage by some factor, such as on a critical hit. Roll the damage (with all modifiers) multiple times and total the results.Note:When you multiply damage more than once, each multiplier works off the original, unmultiplied damage.
 
 Exception:Extra damage dice over and above a weapon’s normal damage are never multiplied.
 
-**Ability Damage:**Certain creatures and magical effects can cause temporary ability damage (a reduction to an ability score).
+**Ability Damage:** Certain creatures and magical effects can cause temporary ability damage (a reduction to an ability score).
 
 
 
@@ -166,7 +166,7 @@ Natural Armor:Natural armor improves your AC.
 
 Dodge Bonuses:Some other AC bonuses represent actively avoiding blows. These bonuses are called dodge bonuses. Any situation that denies you your Dexterity bonus also denies you dodge bonuses. (Wearing armor, however, does not limit these bonuses the way it limits a Dexterity bonus to AC.) Unlike most sorts of bonuses, dodge bonuses stack with each other.
 
-**Touch Attacks:**Some attacks disregard armor, including shields and natural armor. In these cases, the attacker makes a touch attack roll (either ranged or melee). When you are the target of a touch attack, your AC doesn’t include any armor bonus, shield bonus, or natural armor bonus. All other modifiers, such as your size modifier, Dexterity modifier, and deflection bonus (if any) apply normally.
+**Touch Attacks:** Some attacks disregard armor, including shields and natural armor. In these cases, the attacker makes a touch attack roll (either ranged or melee). When you are the target of a touch attack, your AC doesn’t include any armor bonus, shield bonus, or natural armor bonus. All other modifiers, such as your size modifier, Dexterity modifier, and deflection bonus (if any) apply normally.
 
 
 
@@ -198,7 +198,7 @@ SAVING THROWS
 
 Generally, when you are subject to an unusual or magical attack, you get a saving throw to avoid or reduce the effect. Like an attack roll, a saving throw is a d20 roll plus a bonus based on your class, level, and an ability score. Your saving throw modifier is: Base save bonus + ability modifier
 
-**Saving Throw Types:**The three different kinds of saving throws are Fortitude, Reflex, and Will:
+**Saving Throw Types:** The three different kinds of saving throws are Fortitude, Reflex, and Will:
 
 Fortitude:These saves measure your ability to stand up to physical punishment or attacks against your vitality and health. Apply your Constitution modifier to your Fortitude saving throws.
 
@@ -206,9 +206,9 @@ Reflex:These saves test your ability to dodge area attacks. Apply your Dexterity
 
 Will:These saves reflect your resistance to mental influence as well as many magical effects. Apply your Wisdom modifier to your Will saving throws.
 
-**Saving Throw Difficulty Class:**The DC for a save is determined by the attack itself.
+**Saving Throw Difficulty Class:** The DC for a save is determined by the attack itself.
 
-**Automatic Failures and Successes:**A natural 1 (the d20 comes up 1) on a saving throw is always a failure (and may cause damage to exposed items; see Items Surviving after a Saving Throw). A natural 20 (the d20 comes up 20) is always a success.
+**Automatic Failures and Successes:** A natural 1 (the d20 comes up 1) on a saving throw is always a failure (and may cause damage to exposed items; see Items Surviving after a Saving Throw). A natural 20 (the d20 comes up 20) is always a success.
 
 
 
@@ -216,15 +216,15 @@ Will:These saves reflect your resistance to mental influence as well as many mag
 
 INITIATIVE
 
-**Initiative Checks:**At the start of a battle, each combatant makes an initiative check. An initiative check is a Dexterity check. Each character applies his or her Dexterity modifier to the roll. Characters act in order, counting down from highest result to lowest. In every round that follows, the characters act in the same order (unless a character takes an action that results in his or her initiative changing; see Special Initiative Actions).
+**Initiative Checks:** At the start of a battle, each combatant makes an initiative check. An initiative check is a Dexterity check. Each character applies his or her Dexterity modifier to the roll. Characters act in order, counting down from highest result to lowest. In every round that follows, the characters act in the same order (unless a character takes an action that results in his or her initiative changing; see Special Initiative Actions).
 
 If two or more combatants have the same initiative check result, the combatants who are tied act in order of total initiative modifier (highest first). If there is still a tie, the tied characters should roll again to determine which one of them goes before the other.
 
-**Flat-Footed:**At the start of a battle, before you have had a chance to act (specifically, before your first regular turn in the initiative order), you are flat-footed. You can’t use your Dexterity bonus to AC (if any) while flat-footed. Barbarians and rogues have the uncanny dodge extraordinary ability, which allows them to avoid losing their Dexterity bonus to AC due to being flat-footed.
+**Flat-Footed:** At the start of a battle, before you have had a chance to act (specifically, before your first regular turn in the initiative order), you are flat-footed. You can’t use your Dexterity bonus to AC (if any) while flat-footed. Barbarians and rogues have the uncanny dodge extraordinary ability, which allows them to avoid losing their Dexterity bonus to AC due to being flat-footed.
 
 A flat-footed character can’t make attacks of opportunity.
 
-**Inaction:**Even if you can’t take actions, you retain your initiative score for the duration of the encounter.
+**Inaction:** Even if you can’t take actions, you retain your initiative score for the duration of the encounter.
 
 
 
@@ -244,9 +244,9 @@ Sometimes all the combatants on a side are aware of their opponents, sometimes n
 
 Determining awareness may call for Listen checks, Spot checks, or other checks.
 
-**The Surprise Round:**If some but not all of the combatants are aware of their opponents, a surprise round happens before regular rounds begin. Any combatants aware of the opponents can act in the surprise round, so they roll for initiative. In initiative order (highest to lowest), combatants who started the battle aware of their opponents each take a standard action during the surprise round. You can also take free actions during the surprise round. If no one or everyone is surprised, no surprise round occurs.
+**The Surprise Round:** If some but not all of the combatants are aware of their opponents, a surprise round happens before regular rounds begin. Any combatants aware of the opponents can act in the surprise round, so they roll for initiative. In initiative order (highest to lowest), combatants who started the battle aware of their opponents each take a standard action during the surprise round. You can also take free actions during the surprise round. If no one or everyone is surprised, no surprise round occurs.
 
-**Unaware Combatants:**Combatants who are unaware at the start of battle don’t get to act in the surprise round. Unaware combatants are flat-footed because they have not acted yet, so they lose any Dexterity bonus to AC.
+**Unaware Combatants:** Combatants who are unaware at the start of battle don’t get to act in the surprise round. Unaware combatants are flat-footed because they have not acted yet, so they lose any Dexterity bonus to AC.
 
 
 
@@ -256,11 +256,11 @@ Determining awareness may call for Listen checks, Spot checks, or other checks.
 
 Sometimes a combatant in a melee lets her guard down. In this case, combatants near her can take advantage of her lapse in defense to attack her for free. These free attacks are called attacks of opportunity.
 
-**Threatened Squares:**You threaten all squares into which you can make a melee attack, even when it is not your action. Generally, that means everything in all squares adjacent to your space (including diagonally). An enemy that takes certain actions while in a threatened square provokes an attack of opportunity from you. If you’re unarmed, you don’t normally threaten any squares and thus can’t make attacks of opportunity.
+**Threatened Squares:** You threaten all squares into which you can make a melee attack, even when it is not your action. Generally, that means everything in all squares adjacent to your space (including diagonally). An enemy that takes certain actions while in a threatened square provokes an attack of opportunity from you. If you’re unarmed, you don’t normally threaten any squares and thus can’t make attacks of opportunity.
 
 Reach Weapons:Most creatures of Medium or smaller size have a reach of only 5 feet. This means that they can make melee attacks only against creatures up to 5 feet (1 square) away. However, Small and Medium creatures wielding reach weapons threaten more squares than a typical creature. In addition, most creatures larger than Medium have a natural reach of 10 feet or more.
 
-**Provoking an Attack of Opportunity:**Two kinds of actions can provoke attacks of opportunity: moving out of a threatened square and performing an action within a threatened square.
+**Provoking an Attack of Opportunity:** Two kinds of actions can provoke attacks of opportunity: moving out of a threatened square and performing an action within a threatened square.
 
 Moving:Moving out of a threatened square usually provokes an attack of opportunity from the threatening opponent. There are two common methods of avoiding such an attack—the 5-foot-step and the withdraw action (see below).
 
@@ -268,7 +268,7 @@ Performing a Distracting Act:Some actions, when performed in a threatened square
 
 Remember that even actions that normally provoke attacks of opportunity may have exceptions to this rule.
 
-**Making an Attack of Opportunity:**An attack of opportunity is a single melee attack, and you can only make one per round. You don’t have to make an attack of opportunity if you don’t want to.
+**Making an Attack of Opportunity:** An attack of opportunity is a single melee attack, and you can only make one per round. You don’t have to make an attack of opportunity if you don’t want to.
 
 An experienced character gets additional regular melee attacks (by using the full attack action), but at a lower attack bonus. You make your attack of opportunity, however, at your normal attack bonus—even if you’ve already attacked in the round.
 
@@ -306,23 +306,23 @@ In a normal round, you can perform a standard action and a move action, or you c
 
 In some situations (such as in a surprise round), you may be limited to taking only a single move action or standard action.
 
-**Standard Action:**A standard action allows you to do something, most commonly make an attack or cast a spell. See Table: Actions in Combat for other standard actions.
+**Standard Action:** A standard action allows you to do something, most commonly make an attack or cast a spell. See Table: Actions in Combat for other standard actions.
 
-**Move Action:**A move action allows you to move your speed or perform an action that takes a similar amount of time. See Table: Actions in Combat.
+**Move Action:** A move action allows you to move your speed or perform an action that takes a similar amount of time. See Table: Actions in Combat.
 
 You can take a move action in place of a standard action. If you move no actual distance in a round (commonly because you have swapped your move for one or more equivalent actions), you can take one 5-foot step either before, during, or after the action.
 
-**Full-Round Action:**A full-round action consumes all your effort during a round. The only movement you can take during a full-round action is a 5-foot step before, during, or after the action. You can also perform free actions (see below).
+**Full-Round Action:** A full-round action consumes all your effort during a round. The only movement you can take during a full-round action is a 5-foot step before, during, or after the action. You can also perform free actions (see below).
 
 Some full-round actions do not allow you to take a 5-foot step.
 
 Some full-round actions can be taken as standard actions, but only in situations when you are limited to performing only a standard action during your round. The descriptions of specific actions, below, detail which actions allow this option.
 
-**Free Action:**Free actions consume a very small amount of time and effort. You can perform one or more free actions while taking another action normally. However, there are reasonable limits on what you can really do for free.
+**Free Action:** Free actions consume a very small amount of time and effort. You can perform one or more free actions while taking another action normally. However, there are reasonable limits on what you can really do for free.
 
-**Not an Action:**Some activities are so minor that they are not even considered free actions. They literally don’t take any time at all to do and are considered an inherent part of doing something else.
+**Not an Action:** Some activities are so minor that they are not even considered free actions. They literally don’t take any time at all to do and are considered an inherent part of doing something else.
 
-**Restricted Activity:**In some situations, you may be unable to take a full round’s worth of actions. In such cases, you are restricted to taking only a single standard action or a single move action (plus free actions as normal). You can’t take a full-round action (though you can start or complete a full-round action by using a standard action; see below).
+**Restricted Activity:** In some situations, you may be unable to take a full round’s worth of actions. In such cases, you are restricted to taking only a single standard action or a single move action (plus free actions as normal). You can’t take a full-round action (though you can start or complete a full-round action by using a standard action; see below).
 
 
 
@@ -646,9 +646,9 @@ STANDARD ACTIONS
 
 Making an attack is a standard action.
 
-**Melee Attacks:**With a normal melee weapon, you can strike any opponent within 5 feet. (Opponents within 5 feet are considered adjacent to you.) Some melee weapons have reach, as indicated in their descriptions. With a typical reach weapon, you can strike opponents 10 feet away, but you can’t strike adjacent foes (those within 5 feet).
+**Melee Attacks:** With a normal melee weapon, you can strike any opponent within 5 feet. (Opponents within 5 feet are considered adjacent to you.) Some melee weapons have reach, as indicated in their descriptions. With a typical reach weapon, you can strike opponents 10 feet away, but you can’t strike adjacent foes (those within 5 feet).
 
-**Unarmed Attacks:**Striking for damage with punches, kicks, and head butts is much like attacking with a melee weapon, except for the following:
+**Unarmed Attacks:** Striking for damage with punches, kicks, and head butts is much like attacking with a melee weapon, except for the following:
 
 Attacks of Opportunity:Attacking unarmed provokes an attack of opportunity from the character you attack, provided she is armed. The attack of opportunity comes before your attack. An unarmed attack does not provoke attacks of opportunity from other foes nor does it provoke an attack of opportunity from an unarmed foe.
 
@@ -662,35 +662,35 @@ Unarmed Strike Damage:An unarmed strike from a Medium character deals 1d3 points
 
 Dealing Lethal Damage:You can specify that your unarmed strike will deal lethal damage before you make your attack roll, but you take a –4 penalty on your attack roll. If you have the Improved Unarmed Strike feat, you can deal lethal damage with an unarmed strike without taking a penalty on the attack roll.
 
-**Ranged Attacks:**With a ranged weapon, you can shoot or throw at any target that is within the weapon’s maximum range and in line of sight. The maximum range for a thrown weapon is five range increments. For projectile weapons, it is ten range increments. Some ranged weapons have shorter maximum ranges, as specified in their descriptions.
+**Ranged Attacks:** With a ranged weapon, you can shoot or throw at any target that is within the weapon’s maximum range and in line of sight. The maximum range for a thrown weapon is five range increments. For projectile weapons, it is ten range increments. Some ranged weapons have shorter maximum ranges, as specified in their descriptions.
 
-**Attack Rolls:**An attack roll represents your attempts to strike your opponent.
+**Attack Rolls:** An attack roll represents your attempts to strike your opponent.
 
 Your attack roll is 1d20 + your attack bonus with the weapon you’re using. If the result is at least as high as the target’s AC, you hit and deal damage.
 
-**Automatic Misses and Hits:**A natural 1 (the d20 comes up 1) on the attack roll is always a miss. A natural 20 (the d20 comes up 20) is always a hit. A natural 20 is also a threat—a possible critical hit.
+**Automatic Misses and Hits:** A natural 1 (the d20 comes up 1) on the attack roll is always a miss. A natural 20 (the d20 comes up 20) is always a hit. A natural 20 is also a threat—a possible critical hit.
 
-**Damage Rolls:**If the attack roll result equals or exceeds the target’s AC, the attack hits and you deal damage. Roll the appropriate damage for your weapon. Damage is deducted from the target’s current hit points.
+**Damage Rolls:** If the attack roll result equals or exceeds the target’s AC, the attack hits and you deal damage. Roll the appropriate damage for your weapon. Damage is deducted from the target’s current hit points.
 
-**Multiple Attacks:**A character who can make more than one attack per round must use the full attack action (see Full-Round Actions, below) in order to get more than one attack.
+**Multiple Attacks:** A character who can make more than one attack per round must use the full attack action (see Full-Round Actions, below) in order to get more than one attack.
 
-**Shooting or Throwing into a Melee:**If you shoot or throw a ranged weapon at a target engaged in melee with a friendly character, you take a –4 penalty on your attack roll. Two characters are engaged in melee if they are enemies of each other and either threatens the other. (An unconscious or otherwise immobilized character is not considered engaged unless he is actually being attacked.)
+**Shooting or Throwing into a Melee:** If you shoot or throw a ranged weapon at a target engaged in melee with a friendly character, you take a –4 penalty on your attack roll. Two characters are engaged in melee if they are enemies of each other and either threatens the other. (An unconscious or otherwise immobilized character is not considered engaged unless he is actually being attacked.)
 
 If your target (or the part of your target you’re aiming at, if it’s a big target) is at least 10 feet away from the nearest friendly character, you can avoid the –4 penalty, even if the creature you’re aiming at is engaged in melee with a friendly character.
 
 Precise Shot:If you have the Precise Shot feat you don’t take this penalty.
 
-**Fighting Defensively as a Standard Action:**You can choose to fight defensively when attacking. If you do so, you take a –4 penalty on all attacks in a round to gain a +2 dodge bonus to AC for the same round.
+**Fighting Defensively as a Standard Action:** You can choose to fight defensively when attacking. If you do so, you take a –4 penalty on all attacks in a round to gain a +2 dodge bonus to AC for the same round.
 
-**Critical Hits:**When you make an attack roll and get a natural 20 (the d20 shows 20), you hit regardless of your target’s Armor Class, and you have scored a threat. The hit might be a critical hit (or “crit”). To find out if it’s a critical hit, you immediately make a critical roll—another attack roll with all the same modifiers as the attack roll you just made. If the critical roll also results in a hit against the target’s AC, your original hit is a critical hit. (The critical roll just needs to hit to give you a crit. It doesn’t need to come up 20 again.) If the critical roll is a miss, then your hit is just a regular hit.
+**Critical Hits:** When you make an attack roll and get a natural 20 (the d20 shows 20), you hit regardless of your target’s Armor Class, and you have scored a threat. The hit might be a critical hit (or “crit”). To find out if it’s a critical hit, you immediately make a critical roll—another attack roll with all the same modifiers as the attack roll you just made. If the critical roll also results in a hit against the target’s AC, your original hit is a critical hit. (The critical roll just needs to hit to give you a crit. It doesn’t need to come up 20 again.) If the critical roll is a miss, then your hit is just a regular hit.
 
 A critical hit means that you roll your damage more than once, with all your usual bonuses, and add the rolls together. Unless otherwise specified, the threat range for a critical hit on an attack roll is 20, and the multiplier is x2.
 
-Exception:****Extra damage over and above a weapon’s normal damage is not multiplied when you score a critical hit.
+Exception:**** Extra damage over and above a weapon’s normal damage is not multiplied when you score a critical hit.
 
-Increased Threat Range:****Sometimes your threat range is greater than 20. That is, you can score a threat on a lower number. In such cases, a roll of lower than 20 is not an automatic hit. Any attack roll that doesn’t result in a hit is not a threat.
+Increased Threat Range:**** Sometimes your threat range is greater than 20. That is, you can score a threat on a lower number. In such cases, a roll of lower than 20 is not an automatic hit. Any attack roll that doesn’t result in a hit is not a threat.
 
-Increased Critical Multiplier:****Some weapons deal better than double damage on a critical hit.
+Increased Critical Multiplier:**** Some weapons deal better than double damage on a critical hit.
 
 Spells and Critical Hits:A spell that requires an attack rollcan score a critical hit. A spell attack that requires no attack rollcannot score a critical hit.
 
@@ -704,7 +704,7 @@ Most spells require 1 standard action to cast. You can cast such a spell either 
 
 Note:You retain your Dexterity bonus to AC while casting.
 
-**Spell Components:**To cast a spell with a verbal (V) component, your character must speak in a firm voice. If you’re gagged or in the area of asilencespell, you can’t cast such a spell. A spellcaster who has been deafened has a 20% chance to spoil any spell he tries to cast if that spell has a verbal component.
+**Spell Components:** To cast a spell with a verbal (V) component, your character must speak in a firm voice. If you’re gagged or in the area of asilencespell, you can’t cast such a spell. A spellcaster who has been deafened has a 20% chance to spoil any spell he tries to cast if that spell has a verbal component.
 
 To cast a spell with a somatic (S) component, you must gesture freely with at least one hand. You can’t cast a spell of this type while bound, grappling, or with both your hands full or occupied.
 
@@ -712,23 +712,23 @@ To cast a spell with a material (M), focus (F), or divine focus (DF) component, 
 
 Some spells have an experience point (XP) component and entail an experience point cost to you. No spell can restore the lost XP. You cannot spend so much XP that you lose a level, so you cannot cast the spell unless you have enough XP to spare. However, you may, on gaining enough XP to achieve a new level, immediately spend the XP on casting the spell rather than keeping it to advance a level. The XP are expended when you cast the spell, whether or not the casting succeeds.
 
-**Concentration:**You must concentrate to cast a spell. If you can’t concentrate you can’t cast a spell. If you start casting a spell but something interferes with your concentration you must make a Concentration check or lose the spell. The check’s DC depends on what is threatening your concentration (see the Concentration skill). If you fail, the spell fizzles with no effect. If you prepare spells, it is lost from preparation. If you cast at will, it counts against your daily limit of spells even though you did not cast it successfully.
+**Concentration:** You must concentrate to cast a spell. If you can’t concentrate you can’t cast a spell. If you start casting a spell but something interferes with your concentration you must make a Concentration check or lose the spell. The check’s DC depends on what is threatening your concentration (see the Concentration skill). If you fail, the spell fizzles with no effect. If you prepare spells, it is lost from preparation. If you cast at will, it counts against your daily limit of spells even though you did not cast it successfully.
 
-**Concentrating to Maintain a Spell:**Some spells require continued concentration to keep them going. Concentrating to maintain a spell is a standard action that doesn’t provoke an attack of opportunity. Anything that could break your concentration when casting a spell can keep you from concentrating to maintain a spell. If your concentration breaks, the spell ends.
+**Concentrating to Maintain a Spell:** Some spells require continued concentration to keep them going. Concentrating to maintain a spell is a standard action that doesn’t provoke an attack of opportunity. Anything that could break your concentration when casting a spell can keep you from concentrating to maintain a spell. If your concentration breaks, the spell ends.
 
-**Casting Time:**Most spells have a casting time of 1 standard action. A spell cast in this manner immediately takes effect.
+**Casting Time:** Most spells have a casting time of 1 standard action. A spell cast in this manner immediately takes effect.
 
-**Attacks of Opportunity:**Generally, if you cast a spell, you provoke attacks of opportunity from threatening enemies. If you take damage from an attack of opportunity, you must make a Concentration check (DC 10 + points of damage taken + spell level) or lose the spell. Spells that require only a free action to cast don’t provoke attacks of opportunity.
+**Attacks of Opportunity:** Generally, if you cast a spell, you provoke attacks of opportunity from threatening enemies. If you take damage from an attack of opportunity, you must make a Concentration check (DC 10 + points of damage taken + spell level) or lose the spell. Spells that require only a free action to cast don’t provoke attacks of opportunity.
 
-**Casting on the Defensive:**Casting a spell while on the defensive does not provoke an attack of opportunity. It does, however, require a Concentration check (DC 15 + spell level) to pull off. Failure means that you lose the spell.
+**Casting on the Defensive:** Casting a spell while on the defensive does not provoke an attack of opportunity. It does, however, require a Concentration check (DC 15 + spell level) to pull off. Failure means that you lose the spell.
 
-**Touch Spells in Combat:**Many spells have a range of touch. To use these spells, you cast the spell and then touch the subject, either in the same round or any time later. In the same round that you cast the spell, you may also touch (or attempt to touch) the target. You may take your move before casting the spell, after touching the target, or between casting the spell and touching the target. You can automatically touch one friend or use the spell on yourself, but to touch an opponent, you must succeed on an attack roll.
+**Touch Spells in Combat:** Many spells have a range of touch. To use these spells, you cast the spell and then touch the subject, either in the same round or any time later. In the same round that you cast the spell, you may also touch (or attempt to touch) the target. You may take your move before casting the spell, after touching the target, or between casting the spell and touching the target. You can automatically touch one friend or use the spell on yourself, but to touch an opponent, you must succeed on an attack roll.
 
 Touch Attacks:Touching an opponent with a touch spell is considered to be an armed attack and therefore does not provoke attacks of opportunity. However, the act of casting a spell does provoke an attack of opportunity. Touch attacks come in two types: melee touch attacks and ranged touch attacks. You can score critical hits with either type of attack. Your opponent’s AC against a touch attack does not include any armor bonus, shield bonus, or natural armor bonus. His size modifier, Dexterity modifier, and deflection bonus (if any) all apply normally.
 
 Holding the Charge:If you don’t discharge the spell in the round when you cast the spell, you can hold the discharge of the spell (hold the charge) indefinitely. You can continue to make touch attacks round after round. You can touch one friend as a standard action or up to six friends as a full-round action. If you touch anything or anyone while holding a charge, even unintentionally, the spell discharges. If you cast another spell, the touch spell dissipates. Alternatively, you may make a normal unarmed attack (or an attack with a natural weapon) while holding a charge. In this case, you aren’t considered armed and you provoke attacks of opportunity as normal for the attack. (If your unarmed attack or natural weapon attack doesn’t provoke attacks of opportunity, neither does this attack.) If the attack hits, you deal normal damage for your unarmed attack or natural weapon and the spell discharges. If the attack misses, you are still holding the charge.
 
-**Dismiss a Spell:**Dismissing an active spell is a standard action that doesn’t provoke attacks of opportunity.
+**Dismiss a Spell:** Dismissing an active spell is a standard action that doesn’t provoke attacks of opportunity.
 
 
 
@@ -738,9 +738,9 @@ Holding the Charge:If you don’t discharge the spell in the round when you cast
 
 Many magic items don’t need to be activated. However, certain magic items need to be activated, especially potions, scrolls, wands, rods, and staffs. Activating a magic item is a standard action (unless the item description indicates otherwise).
 
-**Spell Completion Items:**Activating a spell completion item is the equivalent of casting a spell. It requires concentration and provokes attacks of opportunity. You lose the spell if your concentration is broken, and you can attempt to activate the item while on the defensive, as with casting a spell.
+**Spell Completion Items:** Activating a spell completion item is the equivalent of casting a spell. It requires concentration and provokes attacks of opportunity. You lose the spell if your concentration is broken, and you can attempt to activate the item while on the defensive, as with casting a spell.
 
-**Spell Trigger, Command Word, or Use-Activated Items:**Activating any of these kinds of items does not require concentration and does not provoke attacks of opportunity.
+**Spell Trigger, Command Word, or Use-Activated Items:** Activating any of these kinds of items does not require concentration and does not provoke attacks of opportunity.
 
 
 
@@ -750,13 +750,13 @@ Many magic items don’t need to be activated. However, certain magic items need
 
 Using a special ability is usually a standard action, but whether it is a standard action, a full-round action, or not an action at all is defined by the ability.
 
-**Spell-Like Abilities:**Using a spell-like ability works like casting a spell in that it requires concentration and provokes attacks of opportunity. Spell-like abilities can be disrupted. If your concentration is broken, the attempt to use the ability fails, but the attempt counts as if you had used the ability. The casting time of a spell-like ability is 1 standard action, unless the ability description notes otherwise.
+**Spell-Like Abilities:** Using a spell-like ability works like casting a spell in that it requires concentration and provokes attacks of opportunity. Spell-like abilities can be disrupted. If your concentration is broken, the attempt to use the ability fails, but the attempt counts as if you had used the ability. The casting time of a spell-like ability is 1 standard action, unless the ability description notes otherwise.
 
 Using a Spell-Like Ability on the Defensive:You may attempt to use a spell-like ability on the defensive, just as with casting a spell. If the Concentration check (DC 15 + spell level) fails, you can’t use the ability, but the attempt counts as if you had used the ability.
 
-**Supernatural Abilities:**Using a supernatural ability is usually a standard action (unless defined otherwise by the ability’s description). Its use cannot be disrupted, does not require concentration, and does not provoke attacks of opportunity.
+**Supernatural Abilities:** Using a supernatural ability is usually a standard action (unless defined otherwise by the ability’s description). Its use cannot be disrupted, does not require concentration, and does not provoke attacks of opportunity.
 
-**Extraordinary Abilities:**Using an extraordinary ability is usually not an action because most extraordinary abilities automatically happen in a reactive fashion. Those extraordinary abilities that are actions are usually standard actions that cannot be disrupted, do not require concentration, and do not provoke attacks of opportunity.
+**Extraordinary Abilities:** Using an extraordinary ability is usually not an action because most extraordinary abilities automatically happen in a reactive fashion. Those extraordinary abilities that are actions are usually standard actions that cannot be disrupted, do not require concentration, and do not provoke attacks of opportunity.
 
 
 
@@ -792,9 +792,9 @@ The simplest move action is moving your speed. If you take this kind of move act
 
 Many nonstandard modes of movement are covered under this category, including climbing (up to one-quarter of your speed) and swimming (up to one-quarter of your speed).
 
-**Accelerated Climbing:**You can climb one-half your speed as a move action by accepting a –5 penalty on your Climb check.
+**Accelerated Climbing:** You can climb one-half your speed as a move action by accepting a –5 penalty on your Climb check.
 
-**Crawling:**You can crawl 5 feet as a move action. Crawling incurs attacks of opportunity from any attackers who threaten you at any point of your crawl.
+**Crawling:** You can crawl 5 feet as a move action. Crawling incurs attacks of opportunity from any attackers who threaten you at any point of your crawl.
 
 
 
@@ -852,7 +852,7 @@ Standing up from a prone position requires a move action and provokes attacks of
 
 Mounting or dismounting from a steed requires a move action.
 
-**Fast Mount or Dismount:**You can mount or dismount as a free action with a DC 20 Ride check (your armor check penalty, if any, applies to this check). If you fail the check, mounting or dismounting is a move action instead. (You can’t attempt a fast mount or fast dismount unless you can perform the mount or dismount as a move action in the current round.)
+**Fast Mount or Dismount:** You can mount or dismount as a free action with a DC 20 Ride check (your armor check penalty, if any, applies to this check). If you fail the check, mounting or dismounting is a move action instead. (You can’t attempt a fast mount or fast dismount unless you can perform the mount or dismount as a move action in the current round.)
 
 
 
@@ -874,11 +874,11 @@ The only movement you can take during a full attack is a 5-foot step. You may ta
 
 If you get multiple attacks because your base attack bonus is high enough, you must make the attacks in order from highest bonus to lowest. If you are using two weapons, you can strike with either weapon first. If you are using a double weapon, you can strike with either part of the weapon first.
 
-**Deciding between an Attack or a Full Attack:**After your first attack, you can decide to take a move action instead of making your remaining attacks, depending on how the first attack turns out. If you’ve already taken a 5-foot step, you can’t use your move action to move any distance, but you could still use a different kind of move action.
+**Deciding between an Attack or a Full Attack:** After your first attack, you can decide to take a move action instead of making your remaining attacks, depending on how the first attack turns out. If you’ve already taken a 5-foot step, you can’t use your move action to move any distance, but you could still use a different kind of move action.
 
-**Fighting Defensively as a Full-Round Action:**You can choose to fight defensively when taking a full attack action. If you do so, you take a –4 penalty on all attacks in a round to gain a +2 dodge bonus to AC for the same round.
+**Fighting Defensively as a Full-Round Action:** You can choose to fight defensively when taking a full attack action. If you do so, you take a –4 penalty on all attacks in a round to gain a +2 dodge bonus to AC for the same round.
 
-**Cleave:**The extra attack granted by the Cleave feat or Great Cleave feat can be taken whenever they apply. This is an exception to the normal limit to the number of attacks you can take when not using a full attack action.
+**Cleave:** The extra attack granted by the Cleave feat or Great Cleave feat can be taken whenever they apply. This is an exception to the normal limit to the number of attacks you can take when not using a full attack action.
 
 
 
@@ -896,7 +896,7 @@ You only provoke attacks of opportunity when you begin casting a spell, even tho
 
 This action is otherwise identical to the cast a spell action described under Standard Actions.
 
-**Casting a Metamagic Spell:**Sorcerers and bards must take more time to cast a metamagic spell (one enhanced by a metamagic feat) than a regular spell. If a spell’s normal casting time is 1 standard action, casting a metamagic version of the spell is a full-round action for a sorcerer or bard. Note that this isn’t the same as a spell with a 1-round casting time—the spell takes effect in the same round that you begin casting, and you aren’t required to continue the invocations, gestures, and concentration until your next turn. For spells with a longer casting time, it takes an extra full-round action to cast the metamagic spell.
+**Casting a Metamagic Spell:** Sorcerers and bards must take more time to cast a metamagic spell (one enhanced by a metamagic feat) than a regular spell. If a spell’s normal casting time is 1 standard action, casting a metamagic version of the spell is a full-round action for a sorcerer or bard. Note that this isn’t the same as a spell with a 1-round casting time—the spell takes effect in the same round that you begin casting, and you aren’t required to continue the invocations, gestures, and concentration until your next turn. For spells with a longer casting time, it takes an extra full-round action to cast the metamagic spell.
 
 Clerics must take more time to spontaneously cast a metamagic version of acureorinflictspell.Spontaneously casting a metamagic version of a spell with a casting time of 1 standard action is a full-round action, and spells with longer casting times take an extra full-round action to cast.
 
@@ -922,7 +922,7 @@ You may not withdraw using a form of movement for which you don’t have a liste
 
 Note that despite the name of this action, you don’t actually have to leave combat entirely.
 
-**Restricted Withdraw:**If you are limited to taking only a standard action each round you can withdraw as a standard action. In this case, you may move up to your speed (rather than up to double your speed).
+**Restricted Withdraw:** If you are limited to taking only a standard action each round you can withdraw as a standard action. In this case, you may move up to your speed (rather than up to double your speed).
 
 
 
@@ -1048,15 +1048,15 @@ LOSS OF HIT POINTS
 
 The most common way that your character gets hurt is to take lethal damage and lose hit points
 
-**What Hit Points Represent:**Hit points mean two things in the game world: the ability to take physical punishment and keep going, and the ability to turn a serious blow into a less serious one.
+**What Hit Points Represent:** Hit points mean two things in the game world: the ability to take physical punishment and keep going, and the ability to turn a serious blow into a less serious one.
 
-**Effects of Hit Point Damage:**Damage doesn’t slow you down until your current hit points reach 0 or lower. At 0 hit points, you’re disabled.
+**Effects of Hit Point Damage:** Damage doesn’t slow you down until your current hit points reach 0 or lower. At 0 hit points, you’re disabled.
 
 At from –1 to –9 hit points, you’re dying.
 
 At –10 or lower, you’re dead.
 
-**Massive Damage:**If you ever sustain a single attack deals 50 points of damage or more and it doesn’t kill you outright, you must make a DC 15 Fortitude save. If this saving throw fails, you die regardless of your current hit points. If you take 50 points of damage or more from multiple attacks, no one of which dealt 50 or more points of damage itself, the massive damage rule does not apply.
+**Massive Damage:** If you ever sustain a single attack deals 50 points of damage or more and it doesn’t kill you outright, you must make a DC 15 Fortitude save. If this saving throw fails, you die regardless of your current hit points. If you take 50 points of damage or more from multiple attacks, no one of which dealt 50 or more points of damage itself, the massive damage rule does not apply.
 
 
 
@@ -1110,9 +1110,9 @@ Healing that raises the dying character’s hit points to 0 makes him conscious 
 
 A stable character who has been tended by a healer or who has been magically healed eventually regains consciousness and recovers hit points naturally. If the character has no one to tend him, however, his life is still in danger, and he may yet slip away.
 
-**Recovering with Help:**One hour after a tended, dying character becomes stable, roll d%. He has a 10% chance of becoming conscious, at which point he is disabled (as if he had 0 hit points). If he remains unconscious, he has the same chance to revive and become disabled every hour. Even if unconscious, he recovers hit points naturally. He is back to normal when his hit points rise to 1 or higher.
+**Recovering with Help:** One hour after a tended, dying character becomes stable, roll d%. He has a 10% chance of becoming conscious, at which point he is disabled (as if he had 0 hit points). If he remains unconscious, he has the same chance to revive and become disabled every hour. Even if unconscious, he recovers hit points naturally. He is back to normal when his hit points rise to 1 or higher.
 
-**Recovering without Help:**A severely wounded character left alone usually dies. He has a small chance, however, of recovering on his own.
+**Recovering without Help:** A severely wounded character left alone usually dies. He has a small chance, however, of recovering on his own.
 
 A character who becomes stable on his own (by making the 10% roll while dying) and who has no one to tend to him still loses hit points, just at a slower rate. He has a 10% chance each hour of becoming conscious. Each time he misses his hourly roll to become conscious, he loses 1 hit point. He also does not recover hit points through natural healing.
 
@@ -1128,15 +1128,15 @@ HEALING
 
 After taking damage, you can recover hit points through natural healing or through magical healing. In any case, you can’t regain hit points past your full normal hit point total.
 
-**Natural Healing:**With a full night’s rest (8 hours of sleep or more), you recover 1 hit point per character level. Any significant interruption during your rest prevents you from healing that night.
+**Natural Healing:** With a full night’s rest (8 hours of sleep or more), you recover 1 hit point per character level. Any significant interruption during your rest prevents you from healing that night.
 
 If you undergo complete bed rest for an entire day and night, you recover twice your character level in hit points.
 
-**Magical Healing:**Various abilities and spells can restore hit points.
+**Magical Healing:** Various abilities and spells can restore hit points.
 
-**Healing Limits:**You can never recover more hit points than you lost. Magical healing won’t raise your current hit points higher than your full normal hit point total.
+**Healing Limits:** You can never recover more hit points than you lost. Magical healing won’t raise your current hit points higher than your full normal hit point total.
 
-**Healing Ability Damage:**Ability damage is temporary, just as hit point damage is. Ability damage returns at the rate of 1 point per night of rest (8 hours) for each affected ability score. Complete bed rest restores 2 points per day (24 hours) for each affected ability score.
+**Healing Ability Damage:** Ability damage is temporary, just as hit point damage is. Ability damage returns at the rate of 1 point per night of rest (8 hours) for each affected ability score. Complete bed rest restores 2 points per day (24 hours) for each affected ability score.
 
 
 
@@ -1148,7 +1148,7 @@ Certain effects give a character temporary hit points. When a character gains te
 
 When temporary hit points are lost, they cannot be restored as real hit points can be, even by magic.
 
-**Increases in Constitution Score and Current Hit Points:**An increase in a character’s Constitution score, even a temporary one, can give her more hit points (an effective hit point increase), but these are not temporary hit points. They can be restored and they are not lost first as temporary hit points are.
+**Increases in Constitution Score and Current Hit Points:** An increase in a character’s Constitution score, even a temporary one, can give her more hit points (an effective hit point increase), but these are not temporary hit points. They can be restored and they are not lost first as temporary hit points are.
 
 
 
@@ -1156,19 +1156,19 @@ When temporary hit points are lost, they cannot be restored as real hit points c
 
 NONLETHAL DAMAGE
 
-**Dealing Nonlethal Damage:**Certain attacks deal nonlethal damage. Other effects, such as heat or being exhausted, also deal nonlethal damage. When you take nonlethal damage, keep a running total of how much you’ve accumulated.Do not deduct the nonlethal damage number from your current hit points.It is not “real” damage. Instead, when your nonlethal damage equals your current hit points, you’re staggered, and when it exceeds your current hit points, you fall unconscious. It doesn’t matter whether the nonlethal damage equals or exceeds your current hit points because the nonlethal damage has gone up or because your current hit points have gone down.
+**Dealing Nonlethal Damage:** Certain attacks deal nonlethal damage. Other effects, such as heat or being exhausted, also deal nonlethal damage. When you take nonlethal damage, keep a running total of how much you’ve accumulated.Do not deduct the nonlethal damage number from your current hit points.It is not “real” damage. Instead, when your nonlethal damage equals your current hit points, you’re staggered, and when it exceeds your current hit points, you fall unconscious. It doesn’t matter whether the nonlethal damage equals or exceeds your current hit points because the nonlethal damage has gone up or because your current hit points have gone down.
 
 Nonlethal Damage with a Weapon that Deals Lethal Damage:You can use a melee weapon that deals lethal damage to deal nonlethal damage instead, but you take a –4 penalty on your attack roll.
 
 Lethal Damage with a Weapon that Deals Nonlethal Damage:You can use a weapon that deals nonlethal damage, including an unarmed strike, to deal lethal damage instead, but you take a –4 penalty on your attack roll.
 
-**Staggered and Unconscious:**When your nonlethal damage equals your current hit points, you’re staggered. You can only take a standard action or a move action in each round. You cease being staggered when your current hit points once again exceed your nonlethal damage.
+**Staggered and Unconscious:** When your nonlethal damage equals your current hit points, you’re staggered. You can only take a standard action or a move action in each round. You cease being staggered when your current hit points once again exceed your nonlethal damage.
 
 When your nonlethal damage exceeds your current hit points, you fall unconscious. While unconscious, you are helpless.
 
 Spellcasters who fall unconscious retain any spellcasting ability they had before going unconscious.
 
-**Healing Nonlethal Damage:**You heal nonlethal damage at the rate of 1 hit point per hour per character level.
+**Healing Nonlethal Damage:** You heal nonlethal damage at the rate of 1 hit point per hour per character level.
 
 When a spell or a magical power cures hit point damage, it also removes an equal amount of nonlethal damage.
 

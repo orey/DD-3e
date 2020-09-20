@@ -498,7 +498,7 @@ For purposes of spells and other special effects, all slimes, molds, and fungi a
 
 
 
-**Flux Slime (CR 21):**
+**Flux Slime (CR 21):** 
 
 Flux slime appears as a clear, viscous liquid that seeps from some unseen origin point. This origin point is extradimensional, so the slime may even appear in midair. As the slime flows, it settles and fills the area around the origin point.
 

@@ -12,23 +12,23 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 Clairsentience
 
-**Level:**Psion/wilder 3, psychic warrior 3
+**Level:** Psion/wilder 3, psychic warrior 3
 
-**Display:**Visual
+**Display:** Visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 hour/level (D)
+**Duration:** 1 hour/level (D)
 
-**Power Points:**5
+**Power Points:** 5
 
 You can sense the presence of danger before your senses would normally allow it. Your intuitive sense alerts you to danger from traps, giving you a +4 insight bonus on Ref lex saves to avoid traps and a +4 insight bonus to Armor Class against attacks by traps.
 
-**Augment:**If you spend 3 additional power points, this power also gives you the uncanny dodge ability; if you spend 6 additional power points, this power gives you the improved uncanny dodge ability as well.
+**Augment:** If you spend 3 additional power points, this power also gives you the uncanny dodge ability; if you spend 6 additional power points, this power gives you the improved uncanny dodge ability as well.
 
 
 
@@ -38,19 +38,19 @@ You can sense the presence of danger before your senses would normally allow it.
 
 Clairsentience
 
-**Level:**Psion/wilder 3, psychic warrior 2
+**Level:** Psion/wilder 3, psychic warrior 2
 
-**Display:**Visual
+**Display:** Visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 hour/level
+**Duration:** 1 hour/level
 
-**Power Points:**Psion/wilder 5, psychic warrior 3
+**Power Points:** Psion/wilder 5, psychic warrior 3
 
 As thedarkvisionspell, except as noted here.
 
@@ -62,27 +62,27 @@ As thedarkvisionspell, except as noted here.
 
 Telepathy (Compulsion) [Mind-Affecting]
 
-**Level:**Psion/wilder 1
+**Level:** Psion/wilder 1
 
-**Display:**Material and mental
+**Display:** Material and mental
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One humanoid creature that has 4 HD or less
+**Target:** One humanoid creature that has 4 HD or less
 
-**Duration:**1 round
+**Duration:** 1 round
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**1
+**Power Points:** 1
 
 As thedazespell, except as noted here.
 
-**Augment:**For every additional power point you spend, this power can affect a target that has Hit Dice equal to 4 + the additional points.
+**Augment:** For every additional power point you spend, this power can affect a target that has Hit Dice equal to 4 + the additional points.
 
 
 
@@ -92,23 +92,23 @@ As thedazespell, except as noted here.
 
 Telepathy (Compulsion) [Mind-Affecting]
 
-**Level:**Psion/wilder 4
+**Level:** Psion/wilder 4
 
-**Display:**Mental
+**Display:** Mental
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./ level)
+**Range:** Medium (100 ft. + 10 ft./ level)
 
-**Target:**One living creature
+**Target:** One living creature
 
-**Duration:**1 round
+**Duration:** 1 round
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**7
+**Power Points:** 7
 
 You plant a hidden death-urge impulse in the subject’s unconscious. On the subject’s next turn, it looks for the quickest method to end its life and attempts to do so. The subject takes no other action on its turn except attempting to harm itself.
 
@@ -116,7 +116,7 @@ If armed, the subject attacks itself as a full-round action. The attack automati
 
 If the subject is unarmed and no enemy is nearby, the subject simply does nothing at all. A subject close to an immediate and lethal hazard such as a cliff or a fire might hurl itself off the cliff or into the fire instead of striking itself with a weapon.
 
-**Augment:**For every 4 additional power points you spend, this power’s save DC increases by 2 and its duration increases by 1 round.
+**Augment:** For every 4 additional power points you spend, this power’s save DC increases by 2 and its duration increases by 1 round.
 
 
 
@@ -126,27 +126,27 @@ If the subject is unarmed and no enemy is nearby, the subject simply does nothin
 
 Psychoportation
 
-**Level:**Psion/wilder 1
+**Level:** Psion/wilder 1
 
-**Display:**Auditory and material
+**Display:** Auditory and material
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./level)
+**Range:** Close (25 ft. + 5 ft./level)
 
-**Target:**One Medium or smaller creature
+**Target:** One Medium or smaller creature
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**Reflex negates
+**Saving Throw:** Reflex negates
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**1
+**Power Points:** 1
 
 You warp space around an individual, hindering the subject’s ability to move. The subject’s speed (in any movement mode it possesses) is halved. A subsequent manifestation ofdecelerationon the subject does not further decrease its speed.
 
-**Augment:**For every 2 additional power points you spend, this power can affect a target one size category larger.
+**Augment:** For every 2 additional power points you spend, this power can affect a target one size category larger.
 
 
 
@@ -156,23 +156,23 @@ You warp space around an individual, hindering the subject’s ability to move. 
 
 Psychoportation [Teleportation]
 
-**Level:**Psion/wilder 7
+**Level:** Psion/wilder 7
 
-**Display:**Mental
+**Display:** Mental
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./level)
+**Range:** Close (25 ft. + 5 ft./level)
 
-**Target:**One living creature
+**Target:** One living creature
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Fortitude negates
+**Saving Throw:** Fortitude negates
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**13
+**Power Points:** 13
 
 Withdecerebrate,you selectively remove a portion of the subject’s brain stem. The creature loses all cerebral function, vision, hearing, and other sensory abilities, and all voluntary motor activity. The subject becomes limp and unresponsive. Without extreme measures, such asgreater restorationor some other suitable effect of 7th level or higher, the creature perishes in 1d4 days.
 
@@ -184,27 +184,27 @@ Withdecerebrate,you selectively remove a portion of the subject’s brain stem. 
 
 Telepathy [Mind-Affecting]
 
-**Level:**Psion/wilder 1
+**Level:** Psion/wilder 1
 
-**Display:**Mental
+**Display:** Mental
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Target:**One creature
+**Target:** One creature
 
-**Duration:**1 round
+**Duration:** 1 round
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**1
+**Power Points:** 1
 
 Your mental impulse forces the subject to repeat the actions it took on its previous turn. If the situation has changed in such a way that the subject can’t take the same actions again (if its foe is dead, or the subject has run out of power points, and so on), the subject stands still and takes no actions for 1 round. In any event, the subject can still defend itself, and it retains its Dexterity bonus to AC even if it stands still.
 
-**Augment:**For every 2 additional power points you spend, this power’s save DC increases by 1.
+**Augment:** For every 2 additional power points you spend, this power’s save DC increases by 1.
 
 
 
@@ -214,27 +214,27 @@ Your mental impulse forces the subject to repeat the actions it took on its prev
 
 Telepathy [Mind-Affecting]
 
-**Level:**Psion/wilder 1
+**Level:** Psion/wilder 1
 
-**Display:**Mental and olfactory
+**Display:** Mental and olfactory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**30 ft.
+**Range:** 30 ft.
 
-**Area:**30-ft.-radius spread centered on you
+**Area:** 30-ft.-radius spread centered on you
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**1
+**Power Points:** 1
 
 You fill your enemies with self-doubt. Any enemy in the area that fails its save becomes shaken for the duration of the power. Allies and creatures without an Intelligence score are unaffected.
 
-**Augment:**For every 2 additional power points you spend, this power’s range and the radius of its area both increase by 5 feet, and the power’s save DC increases by 1.
+**Augment:** For every 2 additional power points you spend, this power’s range and the radius of its area both increase by 5 feet, and the power’s save DC increases by 1.
 
 
 
@@ -244,23 +244,23 @@ You fill your enemies with self-doubt. Any enemy in the area that fails its save
 
 Clairsentience
 
-**Level:**Seer 1
+**Level:** Seer 1
 
-**Display:**Material and mental
+**Display:** Material and mental
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**1 round/level
+**Duration:** 1 round/level
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**1
+**Power Points:** 1
 
 Your mere touch grants your foe an imperfect, unfocused glimpse of the many possible futures in store. Unaccustomed to and unable to process the information, the subject becomes sickened for 1 round per level of the manifester.
 
@@ -272,23 +272,23 @@ Your mere touch grants your foe an imperfect, unfocused glimpse of the many poss
 
 Telepathy [Mind-Affecting]
 
-**Level:**Psion/wilder 2, psychic warrior 2
+**Level:** Psion/wilder 2, psychic warrior 2
 
-**Display:**Olfactory
+**Display:** Olfactory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**30 ft.
+**Range:** 30 ft.
 
-**Area:**30-ft.-radius emanation centered on you
+**Area:** 30-ft.-radius emanation centered on you
 
-**Duration:**10 min./level (D)
+**Duration:** 10 min./level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**No
+**Power Resistance:** No
 
-**Power Points:**3
+**Power Points:** 3
 
 While the duration of this power lasts, you become aware of the presence of any creatures with hostile intent within 30 feet of you, and their direction from you (but not their specific location). The power detects active aggression, as opposed to vigilance. In addition, while this power is active you cannot be surprised or caught flatfooted by creatures that are susceptible to mind-affecting powers.
 
@@ -304,23 +304,23 @@ The power can penetrate barriers, but 3 feet of stone, 3 inches of common metal,
 
 Clairsentience
 
-**Level:**Psion/wilder 1, psychic warrior 1
+**Level:** Psion/wilder 1, psychic warrior 1
 
-**Display:**Auditory and visual
+**Display:** Auditory and visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**60 ft.
+**Range:** 60 ft.
 
-**Area:**Cone -shaped emanation centered on you
+**Area:** Cone -shaped emanation centered on you
 
-**Duration:**Concentration, up to 1 min./level (D)
+**Duration:** Concentration, up to 1 min./level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**No
+**Power Resistance:** No
 
-**Power Points:**1
+**Power Points:** 1
 
 You detect psionic auras. A psionic aura is given off by any active or permanent power, or during the use of any psionic feat. Characters who have levels in a psionic class, creatures with the psionic subtype, and creatures with the Wild Talent feat possess psionic auras. The amount of information revealed by the manifestation of this power depends on how long you study a particular area or subject.
 
@@ -438,23 +438,23 @@ Each round, you can turn to detect psionics in a new area. You can tell the diff
 
 Clairsentience
 
-**Level:**Psion/wilder 4
+**Level:** Psion/wilder 4
 
-**Display:**Mental and visual
+**Display:** Mental and visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**40 ft.
+**Range:** 40 ft.
 
-**Area:**40-ft.-radius emanation centered on you
+**Area:** 40-ft.-radius emanation centered on you
 
-**Duration:**24 hours
+**Duration:** 24 hours
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**No
+**Power Resistance:** No
 
-**Power Points:**7
+**Power Points:** 7
 
 You immediately become aware of any attempt to observe you by means of a clairsentience (scrying) power or divination (scrying) spell. The power’s effect radiates from you and moves as you move. You know the location of every psionic or magical sensor within the power’s area.
 
@@ -468,27 +468,27 @@ If the viewing attempt originates within the area, you also know the viewer’s 
 
 Clairsentience
 
-**Level:**Nomad 1
+**Level:** Nomad 1
 
-**Display:**Visual
+**Display:** Visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**40 ft.
+**Range:** 40 ft.
 
-**Area:**40-ft.-radius emanation centered on you
+**Area:** 40-ft.-radius emanation centered on you
 
-**Duration:**Concentration, up to 1 minute (D)
+**Duration:** Concentration, up to 1 minute (D)
 
-**Saving Throw:**No
+**Saving Throw:** No
 
-**Power Resistance:**No
+**Power Resistance:** No
 
-**Power Points:**1
+**Power Points:** 1
 
 You sense the use of any effects of the teleportation subdiscipline within the area. You sense the use of these powers whether or not you have line of sight or line of effect (although a force effect prevents this detection). When you sense the use of an appropriate power, you know the direction in which the power was used, though not the distance or the exact effect.
 
-**Augment:**If you spend 2 additional power points, this power’s range increases to Medium (100 ft. + 10 ft./level).
+**Augment:** If you spend 2 additional power points, this power’s range increases to Medium (100 ft. + 10 ft./level).
 
 
 
@@ -498,27 +498,27 @@ You sense the use of any effects of the teleportation subdiscipline within the a
 
 Psychoportation (Teleportation)
 
-**Level:**Psion/wilder 4, psychic warrior 4
+**Level:** Psion/wilder 4, psychic warrior 4
 
-**Display:**Visual
+**Display:** Visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Long (400 ft. + 40 ft./level)
+**Range:** Long (400 ft. + 40 ft./level)
 
-**Target or Targets:**You and touched objects or other touched willing creatures
+**Target or Targets:** You and touched objects or other touched willing creatures
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None and Will negates (object)
+**Saving Throw:** None and Will negates (object)
 
-**Power Resistance:**No and Yes (object)
+**Power Resistance:** No and Yes (object)
 
-**Power Points:**7
+**Power Points:** 7
 
 As thedimension doorspell, except as noted here.
 
-**Augment:**If you spend 6 additional power points, you can manifest this power as a move action.
+**Augment:** If you spend 6 additional power points, you can manifest this power as a move action.
 
 
 
@@ -528,25 +528,25 @@ As thedimension doorspell, except as noted here.
 
 Psychoportation (Teleportation)
 
-**Level:**Psychic warrior 3
+**Level:** Psychic warrior 3
 
-**Display:**Visual
+**Display:** Visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**You; see text
+**Target:** You; see text
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Power Points:**5
+**Power Points:** 5
 
 You instantly transfer yourself from your current location to any other spot within range to which you have line of sight. You can bring along possessions that amount to as much as a medium load, including living creatures that weigh as much as 20 pounds. Movement caused by the use ofdimension slidedoes not provoke attacks of opportunity.
 
 If you somehow attempt to transfer yourself to a location occupied by a solid body or a location you can’t see the power simply fails to function.
 
-**Augment:**If you spend 4 additional power points, you can manifest this power as a move action.
+**Augment:** If you spend 4 additional power points, you can manifest this power as a move action.
 
 
 
@@ -556,29 +556,29 @@ If you somehow attempt to transfer yourself to a location occupied by a solid bo
 
 Psychoportation (Teleportation)
 
-**Level:**Nomad 2, psychic warrior 2
+**Level:** Nomad 2, psychic warrior 2
 
-**Display:**Visual
+**Display:** Visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Targets:**You and one ally in range, or any two allies in range; see text
+**Targets:** You and one ally in range, or any two allies in range; see text
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Will negates (harmless, object)
+**Saving Throw:** Will negates (harmless, object)
 
-**Power Resistance:**Yes (harmless, object)
+**Power Resistance:** Yes (harmless, object)
 
-**Power Points:**3
+**Power Points:** 3
 
 You instantly swap positions between your current position and that of a designated ally in range. Alternatively, you can swap the positions of any two allies in range. This power affects creatures of Large or smaller size. You can bring along objects, but not other creatures.
 
-**Special:**A psychic warrior can manifest this power to swap positions with an ally, but not to swap the positions of two allies.
+**Special:** A psychic warrior can manifest this power to swap positions with an ally, but not to swap the positions of two allies.
 
-**Augment:**For every 2 additional power points you spend, this power can affect a target one size category larger.
+**Augment:** For every 2 additional power points you spend, this power can affect a target one size category larger.
 
 
 
@@ -588,23 +588,23 @@ You instantly swap positions between your current position and that of a designa
 
 Psychoportation
 
-**Level:**Nomad 4
+**Level:** Nomad 4
 
-**Display:**Auditory
+**Display:** Auditory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./ level)
+**Range:** Medium (100 ft. + 10 ft./ level)
 
-**Effect:**Ray
+**Effect:** Ray
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**Yes (object)
+**Power Resistance:** Yes (object)
 
-**Power Points:**7
+**Power Points:** 7
 
 As thedimensional anchorspell, except as noted here.
 
@@ -616,23 +616,23 @@ As thedimensional anchorspell, except as noted here.
 
 Telepathy (Compulsion) [Mind-Affecting]
 
-**Level:**Psion/wilder 1
+**Level:** Psion/wilder 1
 
-**Display:**Visual
+**Display:** Visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**20 ft.
+**Range:** 20 ft.
 
-**Area:**Cone-shaped emanation centered on you
+**Area:** Cone-shaped emanation centered on you
 
-**Duration:**1 min./level (D)
+**Duration:** 1 min./level (D)
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**1
+**Power Points:** 1
 
 You broadcast a mental compulsion that convinces one or more creatures of 4 Hit Dice or less that they are disabled (see page 307 of thePlayer’s Handbook). Creatures with the fewest HD are affected first. Among creatures with equal Hit Dice, those who are closest to the power’s point of origin are affected first. Hit Dice that are not sufficient to affect a creature are wasted. Creatures that are rendered helpless or are destroyed when they reach 0 hit points cannot be affected.
 
@@ -640,7 +640,7 @@ Creatures affected by this power believe that they have somehow been brought to 
 
 Any creature that attempts to take a standard action immediately breaks the compulsion and can act normally. A creature that attempts to heal itself or that receives healing is likewise freed of the compulsion, and if it is not actually wounded, the healing is wasted. A creature that takes damage is also instantly freed of the compulsion (although the damage still counts against its actual current hit points).
 
-**Augment:**For every 2 additional power points you spend, this power’s range increases by 5 feet and its save DC increases by 1.
+**Augment:** For every 2 additional power points you spend, this power’s range increases by 5 feet and its save DC increases by 1.
 
 In addition, for every additional power point you spend to increase the range and the save DC, this power can affect targets that have Hit Dice equal to 4 + the number of additional points.
 
@@ -652,23 +652,23 @@ In addition, for every additional power point you spend to increase the range an
 
 Psychoportation
 
-**Level:**Psion/wilder 6
+**Level:** Psion/wilder 6
 
-**Display:**Auditory, material, and visual
+**Display:** Auditory, material, and visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./ level)
+**Range:** Medium (100 ft. + 10 ft./ level)
 
-**Effect:**Ray
+**Effect:** Ray
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Fortitude partial (object)
+**Saving Throw:** Fortitude partial (object)
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**11
+**Power Points:** 11
 
 A thin, green ray springs from your pointing finger. You must make a successful ranged touch attack to hit. Any creature struck by the ray takes 22d6 points of damage. Any creature reduced to 0 or fewer hit points by this power is entirely disintegrated, leaving behind only a trace of fine dust. A disintegrated creature’s equipment is unaffected.
 
@@ -678,7 +678,7 @@ A creature or object that makes a successful Fortitude save is partially affecte
 
 Only the first creature or object struck can be affected; that is, the ray affects only one target per manifestation.
 
-**Augment:**For every additional power point you spend, the damage this power deals to a subject that fails its saving throw increases by 2d6 points. Augmenting this power does not change the amount of damage the target takes if it succeeds on its saving throw.
+**Augment:** For every additional power point you spend, the damage this power deals to a subject that fails its saving throw increases by 2d6 points. Augmenting this power does not change the amount of damage the target takes if it succeeds on its saving throw.
 
 
 
@@ -688,23 +688,23 @@ Only the first creature or object struck can be affected; that is, the ray affec
 
 Psychoportation
 
-**Level:**Nomad 4
+**Level:** Nomad 4
 
-**Display:**Auditory
+**Display:** Auditory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One extraplanar creature
+**Target:** One extraplanar creature
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**7
+**Power Points:** 7
 
 As thedismissalspell, except as noted here.
 
@@ -716,23 +716,23 @@ As thedismissalspell, except as noted here.
 
 Metacreativity
 
-**Level:**Psion/wilder 3
+**Level:** Psion/wilder 3
 
-**Display:**Auditory and visual
+**Display:** Auditory and visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./ level)
+**Range:** Medium (100 ft. + 10 ft./ level)
 
-**Area:**30-ft.-radius burst
+**Area:** 30-ft.-radius burst
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Will negates; see text
+**Saving Throw:** Will negates; see text
 
-**Power Resistance:**No
+**Power Resistance:** No
 
-**Power Points:**5
+**Power Points:** 5
 
 You dismiss creatures, objects, or effects composed of ectoplasm, such as astral constructs or theectoplasmic cocoonpower, or that were formerly composed of ectoplasm, such as items created by metacreativity (creation) powers.
 
@@ -750,23 +750,23 @@ Other ongoing powers that create ectoplasmic objects or effects, such asectoplas
 
 Psychokinesis
 
-**Level:**Psion/wilder 3
+**Level:** Psion/wilder 3
 
-**Display:**Visual
+**Display:** Visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Target or Area:**One manifester, creature, or object; or 20-ft.-radius burst
+**Target or Area:** One manifester, creature, or object; or 20-ft.-radius burst
 
-**Duration:**Instantaneous or 1d4 rounds; see text
+**Duration:** Instantaneous or 1d4 rounds; see text
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**No
+**Power Resistance:** No
 
-**Power Points:**5
+**Power Points:** 5
 
 You can usedispel psionicsto end ongoing powers that have been manifested on a creature or object, to temporarily suppress the psionic abilities of a psionic item, or to end ongoing powers (or at least their effects) within an area. A dispelled power ends as if its duration had expired. Some powers, as detailed in their descriptions, can’t be defeated bydispel psionics,or can be ended only if you manifestdispel psionicsat a high enough manifester level.Dispel psionicscan end spell-like effects just as it does powers.
 
@@ -792,7 +792,7 @@ For each ongoing power whose area overlaps that of thedispel psionicspower, you 
 
 If an object or creature that is the effect of an ongoing power is in the area, you can make a dispel check to end the power that created that object or construct in addition to attempting to dispel powers targeting the creature or object. You can choose to automatically succeed on dispel checks against any power that you have manifested.
 
-**Augment:**For every additional power point you spend, the bonus on your dispel check increases by 2 (to a maximum bonus of +20 for a 5-point expenditure).
+**Augment:** For every additional power point you spend, the bonus on your dispel check increases by 2 (to a maximum bonus of +20 for a 5-point expenditure).
 
 
 
@@ -802,29 +802,29 @@ If an object or creature that is the effect of an ongoing power is in the area, 
 
 Psychokinesis
 
-**Level:**Kineticist 6, psychic warrior 6
+**Level:** Kineticist 6, psychic warrior 6
 
-**Display:**Material and olfactory
+**Display:** Material and olfactory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal or close (25 ft. + 5 ft./2 levels); see text
+**Range:** Personal or close (25 ft. + 5 ft./2 levels); see text
 
-**Target:**You or one willing creature or one object (object weighing up to 100 lb./level); see text
+**Target:** You or one willing creature or one object (object weighing up to 100 lb./level); see text
 
-**Duration:**1 hour/level (D)
+**Duration:** 1 hour/level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**Yes (harmless, object)
+**Power Resistance:** Yes (harmless, object)
 
-**Power Points:**11
+**Power Points:** 11
 
 You create a psychokinetic shield around the subject that improves the chance that any powers affecting the subject will resist adispel psionicspower (or adispel magicspell) or a negation effect that targets a specific power (such asshatter mind blank). Whendispelling bufferis manifested on a creature or object, add +5 to the DC of the dispel check for each ongoing effect that is subject to being dispelled.
 
 Dispel psionicscan negatedispelling buffer, but against a targeted dispel,dispelling bufferis always checked last (with the same +5 bonus). Against an area dispel,dispelling bufferis checked in the order according to its level (with the same +5 bonus).
 
-**Special:**When a psychic warrior manifests this power, the range is personal and the target is the manifester.
+**Special:** When a psychic warrior manifests this power, the range is personal and the target is the manifester.
 
 
 
@@ -834,27 +834,27 @@ Dispel psionicscan negatedispelling buffer, but against a targeted dispel,dispel
 
 Psychoportation (Teleportation)
 
-**Level:**Psion/wilder 1, psychic warrior 1
+**Level:** Psion/wilder 1, psychic warrior 1
 
-**Display:**Auditory and visual
+**Display:** Auditory and visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature or object touched
+**Target:** Creature or object touched
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**Yes (object)
+**Power Resistance:** Yes (object)
 
-**Power Points:**1
+**Power Points:** 1
 
 Your mere touch can disperse the surface material of a foe or object, sending a tiny portion of it far away. This effect is disruptive; thus, your successful melee touch attack deals 1d6 points of damage.
 
-**Augment:**For every additional power point you spend, this power’s damage increases by 1d6 points.
+**Augment:** For every additional power point you spend, this power’s damage increases by 1d6 points.
 
 
 
@@ -864,27 +864,27 @@ Your mere touch can disperse the surface material of a foe or object, sending a 
 
 Psychometabolism [Acid]
 
-**Level:**Psychic warrior 2
+**Level:** Psychic warrior 2
 
-**Display:**Visual
+**Display:** Visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature or object touched
+**Target:** Creature or object touched
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**No
+**Power Resistance:** No
 
-**Power Points:**3
+**Power Points:** 3
 
 Your touch, claw, or bite is corrosive, and sizzling moisture visibly oozes from your natural weapon or hand. You deal 4d6 points of acid damage to any creature or object you touch with your successful melee touch attack. Acid you secrete denatures 1 round after use, losing all efficacy and ability to deal damage. You are immune to your own acid.
 
-**Augment:**For every 2 additional power points you spend, this power’s damage increases by 1d6 points.
+**Augment:** For every 2 additional power points you spend, this power’s damage increases by 1d6 points.
 
 
 
@@ -894,23 +894,23 @@ Your touch, claw, or bite is corrosive, and sizzling moisture visibly oozes from
 
 Psychometabolism [Acid]
 
-**Level:**Psychic warrior 2
+**Level:** Psychic warrior 2
 
-**Display:**Visual
+**Display:** Visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**One held weapon; see text
+**Target:** One held weapon; see text
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**No
+**Power Resistance:** No
 
-**Power Points:**3
+**Power Points:** 3
 
 Asdissolving touch, except your weapon is charged with acid until you make a successful attack.
 
@@ -922,23 +922,23 @@ Asdissolving touch, except your weapon is charged with acid until you make a suc
 
 Telepathy [Mind-Affecting]
 
-**Level:**Psion/wilder 1, psychic warrior 1
+**Level:** Psion/wilder 1, psychic warrior 1
 
-**Display:**Mental
+**Display:** Mental
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One creature
+**Target:** One creature
 
-**Duration:**Concentration, up to 1 min./level (D)
+**Duration:** Concentration, up to 1 min./level (D)
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**1
+**Power Points:** 1
 
 You cause your subject’s mind to wander, distracting her. Subjects under the effect ofdistractmake all Listen, Spot, Search, and Sense Motive checks at a –4 penalty.
 
@@ -950,25 +950,25 @@ You cause your subject’s mind to wander, distracting her. Subjects under the e
 
 Psychoportation (Teleportation)
 
-**Level:**Psion/wilder 7
+**Level:** Psion/wilder 7
 
-**Display:**Visual
+**Display:** Visual
 
-**Manifesting Time:**1 immediate action; see text
+**Manifesting Time:** 1 immediate action; see text
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Area:**A circle, centered on you, with a radius of 50 ft. + 10 ft./level
+**Area:** A circle, centered on you, with a radius of 50 ft. + 10 ft./level
 
-**Effect:**Diverts the teleportation of any object or creature whose weight does not exceed your maximum load
+**Effect:** Diverts the teleportation of any object or creature whose weight does not exceed your maximum load
 
-**Duration:**10 min./level (D)
+**Duration:** 10 min./level (D)
 
-**Saving Throw:**Will negates (foils diversion)
+**Saving Throw:** Will negates (foils diversion)
 
-**Power Resistance:**Yes (foils diversion)
+**Power Resistance:** Yes (foils diversion)
 
-**Power Points:**13
+**Power Points:** 13
 
 Similar todetect teleportation, except that you know the intended destination, and you can divert the final destination of any teleportation attempt made by others within the area. This is an immediate action, like manifesting a quickened power, and counts toward the limit of one quickened power per round. You can manifest this power even if it is not your turn.
 
@@ -984,19 +984,19 @@ For the purpose of this power, “divert” means you choose the actual destinat
 
 Clairsentience
 
-**Level:**Psion/wilder 4
+**Level:** Psion/wilder 4
 
-**Display:**Mental and visual
+**Display:** Mental and visual
 
-**Manifesting Time:**10 minutes
+**Manifesting Time:** 10 minutes
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Power Points:**7
+**Power Points:** 7
 
 As thedivinationspell, except as noted here.
 
@@ -1008,27 +1008,27 @@ As thedivinationspell, except as noted here.
 
 Telepathy (Compulsion) [Mind-Affecting]
 
-**Level:**Telepath 4
+**Level:** Telepath 4
 
-**Display:**Mental
+**Display:** Mental
 
-**Manifesting Time:**1 round
+**Manifesting Time:** 1 round
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Target:**One humanoid
+**Target:** One humanoid
 
-**Duration:**Concentration
+**Duration:** Concentration
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**7
+**Power Points:** 7
 
 As thedominate personspell, except as noted here.
 
-**Augment:**You can augment this power in one or more of the following ways.
+**Augment:** You can augment this power in one or more of the following ways.
 
 1. If you spend 2 additional power points, this power can also affect an animal, fey, giant, magical beast, or monstrous humanoid.
 
@@ -1046,23 +1046,23 @@ In addition, for every 2 additional power points you spend to achieve any of the
 
 Psychoportation
 
-**Level:**Nomad 7
+**Level:** Nomad 7
 
-**Display:**Visual
+**Display:** Visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Targets:**You and touched creature or creatures (up to one/level)
+**Targets:** You and touched creature or creatures (up to one/level)
 
-**Duration:**1 hour/level (D)
+**Duration:** 1 hour/level (D)
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**13
+**Power Points:** 13
 
 You and any creature you touch are drawn along a crystal arc of reverie to the edge of conscious thought and into the region of dreams. You can take more than one creature along with you (subject to your level limit), but each one must be touching another one. You physically enter the land of dreams, leaving nothing behind.
 
@@ -1072,7 +1072,7 @@ Dream travelcan also be used to travel to other planes that contain creatures th
 
 Any creatures that come along whendream travelis manifested also make the transition to the borders of unconscious thought. A creature separated from you wanders off into the dreamscape. When the duration ends, all affected creatures return to the waking world as much as 1,000 miles (d%x10) from their starting point. If a creature remains in the dreamscape, it is powerless to leave unless it can manifest thedream travelpower itself or someone who manifests the power seeks out the lost creature.
 
-**Augment:**For every 2 additional power points you spend, this power’s save DC increases by 1.
+**Augment:** For every 2 additional power points you spend, this power’s save DC increases by 1.
 
 
 
@@ -1082,19 +1082,19 @@ Any creatures that come along whendream travelis manifested also make the transi
 
 Psychometabolism
 
-**Level:**Psychic warrior 3
+**Level:** Psychic warrior 3
 
-**Display:**Material
+**Display:** Material
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**10 min./level
+**Duration:** 10 min./level
 
-**Power Points:**5
+**Power Points:** 5
 
 If you have a claw attack (either from an actual natural weapon or from an effect such asclaws of the beast), you can use this power to improve that weapon. One of your claws becomes two-dimensional, making it razorsharp. The weapon is now psionically keen, increasing its threat range from 20 to 19–20. This benefit does not stack with other effects that improve a weapon’s threat range.
 
@@ -1108,27 +1108,27 @@ The third spatial component of your hand still exists but is temporarily shunted
 
 Metacreativity
 
-**Level:**Psion/wilder 1
+**Level:** Psion/wilder 1
 
-**Display:**Visual; see text
+**Display:** Visual; see text
 
-**Manifesting Time:**1 standard action; see text
+**Manifesting Time:** 1 standard action; see text
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**An astral construct you manifest
+**Target:** An astral construct you manifest
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**No
+**Power Resistance:** No
 
-**Power Points:**1
+**Power Points:** 1
 
 This power reinforces an astral construct created by theastral constructpower, giving you a +1 bonus on any manifester level checks you make to protect it againstdispel psionicsor a similar effect, and a +1 bonus on its saving throw to resistdismiss ectoplasm.This power can be manifested as a swift action in the same round that you manifest an astral construct, as long as the power points you spend to perform both actions does not exceed your manifester level.
 
-**Augment:**For every 2 additional power points you spend, your bonus on manifester level checks to protect your astral construct increases by 1, and your astral construct’s bonus on its saving throw to resistdismiss ectoplasmincreases by 1.
+**Augment:** For every 2 additional power points you spend, your bonus on manifester level checks to protect your astral construct increases by 1, and your astral construct’s bonus on its saving throw to resistdismiss ectoplasmincreases by 1.
 
 
 
@@ -1138,23 +1138,23 @@ This power reinforces an astral construct created by theastral constructpower, g
 
 Metacreativity
 
-**Level:**Shaper 3
+**Level:** Shaper 3
 
-**Display:**Auditory and material
+**Display:** Auditory and material
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./ level)
+**Range:** Medium (100 ft. + 10 ft./ level)
 
-**Target:**One Medium or smaller creature
+**Target:** One Medium or smaller creature
 
-**Duration:**1 round/level (D)
+**Duration:** 1 round/level (D)
 
-**Saving Throw:**Reflex negates
+**Saving Throw:** Reflex negates
 
-**Power Resistance:**No
+**Power Resistance:** No
 
-**Power Points:**5
+**Power Points:** 5
 
 You draw writhing strands of ectoplasm from the Astral Plane that wrap up the subject like a mummy. The subject can still breathe but is otherwise helpless, unable to see outside the cocoon, speak, or take any physical actions. The subject’s nostrils are clear (air passes through the cocoon normally). The subject can execute purely mental actions (such as manifesting powers or casting spells with no verbal, somatic, or material components).
 
@@ -1164,7 +1164,7 @@ The creature within the cocoon is visible only as a vague shape (substantial eno
 
 A creature that is cocooned while aloft begins to fall immediately, and a creature that is cocooned while swimming or underwater may drown.
 
-**Augment:**You can augment this power in one or both of the following ways.
+**Augment:** You can augment this power in one or both of the following ways.
 
 1. For every 2 additional power points you spend, this power’s save DC increases by 1.
 
@@ -1178,23 +1178,23 @@ A creature that is cocooned while aloft begins to fall immediately, and a creatu
 
 Metacreativity
 
-**Level:**Shaper 7
+**Level:** Shaper 7
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Area:**20-ft.-radius burst
+**Area:** 20-ft.-radius burst
 
-**Duration:**1 hour/level (D)
+**Duration:** 1 hour/level (D)
 
-**Saving Throw:**Reflex negates
+**Saving Throw:** Reflex negates
 
-**Power Resistance:**No
+**Power Resistance:** No
 
-**Power Points:**13
+**Power Points:** 13
 
 Asectoplasmic cocoon, except you can cocoon several creatures (or a single big creature that fits in a 20-footradius sphere or hemisphere) in a mass of writhing ectoplasm. Targets entirely within the area who fail their save are caught and cocooned. If a creature’s body is only partially within the area, this power does not affect that creature.
 
-**Augment:**For every 2 additional power points you spend, the radius of this power’s area increases by 5 feet.
+**Augment:** For every 2 additional power points you spend, the radius of this power’s area increases by 5 feet.
 
 
 
@@ -1204,19 +1204,19 @@ Asectoplasmic cocoon, except you can cocoon several creatures (or a single big c
 
 Psychometabolism
 
-**Level:**Egoist 3, psychic warrior 3
+**Level:** Egoist 3, psychic warrior 3
 
-**Display:**Olfactory
+**Display:** Olfactory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 min./level (D)
+**Duration:** 1 min./level (D)
 
-**Power Points:**5
+**Power Points:** 5
 
 You and all your gear become a partially translucent mass of rippling ectoplasm that generally conforms to your normal shape. You gain damage reduction 10/psionics, and you gain immunity to poison and critical hits. Your material armor (includinginertial armor) becomes meaningless, although your size, Dexterity, deflection bonuses, and armor bonuses from force effects (such as those gained byinertial armor) still apply to your Armor Class.
 
@@ -1232,23 +1232,23 @@ You cannot physically attack, you lose supernatural abilities (if any), and you 
 
 Metacreativity (Creation)
 
-**Level:**Psion/wilder 5
+**Level:** Psion/wilder 5
 
-**Display:**Auditory, material, and olfactory; see text
+**Display:** Auditory, material, and olfactory; see text
 
-**Manifesting Time:**1 round
+**Manifesting Time:** 1 round
 
-**Range:**Long (400 ft. + 40 ft./level)
+**Range:** Long (400 ft. + 40 ft./level)
 
-**Effect:**One ectoplasmic manifestation of a size equal to ten 10-ft. cubes (S)
+**Effect:** One ectoplasmic manifestation of a size equal to ten 10-ft. cubes (S)
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**No
+**Power Resistance:** No
 
-**Power Points:**9
+**Power Points:** 9
 
 You fashion an ephemeral, manylegged mass of pseudo-living ectoplasm called an ectoplasmic shambler. You can direct the shambler as a free action. It has a speed of 10 feet. It can completely surround objects (and opponents) over which it is manifested or onto which it moves, because it has the consistency of thick mist. The vision of those within the shambler is limited to 5 feet, and manifesting powers (or casting spells) within the shambler is difficult due to the constant turbulence felt by those caught in the shambler’s form.
 
@@ -1264,27 +1264,27 @@ A wind stronger than 20 miles per hour that blows against the shambler reduces i
 
 Telepathy [Mind-Affecting]
 
-**Level:**Psion/wilder 2
+**Level:** Psion/wilder 2
 
-**Display:**Auditory
+**Display:** Auditory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Medium (100 ft. +10 ft./level)
+**Range:** Medium (100 ft. +10 ft./level)
 
-**Target:**One creature
+**Target:** One creature
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Will half; see text
+**Saving Throw:** Will half; see text
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**3
+**Power Points:** 3
 
 Your rapid mental lashings assault the ego of your enemy, debilitating its confidence. The target takes 1d4 points of Charisma damage, or half that amount (minimum 1 point) on a successful save. A target that fails its save is also dazed for 1 round.
 
-**Augment:**For every 4 additional power points you spend, this power’s Charisma damage increases by 1d4 points and its save DC increases by 2.
+**Augment:** For every 4 additional power points you spend, this power’s Charisma damage increases by 1d4 points and its save DC increases by 2.
 
 
 
@@ -1294,19 +1294,19 @@ Your rapid mental lashings assault the ego of your enemy, debilitating its confi
 
 Psychometabolism
 
-**Level:**Psion/wilder 2, psychic warrior 1
+**Level:** Psion/wilder 2, psychic warrior 1
 
-**Display:**Visual
+**Display:** Visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 hour/level
+**Duration:** 1 hour/level
 
-**Power Points:**Psion/wilder 3, psychic warrior 1
+**Power Points:** Psion/wilder 3, psychic warrior 1
 
 You gain low-light vision (as an elf ) for the duration of the power, as well as a +2 bonus on Search and Spot checks.
 
@@ -1322,23 +1322,23 @@ Ifelfsightis used in conjunction withmy light, the cone of light extends out to 
 
 Telepathy [Mind-Affecting]
 
-**Level:**Psion/wilder 4, psychic warrior 3
+**Level:** Psion/wilder 4, psychic warrior 3
 
-**Display:**Auditory and material
+**Display:** Auditory and material
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**10 min./level
+**Duration:** 10 min./level
 
-**Power Points:**Psion/wilder 7, psychic warrior 5
+**Power Points:** Psion/wilder 7, psychic warrior 5
 
 You empathically share your pain and suffering with your attacker. Each time a creature strikes you in melee, it takes damage equal to the amount it dealt to you or 5 points, whichever is less. This damage is empathic in nature, so powers and abilities the attacker may have such as damage reduction and regeneration do not lessen or change this damage. The damage fromempathic feedbackhas no type, so even if you took fire damage from a creature that has immunity to fire,empathic feedbackwill damage your attacker.
 
-**Augment:**For every additional power point you spend, this power’s damage potential increases by 1 point.
+**Augment:** For every additional power point you spend, this power’s damage potential increases by 1 point.
 
 
 
@@ -1348,19 +1348,19 @@ You empathically share your pain and suffering with your attacker. Each time a c
 
 Psychometabolism
 
-**Level:**Egoist 2, psychic warrior 2
+**Level:** Egoist 2, psychic warrior 2
 
-**Display:**Auditory and material
+**Display:** Auditory and material
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Willing creature touched
+**Target:** Willing creature touched
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Power Points:**3
+**Power Points:** 3
 
 You heal another creature’s wounds, transferring some of its damage to yourself. When you manifest this power, you can heal as much as 2d10 points of damage. The target regains a number of hit points equal to the dice result, and you lose hit points equal to half of that amount. (This loss can bring you to 0 or fewer hit points.) Powers and abilities you may have such as damage reduction and regeneration do not lessen or change this damage, since you are taking the target’s pain into yourself in an empathic manner. The damage transferred by this power has no type, so even if you have immunity to the type of damage the target originally took, the transfer occurs normally and deals hit point damage to you.
 
@@ -1368,7 +1368,7 @@ Alternatively, you can use this power to absorb one poison or one disease afflic
 
 Finally, you can use this power to transfer up to 1 point of ability damage per manifester level from the target to yourself.
 
-**Augment:**For every additional power point you spend, you can heal an additional 2d10 points of damage (to a maximum of 10d10 points per manifestation).
+**Augment:** For every additional power point you spend, you can heal an additional 2d10 points of damage (to a maximum of 10d10 points per manifestation).
 
 
 
@@ -1378,23 +1378,23 @@ Finally, you can use this power to transfer up to 1 point of ability damage per 
 
 Telepathy [Mind-Affecting]
 
-**Level:**Telepath 3, psychic warrior 3
+**Level:** Telepath 3, psychic warrior 3
 
-**Display:**Auditory and material
+**Display:** Auditory and material
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Will half
+**Saving Throw:** Will half
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**5
+**Power Points:** 5
 
 You transfer your hurt to another. When you manifest this power and then make a successful touch attack, you can transfer 50 points of damage (or less, if you choose) from yourself to the touched creature. You immediately regain hit points equal to the amount of damage you transfer.
 
@@ -1402,7 +1402,7 @@ You cannot use this power to gain hit points in excess of your full normal total
 
 The damage transferred by this power has no type, so even if the subject has immunity to the type of damage you originally took, the transfer occurs normally and deals hit point damage to the subject.
 
-**Augment:**You can augment this power in one or both of the following ways.
+**Augment:** You can augment this power in one or both of the following ways.
 
 1. For every additional power point you spend, you can transfer an additional 10 points of damage (maximum 90 points per manifestation).
 
@@ -1416,29 +1416,29 @@ The damage transferred by this power has no type, so even if the subject has imm
 
 Telepathy [Mind-Affecting]
 
-**Level:**Psion/wilder 1
+**Level:** Psion/wilder 1
 
-**Display:**Mental
+**Display:** Mental
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**30 ft.
+**Range:** 30 ft.
 
-**Area:**30-ft.-radius spread centered on you
+**Area:** 30-ft.-radius spread centered on you
 
-**Duration:**Concentration, up to 1 min./level (D)
+**Duration:** Concentration, up to 1 min./level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**No
+**Power Resistance:** No
 
-**Power Points:**1
+**Power Points:** 1
 
 You detect the surface emotions of any creature you can see that is in the power’s area. You can sense basic needs, drives, and emotions. Thirst, hunger, fear, fatigue, pain, rage, hatred, uncertainty, curiosity, friendliness, and many other kinds of sensations and moods can all be perceived.
 
 You gain a +2 insight bonus on any Bluff, Diplomacy, Intimidate, or Sense Motive checks that you make in the round when you cease concentrating on this power.
 
-**Augment:**You can augment this power in one or both of the following ways.
+**Augment:** You can augment this power in one or both of the following ways.
 
 1. For every additional power point you spend, this power’s range and the radius of its area increases by 5 feet.
 
@@ -1452,25 +1452,25 @@ You gain a +2 insight bonus on any Bluff, Diplomacy, Intimidate, or Sense Motive
 
 Telepathy [Mind-Affecting]
 
-**Level:**Psion/wilder 1, psychic warrior 1
+**Level:** Psion/wilder 1, psychic warrior 1
 
-**Display:**Auditory
+**Display:** Auditory
 
-**Manifesting Time:**1 immediate action
+**Manifesting Time:** 1 immediate action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 round
+**Duration:** 1 round
 
-**Power Points:**1
+**Power Points:** 1
 
 You empty your mind of all transitory and distracting thoughts, improving your self-control. You gain a +2 bonus on all Will saves until your next action.
 
 You can manifest this power instantly, quickly enough to gain its benefit in an emergency. Manifesting this power is an immediate action, like manifesting a quickened power, and it counts toward the normal limit of one quickened power per round. You can use this power even when it is not your turn.
 
-**Augment:**For every 2 additional power points you spend, the bonus on your Will saves increases by 1.
+**Augment:** For every 2 additional power points you spend, the bonus on your Will saves increases by 1.
 
 
 
@@ -1480,19 +1480,19 @@ You can manifest this power instantly, quickly enough to gain its benefit in an 
 
 Psychometabolism [see text]
 
-**Level:**Psion/wilder 4, psychic warrior 4
+**Level:** Psion/wilder 4, psychic warrior 4
 
-**Display:**Visual; see text
+**Display:** Visual; see text
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**10 min./level
+**Duration:** 10 min./level
 
-**Power Points:**7
+**Power Points:** 7
 
 Your body assimilates some of the effect of an energy attack and converts it to harmless light. You gain resistance 10 against any attack that deals acid, cold, electricity, fire, or sonic damage.
 
@@ -1504,7 +1504,7 @@ The resistance provided by this power does not stack with other forms of energy 
 
 This power’s subtype is the same as the type of damage it protects against.
 
-**Augment:**If you spend 4 additional power points, you can manifest this power as an immediate action.
+**Augment:** If you spend 4 additional power points, you can manifest this power as an immediate action.
 
 
 
@@ -1514,15 +1514,15 @@ This power’s subtype is the same as the type of damage it protects against.
 
 Psychometabolism [see text]
 
-**Level:**Psion/wilder 2, psychic warrior 2
+**Level:** Psion/wilder 2, psychic warrior 2
 
-**Power Points:**3
+**Power Points:** 3
 
 Asenergy adaptation,except you must choose one type of energy to which you gain resistance when this power is manifested.
 
 This power’s subtype is the same as the type of damage it protects against.
 
-**Augment:**If you spend 4 additional power points, you can manifest this power as an immediate action.
+**Augment:** If you spend 4 additional power points, you can manifest this power as an immediate action.
 
 
 
@@ -1532,23 +1532,23 @@ This power’s subtype is the same as the type of damage it protects against.
 
 Psychokinesis [see text]
 
-**Level:**Kineticist 4
+**Level:** Kineticist 4
 
-**Display:**Auditory
+**Display:** Auditory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Long (400 ft. + 40 ft./level)
+**Range:** Long (400 ft. + 40 ft./level)
 
-**Area:**20-ft.-radius spread
+**Area:** 20-ft.-radius spread
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Reflex half or Fortitude half; see text
+**Saving Throw:** Reflex half or Fortitude half; see text
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**7
+**Power Points:** 7
 
 Upon manifesting this power, you choose cold, electricity, fire, or sonic. You create an explosion of energy of the chosen type that deals 7d6 points of damage to every creature or object within the area. The explosion creates almost no pressure.
 
@@ -1562,7 +1562,7 @@ Sonic:A ball of this energy type deals –1 point of damage per die and ignores 
 
 This power’s subtype is the same as the type of energy you manifest.
 
-**Augment:**For every additional power point you spend, this power’s damage increases by one die (d6). For each extra two dice of damage, this power’s save DC increases by 1.
+**Augment:** For every additional power point you spend, this power’s damage increases by one die (d6). For each extra two dice of damage, this power’s save DC increases by 1.
 
 
 
@@ -1572,23 +1572,23 @@ This power’s subtype is the same as the type of energy you manifest.
 
 Psychokinesis [see text]
 
-**Level:**Psion/wilder 3
+**Level:** Psion/wilder 3
 
-**Display:**Auditory
+**Display:** Auditory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**120 ft.
+**Range:** 120 ft.
 
-**Area:**120-ft. line
+**Area:** 120-ft. line
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Reflex half or Fortitude half; see text
+**Saving Throw:** Reflex half or Fortitude half; see text
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**5
+**Power Points:** 5
 
 Upon manifesting this power, you choose cold, electricity, fire, or sonic. You release a powerful stroke of energy of the chosen type that deals 5d6 points of damage to every creature or object within the area. The beam begins at your fingertips.
 
@@ -1602,7 +1602,7 @@ Sonic:A bolt of this energy type deals –1 point of damage per die and ignores 
 
 This power’s subtype is the same as the type of energy you manifest.
 
-**Augment:**For every additional power point you spend, this power’s damage increases by one die (d6). For each extra two dice of damage, this power’s save DC increases by 1.
+**Augment:** For every additional power point you spend, this power’s damage increases by one die (d6). For each extra two dice of damage, this power’s save DC increases by 1.
 
 
 
@@ -1612,23 +1612,23 @@ This power’s subtype is the same as the type of energy you manifest.
 
 Psychokinesis [see text]
 
-**Level:**Psion/wilder 3
+**Level:** Psion/wilder 3
 
-**Display:**Auditory
+**Display:** Auditory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**40 ft.
+**Range:** 40 ft.
 
-**Area:**40-ft-radius burst centered on you
+**Area:** 40-ft-radius burst centered on you
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Reflex half or Fortitude half; see text
+**Saving Throw:** Reflex half or Fortitude half; see text
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**5
+**Power Points:** 5
 
 Upon manifesting this power, you choose cold, electricity, fire, or sonic. You create an explosion of unstable ectoplasmic energy of the chosen type that deals 5d6 points of damage to every creature or object within the area. The explosion creates almost no pressure. Since this power extends outward from you, you are not affected by the damage.
 
@@ -1642,7 +1642,7 @@ Sonic:A burst of this energy type deals –1 point of damage per die and ignores
 
 This power’s subtype is the same as the type of energy you manifest.
 
-**Augment:**For every additional power point you spend, this power’s damage increases by one die (d6). For each extra two dice of damage, this power’s save DC increases by 1.
+**Augment:** For every additional power point you spend, this power’s damage increases by one die (d6). For each extra two dice of damage, this power’s save DC increases by 1.
 
 
 
@@ -1652,23 +1652,23 @@ This power’s subtype is the same as the type of energy you manifest.
 
 Psychokinesis [see text]
 
-**Level:**Kineticist 3
+**Level:** Kineticist 3
 
-**Display:**Auditory
+**Display:** Auditory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**60 ft.
+**Range:** 60 ft.
 
-**Area:**Cone-shaped spread
+**Area:** Cone-shaped spread
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Reflex half or Fortitude half; see text
+**Saving Throw:** Reflex half or Fortitude half; see text
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**5
+**Power Points:** 5
 
 Upon manifesting this power, you choose cold, electricity, fire, or sonic. You create a cone of energy of the chosen type, extending outward from your hand, that deals 5d6 points of damage to every creature or object within the area.
 
@@ -1682,7 +1682,7 @@ Sonic:A cone of this energy type deals –1 point of damage per die and ignores 
 
 This power’s subtype is the same as the type of energy you manifest.
 
-**Augment:**For every additional power point you spend, this power’s damage increases by one die (d6). For each extra two dice of damage, this power’s save DC increases by 1.
+**Augment:** For every additional power point you spend, this power’s damage increases by one die (d6). For each extra two dice of damage, this power’s save DC increases by 1.
 
 
 
@@ -1692,23 +1692,23 @@ This power’s subtype is the same as the type of energy you manifest.
 
 Psychometabolism [see text]
 
-**Level:**Psion/wilder 7
+**Level:** Psion/wilder 7
 
-**Display:**Mental
+**Display:** Mental
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal and close (25 ft. + 5 ft./2 levels); see text
+**Range:** Personal and close (25 ft. + 5 ft./2 levels); see text
 
-**Effect:**Ray; see text
+**Effect:** Ray; see text
 
-**Duration:**10 min./level
+**Duration:** 10 min./level
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**13
+**Power Points:** 13
 
 Asenergy adaptation, except that instead of radiating away energy as light, you store up the energy and can later discharge it as a ray. To discharge a ray requires a standard action. You can choose to fire any number of rays during the power’s duration. The ray you fire must be of one of the energy types you have stored (if you have stored more than one type, you can choose what kind of energy to use for each ray). If a ray successfully strikes its target (requiring a ranged touch attack), the target takes damage equal to the amount of energy damage of that type you have stored, up to a maximum of three times your manifester level. As long as this power remains in effect, you can continue to absorb energy damage and fire additional rays using the stored damage.
 
@@ -1722,23 +1722,23 @@ This power’s subtype is the same as the type of energy you discharge in a ray;
 
 Psychokinesis [see text]
 
-**Level:**Kineticist 5
+**Level:** Kineticist 5
 
-**Display:**Visual; see text
+**Display:** Visual; see text
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**Any two creatures no more than 15 ft. apart
+**Target:** Any two creatures no more than 15 ft. apart
 
-**Duration:**Concentration, up to 1 round/level
+**Duration:** Concentration, up to 1 round/level
 
-**Saving Throw:**Reflex half or Fortitude half; see text
+**Saving Throw:** Reflex half or Fortitude half; see text
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**9
+**Power Points:** 9
 
 Upon manifesting this power, you choose cold, electricity, fire, or sonic. Your body’s psionically fueled bioenergetic currents produce an arc of energy of the chosen type that targets a creature you designate as the primary foe for 9d6 points of damage in every round when the power remains in effect. Energy also arcs off the primary foe to strike one additional foe that is initially within 15 feet of the primary foe, or that subsequently moves within 15 feet of the primary foe while the duration lasts. Secondary foes take half the damage that the primary foe takes in every round while the duration lasts.
 
@@ -1756,7 +1756,7 @@ Sonic:A current of this energy type deals –1 point of damage per die and ignor
 
 This power’s subtype is the same as the type of energy you manifest.
 
-**Augment:**You can augment this power in one or both of the following ways.
+**Augment:** You can augment this power in one or both of the following ways.
 
 1. For every additional power point you spend, this power’s damage increases by one die (d6). For each extra two dice of damage, this power’s save DC increases by 1.
 
@@ -1770,23 +1770,23 @@ This power’s subtype is the same as the type of energy you manifest.
 
 Psychokinesis [see text]
 
-**Level:**Kineticist 2
+**Level:** Kineticist 2
 
-**Display:**Auditory
+**Display:** Auditory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./ level)
+**Range:** Medium (100 ft. + 10 ft./ level)
 
-**Targets:**Up to five creatures or objects; no two targets can be more than 15 ft. apart.
+**Targets:** Up to five creatures or objects; no two targets can be more than 15 ft. apart.
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Reflex half or Fortitude half; see text
+**Saving Throw:** Reflex half or Fortitude half; see text
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**3
+**Power Points:** 3
 
 Upon manifesting this power, you choose cold, electricity, fire, or sonic. You release a powerful missile of energy of the chosen type at your foe. The missile deals 3d6 points of damage to each creature or object you target, to the maximum of five targets. You cannot hit the same target multiple times with the same manifestation of this power.
 
@@ -1800,7 +1800,7 @@ Sonic:A missile of this energy type deals –1 point of damage per die and ignor
 
 This power’s subtype is the same as the type of energy you manifest.
 
-**Augment:**For every additional power point you spend, this power’s damage increases by one die (d6) and its save DC increases by 1.
+**Augment:** For every additional power point you spend, this power’s damage increases by one die (d6) and its save DC increases by 1.
 
 
 
@@ -1810,23 +1810,23 @@ This power’s subtype is the same as the type of energy you manifest.
 
 Psychokinetic [see text]
 
-**Level:**Psion/wilder 2
+**Level:** Psion/wilder 2
 
-**Display:**Auditory and visual
+**Display:** Auditory and visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./ level)
+**Range:** Medium (100 ft. + 10 ft./ level)
 
-**Effect:**Ray
+**Effect:** Ray
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Reflex half or Fortitude half; see text
+**Saving Throw:** Reflex half or Fortitude half; see text
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**3
+**Power Points:** 3
 
 Upon manifesting this power, you choose cold, electricity, fire, or sonic. You project a solid blast of energy of the chosen type at a target, dealing it 2d6 points of damage. In addition, if a subject of up to one size category larger than you fails a Strength check (DC equal to the save DC of this power), the driving force of the energy blast pushes it back 5 feet plus another 5 feet for every 5 points of damage it takes. If a wall or other solid object prevents the subject from being pushed back, the subject instead slams into the object and takes an extra 2d6 points of damage from the impact (no save). The movement caused byenergy pushdoes not provoke attacks of opportunity.
 
@@ -1840,7 +1840,7 @@ Sonic:A blast of this energy type deals –1 point of damage per die (damage fro
 
 This power’s subtype is the same as the type of energy you manifest.
 
-**Augment:**For every 2 additional power points you spend, this power’s damage increases by one die (d6) and its save DC increases by 1. The damage increase applies to both the initial blast and any damage from impact with an object.
+**Augment:** For every 2 additional power points you spend, this power’s damage increases by one die (d6) and its save DC increases by 1. The damage increase applies to both the initial blast and any damage from impact with an object.
 
 
 
@@ -1850,23 +1850,23 @@ This power’s subtype is the same as the type of energy you manifest.
 
 Psychokinesis [see text]
 
-**Level:**Psion/wilder 1
+**Level:** Psion/wilder 1
 
-**Display:**Auditory
+**Display:** Auditory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Effect:**Ray
+**Effect:** Ray
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**1
+**Power Points:** 1
 
 Upon manifesting this power, you choose cold, electricity, fire, or sonic. You create a ray of energy of the chosen type that shoots forth from your fingertip and strikes a target within range, dealing 1d6 points of damage, if you succeed on a ranged touch attack with the ray.
 
@@ -1880,7 +1880,7 @@ Sonic:A ray of this energy type deals –1 point of damage per die and ignores a
 
 This power’s subtype is the same as the type of energy you manifest.
 
-**Augment:**For every additional power point you spend, this power’s damage increases by one die (d6).
+**Augment:** For every additional power point you spend, this power’s damage increases by one die (d6).
 
 
 
@@ -1890,23 +1890,23 @@ This power’s subtype is the same as the type of energy you manifest.
 
 Psychokinesis [see text]
 
-**Level:**Psion/wilder 3
+**Level:** Psion/wilder 3
 
-**Display:**Visual
+**Display:** Visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal and close (25 ft. + 5 ft./2 levels); see text
+**Range:** Personal and close (25 ft. + 5 ft./2 levels); see text
 
-**Targets:**You and creature or object attacking you; see text
+**Targets:** You and creature or object attacking you; see text
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**Reflex half or Fortitude half; see text
+**Saving Throw:** Reflex half or Fortitude half; see text
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**5
+**Power Points:** 5
 
 Upon manifesting this power, you choose cold, electricity, fire, or sonic. You weave a field of potential energy of the chosen type around your body. The first successful attack made against you in each round during the power’s duration prompts a response from the field with out any effort on your part. The attack may be physical, the effect of a power, or the effect of a spell (including spell-like, supernatural, and extraordinary abilities). An “ectoburst” discharges from the field, targeting the source of the attack and dealing 4d6 points of damage of the chosen energy type. To be affected, a target must be within close range, you must have line of sight and line of effect to it, and you must be able to identify the source of the attack. The ectoburst is a ranged touch attack made using your base attack bonus plus your key ability modifier for your manifesting class.
 
@@ -1920,7 +1920,7 @@ Sonic:A field of this energy type deals –1 point of damage per die and ignores
 
 This power’s subtype is the same as the type of energy you manifest.
 
-**Augment:**For every additional power point you spend, this power’s duration increases by 1 minute.
+**Augment:** For every additional power point you spend, this power’s duration increases by 1 minute.
 
 
 
@@ -1930,23 +1930,23 @@ This power’s subtype is the same as the type of energy you manifest.
 
 Psychokinesis [see text]
 
-**Level:**Psion/wilder 2
+**Level:** Psion/wilder 2
 
-**Display:**Auditory
+**Display:** Auditory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Area:**5-ft.-radius burst
+**Area:** 5-ft.-radius burst
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Reflex half or Fortitude half; see text
+**Saving Throw:** Reflex half or Fortitude half; see text
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**3
+**Power Points:** 3
 
 Upon manifesting this power, you choose cold, electricity, fire, or sonic. You release a powerful stroke of the chosen energy type that encircles all creatures in the area, dealing 1d6 points of damage to each of them. In addition, any creature that fails its save for half damage must succeed on a Will save or be stunned for 1 round.
 
@@ -1960,7 +1960,7 @@ Sonic:A stroke of this energy type deals –1 point of damage per die and ignore
 
 This power’s subtype is the same as the type of energy you manifest.
 
-**Augment:**For every additional power point you spend, this power’s damage increases by one die (d6) and its save DC increases by 1.
+**Augment:** For every additional power point you spend, this power’s damage increases by one die (d6) and its save DC increases by 1.
 
 
 
@@ -1970,23 +1970,23 @@ This power’s subtype is the same as the type of energy you manifest.
 
 Metacreativity (Creation) [see text]
 
-**Level:**Psion/wilder 3
+**Level:** Psion/wilder 3
 
-**Display:**Auditory
+**Display:** Auditory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./ level)
+**Range:** Medium (100 ft. + 10 ft./ level)
 
-**Area:**An opaque sheet of energy up to 20 ft. long/level or a ring of energy with a radius of up to 5 ft./2 levels
+**Area:** An opaque sheet of energy up to 20 ft. long/level or a ring of energy with a radius of up to 5 ft./2 levels
 
-**Duration:**Concentration + 1 round/ level
+**Duration:** Concentration + 1 round/ level
 
-**Saving Throw:**Reflex half or Fortitude half; see text
+**Saving Throw:** Reflex half or Fortitude half; see text
 
-**Power Resistance:**No
+**Power Resistance:** No
 
-**Power Points:**5
+**Power Points:** 5
 
 Upon manifesting this power, you choose cold, electricity, fire, or sonic. You create an immobile sheet of energy of the chosen type formed out of unstable ectoplasm. One side of the wall, selected by you, sends forth waves of energy, dealing 2d6 points of damage to creatures and objects within 10 feet and 1d6 points of damage to those beyond 10 feet but within 20 feet. In addition, anyone passing though theenergy walltakes 2d6 points of damage +1 point per manifester level (maximum +20).
 
@@ -2012,23 +2012,23 @@ This power’s subtype is the same as the type of energy you manifest.
 
 Psychokinesis [see text]
 
-**Level:**Psion/wilder 7
+**Level:** Psion/wilder 7
 
-**Display:**Auditory
+**Display:** Auditory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**120 ft.
+**Range:** 120 ft.
 
-**Area:**Cone-shaped spread
+**Area:** Cone-shaped spread
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Reflex half or Fortitude half; see text
+**Saving Throw:** Reflex half or Fortitude half; see text
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**13
+**Power Points:** 13
 
 Upon manifesting this power, you choose cold, electricity, fire, or sonic. You create a flood of energy of the chosen type out of unstable ectoplasm that deals 13d6 points of damage to each creature and object in the area. This power originates at your hand and extends outward in a cone.
 
@@ -2042,7 +2042,7 @@ Sonic:A wave of this energy type deals –1 point of damage per die and ignores 
 
 This power’s subtype is the same as the type of energy you manifest.
 
-**Augment:**For every additional power point you spend, this power’s damage increases by one die (d6). For each extra two dice of damage, this power’s save DC increases by 1.
+**Augment:** For every additional power point you spend, this power’s damage increases by one die (d6). For each extra two dice of damage, this power’s save DC increases by 1.
 
 
 
@@ -2052,27 +2052,27 @@ This power’s subtype is the same as the type of energy you manifest.
 
 Metacreativity (Creation)
 
-**Level:**Psion/wilder 1
+**Level:** Psion/wilder 1
 
-**Display:**Material and visual
+**Display:** Material and visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One Medium or smaller creature
+**Target:** One Medium or smaller creature
 
-**Duration:**5 rounds
+**Duration:** 5 rounds
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**No
+**Power Resistance:** No
 
-**Power Points:**1
+**Power Points:** 1
 
 You draw forth a glob of ectoplasmic goo from the Astral Plane and immediately throw it as a ranged touch attack at any creature in range. On a successful hit, the subject is covered in goo and becomes entangled. The goo evaporates at the end of the power’s duration.
 
-**Augment:**For every 2 additional power points you spend, this power can affect a target one size category larger.
+**Augment:** For every 2 additional power points you spend, this power can affect a target one size category larger.
 
 
 
@@ -2082,29 +2082,29 @@ You draw forth a glob of ectoplasmic goo from the Astral Plane and immediately t
 
 Psychokinesis
 
-**Level:**Psion/wilder 3
+**Level:** Psion/wilder 3
 
-**Display:**Visual
+**Display:** Visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**50 ft.
+**Range:** 50 ft.
 
-**Targets:**You and all invisible creatures and objects in a 50-ft.-radius burst centered on you
+**Targets:** You and all invisible creatures and objects in a 50-ft.-radius burst centered on you
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Reflex negates
+**Saving Throw:** Reflex negates
 
-**Power Resistance:**No
+**Power Resistance:** No
 
-**Power Points:**5
+**Power Points:** 5
 
 You radiate a psychokinetic burst that disrupts and negates all types of invisibility (though this power can’t negate the effect ofcloud mind). Any creature that fails its save to avoid the effect loses its invisibility.
 
 Creatures that are naturally invisible, such as an invisible stalker, are revealed as a dim outline for 1 round (until the beginning of your next turn) and do not have total concealment during this period.
 
-**Augment:**For every additional power point you spend, this power’s range and the radius of the burst in which it functions both increase by 5 feet.
+**Augment:** For every additional power point you spend, this power’s range and the radius of the burst in which it functions both increase by 5 feet.
 
 
 
@@ -2114,19 +2114,19 @@ Creatures that are naturally invisible, such as an invisible stalker, are reveal
 
 Clairsentience
 
-**Level:**Psychic warrior 3, seer 3
+**Level:** Psychic warrior 3, seer 3
 
-**Display:**None
+**Display:** None
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 hour/level
+**Duration:** 1 hour/level
 
-**Power Points:**5
+**Power Points:** 5
 
 You (plus all your gear and any objects you carry) become difficult to detect by clairsentience powers such asclairvoyant sense,remote viewing, andpsionic true seeing. If a clairsentience power or similar effect is attempted against you, the manifester of the power must succeed on a manifester level check (1d20 + manifester level, or caster level if the opponent is not a manifester) against a DC of 13 + your manifester level (maximum +10).
 
@@ -2138,19 +2138,19 @@ You (plus all your gear and any objects you carry) become difficult to detect by
 
 Psychoportation
 
-**Level:**Nomad 7
+**Level:** Nomad 7
 
-**Display:**Visual
+**Display:** Visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 round/level (D)
+**Duration:** 1 round/level (D)
 
-**Power Points:**13
+**Power Points:** 13
 
 As theethereal jauntspell, except as noted here.
 
@@ -2162,21 +2162,21 @@ As theethereal jauntspell, except as noted here.
 
 Psychoportation
 
-**Level:**Psion/wilder 9
+**Level:** Psion/wilder 9
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Targets:**You and one other touched willing creature/three levels; all targets must be joined by linked hands
+**Targets:** You and one other touched willing creature/three levels; all targets must be joined by linked hands
 
-**Duration:**1 min./level (D)
+**Duration:** 1 min./level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**Yes (harmless)
+**Power Resistance:** Yes (harmless)
 
-**Power Points:**17
+**Power Points:** 17
 
 As theetherealnessspell, except as noted here.
 
@@ -2188,25 +2188,25 @@ As theetherealnessspell, except as noted here.
 
 Psychometabolism
 
-**Level:**Psion/wilder 7, psychic warrior 3
+**Level:** Psion/wilder 7, psychic warrior 3
 
-**Display:**Material
+**Display:** Material
 
-**Manifesting Time:**1 immediate action
+**Manifesting Time:** 1 immediate action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Power Points:**Psion/wilder 13, psychic warrior 5
+**Power Points:** Psion/wilder 13, psychic warrior 5
 
 You throw off a faux ectoplasmic shell, allowing you to slide out of range of a damaging effect. When you manifest this power in conjunction with making a successful Reflex save against an attack that normally deals half damage on a successful save, you instead take no damage.
 
 You can manifest this power with an instant thought, quickly enough to save yourself if you unexpectedly come within range of a dangerous effect. Manifesting this power is an immediate action, like manifesting a quickened power, and it counts toward the normal limit of one quickened power per round. You can even manifest this power when it isn’t your turn.
 
-**Augment:**If you spend 4 additional power points, you take only half damage on a failed Reflex save.
+**Augment:** If you spend 4 additional power points, you take only half damage on a failed Reflex save.
 
 
 
@@ -2216,27 +2216,27 @@ You can manifest this power with an instant thought, quickly enough to save your
 
 Psychometabolism [Acid]
 
-**Level:**Psychic warrior 3
+**Level:** Psychic warrior 3
 
-**Display:**Visual
+**Display:** Visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Effect:**Ray
+**Effect:** Ray
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**5
+**Power Points:** 5
 
 You spit forth vitriolic acid, originating from your mouth, at your target. If you succeed on a ranged touch attack, the target takes 3d6 points of acid damage.
 
-**Augment:**For every 2 additional power points you spend, this power’s damage increases by 1d6 points.
+**Augment:** For every 2 additional power points you spend, this power’s damage increases by 1d6 points.
 
 
 
@@ -2246,19 +2246,19 @@ You spit forth vitriolic acid, originating from your mouth, at your target. If y
 
 Psychometabolism
 
-**Level:**Psychic warrior 1
+**Level:** Psychic warrior 1
 
-**Display:**Olfactory
+**Display:** Olfactory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 round./level (D)
+**Duration:** 1 round./level (D)
 
-**Power Points:**1
+**Power Points:** 1
 
 This power causes instant growth, doubling your height, length, and width and multiplying your weight by 8. This increase changes your size category to the next larger one. You gain a +2 size bonus to Strength, a –2 size penalty to Dexterity (to a minimum effective Dexterity score of 1), a –1 size penalty on attack rolls, and a –1 size penalty to Armor Class due to your increased size.
 
@@ -2268,7 +2268,7 @@ All your equipment, worn or carried, is similarly expanded by this power. Melee 
 
 Other psionic or magical properties are not affected by this power. Any affected item that leaves your possession (including a projectile or thrown weapon) instantly returns to its normal size. This means that thrown weapons deal their normal damage (projectiles deal damage based on the size of the weapon that fired them). Multiple effects that increase size do not stack, which means (among other things) that you can’t use a second manifestation of this power to further expand yourself.
 
-**Augment:**You can augment this power in one or more of the following ways.
+**Augment:** You can augment this power in one or more of the following ways.
 
 1. If you spend 6 additional power points, this power increases your size by two size categories instead of one. You gain a +4 size bonus to Strength, a –4 size penalty to Dexterity (to a minimum effective Dexterity score of 1), a –2 size penalty on attack rolls, and a –2 size penalty to Armor Class due to your increased size.
 
@@ -2284,23 +2284,23 @@ Other psionic or magical properties are not affected by this power. Any affected
 
 Metacreativity (Creation)
 
-**Level:**Shaper 4
+**Level:** Shaper 4
 
-**Display:**Material
+**Display:** Material
 
-**Manifesting Time:**See spell text
+**Manifesting Time:** See spell text
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**Up to 10 cu. ft./level; see spell text
+**Target:** Up to 10 cu. ft./level; see spell text
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**No
+**Power Resistance:** No
 
-**Power Points:**7
+**Power Points:** 7
 
 As thefabricatespell, except as noted here.
 
@@ -2312,11 +2312,11 @@ As thefabricatespell, except as noted here.
 
 Metacreativity (Creation)
 
-**Level:**Shaper 6
+**Level:** Shaper 6
 
-**Target:**Up to 100 cu. ft./level
+**Target:** Up to 100 cu. ft./level
 
-**Power Points:**11
+**Power Points:** 11
 
 Aspsionic fabricate, except ten times as much material is affected by the power.
 
@@ -2328,23 +2328,23 @@ Aspsionic fabricate, except ten times as much material is affected by the power.
 
 Telepathy [Mind-Affecting]
 
-**Level:**Telepath 3
+**Level:** Telepath 3
 
-**Display:**Mental
+**Display:** Mental
 
-**Manifesting Time:**1 round
+**Manifesting Time:** 1 round
 
-**Range:**Long (400 ft. + 40 ft./level)
+**Range:** Long (400 ft. + 40 ft./level)
 
-**Target:**One creature
+**Target:** One creature
 
-**Duration:**Concentration, up to 1 min./level (D)
+**Duration:** Concentration, up to 1 min./level (D)
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**5
+**Power Points:** 5
 
 You have a limited ability to falsify one of the subject’s senses. The subject thinks she sees, hears, smells, tastes, or feels something other than what her senses actually report. You can’t create a sensation where none exists, nor make the subject completely oblivious to a sensation, but you can replace the specifics of one sensation with different specifics. For instance, you could make a human look like a dwarf (or one human look like another specific human), a closed door look like it is open, a vat of acid smell like rose water, a parrot look like a bookend, stale rations taste like fresh fruit, a light pat feel like a dagger thrust, a scream sound like the howling wind, and so on.
 
@@ -2352,7 +2352,7 @@ You can switch between senses you falsify round by round. You can’t alter the 
 
 Because you override a victim’s senses, you can fool a victim who is usingtrue seeingor some other method of gathering information, assuming you know that the victim is actively using such an effect and you can maintain concentration.
 
-**Augment:**For every 2 additional power points you spend, this power can affect an additional target. Any additional target cannot be more than 15 feet from another target of the power.
+**Augment:** For every 2 additional power points you spend, this power can affect an additional target. Any additional target cannot be more than 15 feet from another target of the power.
 
 
 
@@ -2362,27 +2362,27 @@ Because you override a victim’s senses, you can fool a victim who is usingtrue
 
 Psychokinesis
 
-**Level:**Psion/wilder 1
+**Level:** Psion/wilder 1
 
-**Display:**Visual
+**Display:** Visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**A nonmagical, unattended object weighing up to 5 lb.
+**Target:** A nonmagical, unattended object weighing up to 5 lb.
 
-**Duration:**Concentration, up to 1 min.
+**Duration:** Concentration, up to 1 min.
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Power Resistance:**No
+**Power Resistance:** No
 
-**Power Points:**1
+**Power Points:** 1
 
 You can mentally lift and move an object at will from a distance. As a move action, you can propel the object as far as 15 feet in any direction, though the power ends if the distance between you and the object exceeds the power’s range.
 
-**Augment:**You can augment this power in one or both of the following ways.
+**Augment:** You can augment this power in one or both of the following ways.
 
 1. For every 2 additional power points you spend, this power’s range increases by 5 feet.
 
@@ -2396,29 +2396,29 @@ You can mentally lift and move an object at will from a distance. As a move acti
 
 Clairsentience
 
-**Level:**Seer 3
+**Level:** Seer 3
 
-**Display:**Olfactory
+**Display:** Olfactory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**Any two living creatures that are initially no more than 30 ft. apart.
+**Target:** Any two living creatures that are initially no more than 30 ft. apart.
 
-**Duration:**10 min./level
+**Duration:** 10 min./level
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**5
+**Power Points:** 5
 
 You temporarily link the fates of any two creatures, if both fail their saving throws. If either linked creature experiences pain, both feel it. When one loses hit points, the other loses the same amount. If one takes nonlethal damage, so does the other. If one creature is subjected to an effect to which it is immune (such as a type of energy damage), the linked creature is not subjected to it either. If one dies, the other must immediately succeed on a Fortitude save against this power’s save DC or gain two negative levels.
 
 No other effects are transferred by thefate link.
 
-**Augment:**For every 2 additional power points you spend, this power’s save DC increases by 1.
+**Augment:** For every 2 additional power points you spend, this power’s save DC increases by 1.
 
 
 
@@ -2428,19 +2428,19 @@ No other effects are transferred by thefate link.
 
 Clairsentience
 
-**Level:**Seer 7
+**Level:** Seer 7
 
-**Display:**Mental and visual
+**Display:** Mental and visual
 
-**Manifesting Time:**1 immediate action
+**Manifesting Time:** 1 immediate action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Power Points:**13
+**Power Points:** 13
 
 Your limited omniscience allows you to reroll a saving throw, attack roll, or skill check. Whatever the result of the reroll, you must use it even if it is worse than the original roll.
 
@@ -2454,23 +2454,23 @@ You can manifest this power instantly, quickly enough to gain its benefits in an
 
 Clairsentience
 
-**Level:**Psion/wilder 2, psychic warrior 2
+**Level:** Psion/wilder 2, psychic warrior 2
 
-**Display:**Mental and visual
+**Display:** Mental and visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**Will negates; see text
+**Saving Throw:** Will negates; see text
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**3
+**Power Points:** 3
 
 You can use another’s psionic or metapsionic feats for yourself. You make a melee touch attack against a target. If successful, you immediately are familiar with the target’s psionic and metapsionic feats, if any, and you can choose a number of these feats to “leech” equal to your Wisdom modi- fier (minimum one).
 
@@ -2480,7 +2480,7 @@ If the duration offeat leechis extended by the use of a metapsionic feat, the ta
 
 You cannot steal a feat for which you do not meet the prerequisites, if any. However, you can use a stolen feat as the prerequisite for another stolen feat.
 
-**Augment:**For every 2 additional power points you spend, this power’s save DC increases by 1.
+**Augment:** For every 2 additional power points you spend, this power’s save DC increases by 1.
 
 
 
@@ -2490,25 +2490,25 @@ You cannot steal a feat for which you do not meet the prerequisites, if any. How
 
 Psychokinesis [Fire]
 
-**Level:**Kineticist 5
+**Level:** Kineticist 5
 
-**Display:**Visual
+**Display:** Visual
 
-**Manifesting Time:**1 immediate action
+**Manifesting Time:** 1 immediate action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**Instantaneous and up to one day; see text
+**Duration:** Instantaneous and up to one day; see text
 
-**Power Points:**9
+**Power Points:** 9
 
 You use your mastery of energy to cheat death. If you are within 30 feet of an open flame, you can use this power. Any damage that would reduce you to 0 hit points or lower instead has a chance to discorporate you. You attempt a Will save (DC 5 + damage dealt); if it succeeds, you simply break apart into dozens of flitting tongues of flame and vanish, along with all your gear and anything you are holding or carrying.
 
 One day later, you reappear adjacent to an open flame nearest to the place where you discorporated, seeming to materialize from the fire (you choose where you appear along the perimeter of that open flame). While discorporated, you do not exist—you can do nothing, nor can any of your enemies do anything to you.
 
-**Augment:**For every 3 additional power points you spend, you gain a +1 bonus on your Will save to determine whether you discorporate.
+**Augment:** For every 3 additional power points you spend, you gain a +1 bonus on your Will save to determine whether you discorporate.
 
 
 
@@ -2518,19 +2518,19 @@ One day later, you reappear adjacent to an open flame nearest to the place where
 
 Psychometabolism
 
-**Level:**Egoist 7
+**Level:** Egoist 7
 
-**Display:**Olfactory
+**Display:** Olfactory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Effect:**Duplicate of yourself
+**Effect:** Duplicate of yourself
 
-**Duration:**1 round/level (D)
+**Duration:** 1 round/level (D)
 
-**Power Points:**13
+**Power Points:** 13
 
 You can divide yourself, creating a duplicate that comes into existence 5 feet away. Your duplicate thinks and acts exactly as you do and follows your orders, although it will not do anything you wouldn’t do yourself. Your duplicate has all your abilities but none of your psionic or magical equipment (it does possess a duplicate of all your mundane equipment, clothing, armor, and implements, as well as mundane versions of any psionic or magical equipment you have). You and your duplicate evenly split your power points, your remaining usages of pertinent special abilities for the day, and so on. You retain your psionic focus, if you maintain such when this power is manifested. Treat your duplicate as yourself with two negative levels for the purpose of determining the powers to which the duplicate has access (while the duration of this power lasts, those negative levels cannot be removed by any means). Your duplicate has all other physical traits you had at the time you manifest this power. Powers, spells, or other effects affecting you when you manifest this power do not transfer to your duplicate.
 
@@ -2550,19 +2550,19 @@ All powers affecting afissionedcreature, either the original or the duplicate, e
 
 Psychoportation
 
-**Level:**Psion/wilder 1, psychic warrior 1
+**Level:** Psion/wilder 1, psychic warrior 1
 
-**Display:**Auditory
+**Display:** Auditory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 round/level (D)
+**Duration:** 1 round/level (D)
 
-**Power Points:**1
+**Power Points:** 1
 
 You mentally support yourself in water or similar liquid. You can swim at a speed of 10 feet using the power alone, or use it to boost your swim speed by 10 feet.
 
@@ -2574,19 +2574,19 @@ You mentally support yourself in water or similar liquid. You can swim at a spee
 
 Psychoportation
 
-**Level:**Nomad 4
+**Level:** Nomad 4
 
-**Display:**Auditory
+**Display:** Auditory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 min./level (D)
+**Duration:** 1 min./level (D)
 
-**Power Points:**7
+**Power Points:** 7
 
 As theflyspell, except as noted here.
 
@@ -2598,23 +2598,23 @@ As theflyspell, except as noted here.
 
 Psychokinesis [Force]
 
-**Level:**Psion/wilder 1, psychic warrior 1
+**Level:** Psion/wilder 1, psychic warrior 1
 
-**Display:**Auditory
+**Display:** Auditory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Power Points:**1
+**Power Points:** 1
 
 You create an invisible mobile disk of force that hovers in front of you. Theforce screenprovides a +4 shield bonus to Armor Class (which applies against incorporeal touch attacks, since theforce screenis a force effect). Since it hovers in front of you, the effect has no armor check penalty associated with it.
 
-**Augment:**For every 4 additional power points you spend, the shield bonus to Armor Class improves by 1.
+**Augment:** For every 4 additional power points you spend, the shield bonus to Armor Class improves by 1.
 
 
 
@@ -2624,19 +2624,19 @@ You create an invisible mobile disk of force that hovers in front of you. Thefor
 
 Psychometabolism
 
-**Level:**Psychic warrior 6
+**Level:** Psychic warrior 6
 
-**Display:**Visual; see text
+**Display:** Visual; see text
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal; see text
+**Range:** Personal; see text
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 round/level (D)
+**Duration:** 1 round/level (D)
 
-**Power Points:**11
+**Power Points:** 11
 
 You wrench from your subconscious a terrifying visage of deadly hunger and become one with it. You are transformed into a nightmarish version of yourself, complete with an ooze-sleek skin coating, lashing tentacles, and a fright-inducing countenance. You effectively gain a +10 bonus on Disguise checks, though you retain your basic shape and can continue to use your equipment. This power cannot be used to impersonate someone; while horrible, your form is recognizably your own.
 
@@ -2648,7 +2648,7 @@ A nest of violently flailing black tentacles sprout from your hair and back. You
 
 This power functions only while you inhabit your base form (for instance, you can’t be metamorphed or polymorphed into another form, though you can usebreath of the black dragon, claws of the beast, andbite of the wolfin conjunction with this power for your regular attacks), and while your mind resides within your own body.
 
-**Augment:**For every additional power point you spend, this power’s duration increases by 2 rounds.
+**Augment:** For every additional power point you spend, this power’s duration increases by 2 rounds.
 
 
 
@@ -2658,19 +2658,19 @@ This power functions only while you inhabit your base form (for instance, you ca
 
 Psychoportation
 
-**Level:**Psion/wilder 4, psychic warrior 4
+**Level:** Psion/wilder 4, psychic warrior 4
 
-**Display:**Auditory
+**Display:** Auditory
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**10 min./level
+**Duration:** 10 min./level
 
-**Power Points:**7
+**Power Points:** 7
 
 As thefreedom of movementspell, except as noted here.
 
@@ -2682,23 +2682,23 @@ As thefreedom of movementspell, except as noted here.
 
 Psychometabolism
 
-**Level:**Psion/wilder 6
+**Level:** Psion/wilder 6
 
-**Display:**Visual
+**Display:** Visual
 
-**Manifesting Time:**1 standard action
+**Manifesting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**1 round/level
+**Duration:** 1 round/level
 
-**Saving Throw:**Fortitude negates and Fortitude partial; see text
+**Saving Throw:** Fortitude negates and Fortitude partial; see text
 
-**Power Resistance:**Yes
+**Power Resistance:** Yes
 
-**Power Points:**11
+**Power Points:** 11
 
 You cause the touched subject’s flesh to ripple, grow together, and fuse into a nearly seamless whole. The subject is forced into a fetal position (if humanoid), with only the vaguest outline of its folded arms and legs visible below the all-encompassing wave of flesh. The subject retains the ability to breathe, eat, and excrete, but may lose the use of its senses (see below). If the sudden transformation would prove fatal to the creature (such as fusing a swimming airbreathing subject, or a flying subject), the subject gets a +4 bonus on the save. Unless it loses the use of its senses (see below), the creature can still perform purely mental actions, such as manifesting powers.
 
@@ -2706,7 +2706,7 @@ If the target fails its Fortitude save to avoid the power’s effect, the subjec
 
 Incorporeal or gaseous creatures and creatures not composed of flesh are immune tofuse flesh, and a shapechanger can revert to its unfused form as a standard action.
 
-**Augment:**For every 2 additional power points you spend, this power’s save DC increases by 1.
+**Augment:** For every 2 additional power points you spend, this power’s save DC increases by 1.
 
 
 
@@ -2716,19 +2716,19 @@ Incorporeal or gaseous creatures and creatures not composed of flesh are immune 
 
 Psychometabolism
 
-**Level:**Egoist 8
+**Level:** Egoist 8
 
-**Display:**Auditory, material, and visual
+**Display:** Auditory, material, and visual
 
-**Manifesting Time:**1 round
+**Manifesting Time:** 1 round
 
-**Range:**Touch
+**Range:** Touch
 
-**Targets:**You and one touched willing creature of your type and your size or smaller
+**Targets:** You and one touched willing creature of your type and your size or smaller
 
-**Duration:**1 min./level (D)
+**Duration:** 1 min./level (D)
 
-**Power Points:**15, XP
+**Power Points:** 15, XP
 
 You and another willing, corporeal, living creature of the same or smaller size fuse into one being. As the manifester, you control the actions of the fused being. However, you can give up this control to the other creature. Once you give up control, you cannot regain it unless the other creature relinquishes it.
 

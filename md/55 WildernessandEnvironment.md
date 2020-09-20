@@ -14,19 +14,19 @@ TYPES OF DUNGEONS
 
 The four basic dungeon types are defined by their current status. Many dungeons are variations on these basic types or combinations of more than one of them. Sometimes old dungeons are used again and again by different inhabitants for different purposes.
 
-**Ruined Structure:**Once occupied, this place is now abandoned (completely or in part) by its original creator or creators, and other creatures have wandered in. Many subterranean creatures look for abandoned underground constructions in which to make their lairs. Any traps that might exist have probably been set off, but wandering beasts might very well be common.
+**Ruined Structure:** Once occupied, this place is now abandoned (completely or in part) by its original creator or creators, and other creatures have wandered in. Many subterranean creatures look for abandoned underground constructions in which to make their lairs. Any traps that might exist have probably been set off, but wandering beasts might very well be common.
 
-**Occupied Structure:**This type of dungeon is still in use. Creatures (usually intelligent) live there, although they may not be the dungeon’s creators. An occupied structure might be a home, a fortress, a temple, an active mine, a prison, or a headquarters. This type of dungeon is less likely to have traps or wandering beasts, and more likely to have organized guards—both on watch and on patrol. Traps or wandering beasts that might be encountered are usually under the control of the occupants. Occupied structures have furnishings to suit the inhabitants, as well as decorations, supplies, and the ability for occupants to move around (doors they can open, hallways large enough for them to pass through, and so on). The inhabitants might have a communication system, and they almost certainly control an access to the outside.
+**Occupied Structure:** This type of dungeon is still in use. Creatures (usually intelligent) live there, although they may not be the dungeon’s creators. An occupied structure might be a home, a fortress, a temple, an active mine, a prison, or a headquarters. This type of dungeon is less likely to have traps or wandering beasts, and more likely to have organized guards—both on watch and on patrol. Traps or wandering beasts that might be encountered are usually under the control of the occupants. Occupied structures have furnishings to suit the inhabitants, as well as decorations, supplies, and the ability for occupants to move around (doors they can open, hallways large enough for them to pass through, and so on). The inhabitants might have a communication system, and they almost certainly control an access to the outside.
 
 Some dungeons are partially occupied and partially empty or in ruins. In such cases, the occupants are typically not the original builders but instead a group of intelligent creatures that have set up their base, lair, or fortification within an abandoned dungeon.
 
-**Safe Storage:**When people want to protect something, they might bury it underground. Whether the item they want to protect is a fabulous treasure, a forbidden artifact, or the dead body of an important figure, these valuable objects are placed within a dungeon and surrounded by barriers, traps, and guardians.
+**Safe Storage:** When people want to protect something, they might bury it underground. Whether the item they want to protect is a fabulous treasure, a forbidden artifact, or the dead body of an important figure, these valuable objects are placed within a dungeon and surrounded by barriers, traps, and guardians.
 
 The safe storage type of dungeon is the most likely to have traps but the least likely to have wandering beasts. This type of dungeon normally is built for function rather than appearance, but sometimes it has ornamentation in the form of statuary or painted walls. This is particularly true of the tombs of important people.
 
 Sometimes, however, a vault or a crypt is constructed in such a way as to house living guardians. The problem with this strategy is that something must be done to keep the creatures alive between intrusion attempts. Magic is usually the best solution to provide food and water for these creatures. Even if there’s no way anything living can survive in a safe storage dungeon, certain monsters can still serve as guardians. Builders of vaults or tombs often place undead creatures or constructs, both of which which have no need for sustenance or rest, to guard their dungeons. Magic traps can attack intruders by summoning monsters into the dungeon. These guardians also need no sustenance, since they appear only when they’re needed and disappear when their task is done.
 
-**Natural Cavern Complex:**Underground caves provide homes for all sorts of subterranean monsters. Created naturally and connected by a labyrinthine tunnel system, these caverns lack any sort of pattern, order, or decoration. With no intelligent force behind its construction, this type of dungeon is the least likely to have traps or even doors.
+**Natural Cavern Complex:** Underground caves provide homes for all sorts of subterranean monsters. Created naturally and connected by a labyrinthine tunnel system, these caverns lack any sort of pattern, order, or decoration. With no intelligent force behind its construction, this type of dungeon is the least likely to have traps or even doors.
 
 Fungi of all sorts thrive in caves, sometimes growing in huge forests of mushrooms and puffballs. Subterranean predators prowl these forests, looking for those feeding upon the fungi. Some varieties of fungus give off a phosphorescent glow, providing a natural cavern complex with its own limited light source. In other areas, adaylightspell or similar magical effect can provide enough light for green plants to grow.
 
@@ -182,13 +182,13 @@ Sometimes, masonry walls—stones piled on top of each other (usually but not al
 
 
 
-**Masonry Walls:**The most common kind of dungeon wall, masonry walls are usually at least 1 foot thick. Often these ancient walls sport cracks and crevices, and sometimes dangerous slimes or small monsters live in these areas and wait for prey. Masonry walls stop all but the loudest noises. It takes a DC 20 Climb check to travel along a masonry wall.
+**Masonry Walls:** The most common kind of dungeon wall, masonry walls are usually at least 1 foot thick. Often these ancient walls sport cracks and crevices, and sometimes dangerous slimes or small monsters live in these areas and wait for prey. Masonry walls stop all but the loudest noises. It takes a DC 20 Climb check to travel along a masonry wall.
 
-**Superior Masonry Walls:**Sometimes masonry walls are better built (smoother, with tighter-fitting stones and less cracking), and occasionally these superior walls are covered with plaster or stucco. Covered walls often bear paintings, carved reliefs, or other decoration. Superior masonry walls are no more difficult to destroy than regular masonry walls but are more difficult to climb (DC 25).
+**Superior Masonry Walls:** Sometimes masonry walls are better built (smoother, with tighter-fitting stones and less cracking), and occasionally these superior walls are covered with plaster or stucco. Covered walls often bear paintings, carved reliefs, or other decoration. Superior masonry walls are no more difficult to destroy than regular masonry walls but are more difficult to climb (DC 25).
 
-**Hewn Stone Walls:**Such walls usually result when a chamber or passage is tunneled out from solid rock. The rough surface of a hewn wall frequently provides minuscule ledges where fungus grows and fissures where vermin, bats, and subterranean snakes live. When such a wall has an “other side” (it separates two chambers in the dungeon), the wall is usually at least 3 feet thick; anything thinner risks collapsing from the weight of all the stone overhead. It takes a DC 25 Climb check to climb a hewn stone wall.
+**Hewn Stone Walls:** Such walls usually result when a chamber or passage is tunneled out from solid rock. The rough surface of a hewn wall frequently provides minuscule ledges where fungus grows and fissures where vermin, bats, and subterranean snakes live. When such a wall has an “other side” (it separates two chambers in the dungeon), the wall is usually at least 3 feet thick; anything thinner risks collapsing from the weight of all the stone overhead. It takes a DC 25 Climb check to climb a hewn stone wall.
 
-**Unworked Stone Walls:**These surfaces are uneven and rarely flat. They are smooth to the touch but filled with tiny holes, hidden alcoves, and ledges at various heights. They’re also usually wet or at least damp, since it’s water that most frequently creates natural caves. When such a wall has an “other side,” the wall is usually at least 5 feet thick. It takes a DC 15 Climb check to move along an unworked stone wall.
+**Unworked Stone Walls:** These surfaces are uneven and rarely flat. They are smooth to the touch but filled with tiny holes, hidden alcoves, and ledges at various heights. They’re also usually wet or at least damp, since it’s water that most frequently creates natural caves. When such a wall has an “other side,” the wall is usually at least 5 feet thick. It takes a DC 15 Climb check to move along an unworked stone wall.
 
 
 
@@ -196,17 +196,17 @@ Sometimes, masonry walls—stones piled on top of each other (usually but not al
 
 SPECIAL WALLS
 
-**Reinforced Walls:**These are masonry walls with iron bars on one or both sides of the wall, or placed within the wall to strengthen it. The hardness of a reinforced wall remains the same, but its hit points are doubled and the Strength check DC to break through it is increased by 10.
+**Reinforced Walls:** These are masonry walls with iron bars on one or both sides of the wall, or placed within the wall to strengthen it. The hardness of a reinforced wall remains the same, but its hit points are doubled and the Strength check DC to break through it is increased by 10.
 
-**Iron Walls:**These walls are placed within dungeons around important places such as vaults.
+**Iron Walls:** These walls are placed within dungeons around important places such as vaults.
 
-**Paper Walls:**Paper walls are the opposite of iron walls, placed as screens to block line of sight but nothing more.
+**Paper Walls:** Paper walls are the opposite of iron walls, placed as screens to block line of sight but nothing more.
 
-**Wooden Walls:**Wooden walls often exist as recent additions to older dungeons, used to create animal pens, storage bins, or just to make a number of smaller rooms out of a larger one.
+**Wooden Walls:** Wooden walls often exist as recent additions to older dungeons, used to create animal pens, storage bins, or just to make a number of smaller rooms out of a larger one.
 
-**Magically Treated Walls:**These walls are stronger than average, with a greater hardness, more hit points, and a higher break DC. Magic can usually double the hardness and hit points and can add up to 20 to the break DC. A magically treated wall also gains a saving throw against spells that could affect it, with the save bonus equaling 2 + one-half the caster level of the magic reinforcing the wall. Creating a magic wall requires the Craft Wondrous Item feat and the expenditure of 1,500 gp for each 10 foot-by-10-foot wall section.
+**Magically Treated Walls:** These walls are stronger than average, with a greater hardness, more hit points, and a higher break DC. Magic can usually double the hardness and hit points and can add up to 20 to the break DC. A magically treated wall also gains a saving throw against spells that could affect it, with the save bonus equaling 2 + one-half the caster level of the magic reinforcing the wall. Creating a magic wall requires the Craft Wondrous Item feat and the expenditure of 1,500 gp for each 10 foot-by-10-foot wall section.
 
-**Walls with Arrow Slits:**Walls with arrow slits can be made of any durable material but are most commonly masonry, hewn stone, or wood. Such a wall allows defenders to fire arrows or crossbow bolts at intruders from behind the safety of the wall. Archers behind arrow slits have improved cover that gives them a +8 bonus to Armor Class, a +4 bonus on Reflex saves, and the benefits of the improved evasion class feature.
+**Walls with Arrow Slits:** Walls with arrow slits can be made of any durable material but are most commonly masonry, hewn stone, or wood. Such a wall allows defenders to fire arrows or crossbow bolts at intruders from behind the safety of the wall. Archers behind arrow slits have improved cover that gives them a +8 bonus to Armor Class, a +4 bonus on Reflex saves, and the benefits of the improved evasion class feature.
 
 
 
@@ -216,19 +216,19 @@ FLOORS
 
 As with walls, dungeon floors come in many types.
 
-**Flagstone:**Like masonry walls, flagstone floors are made of fitted stones. They are usually cracked and only somewhat level. Slime and mold grows in these cracks. Sometimes water runs in rivulets between the stones or sits in stagnant puddles. Flagstone is the most common dungeon floor.
+**Flagstone:** Like masonry walls, flagstone floors are made of fitted stones. They are usually cracked and only somewhat level. Slime and mold grows in these cracks. Sometimes water runs in rivulets between the stones or sits in stagnant puddles. Flagstone is the most common dungeon floor.
 
-**Uneven Flagstone:**Over time, some floors can become so uneven that a DC 10 Balance check is required to run or charge across the surface. Failure means the character can’t move in this round. Floors as treacherous as this should be the exception, not the rule.
+**Uneven Flagstone:** Over time, some floors can become so uneven that a DC 10 Balance check is required to run or charge across the surface. Failure means the character can’t move in this round. Floors as treacherous as this should be the exception, not the rule.
 
-**Hewn Stone Floors:**Rough and uneven, hewn floors are usually covered with loose stones, gravel, dirt, or other debris. A DC 10 Balance check is required to run or charge across such a floor. Failure means the character can still act, but can’t run or charge in this round.
+**Hewn Stone Floors:** Rough and uneven, hewn floors are usually covered with loose stones, gravel, dirt, or other debris. A DC 10 Balance check is required to run or charge across such a floor. Failure means the character can still act, but can’t run or charge in this round.
 
-**Light Rubble:**Small chunks of debris litter the ground. Light rubble adds 2 to the DC of Balance and Tumble checks.
+**Light Rubble:** Small chunks of debris litter the ground. Light rubble adds 2 to the DC of Balance and Tumble checks.
 
-**Dense Rubble:**The ground is covered with debris of all sizes. It costs 2 squares of movement to enter a square with dense rubble. Dense rubble adds 5 to the DC of Balance and Tumble checks, and it adds 2 to the DC of Move Silently checks.
+**Dense Rubble:** The ground is covered with debris of all sizes. It costs 2 squares of movement to enter a square with dense rubble. Dense rubble adds 5 to the DC of Balance and Tumble checks, and it adds 2 to the DC of Move Silently checks.
 
-**Smooth Stone Floors:**Finished and sometimes even polished, smooth floors are found only in dungeons with capable and careful builders.
+**Smooth Stone Floors:** Finished and sometimes even polished, smooth floors are found only in dungeons with capable and careful builders.
 
-**Natural Stone Floors:**The floor of a natural cave is as uneven as the walls. Caves rarely have flat surfaces of any great size. Rather, their floors have many levels. Some adjacent floor surfaces might vary in elevation by only a foot, so that moving from one to the other is no more difficult than negotiating a stair step, but in other places the floor might suddenly drop off or rise up several feet or more, requiring Climb checks to get from one surface to the other. Unless a path has been worn and well marked in the floor of a natural cave, it takes 2 squares of movement to enter a square with a natural stone floor, and the DC of Balance and Tumble checks increases by 5. Running and charging are impossible, except along paths.
+**Natural Stone Floors:** The floor of a natural cave is as uneven as the walls. Caves rarely have flat surfaces of any great size. Rather, their floors have many levels. Some adjacent floor surfaces might vary in elevation by only a foot, so that moving from one to the other is no more difficult than negotiating a stair step, but in other places the floor might suddenly drop off or rise up several feet or more, requiring Climb checks to get from one surface to the other. Unless a path has been worn and well marked in the floor of a natural cave, it takes 2 squares of movement to enter a square with a natural stone floor, and the DC of Balance and Tumble checks increases by 5. Running and charging are impossible, except along paths.
 
 
 
@@ -236,21 +236,21 @@ As with walls, dungeon floors come in many types.
 
 SPECIAL FLOORS
 
-**Slippery:**Water, ice, slime, or blood can make any of the dungeon floors described in this section more treacherous. Slippery floors increase the DC of Balance and Tumble checks by 5.
+**Slippery:** Water, ice, slime, or blood can make any of the dungeon floors described in this section more treacherous. Slippery floors increase the DC of Balance and Tumble checks by 5.
 
-**Grate:**A grate often covers a pit or an area lower than the main floor. Grates are usually made from iron, but large ones can also be made from iron-bound timbers. Many grates have hinges to allow access to what lies below (such grates can be locked like any door), while others are permanent and designed not to move. A typical 1-inch-thick iron grate has 25 hit points, hardness 10, and a DC of 27 for Strength checks to break through it or tear it loose.
+**Grate:** A grate often covers a pit or an area lower than the main floor. Grates are usually made from iron, but large ones can also be made from iron-bound timbers. Many grates have hinges to allow access to what lies below (such grates can be locked like any door), while others are permanent and designed not to move. A typical 1-inch-thick iron grate has 25 hit points, hardness 10, and a DC of 27 for Strength checks to break through it or tear it loose.
 
-**Ledge:**Ledges allow creatures to walk above some lower area. They often circle around pits, run along underground streams, form balconies around large rooms, or provide a place for archers to stand while firing upon enemies below. Narrow ledges (12 inches wide or less) require those moving along them to make Balance checks. Failure results in the moving character
+**Ledge:** Ledges allow creatures to walk above some lower area. They often circle around pits, run along underground streams, form balconies around large rooms, or provide a place for archers to stand while firing upon enemies below. Narrow ledges (12 inches wide or less) require those moving along them to make Balance checks. Failure results in the moving character
 
 falling off the ledge. Ledges sometimes have railings. In such a case, characters gain a +5 circumstance bonus on Balance checks to move along the ledge. A character who is next to a railing gains a +2 circumstance bonus on his or her opposed Strength check to avoid being bull rushed off the edge.
 
 Ledges can also have low walls 2 to 3 feet high along their edges. Such walls provide cover against attackers within 30 feet on the other side of the wall, as long as the target is closer to the low wall than the attacker is.
 
-**Transparent Floor:**Transparent floors, made of reinforced glass or magic materials (even awall of force), allow a dangerous setting to be viewed safely from above. Transparent floors are sometimes placed over lava pools, arenas, monster dens, and torture chambers. They can be used by defenders to watch key areas for intruders.
+**Transparent Floor:** Transparent floors, made of reinforced glass or magic materials (even awall of force), allow a dangerous setting to be viewed safely from above. Transparent floors are sometimes placed over lava pools, arenas, monster dens, and torture chambers. They can be used by defenders to watch key areas for intruders.
 
-**Sliding Floors:**A sliding floor is a type of trapdoor, designed to be moved and thus reveal something that lies beneath it. A typical sliding floor moves so slowly that anyone standing on one can avoid falling into the gap it creates, assuming there’s somewhere else to go. If such a floor slides quickly enough that there’s a chance of a character falling into whatever lies beneath—a spiked pit, a vat of burning oil, or a pool filled with sharks—then it’s a trap.
+**Sliding Floors:** A sliding floor is a type of trapdoor, designed to be moved and thus reveal something that lies beneath it. A typical sliding floor moves so slowly that anyone standing on one can avoid falling into the gap it creates, assuming there’s somewhere else to go. If such a floor slides quickly enough that there’s a chance of a character falling into whatever lies beneath—a spiked pit, a vat of burning oil, or a pool filled with sharks—then it’s a trap.
 
-**Trap Floors:**Some floors are designed to become suddenly dangerous. With the application of just the right amount of weight, or the pull of a lever somewhere nearby, spikes protrude from the floor, gouts of steam or flame shoot up from hidden holes, or the entire floor tilts. These strange floors are sometimes found in an arena, designed to make combats more exciting and deadly. Construct these floors as you would any other trap.
+**Trap Floors:** Some floors are designed to become suddenly dangerous. With the application of just the right amount of weight, or the pull of a lever somewhere nearby, spikes protrude from the floor, gouts of steam or flame shoot up from hidden holes, or the entire floor tilts. These strange floors are sometimes found in an arena, designed to make combats more exciting and deadly. Construct these floors as you would any other trap.
 
 
 
@@ -398,13 +398,13 @@ Dungeon doors come in three basic types: wooden, stone, and iron.
 
 
 
-**Wooden Doors:**Constructed of thick planks nailed together, sometimes bound with iron for strength (and to reduce swelling from dungeon dampness), wooden doors are the most common type. Wooden doors come in varying strengths: simple, good, and strong doors. Simple doors (break DC 13) are not meant to keep out motivated attackers. Good doors (break DC 16), while sturdy and long-lasting, are still not meant to take much punishment. Strong doors (break DC 23) are bound in iron and are a sturdy barrier to those attempting to get past them. Iron hinges fasten the door to its frame, and typically a circular pull-ring in the center is there to help open it. Sometimes, instead of a pull-ring, a door has an iron pull-bar on one or both sides of the door to serve as a handle. In inhabited dungeons, these doors are usually well maintained (not stuck) and unlocked, although important areas are locked up if possible.
+**Wooden Doors:** Constructed of thick planks nailed together, sometimes bound with iron for strength (and to reduce swelling from dungeon dampness), wooden doors are the most common type. Wooden doors come in varying strengths: simple, good, and strong doors. Simple doors (break DC 13) are not meant to keep out motivated attackers. Good doors (break DC 16), while sturdy and long-lasting, are still not meant to take much punishment. Strong doors (break DC 23) are bound in iron and are a sturdy barrier to those attempting to get past them. Iron hinges fasten the door to its frame, and typically a circular pull-ring in the center is there to help open it. Sometimes, instead of a pull-ring, a door has an iron pull-bar on one or both sides of the door to serve as a handle. In inhabited dungeons, these doors are usually well maintained (not stuck) and unlocked, although important areas are locked up if possible.
 
-**Stone:**Carved from solid blocks of stone, these heavy, unwieldy doors are often built so that they pivot when opened, although dwarves and other skilled craftsfolk are able to fashion hinges strong enough to hold up a stone door. Secret doors concealed within a stone wall are usually stone doors. Otherwise, such doors stand as tough barriers protecting something important beyond. Thus, they are often locked or barred.
+**Stone:** Carved from solid blocks of stone, these heavy, unwieldy doors are often built so that they pivot when opened, although dwarves and other skilled craftsfolk are able to fashion hinges strong enough to hold up a stone door. Secret doors concealed within a stone wall are usually stone doors. Otherwise, such doors stand as tough barriers protecting something important beyond. Thus, they are often locked or barred.
 
-**Iron:**Rusted but sturdy, iron doors in a dungeon are hinged like wooden doors. These doors are the toughest form of nonmagical door. They are usually locked or barred.
+**Iron:** Rusted but sturdy, iron doors in a dungeon are hinged like wooden doors. These doors are the toughest form of nonmagical door. They are usually locked or barred.
 
-**Locks, Bars, and Seals:**Dungeon doors may be locked, trapped, reinforced, barred, magically sealed, or sometimes just stuck. All but the weakest characters can eventually knock down a door with a heavy tool such as a sledgehammer, and a number of spells and magic items give characters an easy way around a locked door.
+**Locks, Bars, and Seals:** Dungeon doors may be locked, trapped, reinforced, barred, magically sealed, or sometimes just stuck. All but the weakest characters can eventually knock down a door with a heavy tool such as a sledgehammer, and a number of spells and magic items give characters an easy way around a locked door.
 
 Attempts to literally chop a door down with a slashing or bludgeoning weapon use the hardness and hit points given in Table: Doors. Often the easiest way to overcome a recalcitrant door is not by demolishing it but by breaking its lock, bar, or hinges. When assigning a DC to an attempt to knock a door down, use the following as guidelines:
 
@@ -422,7 +422,7 @@ DC 26 or Higher:a door that only an exceptionally strong person has a hope of br
 
 For specific examples in applying these guidelines, see Table: Random Door Types.
 
-**Locks:**Dungeon doors are often locked, and thus the Open Lock skill comes in very handy. Locks are usually built into the door, either on the edge opposite the hinges or right in the middle of the door. Builtin locks either control an iron bar that juts out of the door and into the wall of its frame, or else a sliding iron bar or heavy wooden bar that rests behind the entire door. By contrast, padlocks are not built-in but usually run through two rings, one on the door and the other on the wall. More complex locks, such as combination locks and puzzle locks, are usually built into the door itself. Because such keyless locks are larger and more complex, they are typically only found in sturdy doors (strong wooden, stone, or iron doors).
+**Locks:** Dungeon doors are often locked, and thus the Open Lock skill comes in very handy. Locks are usually built into the door, either on the edge opposite the hinges or right in the middle of the door. Builtin locks either control an iron bar that juts out of the door and into the wall of its frame, or else a sliding iron bar or heavy wooden bar that rests behind the entire door. By contrast, padlocks are not built-in but usually run through two rings, one on the door and the other on the wall. More complex locks, such as combination locks and puzzle locks, are usually built into the door itself. Because such keyless locks are larger and more complex, they are typically only found in sturdy doors (strong wooden, stone, or iron doors).
 
 The Open Lock DC to pick a lock often falls into the range of 20 to 30, although locks with lower or higher DCs can exist. A door can have more than one lock, each of which must be unlocked separately. Locks are often trapped, usually with poison needles that extend out to prick a rogue’s finger.
 
@@ -430,13 +430,13 @@ Breaking a lock is sometimes quicker than breaking the whole door. If a PC wants
 
 A special door (see below for examples) might have a lock with no key, instead requiring that the right combination of nearby levers must be manipulated or the right symbols must be pressed on a keypad in the correct sequence to open the door.
 
-**Stuck Doors:**Dungeons are often damp, and sometimes doors get stuck, particularly wooden doors. Assume that about 10% of wooden doors and 5% of nonwooden doors are stuck. These numbers can be doubled (to 20% and 10%, respectively) for long-abandoned or neglected dungeons.
+**Stuck Doors:** Dungeons are often damp, and sometimes doors get stuck, particularly wooden doors. Assume that about 10% of wooden doors and 5% of nonwooden doors are stuck. These numbers can be doubled (to 20% and 10%, respectively) for long-abandoned or neglected dungeons.
 
-**Barred Doors:**When characters try to bash down a barred door, it’s the quality of the bar that matters, not the material the door is made of. It takes a DC 25 Strength check to break through a door with a wooden bar, and a DC 30 Strength check if the bar is made of iron. Characters can attack the door and destroy it instead, leaving the bar hanging in the now-open doorway.
+**Barred Doors:** When characters try to bash down a barred door, it’s the quality of the bar that matters, not the material the door is made of. It takes a DC 25 Strength check to break through a door with a wooden bar, and a DC 30 Strength check if the bar is made of iron. Characters can attack the door and destroy it instead, leaving the bar hanging in the now-open doorway.
 
-**Magic Seals:**In addition to magic traps spells such asarcane lockcan discourage passage through a door. A door with anarcane lockspell on it is considered locked even if it doesn’t have a physical lock. It takes aknockspell, adispel magicspell, or a successful Strength check to get through such a door.
+**Magic Seals:** In addition to magic traps spells such asarcane lockcan discourage passage through a door. A door with anarcane lockspell on it is considered locked even if it doesn’t have a physical lock. It takes aknockspell, adispel magicspell, or a successful Strength check to get through such a door.
 
-**Hinges:**Most doors have hinges. Obviously, sliding doors do not. (They usually have tracks or grooves instead, allowing them to slide easily to one side.)
+**Hinges:** Most doors have hinges. Obviously, sliding doors do not. (They usually have tracks or grooves instead, allowing them to slide easily to one side.)
 
 Standard Hinges:These hinges are metal, joining one edge of the door to the doorframe or wall. Remember that the door swings open toward the side with the hinges. (So, if the hinges are on the PCs’ side, the door opens toward them; otherwise it opens away from them.) Adventurers can take the hinges apart one at a time with successful Disable Device checks (assuming the hinges are on their side of the door, of course). Such a task has a DC of 20 because most hinges are rusted or stuck. Breaking a hinge is difficult. Most have hardness 10 and 30 hit points. The break DC for a hinge is the same as for breaking down the door.
 
@@ -444,13 +444,13 @@ Nested Hinges:These hinges are much more complex than ordinary hinges, and are f
 
 Pivots:Pivots aren’t really hinges at all, but simple knobs jutting from the top and bottom of the door that fit into holes in the doorframe, allowing the door to spin. The advantages of pivots is that they can’t be dismantled like hinges and they’re simple to make. The disadvantage is that since the door pivots on its center of gravity (typically in the middle), nothing larger than half the door’s width can fit through. Doors with pivots are usually stone and are often quite wide to overcome this disadvantage. Another solution is to place the pivot toward one side and have the door be thicker at that end and thinner toward the other end so that it opens more like a normal door. Secret doors in walls often turn on pivots, since the lack of hinges makes it easier to hide the door’s presence. Pivots also allow objects such as bookcases to be used as secret doors.
 
-**Secret Doors:**Disguised as a bare patch of wall (or floor, or ceiling), a bookcase, a fireplace, or a fountain, a secret door leads to a secret passage or room. Someone examining the area finds a secret door, if one exists, on a successful Search check (DC 20 for a typical secret door to DC 30 for a well-hidden secret door). Elves have a chance to detect a secret door just by casually looking at an area.
+**Secret Doors:** Disguised as a bare patch of wall (or floor, or ceiling), a bookcase, a fireplace, or a fountain, a secret door leads to a secret passage or room. Someone examining the area finds a secret door, if one exists, on a successful Search check (DC 20 for a typical secret door to DC 30 for a well-hidden secret door). Elves have a chance to detect a secret door just by casually looking at an area.
 
 Many secret doors require a special method of opening, such as a hidden button or pressure plate. Secret doors can open like normal doors, or they may pivot, slide, sink, rise, or even lower like a drawbridge to permit access. Builders might put a secret door down low near the floor or high up in a wall, making it difficult to find or reach. Wizards and sorcerers have a spell,phase door, that allows them to create a magic secret door that only they can use.
 
-**Magic Doors:**Enchanted by the original builders, a door might speak to explorers, warning them away. It might be protected from harm, increasing its hardness or giving it more hit points as well as an improved saving throw bonus againstdisintegrateand other similar spells. A magic door might not lead into the space revealed beyond, but instead it might be a portal to a faraway place or even another plane of existence. Other magic doors might require passwords or special keys to open them.
+**Magic Doors:** Enchanted by the original builders, a door might speak to explorers, warning them away. It might be protected from harm, increasing its hardness or giving it more hit points as well as an improved saving throw bonus againstdisintegrateand other similar spells. A magic door might not lead into the space revealed beyond, but instead it might be a portal to a faraway place or even another plane of existence. Other magic doors might require passwords or special keys to open them.
 
-**Portcullises:**These special doors consist of iron or thick, ironbound, wooden shafts that descend from a recess in the ceiling above an archway. Sometimes a portcullis has crossbars that create a grid, sometimes not. Typically raised by means of a winch or a capstan, a portcullis can be dropped quickly, and the shafts end in spikes to discourage anyone from standing underneath (or from attempting to dive under it as it drops). Once it is dropped, a portcullis locks, unless it is so large that no normal person could lift it anyway. In any event, lifting a typical portcullis requires a DC 25 Strength check.
+**Portcullises:** These special doors consist of iron or thick, ironbound, wooden shafts that descend from a recess in the ceiling above an archway. Sometimes a portcullis has crossbars that create a grid, sometimes not. Typically raised by means of a winch or a capstan, a portcullis can be dropped quickly, and the shafts end in spikes to discourage anyone from standing underneath (or from attempting to dive under it as it drops). Once it is dropped, a portcullis locks, unless it is so large that no normal person could lift it anyway. In any event, lifting a typical portcullis requires a DC 25 Strength check.
 
 
 
@@ -472,17 +472,17 @@ Underground chambers are prone to collapse, so many rooms— particularly large 
 
 Common dungeon rooms fall into the following broad categories.
 
-**Guard Post:**Intelligent, social denizens of the dungeon will generally have a series of adjacent rooms they consider “theirs,” and they’ll guard the entrances to that common area.
+**Guard Post:** Intelligent, social denizens of the dungeon will generally have a series of adjacent rooms they consider “theirs,” and they’ll guard the entrances to that common area.
 
-**Living Quarters:**All but the most nomadic creatures have a lair where they can rest, eat, and store their treasure. Living quarters commonly include beds (if the creature sleeps), possessions (both valuable and mundane), and some sort of food preparation area. Noncombatant creatures such as juveniles and the elderly are often found here.
+**Living Quarters:** All but the most nomadic creatures have a lair where they can rest, eat, and store their treasure. Living quarters commonly include beds (if the creature sleeps), possessions (both valuable and mundane), and some sort of food preparation area. Noncombatant creatures such as juveniles and the elderly are often found here.
 
-**Work Area:**Most intelligent creatures do more than just guard, eat, and sleep, and many devote rooms to magic laboratories, workshops for weapons and armor, or studios for more esoteric tasks.
+**Work Area:** Most intelligent creatures do more than just guard, eat, and sleep, and many devote rooms to magic laboratories, workshops for weapons and armor, or studios for more esoteric tasks.
 
-**Shrine:**Any creature that is particularly religious may have some place dedicated to worship, and others may venerate something of great historical or personal value. Depending on the creature’s resources and piety, a shrine can be humble or extensive. A shrine is where PCs will likely encounter NPC clerics, and it’s common for wounded monsters to flee to a shrine friendly to them when they seek healing.
+**Shrine:** Any creature that is particularly religious may have some place dedicated to worship, and others may venerate something of great historical or personal value. Depending on the creature’s resources and piety, a shrine can be humble or extensive. A shrine is where PCs will likely encounter NPC clerics, and it’s common for wounded monsters to flee to a shrine friendly to them when they seek healing.
 
-**Vault:**Well protected, often by a locked iron door, a vault is a special room that contains treasure. There’s usually only one entrance—an appropriate place for a trap.
+**Vault:** Well protected, often by a locked iron door, a vault is a special room that contains treasure. There’s usually only one entrance—an appropriate place for a trap.
 
-**Crypt:**Although sometimes constructed like a vault, a crypt can also be a series of individual rooms, each with its own sarcophagus, or a long hall with recesses on either side—shelves to hold coffins or bodies.
+**Crypt:** Although sometimes constructed like a vault, a crypt can also be a series of individual rooms, each with its own sarcophagus, or a long hall with recesses on either side—shelves to hold coffins or bodies.
 
 Those who are worried about undead rising from the grave take the precaution of locking and trapping a crypt from the outside— making the crypt easy to get into but difficult to leave. Those worried about tomb robbers make their crypts difficult to get into. Some builders do both, just to be on the safe side.
 
@@ -494,9 +494,9 @@ CORRIDORS
 
 All dungeons have rooms, and most have corridors. While most corridors simply connect rooms, sometimes they can be encounter areas in their own right because of traps, guard patrols, and wandering monsters out on the hunt.
 
-**Corridor Traps:**Because passageways in dungeons tend to be narrow, offering few movement options, dungeon builders like to place traps in them. In a cramped passageway, there’s no way for intruders to move around concealed pits, falling stones, arrow traps, tilting floors, and sliding or rolling rocks that fill the entire passage. For the same reason, magic traps such asglyphs of wardingare effective in hallways as well.
+**Corridor Traps:** Because passageways in dungeons tend to be narrow, offering few movement options, dungeon builders like to place traps in them. In a cramped passageway, there’s no way for intruders to move around concealed pits, falling stones, arrow traps, tilting floors, and sliding or rolling rocks that fill the entire passage. For the same reason, magic traps such asglyphs of wardingare effective in hallways as well.
 
-**Mazes:**Usually, passages connect chambers in the simplest and straightest manner possible. Some dungeon builders, however, design a maze or a labyrinth within the dungeon. This sort of construction is difficult to navigate (or at least to navigate quickly) and, when filled with monsters or traps, can be an effective barrier.
+**Mazes:** Usually, passages connect chambers in the simplest and straightest manner possible. Some dungeon builders, however, design a maze or a labyrinth within the dungeon. This sort of construction is difficult to navigate (or at least to navigate quickly) and, when filled with monsters or traps, can be an effective barrier.
 
 A maze can be used to cut off one area of the dungeon, deflecting intruders away from a protected spot. Generally, though, the far side of a maze holds an important crypt or vault—someplace that the dungeon’s regular inhabitants rarely need to get to.
 
@@ -506,7 +506,7 @@ A maze can be used to cut off one area of the dungeon, deflecting intruders away
 
 MISCELLANEOUS FEATURES
 
-**Stairs:**The usual way to connect different levels of a dungeon is with stairs. Straight stairways, spiral staircases, or stairwells with multiple landings between flights of stairs are all common in dungeons, as are ramps (sometimes with an incline so slight that it can be difficult to notice; Spot DC 15). Stairs are important accessways, and are sometimes guarded or trapped. Traps on stairs often cause intruders to slide or fall down to the bottom, where a pit, spikes, a pool of acid, or some other danger awaits.
+**Stairs:** The usual way to connect different levels of a dungeon is with stairs. Straight stairways, spiral staircases, or stairwells with multiple landings between flights of stairs are all common in dungeons, as are ramps (sometimes with an incline so slight that it can be difficult to notice; Spot DC 15). Stairs are important accessways, and are sometimes guarded or trapped. Traps on stairs often cause intruders to slide or fall down to the bottom, where a pit, spikes, a pool of acid, or some other danger awaits.
 
 Gradual Stairs:Stairs that rise less than 5 feet for every 5 feet of horizontal distance they cover don’t affect movement, but characters who attack a foe below them gain a +1 bonus on attack rolls from being on higher ground. Most stairs in dungeons are gradual, except for spiral stairs (see below).
 
@@ -516,7 +516,7 @@ Spiral Stairs:This form of steep stairs is designed to make defending a fortress
 
 Railings and Low Walls:Stairs that are open to large rooms often have railings or low walls. They function as described for ledges (see Special Floors).
 
-**Bridge:**A bridge connects two higher areas separated by a lower area, stretching across a chasm, over a river, or above a pit. A simple bridge might be a single wooden plank, while an elaborate one could be made of mortared stone with iron supports and side rails.
+**Bridge:** A bridge connects two higher areas separated by a lower area, stretching across a chasm, over a river, or above a pit. A simple bridge might be a single wooden plank, while an elaborate one could be made of mortared stone with iron supports and side rails.
 
 Narrow Bridge:If a bridge is particularly narrow, such as a series of planks laid over lava fissures, treat it as a ledge (see Special Floors). It requires a Balance check (DC dependent on width) to cross such a bridge.
 
@@ -526,27 +526,27 @@ Drawbridge:Some bridges have mechanisms that allow them to be extended or retrac
 
 Railings and Low Walls:Some bridges have railings or low walls along the sides. If a bridge does, the railing or low walls affect Balance checks and bull rush attempts as described for ledges (see Special Floors). Low walls likewise provide cover to bridge occupants.
 
-**Chutes and Chimneys:**Stairs aren’t the only way to move up and down in a dungeon. Sometimes a vertical shaft connects levels of a dungeon or links a dungeon with the surface. Chutes are usually traps that dump characters into a lower area—often a place featuring some dangerous situation with which they must contend.
+**Chutes and Chimneys:** Stairs aren’t the only way to move up and down in a dungeon. Sometimes a vertical shaft connects levels of a dungeon or links a dungeon with the surface. Chutes are usually traps that dump characters into a lower area—often a place featuring some dangerous situation with which they must contend.
 
-**Pillar:**A common sight in any dungeon, pillars and columns give support to ceilings. The larger the room, the more likely it has pillars. As a rule of thumb, the deeper in the dungeon a room is, the thicker the pillars need to be to support the overhead weight. Pillars tend to be polished and often have carvings, paintings, or inscriptions upon them.
+**Pillar:** A common sight in any dungeon, pillars and columns give support to ceilings. The larger the room, the more likely it has pillars. As a rule of thumb, the deeper in the dungeon a room is, the thicker the pillars need to be to support the overhead weight. Pillars tend to be polished and often have carvings, paintings, or inscriptions upon them.
 
 Slender Pillar:These pillars are only a foot or two across, so they don’t occupy a whole square. A creature standing in the same square as a slender pillar gains a +2 cover bonus to Armor Class and a +1 cover bonus on Reflex saves (these bonuses don’t stack with cover bonuses from other sources). The presence of a slender pillar does not otherwise affect a creature’s fighting space, because it’s assumed that the creature is using the pillar to its advantage when it can. A typical slender pillar has AC 4, hardness 8, and 250 hit points.
 
 Wide Pillar:These pillars take up an entire square and provide cover to anyone behind them. They have AC 3, hardness 8, and 900 hit points. A DC 20 Climb check is sufficient to climb most pillars; the DC increases to 25 for polished or unusually slick ones.
 
-**Stalagmite/Stalactite:**These tapering natural rock columns extend from the floor (stalagmite) or the ceiling (stalactite). Stalagmites and stalactites function as slender pillars.
+**Stalagmite/Stalactite:** These tapering natural rock columns extend from the floor (stalagmite) or the ceiling (stalactite). Stalagmites and stalactites function as slender pillars.
 
-**Statue:**Most statues function as wide pillars, taking up a square and providing cover. Some statues are smaller and act as slender pillars. A DC 15 Climb check allows a character to climb a statue.
+**Statue:** Most statues function as wide pillars, taking up a square and providing cover. Some statues are smaller and act as slender pillars. A DC 15 Climb check allows a character to climb a statue.
 
-**Tapestry:**Elaborately embroidered patterns or scenes on cloth,tapestries hang from the walls of well-appointed dungeon rooms or corridors.Crafty builders take advantage of tapestries to place alcoves, concealed doors, or secret switches behind them.
+**Tapestry:** Elaborately embroidered patterns or scenes on cloth,tapestries hang from the walls of well-appointed dungeon rooms or corridors.Crafty builders take advantage of tapestries to place alcoves, concealed doors, or secret switches behind them.
 
 Tapestries provide total concealment (50% miss chance) to characters behind them if they’re hanging from the ceiling, or concealment (20% miss chance) if they’re flush with the wall. Climbing a big tapestry isn’t particularly difficult, requiring a DC 15 Climb check (or DC 10 if a wall is within reach).
 
-**Pedestal:**Anything important on display in a dungeon, from a fabulous treasure to a coffin, tends to rest atop a pedestal or a dais. Raising the object off the floor focuses attention on it (and, in practical terms, keeps it safe from any water or other substance that might seep onto the floor). A pedestal is often trapped to protect whatever sits atop it. It can conceal a secret trapdoor beneath itself or provide a way to reach a door in the ceiling above itself.
+**Pedestal:** Anything important on display in a dungeon, from a fabulous treasure to a coffin, tends to rest atop a pedestal or a dais. Raising the object off the floor focuses attention on it (and, in practical terms, keeps it safe from any water or other substance that might seep onto the floor). A pedestal is often trapped to protect whatever sits atop it. It can conceal a secret trapdoor beneath itself or provide a way to reach a door in the ceiling above itself.
 
 Only the largest pedestals take up an entire square; most provide no cover.
 
-**Pool:**Pools of water collect naturally in low spots in dungeons (a dry dungeon is rare). Pools can also be wells or natural underground springs, or they can be intentionally created basins, cisterns, and fountains. In any event, water is fairly common in dungeons, harboring sightless fish and sometimes aquatic monsters. Pools provide water for dungeon denizens, and thus are as important an area for a predator to control as a watering hole aboveground in the wild.
+**Pool:** Pools of water collect naturally in low spots in dungeons (a dry dungeon is rare). Pools can also be wells or natural underground springs, or they can be intentionally created basins, cisterns, and fountains. In any event, water is fairly common in dungeons, harboring sightless fish and sometimes aquatic monsters. Pools provide water for dungeon denizens, and thus are as important an area for a predator to control as a watering hole aboveground in the wild.
 
 Shallow Pool:If a square contains a shallow pool, it has roughly 1 foot of standing water. It costs 2 squares of movement to move into a square with a shallow pool, and the DC of Tumble checks in such squares increases by 2.
 
@@ -560,19 +560,19 @@ Some pools have fountains. Occasionally these are merely decorative, but they of
 
 Most pools are made of water, but anything’s possible in a dungeon. Pools can hold unsavory substances such as blood, poison, oil, or magma. And even if a pool holds water, it can be holy water, saltwater, or water tainted with disease.
 
-**Elevator:**In place of or in addition to stairs, an elevator (essentially an oversized dumbwaiter) can take inhabitants from one dungeon level to the next. Such an elevator may be mechanical (using gears, pulleys, and winches) or magical (such as alevitatespell cast on a movable flat surface). A mechanical elevator might be as small as a platform that holds one character at a time, or as large as an entire room that raises and lowers. A clever builder might design an elevator room that moves up or down without the occupants’ knowledge to catch them in a trap, or one that appears to have moved when it actually remained still.
+**Elevator:** In place of or in addition to stairs, an elevator (essentially an oversized dumbwaiter) can take inhabitants from one dungeon level to the next. Such an elevator may be mechanical (using gears, pulleys, and winches) or magical (such as alevitatespell cast on a movable flat surface). A mechanical elevator might be as small as a platform that holds one character at a time, or as large as an entire room that raises and lowers. A clever builder might design an elevator room that moves up or down without the occupants’ knowledge to catch them in a trap, or one that appears to have moved when it actually remained still.
 
 A typical elevator ascends or descends 10 feet per round at the beginning of the operator’s turn (or on initiative count 0 if it functions without regard to whether creatures are on it. Elevators can be enclosed, can have railings or low walls, or may simply be treacherous floating platforms.
 
-**Ladders:**Whether free-standing or rungs set into a wall, a ladder requires a DC 0 Climb check to ascend or descend.
+**Ladders:** Whether free-standing or rungs set into a wall, a ladder requires a DC 0 Climb check to ascend or descend.
 
-**Shifting Stone or Wall:**These features can cut off access to a passage or room, trapping adventurers in a dead end or preventing escape out of the dungeon. Shifting walls can force explorers to go down a dangerous path or prevent them from entering a special area. Not all shifting walls need be traps. For example, stones controlled by pressure plates, counterweights, or a secret lever can shift out of a wall to become a staircase leading to a hidden upper room or secret ledge.
+**Shifting Stone or Wall:** These features can cut off access to a passage or room, trapping adventurers in a dead end or preventing escape out of the dungeon. Shifting walls can force explorers to go down a dangerous path or prevent them from entering a special area. Not all shifting walls need be traps. For example, stones controlled by pressure plates, counterweights, or a secret lever can shift out of a wall to become a staircase leading to a hidden upper room or secret ledge.
 
 Shifting stones and walls are generally constructed as traps with triggers and Search and Disable Device DCs. However they don’t have Challenge Ratings because they’re inconveniences, not deadly in and of themselves.
 
-**Teleporters:**Sometimes useful, sometimes devious, places in a dungeon rigged with a teleportation effect (such as ateleportation circle) transport characters to some other location in the dungeon or someplace far away. They can be traps, teleporting the unwary into dangerous situations, or they can be an easy mode of transport for those who built or live in the dungeon, good for bypassing barriers and traps or simply to get around more quickly. Devious dungeon designers might place a teleporter in a room that transports characters to another seemingly identical room so that they don’t even know they’ve been teleported. Adetect magicspell will provide a clue to the presence of a teleporter, but direct experimentation or other research is the only way to discover where the teleporter leads.
+**Teleporters:** Sometimes useful, sometimes devious, places in a dungeon rigged with a teleportation effect (such as ateleportation circle) transport characters to some other location in the dungeon or someplace far away. They can be traps, teleporting the unwary into dangerous situations, or they can be an easy mode of transport for those who built or live in the dungeon, good for bypassing barriers and traps or simply to get around more quickly. Devious dungeon designers might place a teleporter in a room that transports characters to another seemingly identical room so that they don’t even know they’ve been teleported. Adetect magicspell will provide a clue to the presence of a teleporter, but direct experimentation or other research is the only way to discover where the teleporter leads.
 
-**Altars:**Temples—particularly to dark gods—often exist underground. Usually taking the form of a stone block, an altar is the main fixture and central focus of such a temple. Sometimes all the other trappings of the temple are long gone, lost to theft, age, and decay, but the altar survives. Some altars have traps or powerful magic within them. Most take up one or two squares on the grid and provide cover to creatures behind them.
+**Altars:** Temples—particularly to dark gods—often exist underground. Usually taking the form of a stone block, an altar is the main fixture and central focus of such a temple. Sometimes all the other trappings of the temple are long gone, lost to theft, age, and decay, but the altar survives. Some altars have traps or powerful magic within them. Most take up one or two squares on the grid and provide cover to creatures behind them.
 
 
 
@@ -602,15 +602,15 @@ A form of glistening organic sludge coats almost anything that remains in the da
 
 Molds and fungi flourish in dark, cool, damp places. While some are as inoffensive as the normal dungeon slime, others are quite dangerous. Mushrooms, puffballs, yeasts, mildew, and other sorts of bulbous, fibrous, or flat patches of fungi can be found throughout most dungeons. They are usually inoffensive, and some are even edible (though most are unappealing or odd-tasting).
 
-**Green Slime (CR 4):**This dungeon peril is a dangerous variety of normal slime. Green slime devours flesh and organic materials on contact and is even capable of dissolving metal. Bright green, wet, and sticky, it clings to walls, floors, and ceilings in patches, reproducing as it consumes organic matter. It drops from walls and ceilings when it detects movement (and possible food) below.
+**Green Slime (CR 4):** This dungeon peril is a dangerous variety of normal slime. Green slime devours flesh and organic materials on contact and is even capable of dissolving metal. Bright green, wet, and sticky, it clings to walls, floors, and ceilings in patches, reproducing as it consumes organic matter. It drops from walls and ceilings when it detects movement (and possible food) below.
 
 A single 5-foot square of green slime deals 1d6 points of Constitution damage per round while it devours flesh. On the first round of contact, the slime can be scraped off a creature (most likely destroying the scraping device), but after that it must be frozen, burned, or cut away (dealing damage to the victim as well). Anything that deals cold or fire damage, sunlight, or aremove diseasespell destroys a patch of green slime. Against wood or metal, green slime deals 2d6 points of damage per round, ignoring metal’s hardness but not that of wood. It does not harm stone.
 
-**Yellow Mold (CR 6):**If disturbed, a 5-foot square of this mold bursts forth with a cloud of poisonous spores. All within 10 feet of the mold must make a DC 15 Fortitude save or take 1d6 points of Constitution damage. Another DC 15 Fortitude save is required 1 minute later—even by those who succeeded on the first save—to avoid taking 2d6 points of Constitution damage. Fire destroys yellow mold, and sunlight renders it dormant.
+**Yellow Mold (CR 6):** If disturbed, a 5-foot square of this mold bursts forth with a cloud of poisonous spores. All within 10 feet of the mold must make a DC 15 Fortitude save or take 1d6 points of Constitution damage. Another DC 15 Fortitude save is required 1 minute later—even by those who succeeded on the first save—to avoid taking 2d6 points of Constitution damage. Fire destroys yellow mold, and sunlight renders it dormant.
 
-**Brown Mold (CR 2):**Brown mold feeds on warmth, drawing heat from anything around it. It normally comes in patches 5 feet in diameter, and the temperature is always cold in a 30-foot radius around it. Living creatures within 5 feet of it take 3d6 points of nonlethal cold damage. Fire brought within 5 feet of brown mold causes it to instantly double in size. Cold damage, such as from acone of cold,instantly destroys it.
+**Brown Mold (CR 2):** Brown mold feeds on warmth, drawing heat from anything around it. It normally comes in patches 5 feet in diameter, and the temperature is always cold in a 30-foot radius around it. Living creatures within 5 feet of it take 3d6 points of nonlethal cold damage. Fire brought within 5 feet of brown mold causes it to instantly double in size. Cold damage, such as from acone of cold,instantly destroys it.
 
-**Phosphorescent Fungus (No CR):**This strange underground fungus grows in clumps that look almost like stunted shrubbery. Drow elves cultivate it for food and light. It gives off a soft violet glow that illuminates underground caverns and passages as well as a candle does. Rare patches of fungus illuminate as well as a torch does.
+**Phosphorescent Fungus (No CR):** This strange underground fungus grows in clumps that look almost like stunted shrubbery. Drow elves cultivate it for food and light. It gives off a soft violet glow that illuminates underground caverns and passages as well as a candle does. Rare patches of fungus illuminate as well as a torch does.
 
 
 
@@ -626,11 +626,11 @@ GETTING LOST
 
 There are many ways to get lost in the wilderness. Following an obvious road, trail, or feature such as a stream or shoreline prevents any possibility of becoming lost, but travelers striking off cross-country may become disoriented—especially in conditions of poor visibility or in difficult terrain.
 
-**Poor Visibility:**Any time characters cannot see at least 60 feet in the prevailing conditions of visibility, they may become lost. Characters traveling through fog, snow, or a downpour might easily lose the ability to see any landmarks not in their immediate vicinity. Similarly, characters traveling at night may be at risk, too, depending on the quality of their light sources, the amount of moonlight, and whether they have darkvision or lowlight vision.
+**Poor Visibility:** Any time characters cannot see at least 60 feet in the prevailing conditions of visibility, they may become lost. Characters traveling through fog, snow, or a downpour might easily lose the ability to see any landmarks not in their immediate vicinity. Similarly, characters traveling at night may be at risk, too, depending on the quality of their light sources, the amount of moonlight, and whether they have darkvision or lowlight vision.
 
-**Difficult Terrain:**Any character in forest, moor, hill, or mountain terrain may become lost if he or she moves away from a trail, road, stream, or other obvious path or track. Forests are especially dangerous because they obscure far-off landmarks and make it hard to see the sun or stars.
+**Difficult Terrain:** Any character in forest, moor, hill, or mountain terrain may become lost if he or she moves away from a trail, road, stream, or other obvious path or track. Forests are especially dangerous because they obscure far-off landmarks and make it hard to see the sun or stars.
 
-**Chance to Get Lost:**If conditions exist that make getting lost a possibility, the character leading the way must succeed on a Survival check or become lost. The difficulty of this check varies based on the terrain, the visibility conditions, and whether or not the character has a map of the area being traveled through. Refer to the table below and use the highest DC that applies.
+**Chance to Get Lost:** If conditions exist that make getting lost a possibility, the character leading the way must succeed on a Survival check or become lost. The difficulty of this check varies based on the terrain, the visibility conditions, and whether or not the character has a map of the area being traveled through. Refer to the table below and use the highest DC that applies.
 
 
 
@@ -672,7 +672,7 @@ A character with at least 5 ranks in Knowledge (geography) or Knowledge (local) 
 
 Check once per hour (or portion of an hour) spent in local or overland movement to see if travelers have become lost. In the case of a party moving together, only the character leading the way makes the check.
 
-**Effects of Being Lost:**If a party becomes lost, it is no longer certain of moving in the direction it intended to travel. Randomly determine the direction in which the party actually travels during each hour of local or overland movement. The characters’ movement continues to be random until they blunder into a landmark they can’t miss, or until they recognize that they are lost and make an effort to regain their bearings.
+**Effects of Being Lost:** If a party becomes lost, it is no longer certain of moving in the direction it intended to travel. Randomly determine the direction in which the party actually travels during each hour of local or overland movement. The characters’ movement continues to be random until they blunder into a landmark they can’t miss, or until they recognize that they are lost and make an effort to regain their bearings.
 
 Recognizing that You’re Lost:Once per hour of random travel, each character in the party may attempt a Survival check (DC 20, –1 per hour of random travel) to recognize that they are no longer certain of their direction of travel. Some circumstances may make it obvious that the characters are lost.
 
@@ -682,7 +682,7 @@ Once the characters are traveling along their new course, correct or incorrect, 
 
 Conflicting Directions:It’s possible that several characters may attempt to determine the right direction to proceed after becoming lost. Make a Survival check for each character in secret, then tell the players whose characters succeeded the correct direction in which to travel, and tell the players whose characters failed a random direction they think is right.
 
-**Regaining Your Bearings:**There are several ways to become un-lost. First, if the characters successfully set a new course and follow it to the destination they’re trying to reach, they’re not lost anymore. Second, the characters through random movement might run into an unmistakable landmark. Third, if conditions suddenly improve—the fog lifts or the sun comes up—lost characters may attempt to set a new course, as described above, with a +4 bonus on the Survival check. Finally, magic may make their course clear.
+**Regaining Your Bearings:** There are several ways to become un-lost. First, if the characters successfully set a new course and follow it to the destination they’re trying to reach, they’re not lost anymore. Second, the characters through random movement might run into an unmistakable landmark. Third, if conditions suddenly improve—the fog lifts or the sun comes up—lost characters may attempt to set a new course, as described above, with a +4 bonus on the Survival check. Finally, magic may make their course clear.
 
 
 
@@ -694,7 +694,7 @@ Forest terrain can be divided into three categories: sparse, medium, and dense. 
 
 The table below describes in general terms how likely it is that a given square has a terrain element in it.
 
-**Forest Terrain Features**
+**Forest Terrain Features** 
 
 
 
@@ -744,15 +744,15 @@ The table below describes in general terms how likely it is that a given square 
 
 ![55 WildernessandEnvironment-Table04.png](55 WildernessandEnvironment-Table04.png)
 
-**Trees:**The most important terrain element in a forest is the trees, obviously. A creature standing in the same square as a tree gains a +2 bonus to Armor Class and a +1 bonus on Reflex saves (these bonuses don’t stack with cover bonuses from other sources). The presence of a tree doesn’t otherwise affect a creature’s fighting space, because it’s assumed that the creature is using the tree to its advantage when it can. The trunk of a typical tree has AC 4, hardness 5, and 150 hp. A DC 15 Climb check is sufficient to climb a tree. Medium and dense forests have massive trees as well. These trees take up an entire square and provide cover to anyone behind them. They have AC 3, hardness 5, and 600 hp. Like their smaller counterparts, it takes a DC 15 Climb check to climb them.
+**Trees:** The most important terrain element in a forest is the trees, obviously. A creature standing in the same square as a tree gains a +2 bonus to Armor Class and a +1 bonus on Reflex saves (these bonuses don’t stack with cover bonuses from other sources). The presence of a tree doesn’t otherwise affect a creature’s fighting space, because it’s assumed that the creature is using the tree to its advantage when it can. The trunk of a typical tree has AC 4, hardness 5, and 150 hp. A DC 15 Climb check is sufficient to climb a tree. Medium and dense forests have massive trees as well. These trees take up an entire square and provide cover to anyone behind them. They have AC 3, hardness 5, and 600 hp. Like their smaller counterparts, it takes a DC 15 Climb check to climb them.
 
-**Undergrowth:**Vines, roots, and short bushes cover much of the ground in a forest. A space covered with light undergrowth costs 2 squares of movement to move into, and it provides concealment. Undergrowth increases the DC of Tumble and Move Silently checks by 2 because the leaves and branches get in the way. Heavy undergrowth costs 4 squares of movement to move into, and it provides concealment with a 30% miss chance (instead of the usual 20%). It increases the DC of Tumble and Move Silently checks by 5. Heavy undergrowth is easy to hide in, granting a +5 circumstance bonus on Hide checks. Running and charging are impossible. Squares with undergrowth are often clustered together. Undergrowth and trees aren’t mutually exclusive; it’s common for a 5-foot square to have both a tree and undergrowth.
+**Undergrowth:** Vines, roots, and short bushes cover much of the ground in a forest. A space covered with light undergrowth costs 2 squares of movement to move into, and it provides concealment. Undergrowth increases the DC of Tumble and Move Silently checks by 2 because the leaves and branches get in the way. Heavy undergrowth costs 4 squares of movement to move into, and it provides concealment with a 30% miss chance (instead of the usual 20%). It increases the DC of Tumble and Move Silently checks by 5. Heavy undergrowth is easy to hide in, granting a +5 circumstance bonus on Hide checks. Running and charging are impossible. Squares with undergrowth are often clustered together. Undergrowth and trees aren’t mutually exclusive; it’s common for a 5-foot square to have both a tree and undergrowth.
 
-**Forest Canopy:**It’s common for elves and other forest dwellers to live on raised platforms far above the surface floor. These wooden platforms generally have rope bridges between them. To get to the treehouses, characters generally ascend the trees’ branches (Climb DC 15), use rope ladders (Climb DC 0), or take pulley elevators (which can be made to rise a number of feet equal to a Strength check, made each round as a full-round action). Creatures on platforms or branches in a forest canopy are considered to have cover when fighting creatures on the ground, and in medium or dense forests they have concealment as well.
+**Forest Canopy:** It’s common for elves and other forest dwellers to live on raised platforms far above the surface floor. These wooden platforms generally have rope bridges between them. To get to the treehouses, characters generally ascend the trees’ branches (Climb DC 15), use rope ladders (Climb DC 0), or take pulley elevators (which can be made to rise a number of feet equal to a Strength check, made each round as a full-round action). Creatures on platforms or branches in a forest canopy are considered to have cover when fighting creatures on the ground, and in medium or dense forests they have concealment as well.
 
-**Other Forest Terrain Elements:**Fallen logs generally stand about 3 feet high and provide cover just as low walls do. They cost 5 feet of movement to cross. Forest streams are generally 5 to 10 feet wide and no more than 5 feet deep. Pathways wind through most forests, allowing normal movement and providing neither cover nor concealment. These paths are less common in dense forests, but even unexplored forests will have occasional game trails.
+**Other Forest Terrain Elements:** Fallen logs generally stand about 3 feet high and provide cover just as low walls do. They cost 5 feet of movement to cross. Forest streams are generally 5 to 10 feet wide and no more than 5 feet deep. Pathways wind through most forests, allowing normal movement and providing neither cover nor concealment. These paths are less common in dense forests, but even unexplored forests will have occasional game trails.
 
-**Stealth and Detection in a Forest:**In a sparse forest, the maximum distance at which a Spot check for detecting the nearby presence of others can succeed is 3d6×10 feet. In a medium forest, this distance is 2d8×10 feet, and in a dense forest it is 2d6×10 feet.
+**Stealth and Detection in a Forest:** In a sparse forest, the maximum distance at which a Spot check for detecting the nearby presence of others can succeed is 3d6×10 feet. In a medium forest, this distance is 2d8×10 feet, and in a dense forest it is 2d6×10 feet.
 
 Because any square with undergrowth provides concealment, it’s usually easy for a creature to use the Hide skill in the forest. Logs and massive trees provide cover, which also makes hiding possible.
 
@@ -762,7 +762,7 @@ The background noise in the forest makes Listen checks more difficult, increasin
 
 
 
-**Forest Fires (CR 6)**
+**Forest Fires (CR 6)** 
 
 Most campfire sparks ignite nothing, but if conditions are dry, winds are strong, or the forest floor is dried out and flammable, a forest fire can result. Lightning strikes often set trees afire and start forest fires in this way. Whatever the cause of the fire, travelers can get caught in the conflagration.
 
@@ -774,11 +774,11 @@ The leading edge of a fire (the downwind side) can advance faster than a human c
 
 Within the bounds of a forest fire, a character faces three dangers: heat damage, catching on fire, and smoke inhalation.
 
-**Heat Damage:**Getting caught within a forest fire is even worse than being exposed to extreme heat (see Heat Dangers). Breathing the air causes a character to take 1d6 points of damage per round (no save). In addition, a character must make a Fortitude save every 5 rounds (DC 15, +1 per previous check) or take 1d4 points of nonlethal damage. A character who holds his breath can avoid the lethal damage, but not the nonlethal damage. Those wearing heavy clothing or any sort of armor take a –4 penalty on their saving throws. In addition, those wearing metal armor or coming into contact with very hot metal are affected as if by aheat metalspell.
+**Heat Damage:** Getting caught within a forest fire is even worse than being exposed to extreme heat (see Heat Dangers). Breathing the air causes a character to take 1d6 points of damage per round (no save). In addition, a character must make a Fortitude save every 5 rounds (DC 15, +1 per previous check) or take 1d4 points of nonlethal damage. A character who holds his breath can avoid the lethal damage, but not the nonlethal damage. Those wearing heavy clothing or any sort of armor take a –4 penalty on their saving throws. In addition, those wearing metal armor or coming into contact with very hot metal are affected as if by aheat metalspell.
 
-**Catching on Fire:**Characters engulfed in a forest fire are at risk of catching on fire when the leading edge of the fire overtakes them, and are then at risk once per minute thereafter (see Catching on Fire).
+**Catching on Fire:** Characters engulfed in a forest fire are at risk of catching on fire when the leading edge of the fire overtakes them, and are then at risk once per minute thereafter (see Catching on Fire).
 
-**Smoke Inhalation:**Forest fires naturally produce a great deal of smoke. A character who breathes heavy smoke must make a Fortitude save each round (DC 15, +1 per previous check) or spend that round choking and coughing. A character who chokes for 2 consecutive rounds takes 1d6 points of nonlethal damage. Also, smoke obscures vision, providing concealment to characters within it.
+**Smoke Inhalation:** Forest fires naturally produce a great deal of smoke. A character who breathes heavy smoke must make a Fortitude save each round (DC 15, +1 per previous check) or spend that round choking and coughing. A character who chokes for 2 consecutive rounds takes 1d6 points of nonlethal damage. Also, smoke obscures vision, providing concealment to characters within it.
 
 
 
@@ -790,7 +790,7 @@ Two categories of marsh exist: relatively dry moors and watery swamps. Both are 
 
 The table below describes terrain features found in marshes.
 
-**Marsh Terrain Features**
+**Marsh Terrain Features** 
 
 
 
@@ -830,7 +830,7 @@ The table below describes terrain features found in marshes.
 
 ![55 WildernessandEnvironment-Table05.png](55 WildernessandEnvironment-Table05.png)
 
-**Bogs:**If a square is part of a shallow bog, it has deep mud or standing water of about 1 foot in depth. It costs 2 squares of movement to move into a square with a shallow bog, and the DC of Tumble checks in such a square increases by 2.
+**Bogs:** If a square is part of a shallow bog, it has deep mud or standing water of about 1 foot in depth. It costs 2 squares of movement to move into a square with a shallow bog, and the DC of Tumble checks in such a square increases by 2.
 
 A square that is part of a deep bog has roughly 4 feet of standing water. It costs Medium or larger creatures 4 squares of movement to move into a square with a deep bog, or characters can swim if they wish. Small or smaller creatures must swim to move through a deep bog. Tumbling is impossible in a deep bog.
 
@@ -840,9 +840,9 @@ Deep bog squares are usually clustered together and surrounded by an irregular r
 
 Both shallow and deep bogs increase the DC of Move Silently checks by 2.
 
-**Undergrowth:**The bushes, rushes, and other tall grasses in marshes function as undergrowth does in a forest (see above). A square that is part of a bog does not also have undergrowth.
+**Undergrowth:** The bushes, rushes, and other tall grasses in marshes function as undergrowth does in a forest (see above). A square that is part of a bog does not also have undergrowth.
 
-**Quicksand:**Patches of quicksand present a deceptively solid appearance (appearing as undergrowth or open land) that may trap careless characters. A character approaching a patch of quicksand at a normal pace is entitled to a DC 8 Survival check to spot the danger before stepping in, but charging or running characters don’t have a chance to detect a hidden bog before blundering in. A typical patch of quicksand is 20 feet in diameter; the momentum of a charging or running character carries him or her 1d2×5 feet into the quicksand.
+**Quicksand:** Patches of quicksand present a deceptively solid appearance (appearing as undergrowth or open land) that may trap careless characters. A character approaching a patch of quicksand at a normal pace is entitled to a DC 8 Survival check to spot the danger before stepping in, but charging or running characters don’t have a chance to detect a hidden bog before blundering in. A typical patch of quicksand is 20 feet in diameter; the momentum of a charging or running character carries him or her 1d2×5 feet into the quicksand.
 
 Effects of Quicksand:Characters in quicksand must make a DC 10 Swim check every round to simply tread water in place, or a DC 15 Swim check to move 5 feet in whatever direction is desired. If a trapped character fails this check by 5 or more, he sinks below the surface and begins to drown whenever he can no longer hold his breath (see the Swim skill description).
 
@@ -850,11 +850,11 @@ Characters below the surface of a bog may swim back to the surface with a succes
 
 Rescue:Pulling out a character trapped in quicksand can be difficult. A rescuer needs a branch, spear haft, rope, or similar tool that enables him to reach the victim with one end of it. Then he must make a DC 15 Strength check to successfully pull the victim, and the victim must make a DC 10 Strength check to hold onto the branch, pole, or rope. If the victim fails to hold on, he must make a DC 15 Swim check immediately to stay above the surface. If both checks succeed, the victim is pulled 5 feet closer to safety.
 
-**Hedgerows:**Common in moors, hedgerows are tangles of stones, soil, and thorny bushes. Narrow hedgerows function as low walls, and it takes 15 feet of movement to cross them. Wide hedgerows are more than 5 feet tall and take up entire squares. They provide total cover, just as a wall does. It takes 4 squares of movement to move through a square with a wide hedgerow; creatures that succeed on a DC 10 Climb check need only 2 squares of movement to move through the square.
+**Hedgerows:** Common in moors, hedgerows are tangles of stones, soil, and thorny bushes. Narrow hedgerows function as low walls, and it takes 15 feet of movement to cross them. Wide hedgerows are more than 5 feet tall and take up entire squares. They provide total cover, just as a wall does. It takes 4 squares of movement to move through a square with a wide hedgerow; creatures that succeed on a DC 10 Climb check need only 2 squares of movement to move through the square.
 
-**Other Marsh Terrain Elements:**Some marshes, particularly swamps, have trees just as forests do, usually clustered in small stands. Paths lead across many marshes, winding to avoid bog areas. As in forests, paths allow normal movement and don’t provide the concealment that undergrowth does.
+**Other Marsh Terrain Elements:** Some marshes, particularly swamps, have trees just as forests do, usually clustered in small stands. Paths lead across many marshes, winding to avoid bog areas. As in forests, paths allow normal movement and don’t provide the concealment that undergrowth does.
 
-**Stealth and Detection in a Marsh:**In a moor, the maximum distance at which a Spot check for detecting the nearby presence of others can succeed is 6d6×10 feet. In a swamp, this distance is 2d8×10 feet.
+**Stealth and Detection in a Marsh:** In a moor, the maximum distance at which a Spot check for detecting the nearby presence of others can succeed is 6d6×10 feet. In a swamp, this distance is 2d8×10 feet.
 
 Undergrowth and deep bogs provide plentiful concealment, so it’s easy to hide in a marsh.
 
@@ -868,7 +868,7 @@ HILLS TERRAIN
 
 A hill can exist in most other types of terrain, but hills can also dominate the landscape. Hills terrain is divided into two categories: gentle hills and rugged hills. Hills terrain often serves as a transition zone between rugged terrain such as mountains and flat terrain such as plains.
 
-**Hills Terrain Features**
+**Hills Terrain Features** 
 
 
 
@@ -908,17 +908,17 @@ A hill can exist in most other types of terrain, but hills can also dominate the
 
 ![55 WildernessandEnvironment-Table06.png](55 WildernessandEnvironment-Table06.png)
 
-**Gradual Slope:**This incline isn’t steep enough to affect movement, but characters gain a +1 bonus on melee attacks against foes downhill from them.
+**Gradual Slope:** This incline isn’t steep enough to affect movement, but characters gain a +1 bonus on melee attacks against foes downhill from them.
 
-**Steep Slope:**Characters moving uphill (to an adjacent square of higher elevation) must spend 2 squares of movement to enter each square of steep slope. Characters running or charging downhill (moving to an adjacent square of lower elevation) must succeed on a DC 10 Balance check upon entering the first steep slope square. Mounted characters make a DC 10 Ride check instead. Characters who fail this check stumble and must end their movement 1d2×5 feet later. Characters who fail by 5 or more fall prone in the square where they end their movement. A steep slope increases the DC of Tumble checks by 2.
+**Steep Slope:** Characters moving uphill (to an adjacent square of higher elevation) must spend 2 squares of movement to enter each square of steep slope. Characters running or charging downhill (moving to an adjacent square of lower elevation) must succeed on a DC 10 Balance check upon entering the first steep slope square. Mounted characters make a DC 10 Ride check instead. Characters who fail this check stumble and must end their movement 1d2×5 feet later. Characters who fail by 5 or more fall prone in the square where they end their movement. A steep slope increases the DC of Tumble checks by 2.
 
-**Cliff:**A cliff typically requires a DC 15 Climb check to scale and is 1d4×10 feet tall, although the needs of your map may mandate a taller cliff. A cliff isn’t perfectly vertical, taking up 5-foot squares if it’s less than 30 feet tall and 10-foot squares if it’s 30 feet or taller.
+**Cliff:** A cliff typically requires a DC 15 Climb check to scale and is 1d4×10 feet tall, although the needs of your map may mandate a taller cliff. A cliff isn’t perfectly vertical, taking up 5-foot squares if it’s less than 30 feet tall and 10-foot squares if it’s 30 feet or taller.
 
-**Light Undergrowth:**Sagebrush and other scrubby bushes grow on hills, athough they rarely cover the landscape as they do in forests and marshes. Light undergrowth provides concealment and increases the DC of Tumble and Move Silently checks by 2.
+**Light Undergrowth:** Sagebrush and other scrubby bushes grow on hills, athough they rarely cover the landscape as they do in forests and marshes. Light undergrowth provides concealment and increases the DC of Tumble and Move Silently checks by 2.
 
-**Other Hills Terrain Elements:**Trees aren’t out of place in hills terrain, and valleys often have active streams (5 to 10 feet wide and no more than 5 feet deep) or dry streambeds (treat as a trench 5 to 10 feet across) in them. If you add a stream or streambed, remember that water always flows downhill.
+**Other Hills Terrain Elements:** Trees aren’t out of place in hills terrain, and valleys often have active streams (5 to 10 feet wide and no more than 5 feet deep) or dry streambeds (treat as a trench 5 to 10 feet across) in them. If you add a stream or streambed, remember that water always flows downhill.
 
-**Stealth and Detection in Hills:**In gentle hills, the maximum distance at which a Spot check for detecting the nearby presence of others can succeed is 2d10×10 feet. In rugged hills, this distance is 2d6×10 feet.
+**Stealth and Detection in Hills:** In gentle hills, the maximum distance at which a Spot check for detecting the nearby presence of others can succeed is 2d10×10 feet. In rugged hills, this distance is 2d6×10 feet.
 
 Hiding in hills terrain can be difficult if there isn’t undergrowth around. A hilltop or ridge provides enough cover to hide from anyone below the hilltop or ridge.
 
@@ -934,7 +934,7 @@ The three mountain terrain categories are alpine meadows, rugged mountains, and 
 
 Mountains have an important terrain element, the rock wall, that is marked on the border between squares rather than taking up squares itself.
 
-**Mountain Terrain Features**
+**Mountain Terrain Features** 
 
 
 
@@ -1008,31 +1008,31 @@ Mountains have an important terrain element, the rock wall, that is marked on th
 
 ![55 WildernessandEnvironment-Table07.png](55 WildernessandEnvironment-Table07.png)
 
-**Gradual and Steep Slopes:**These function as described in Hills Terrain, above.
+**Gradual and Steep Slopes:** These function as described in Hills Terrain, above.
 
-**Cliff:**These terrain elements also function like their hills terrain counterparts, but they’re typically 2d6×10 feet tall. Cliffs taller than 80 feet take up 20 feet of horizontal space.
+**Cliff:** These terrain elements also function like their hills terrain counterparts, but they’re typically 2d6×10 feet tall. Cliffs taller than 80 feet take up 20 feet of horizontal space.
 
-**Chasm:**Usually formed by natural geological processes, chasms function like pits in a dungeon setting. Chasms aren’t hidden, so characters won’t fall into them by accident (although bull rushes are another story). A typical chasm is 2d4×10 feet deep, at least 20 feet long, and anywhere from 5 feet to 20 feet wide. It takes a DC 15 Climb check to climb out of a chasm. In forbidding mountain terrain, chasms are typically 2d8×10 feet deep.
+**Chasm:** Usually formed by natural geological processes, chasms function like pits in a dungeon setting. Chasms aren’t hidden, so characters won’t fall into them by accident (although bull rushes are another story). A typical chasm is 2d4×10 feet deep, at least 20 feet long, and anywhere from 5 feet to 20 feet wide. It takes a DC 15 Climb check to climb out of a chasm. In forbidding mountain terrain, chasms are typically 2d8×10 feet deep.
 
 Light Undergrowth: This functions as described in Forest Terrain,
 
 above.
 
-**Scree:**A field of shifting gravel, scree doesn’t affect speed, but it can be treacherous on a slope. The DC of Balance and Tumble checks increases by 2 if there’s scree on a gradual slope and by 5 if there’s scree on a steep slope. The DC of Move silently checks increases by 2 if the scree is on a slope of any kind.
+**Scree:** A field of shifting gravel, scree doesn’t affect speed, but it can be treacherous on a slope. The DC of Balance and Tumble checks increases by 2 if there’s scree on a gradual slope and by 5 if there’s scree on a steep slope. The DC of Move silently checks increases by 2 if the scree is on a slope of any kind.
 
-**Dense Rubble:**The ground is covered with rocks of all sizes. It costs 2 squares of movement to enter a square with dense rubble. The DC of Balance and Tumble checks on dense rubble increases by 5, and the DC of Move Silently checks increases by +2.
+**Dense Rubble:** The ground is covered with rocks of all sizes. It costs 2 squares of movement to enter a square with dense rubble. The DC of Balance and Tumble checks on dense rubble increases by 5, and the DC of Move Silently checks increases by +2.
 
-**Rock Wall:**A vertical plane of stone, rock walls require DC 25 Climb checks to ascend. A typical rock wall is 2d4×10 feet tall in rugged mountains and 2d8×10 feet tall in forbidding mountains. Rock walls are drawn on the edges of squares, not in the squares themselves.
+**Rock Wall:** A vertical plane of stone, rock walls require DC 25 Climb checks to ascend. A typical rock wall is 2d4×10 feet tall in rugged mountains and 2d8×10 feet tall in forbidding mountains. Rock walls are drawn on the edges of squares, not in the squares themselves.
 
-**Cave Entrance:**Found in cliff and steep slope squares and next to rock walls, cave entrances are typically between 5 and 20 feet wide and 5 feet deep. Beyond the entrance, a cave could be anything from a simple chamber to the entrance to an elaborate dungeon. Caves used as monster lairs typically have 1d3 rooms that are 1d4×10 feet across.
+**Cave Entrance:** Found in cliff and steep slope squares and next to rock walls, cave entrances are typically between 5 and 20 feet wide and 5 feet deep. Beyond the entrance, a cave could be anything from a simple chamber to the entrance to an elaborate dungeon. Caves used as monster lairs typically have 1d3 rooms that are 1d4×10 feet across.
 
-**Other Mountain Terrain Features:**Most alpine meadows begin above the tree line, so trees and other forest elements are rare in the mountains. Mountain terrain can include active streams (5 to 10 feet wide and no more than 5 feet deep) and dry streambeds (treat as a trench 5 to 10 feet across). Particularly high-altitude areas tend to be colder than the lowland areas that surround them, so they may be covered in ice sheets (described below).
+**Other Mountain Terrain Features:** Most alpine meadows begin above the tree line, so trees and other forest elements are rare in the mountains. Mountain terrain can include active streams (5 to 10 feet wide and no more than 5 feet deep) and dry streambeds (treat as a trench 5 to 10 feet across). Particularly high-altitude areas tend to be colder than the lowland areas that surround them, so they may be covered in ice sheets (described below).
 
-**Stealth and Detection in Mountains:**As a guideline, the maximum distance in mountain terrain at which a Spot check for detecting the nearby presence of others can succeed is 4d10×10 feet. Certain peaks and ridgelines afford much better vantage points, of course, and twisting valleys and canyons have much shorter spotting distances. Because there’s little vegetation to obstruct line of sight, the specifics on your map are your best guide for the range at which an encounter could begin. As in hills terrain, a ridge or peak provides enough cover to hide from anyone below the high point.
+**Stealth and Detection in Mountains:** As a guideline, the maximum distance in mountain terrain at which a Spot check for detecting the nearby presence of others can succeed is 4d10×10 feet. Certain peaks and ridgelines afford much better vantage points, of course, and twisting valleys and canyons have much shorter spotting distances. Because there’s little vegetation to obstruct line of sight, the specifics on your map are your best guide for the range at which an encounter could begin. As in hills terrain, a ridge or peak provides enough cover to hide from anyone below the high point.
 
 It’s easier to hear faraway sounds in the mountains. The DC of Listen checks increases by 1 per 20 feet between listener and source, not per 10 feet.
 
-**Avalanches (CR 7)**
+**Avalanches (CR 7)** 
 
 The combination of high peaks and heavy snowfalls means that avalanches are a deadly peril in many mountainous areas. While avalanches of snow and ice are common, it’s also possible to have an avalanche of rock and soil.
 
@@ -1050,9 +1050,9 @@ To determine the precise location of characters in the path of an avalanche, rol
 
 High altitude can be extremely fatiguing—or sometimes deadly—to creatures that aren’t used to it. Cold becomes extreme, and the lack of oxygen in the air can wear down even the most hardy of warriors.
 
-**Acclimated Characters:**Creatures accustomed to high altitude generally fare better than lowlanders. Any creature with an Environment entry that includes mountains is considered native to the area, and acclimated to the high altitude. Characters can also acclimate themselves by living at high altitude for a month. Characters who spend more than two months away from the mountains must reacclimate themselves when they return. Undead, constructs, and other creatures that do not breathe are immune to altitude effects.
+**Acclimated Characters:** Creatures accustomed to high altitude generally fare better than lowlanders. Any creature with an Environment entry that includes mountains is considered native to the area, and acclimated to the high altitude. Characters can also acclimate themselves by living at high altitude for a month. Characters who spend more than two months away from the mountains must reacclimate themselves when they return. Undead, constructs, and other creatures that do not breathe are immune to altitude effects.
 
-**Altitude Zones:**In general, mountains present three possible altitude bands: low pass, low peak/high pass, and high peak.
+**Altitude Zones:** In general, mountains present three possible altitude bands: low pass, low peak/high pass, and high peak.
 
 Low Pass (lower than 5,000 feet):Most travel in low mountains takes place in low passes, a zone consisting largely of alpine meadows and forests. Travelers may find the going difficult (which is reflected in the movement modifiers for traveling through mountains), but the altitude itself has no game effect.
 
@@ -1072,7 +1072,7 @@ Tundra differs from the other desert categories in two important ways. Because s
 
 The table above describes terrain elements found in each of the three desert categories. The terrain elements on this table are mutually exclusive; for instance, a square of tundra may contain either light undergrowth or an ice sheet, but not both.
 
-**Desert Terrain Features**
+**Desert Terrain Features** 
 
 
 
@@ -1130,19 +1130,19 @@ The table above describes terrain elements found in each of the three desert cat
 
 ![55 WildernessandEnvironment-Table08.png](55 WildernessandEnvironment-Table08.png)
 
-**Light Undergrowth:**Consisting of scrubby, hardy bushes and cacti, light undergrowth functions as described for other terrain types.
+**Light Undergrowth:** Consisting of scrubby, hardy bushes and cacti, light undergrowth functions as described for other terrain types.
 
-**Ice Sheet:**The ground is covered with slippery ice. It costs 2 squares of movement to enter a square covered by an ice sheet, and the DC of Balance and Tumble checks there increases by 5. A DC 10 Balance check is required to run or charge across an ice sheet.
+**Ice Sheet:** The ground is covered with slippery ice. It costs 2 squares of movement to enter a square covered by an ice sheet, and the DC of Balance and Tumble checks there increases by 5. A DC 10 Balance check is required to run or charge across an ice sheet.
 
-**Light Rubble:**Small rocks are strewn across the ground, making nimble movement more difficult more difficult. The DC of Balance and Tumble checks increases by 2.
+**Light Rubble:** Small rocks are strewn across the ground, making nimble movement more difficult more difficult. The DC of Balance and Tumble checks increases by 2.
 
-**Dense Rubble:**This terrain feature consists of more and larger stones. It costs 2 squares of movement to enter a square with dense rubble. The DC of Balance and Tumble checks increases by 5, and the DC of Move Silently checks increases by 2.
+**Dense Rubble:** This terrain feature consists of more and larger stones. It costs 2 squares of movement to enter a square with dense rubble. The DC of Balance and Tumble checks increases by 5, and the DC of Move Silently checks increases by 2.
 
-**Sand Dunes:**Created by the action of wind on sand, sand dunes function as hills that move. If the wind is strong and consistent, a sand dune can move several hundred feet in a week’s time. Sand dunes can cover hundreds of squares. They always have a gentle slope pointing in the direction of the prevailing wind and a steep slope on the leeward side.
+**Sand Dunes:** Created by the action of wind on sand, sand dunes function as hills that move. If the wind is strong and consistent, a sand dune can move several hundred feet in a week’s time. Sand dunes can cover hundreds of squares. They always have a gentle slope pointing in the direction of the prevailing wind and a steep slope on the leeward side.
 
-**Other Desert Terrain Features:**Tundra is sometimes bordered by forests, and the occasional tree isn’t out of place in the cold wastes. Rocky deserts have towers and mesas consisting of flat ground surrounded on all sides by cliffs and steep slopes (described in Mountain Terrain, above). Sandy deserts sometimes have quicksand; this functions as described in Marsh Terrain, above, although desert quicksand is a waterless mixture of fine sand and dust. All desert terrain is crisscrossed with dry streambeds (treat as trenches 5 to 15 feet wide) that fill with water on the rare occasions when rain falls.
+**Other Desert Terrain Features:** Tundra is sometimes bordered by forests, and the occasional tree isn’t out of place in the cold wastes. Rocky deserts have towers and mesas consisting of flat ground surrounded on all sides by cliffs and steep slopes (described in Mountain Terrain, above). Sandy deserts sometimes have quicksand; this functions as described in Marsh Terrain, above, although desert quicksand is a waterless mixture of fine sand and dust. All desert terrain is crisscrossed with dry streambeds (treat as trenches 5 to 15 feet wide) that fill with water on the rare occasions when rain falls.
 
-**Stealth and Detection in the Desert:**In general, the maximum distance in desert terrain at which a Spot check for detecting the nearby presence of others can succeed is 6d6×20 feet; beyond this distance, elevation changes and heat distortion in warm deserts makes spotting impossible. The presence of dunes in sandy deserts limits spotting distance to 6d6×10 feet.
+**Stealth and Detection in the Desert:** In general, the maximum distance in desert terrain at which a Spot check for detecting the nearby presence of others can succeed is 6d6×20 feet; beyond this distance, elevation changes and heat distortion in warm deserts makes spotting impossible. The presence of dunes in sandy deserts limits spotting distance to 6d6×10 feet.
 
 The desert imposes neither bonuses nor penalties on Listen or Spot checks. The scarcity of undergrowth or other elements that offer concealment or cover makes hiding more difficult.
 
@@ -1162,7 +1162,7 @@ The table below shows the proportions of terrain elements in the different categ
 
 The terrain elements in the table below are mutually exclusive.
 
-**Plains Terrain Features**
+**Plains Terrain Features** 
 
 
 
@@ -1220,19 +1220,19 @@ The terrain elements in the table below are mutually exclusive.
 
 ![55 WildernessandEnvironment-Table09.png](55 WildernessandEnvironment-Table09.png)
 
-**Undergrowth:**Whether they’re crops or natural vegetation, the tall grasses of the plains function like light undergrowth in a forest. Particularly thick bushes form patches of heavy undergrowth that dot the landscape in grasslands.
+**Undergrowth:** Whether they’re crops or natural vegetation, the tall grasses of the plains function like light undergrowth in a forest. Particularly thick bushes form patches of heavy undergrowth that dot the landscape in grasslands.
 
-**Light Rubble:**On the battlefield, light rubble usually represents something that was destroyed: the ruins of a building or the scattered remnants of a stone wall, for example. It functions as described in the desert terrain section above.
+**Light Rubble:** On the battlefield, light rubble usually represents something that was destroyed: the ruins of a building or the scattered remnants of a stone wall, for example. It functions as described in the desert terrain section above.
 
-**Trench:**Often dug before a battle to protect soldiers, a trench functions as a low wall, except that it provides no cover against adjacent foes. It costs 2 squares of movement to leave a trench, but it costs nothing extra to enter one. Creatures outside a trench who make a melee attack against a creature inside the trench gain a +1 bonus on melee attacks because they have higher ground. In farm terrain, trenches are generally irrigation ditches.
+**Trench:** Often dug before a battle to protect soldiers, a trench functions as a low wall, except that it provides no cover against adjacent foes. It costs 2 squares of movement to leave a trench, but it costs nothing extra to enter one. Creatures outside a trench who make a melee attack against a creature inside the trench gain a +1 bonus on melee attacks because they have higher ground. In farm terrain, trenches are generally irrigation ditches.
 
-**Berm:**A common defensive structure, a berm is a low, earthen wall that slows movement and provides a measure of cover. Put a berm on the map by drawing two adjacent rows of steep slope (described in Hills Terrain, above), with the edges of the berm on the downhill side. Thus, a character crossing a two-square berm will travel uphill for 1 square, then downhill for 1 square. Two square berms provide cover as low walls for anyone standing behind them. Larger berms provide the low wall benefit for anyone standing 1 square downhill from the top of the berm.
+**Berm:** A common defensive structure, a berm is a low, earthen wall that slows movement and provides a measure of cover. Put a berm on the map by drawing two adjacent rows of steep slope (described in Hills Terrain, above), with the edges of the berm on the downhill side. Thus, a character crossing a two-square berm will travel uphill for 1 square, then downhill for 1 square. Two square berms provide cover as low walls for anyone standing behind them. Larger berms provide the low wall benefit for anyone standing 1 square downhill from the top of the berm.
 
-**Fences:**Wooden fences are generally used to contain livestock or impede oncoming soldiers. It costs an extra square of movement to cross a wooden fence. A stone fence provides a measure of cover as well, functioning as low walls. Mounted characters can cross a fence without slowing their movement if they succeed on a DC 15 Ride check. If the check fails, the steed crosses the fence, but the rider falls out of the saddle.
+**Fences:** Wooden fences are generally used to contain livestock or impede oncoming soldiers. It costs an extra square of movement to cross a wooden fence. A stone fence provides a measure of cover as well, functioning as low walls. Mounted characters can cross a fence without slowing their movement if they succeed on a DC 15 Ride check. If the check fails, the steed crosses the fence, but the rider falls out of the saddle.
 
-**Other Plains Terrain Features:**Occasional trees dot the landscape in many plains, although on battlefields they’re often felled to provide raw material for siege engines (described in Urban Features). Hedgerows (described in Marsh Terrain) are found in plains as well. Streams, generally 5 to 20 feet wide and 5 to 10 feet deep, are commonplace.
+**Other Plains Terrain Features:** Occasional trees dot the landscape in many plains, although on battlefields they’re often felled to provide raw material for siege engines (described in Urban Features). Hedgerows (described in Marsh Terrain) are found in plains as well. Streams, generally 5 to 20 feet wide and 5 to 10 feet deep, are commonplace.
 
-**Stealth and Detection in Plains:**In plains terrain, the maximum distance at which a Spot check for detecting the nearby presence of others can succeed is 6d6×40 feet, although the specifics of your map may restrict line of sight. Plains terrain provides no bonuses or penalties on Listen and Spot checks. Cover and concealment are not uncommon, so a good place of refuge is often nearby, if not right at hand.
+**Stealth and Detection in Plains:** In plains terrain, the maximum distance at which a Spot check for detecting the nearby presence of others can succeed is 6d6×40 feet, although the specifics of your map may restrict line of sight. Plains terrain provides no bonuses or penalties on Listen and Spot checks. Cover and concealment are not uncommon, so a good place of refuge is often nearby, if not right at hand.
 
 
 
@@ -1242,13 +1242,13 @@ AQUATIC TERRAIN
 
 Aquatic terrain is the least hospitable to most PCs, because they can’t breathe there. Aquatic terrain doesn’t offer the variety that land terrain does. The ocean floor holds many marvels, including undersea analogues of any of the terrain elements described earlier in this section. But if characters find themselves in the water because they were bull rushed off the deck of a pirate ship, the tall kelp beds hundreds of feet below them don’t matter. Accordingly, these rules simply divide aquatic terrain into two categories: flowing water (such as streams and rivers) and nonflowing water (such as lakes and oceans).
 
-**Flowing Water:**Large, placid rivers move at only a few miles per hour, so they function as still water for most purposes. But some rivers and streams are swifter; anything floating in them moves downstream at a speed of 10 to 40 feet per round. The fastest rapids send swimmers bobbing downstream at 60 to 90 feet per round. Fast rivers are always at least rough water (Swim DC 15), and whitewater rapids are stormy water (Swim DC 20). If a character is in moving water, move her downstream the indicated distance at the end of her turn. A character trying to maintain her position relative to the riverbank can spend some or all of her turn swimming upstream.
+**Flowing Water:** Large, placid rivers move at only a few miles per hour, so they function as still water for most purposes. But some rivers and streams are swifter; anything floating in them moves downstream at a speed of 10 to 40 feet per round. The fastest rapids send swimmers bobbing downstream at 60 to 90 feet per round. Fast rivers are always at least rough water (Swim DC 15), and whitewater rapids are stormy water (Swim DC 20). If a character is in moving water, move her downstream the indicated distance at the end of her turn. A character trying to maintain her position relative to the riverbank can spend some or all of her turn swimming upstream.
 
 Swept Away:Characters swept away by a river moving 60 feet per round or faster must make DC 20 Swim checks every round to avoid going under. If a character gets a check result of 5 or more over the minimum necessary, he arrests his motion by catching a rock, tree limb, or bottom snag—he is no longer being carried along by the flow of the water. Escaping the rapids by reaching the bank requires three DC 20 Swim checks in a row. Characters arrested by a rock, limb, or snag can’t escape under their own power unless they strike out into the water and attempt to swim their way clear. Other characters can rescue them as if they were trapped in quicksand (described in Marsh Terrain, above).
 
-**Nonflowing Water:**Lakes and oceans simply require a swim speed or successful Swim checks to move through (DC 10 in calm water, DC 15 in rough water, DC 20 in stormy water). Characters need a way to breathe if they’re underwater; failing that, they risk drowning. When underwater, characters can move in any direction as if they were flying with perfect maneuverability.
+**Nonflowing Water:** Lakes and oceans simply require a swim speed or successful Swim checks to move through (DC 10 in calm water, DC 15 in rough water, DC 20 in stormy water). Characters need a way to breathe if they’re underwater; failing that, they risk drowning. When underwater, characters can move in any direction as if they were flying with perfect maneuverability.
 
-**Stealth and Detection Underwater:**How far you can see underwater depends on the water’s clarity. As a guideline, creatures can see 4d8×10 feet if the water is clear, and 1d8×10 feet if it’s murky. Moving water is always murky, unless it’s in a particularly large, slow-moving river.
+**Stealth and Detection Underwater:** How far you can see underwater depends on the water’s clarity. As a guideline, creatures can see 4d8×10 feet if the water is clear, and 1d8×10 feet if it’s murky. Moving water is always murky, unless it’s in a particularly large, slow-moving river.
 
 It’s hard to find cover or concealment to hide underwater (except along the seafloor). Listen and Move Silently checks function normally underwater.
 
@@ -1258,11 +1258,11 @@ Invisibility:An invisible creature displaces water and leaves a visible, body-sh
 
 Land-based creatures can have considerable difficulty when fighting in water. Water affects a creature’s Armor Class, attack rolls, damage, and movement. In some cases a creature’s opponents may get a bonus on attacks. The effects are summarized in the accompanying table. They apply whenever a character is swimming, walking in chestdeep water, or walking along the bottom.
 
-**Ranged Attacks Underwater:**Thrown weapons are ineffective underwater, even when launched from land. Attacks with other ranged weapons take a –2 penalty on attack rolls for every 5 feet of water they pass through, in addition to the normal penalties for range.
+**Ranged Attacks Underwater:** Thrown weapons are ineffective underwater, even when launched from land. Attacks with other ranged weapons take a –2 penalty on attack rolls for every 5 feet of water they pass through, in addition to the normal penalties for range.
 
-**Attacks from Land:**Characters swimming, floating, or treading water on the surface, or wading in water at least chest deep, have improved cover (+8 bonus to AC, +4 bonus on Reflex saves) from opponents on land. Landbound opponents who havefreedom of movementeffects ignore this cover when making melee attacks against targets in the water. A completely submerged creature has total cover against opponents on land unless those opponents havefreedom of movementeffects. Magical effects are unaffected except for those that require attack rolls (which are treated like any other effects) and fire effects.
+**Attacks from Land:** Characters swimming, floating, or treading water on the surface, or wading in water at least chest deep, have improved cover (+8 bonus to AC, +4 bonus on Reflex saves) from opponents on land. Landbound opponents who havefreedom of movementeffects ignore this cover when making melee attacks against targets in the water. A completely submerged creature has total cover against opponents on land unless those opponents havefreedom of movementeffects. Magical effects are unaffected except for those that require attack rolls (which are treated like any other effects) and fire effects.
 
-**Fire:**Nonmagical fire (including alchemist’s fire) does not burn underwater. Spells or spell-like effects with the fire descriptor are ineffective underwater unless the caster makes a Spellcraft check (DC 20 + spell level). If the check succeeds, the spell creates a bubble of steam instead of its usual fiery effect, but otherwise the spell works as described. A supernatural fire effect is ineffective underwater unless its description states otherwise. The surface of a body of water blocks line of effect for any fire spell. If the caster has made a Spellcraft check to make the fire spell usable underwater, the surface still blocks the spell’s line of effect.
+**Fire:** Nonmagical fire (including alchemist’s fire) does not burn underwater. Spells or spell-like effects with the fire descriptor are ineffective underwater unless the caster makes a Spellcraft check (DC 20 + spell level). If the check succeeds, the spell creates a bubble of steam instead of its usual fiery effect, but otherwise the spell works as described. A supernatural fire effect is ineffective underwater unless its description states otherwise. The surface of a body of water blocks line of effect for any fire spell. If the caster has made a Spellcraft check to make the fire spell usable underwater, the surface still blocks the spell’s line of effect.
 
 
 
@@ -1362,11 +1362,11 @@ URBAN ADVENTURES
 
 At first glance, a city is much like a dungeon, made up of walls, doors, rooms, and corridors. Adventures that take place in cities have two salient differences from their dungeon counterparts, however. Characters have greater access to resources, and they must contend with law enforcement.
 
-**Access to Resources:**Unlike in dungeons and the wilderness, characters can buy and sell gear quickly in a city. A large city or metropolis probably has high-level NPCs and experts in obscure fields of knowledge who can provide assistance and decipher clues. And when the PCs are battered and bruised, they can retreat to the comfort of a room at the inn.
+**Access to Resources:** Unlike in dungeons and the wilderness, characters can buy and sell gear quickly in a city. A large city or metropolis probably has high-level NPCs and experts in obscure fields of knowledge who can provide assistance and decipher clues. And when the PCs are battered and bruised, they can retreat to the comfort of a room at the inn.
 
 The freedom to retreat and ready access to the marketplace means that the players have a greater degree of control over the pacing of an urban adventure.
 
-**Law Enforcement:**The other key distinctions between adventuring in a city and delving into a dungeon is that a dungeon is, almost by definition, a lawless place where the only law is that of the jungle: Kill or be killed. A city, on the other hand, is held together by a code of laws, many of which are explicitly designed to prevent the sort of behavior that adventurers engage in all the time: killing and looting. Even so, most cities’ laws recognize monsters as a threat to the stability the city relies on, and prohibitions about murder rarely apply to monsters such as aberrations or evil outsiders. Most evil humanoids, however, are typically protected by the same laws that protect all the citizens of the city. Having an evil alignment is not a crime (except in some severely theocratic cities, perhaps, with the magical power to back up the law); only evil deeds are against the law. Even when adventurers encounter an evildoer in the act of perpetrating some heinous evil upon the populace of the city, the law tends to frown on the sort of vigilante justice that leaves the evildoer dead or otherwise unable to testify at a trial.
+**Law Enforcement:** The other key distinctions between adventuring in a city and delving into a dungeon is that a dungeon is, almost by definition, a lawless place where the only law is that of the jungle: Kill or be killed. A city, on the other hand, is held together by a code of laws, many of which are explicitly designed to prevent the sort of behavior that adventurers engage in all the time: killing and looting. Even so, most cities’ laws recognize monsters as a threat to the stability the city relies on, and prohibitions about murder rarely apply to monsters such as aberrations or evil outsiders. Most evil humanoids, however, are typically protected by the same laws that protect all the citizens of the city. Having an evil alignment is not a crime (except in some severely theocratic cities, perhaps, with the magical power to back up the law); only evil deeds are against the law. Even when adventurers encounter an evildoer in the act of perpetrating some heinous evil upon the populace of the city, the law tends to frown on the sort of vigilante justice that leaves the evildoer dead or otherwise unable to testify at a trial.
 
 ###### Weapon And Spell Restrictions
 
@@ -1392,13 +1392,13 @@ A typical metropolis wall is 15 feet thick and 40 feet tall. It has crenellation
 
 Unlike smaller cities, metropolises often have interior walls as well as surrounding walls—either old walls that the city has outgrown, or walls dividing individual districts from each other. Sometimes these walls are as large and thick as the outer walls, but more often they have the characteristics of a large city’s or small city’s walls.
 
-**Watch Towers:**Some city walls are adorned with watch towers set at irregular intervals. Few cities have enough guards to keep someone constantly stationed at every tower, unless the city is expecting attack from outside. The towers provide a superior view of the surrounding countryside as well as a point of defense against invaders.
+**Watch Towers:** Some city walls are adorned with watch towers set at irregular intervals. Few cities have enough guards to keep someone constantly stationed at every tower, unless the city is expecting attack from outside. The towers provide a superior view of the surrounding countryside as well as a point of defense against invaders.
 
 Watch towers are typically 10 feet higher than the wall they adjoin, and their diameter is 5 times the thickness of the wall. Arrow slits line the outer sides of the upper stories of a tower, and the top is crenellated like the surrounding walls are. In a small tower (25 feet in diameter adjoining a 5-foot-thick wall), a simple ladder typically connect the tower’s stories and the roof. In a larger tower, stairs serve that purpose.
 
 Heavy wooden doors, reinforced with iron and bearing good locks (Open Lock DC 30), block entry to a tower, unless the tower is in regular use. As a rule, the captain of the guard keeps the key to the tower secured on her person, and a second copy is in the city’s inner fortress or barracks.
 
-**Gates:**A typical city gate is a gatehouse with two portcullises and murder holes above the space between them. In towns and some small cities, the primary entry is through iron double doors set into the city wall.
+**Gates:** A typical city gate is a gatehouse with two portcullises and murder holes above the space between them. In towns and some small cities, the primary entry is through iron double doors set into the city wall.
 
 Gates are usually open during the day and locked or barred at night. Usually, one gate lets in travelers after sunset and is staffed by guards who will open it for someone who seems honest, presents proper papers, or offers a large enough bribe (depending on the city and the guards).
 
@@ -1520,7 +1520,7 @@ Siege engines are large weapons, temporary structures, or pieces of equipment tr
 
 
 
-**Catapult, Heavy:**A heavy catapult is a massive engine capable of throwing rocks or heavy objects with great force. Because the catapult throws its payload in a high arc, it can hit squares out of its line of sight. To fire a heavy catapult, the crew chief makes a special check against DC 15 using only his base attack bonus, Intelligence modifier, range increment penalty, and the appropriate modifiers from the lower section of Table 3–26. If the check succeeds, the catapult stone hits the square the catapult was aimed at, dealing the indicated damage to any object or character in the square. Characters who succeed on a DC 15 Reflex save take half damage. Once a catapult stone hits a square, subsequent shots hit the same square unless the catapult is reaimed or the wind changes direction or speed.
+**Catapult, Heavy:** A heavy catapult is a massive engine capable of throwing rocks or heavy objects with great force. Because the catapult throws its payload in a high arc, it can hit squares out of its line of sight. To fire a heavy catapult, the crew chief makes a special check against DC 15 using only his base attack bonus, Intelligence modifier, range increment penalty, and the appropriate modifiers from the lower section of Table 3–26. If the check succeeds, the catapult stone hits the square the catapult was aimed at, dealing the indicated damage to any object or character in the square. Characters who succeed on a DC 15 Reflex save take half damage. Once a catapult stone hits a square, subsequent shots hit the same square unless the catapult is reaimed or the wind changes direction or speed.
 
 If a catapult stone misses, roll 1d8 to determine where it lands. This determines the misdirection of the throw, with 1 being back toward the catapult and 2 through 8 counting clockwise around the target square. Then, count 3 squares away from the target square for every range increment of the attack.
 
@@ -1528,19 +1528,19 @@ Loading a catapult requires a series of full-round actions. It takes a DC 15 Str
 
 A heavy catapult takes up a space 15 feet across.
 
-**Catapult, Light:**This is a smaller, lighter version of the heavy catapult. It functions as the heavy catapult, except that it takes a DC 10 Strength check to winch the arm into place, and only two full-round actions are required to reaim the catapult.
+**Catapult, Light:** This is a smaller, lighter version of the heavy catapult. It functions as the heavy catapult, except that it takes a DC 10 Strength check to winch the arm into place, and only two full-round actions are required to reaim the catapult.
 
 A light catapult takes up a space 10 feet across.
 
-**Ballista:**A ballista is essentially a Huge heavy crossbow fixed in place. Its size makes it hard for most creatures to aim it.Thus, a Medium creature takes a –4 penalty on attack rolls when using a ballista, and a Small creature takes a –6 penalty. It takes a creature smaller than Large two full-round actions to reload the ballista after firing.
+**Ballista:** A ballista is essentially a Huge heavy crossbow fixed in place. Its size makes it hard for most creatures to aim it.Thus, a Medium creature takes a –4 penalty on attack rolls when using a ballista, and a Small creature takes a –6 penalty. It takes a creature smaller than Large two full-round actions to reload the ballista after firing.
 
 A ballista takes up a space 5 feet across.
 
-**Ram:**This heavy pole is sometimes suspended from a movable scaffold that allows the crew to swing it back and forth against objects. As a full-round action, the character closest to the front of the ram makes an attack roll against the AC of the construction, applying the –4 penalty for lack of proficiency. (It’s not possible to be proficient with this device.) In addition to the damage given on Table: Siege Engines, up to nine other characters holding the ram can add their Strength modifier to the ram’s damage, if they devote an attack action to doing so. It takes at least one Huge or larger creature, two Large creatures, four Medium-size creatures, or eight Small creatures to swing a ram. (Tiny or smaller creatures can’t use a ram.)
+**Ram:** This heavy pole is sometimes suspended from a movable scaffold that allows the crew to swing it back and forth against objects. As a full-round action, the character closest to the front of the ram makes an attack roll against the AC of the construction, applying the –4 penalty for lack of proficiency. (It’s not possible to be proficient with this device.) In addition to the damage given on Table: Siege Engines, up to nine other characters holding the ram can add their Strength modifier to the ram’s damage, if they devote an attack action to doing so. It takes at least one Huge or larger creature, two Large creatures, four Medium-size creatures, or eight Small creatures to swing a ram. (Tiny or smaller creatures can’t use a ram.)
 
 A ram is typically 30 feet long. In a battle, the creatures wielding the ram stand in two adjacent columns of equal length, with the ram between them.
 
-**Siege Tower:**This device is a massive wooden tower on wheels or rollers that can be rolled up against a wall to allow attackers to scale the tower and thus to get to the top of the wall with cover. The wooden walls are usually 1 foot thick.
+**Siege Tower:** This device is a massive wooden tower on wheels or rollers that can be rolled up against a wall to allow attackers to scale the tower and thus to get to the top of the wall with cover. The wooden walls are usually 1 foot thick.
 
 A typical siege tower takes up a space 15 feet across. The creatures inside push it at a speed of 10 feet (and a siege tower can’t run). The eight creatures pushing on the ground floor have total cover, and those on higher floors get improved cover and can fire through arrow slits.
 
@@ -1554,7 +1554,7 @@ Typical city streets are narrow and twisting. Most streets average 15 to 20 feet
 
 Some cities have no larger thoroughfares, particularly cities that gradually grew from small settlements to larger cities. Cities that are planned, or perhaps have suffered a major fire that allowed authorities to construct new roads through formerly inhabited areas, might have a few larger streets through town. These main roads are 25 feet wide—offering room for wagons to pass each other—with 5-foot-wide sidewalks on either side.
 
-**Crowds:**Urban streets are often full of people going about their daily lives. In most cases, it isn’t necessary to put every 1st-level commoner on the map when a fight breaks out on the city’s main thoroughfare. Instead just indicate which squares on the map contain crowds. If crowds see something obviously dangerous, they’ll move away at 30 feet per round at initiative count 0. It takes 2 squares of movement to enter a square with crowds. The crowds provide cover for anyone who does so, enabling a Hide check and providing a bonus to Armor Class and on Reflex saves.
+**Crowds:** Urban streets are often full of people going about their daily lives. In most cases, it isn’t necessary to put every 1st-level commoner on the map when a fight breaks out on the city’s main thoroughfare. Instead just indicate which squares on the map contain crowds. If crowds see something obviously dangerous, they’ll move away at 30 feet per round at initiative count 0. It takes 2 squares of movement to enter a square with crowds. The crowds provide cover for anyone who does so, enabling a Hide check and providing a bonus to Armor Class and on Reflex saves.
 
 Directing Crowds:It takes a DC 15 Diplomacy check or DC 20 Intimidate check to convince a crowd to move in a particular direction, and the crowd must be able to hear or see the character making the attempt. It takes a full-round action to make the Diplomacy check, but only a free action to make the Intimidate check.
 
@@ -1566,11 +1566,11 @@ If two or more characters are trying to direct a crowd in different directions, 
 
 #### Above and beneath the Streets
 
-**Rooftops:**Getting to a roof usually requires climbing a wall (see the Walls section), unless the character can reach a roof by jumping down from a higher window, balcony, or bridge. Flat roofs, common only in warm climates (accumulated snow can cause a flat roof to collapse), are easy to run across. Moving along the peak of a roof requires a DC 20 Balance check. Moving on an angled roof surface without changing altitude (moving parallel to the peak, in other words) requires a DC 15 Balance check. Moving up and down across the peak of a roof requires a DC 10 Balance check.
+**Rooftops:** Getting to a roof usually requires climbing a wall (see the Walls section), unless the character can reach a roof by jumping down from a higher window, balcony, or bridge. Flat roofs, common only in warm climates (accumulated snow can cause a flat roof to collapse), are easy to run across. Moving along the peak of a roof requires a DC 20 Balance check. Moving on an angled roof surface without changing altitude (moving parallel to the peak, in other words) requires a DC 15 Balance check. Moving up and down across the peak of a roof requires a DC 10 Balance check.
 
 Eventually a character runs out of roof, requiring a long jump across to the next roof or down to the ground. The distance to the next closest roof is usually 1d3×5 feet horizontally, but the roof across the gap is equally likely to be 5 feet higher, 5 feet lower, or the same height. Use the guidelines in the Jump skill(a horizontal jump’s peak height is one-fourth of the horizontal distance) to determine whether a character can make a jump.
 
-**Sewers:**To get into the sewers, most characters open a grate (a full-round action) and jump down 10 feet. Sewers are built exactly like dungeons, except that they’re much more likely to have floors that are slippery or covered with water. Sewers are also similar to dungeons in terms of creatures liable to be encountered therein. Some cities were built atop the ruins of older civilizations, so their sewers sometimes lead to treasures and dangers from a bygone age.
+**Sewers:** To get into the sewers, most characters open a grate (a full-round action) and jump down 10 feet. Sewers are built exactly like dungeons, except that they’re much more likely to have floors that are slippery or covered with water. Sewers are also similar to dungeons in terms of creatures liable to be encountered therein. Some cities were built atop the ruins of older civilizations, so their sewers sometimes lead to treasures and dangers from a bygone age.
 
 #### 
 
@@ -1672,29 +1672,29 @@ Sometimes weather can play an important role in an adventure.
 
 Table: Random Weather is an appropriate weather table for general use, and can be used as a basis for a local weather tables. Terms on that table are defined as follows.
 
-**Calm:**Wind speeds are light (0 to 10 mph).
+**Calm:** Wind speeds are light (0 to 10 mph).
 
-**Cold:**Between 0° and 40° Fahrenheit during the day, 10 to 20 degrees colder at night.
+**Cold:** Between 0° and 40° Fahrenheit during the day, 10 to 20 degrees colder at night.
 
-**Cold Snap:**Lowers temperature by –10° F.
+**Cold Snap:** Lowers temperature by –10° F.
 
-**Downpour:**Treat as rain (see Precipitation, below), but conceals as fog. Can create floods (see above). A downpour lasts for 2d4 hours.
+**Downpour:** Treat as rain (see Precipitation, below), but conceals as fog. Can create floods (see above). A downpour lasts for 2d4 hours.
 
-**Heat Wave:**Raises temperature by +10° F.
+**Heat Wave:** Raises temperature by +10° F.
 
-**Hot:**Between 85° and 110° Fahrenheit during the day, 10 to 20 degrees colder at night.
+**Hot:** Between 85° and 110° Fahrenheit during the day, 10 to 20 degrees colder at night.
 
-**Moderate:**Between 40° and 60° Fahrenheit during the day, 10 to 20 degrees colder at night.
+**Moderate:** Between 40° and 60° Fahrenheit during the day, 10 to 20 degrees colder at night.
 
-**Powerful Storm****(Windstorm/Blizzard/Hurricane/Tornado):**Wind speeds are over 50 mph (see Table: Wind Effects). In addition, blizzards are accompanied by heavy snow (1d3 feet), and hurricanes are accompanied by downpours (see above). Windstorms last for 1d6 hours. Blizzards last for 1d3 days. Hurricanes can last for up to a week, but their major impact on characters will come in a 24-to-48-hour period when the center of the storm moves through their area. Tornadoes are very short-lived (1d6×10 minutes), typically forming as part of a thunderstorm system.
+**Powerful Storm** **(Windstorm/Blizzard/Hurricane/Tornado):** Wind speeds are over 50 mph (see Table: Wind Effects). In addition, blizzards are accompanied by heavy snow (1d3 feet), and hurricanes are accompanied by downpours (see above). Windstorms last for 1d6 hours. Blizzards last for 1d3 days. Hurricanes can last for up to a week, but their major impact on characters will come in a 24-to-48-hour period when the center of the storm moves through their area. Tornadoes are very short-lived (1d6×10 minutes), typically forming as part of a thunderstorm system.
 
-**Precipitation:**Roll d% to determine whether the precipitation is fog (01–30), rain/snow (31–90), or sleet/hail (91–00). Snow and sleet occur only when the temperature is 30° Fahrenheit or below. Most precipitation lasts for 2d4 hours. By contrast, hail lasts for only 1d20 minutes but usually accompanies 1d4 hours of rain.
+**Precipitation:** Roll d% to determine whether the precipitation is fog (01–30), rain/snow (31–90), or sleet/hail (91–00). Snow and sleet occur only when the temperature is 30° Fahrenheit or below. Most precipitation lasts for 2d4 hours. By contrast, hail lasts for only 1d20 minutes but usually accompanies 1d4 hours of rain.
 
-**Storm****(Duststorm/Snowstorm/Thunderstorm):**Wind speeds are severe (30 to 50 mph) and visibility is cut by three-quarters. Storms last for 2d4–1 hours. See Storms, below, for more details.
+**Storm** **(Duststorm/Snowstorm/Thunderstorm):** Wind speeds are severe (30 to 50 mph) and visibility is cut by three-quarters. Storms last for 2d4–1 hours. See Storms, below, for more details.
 
-**Warm:**Between 60° and 85° Fahrenheit during the day, 10 to 20 degrees colder at night.
+**Warm:** Between 60° and 85° Fahrenheit during the day, 10 to 20 degrees colder at night.
 
-**Windy:**Wind speeds are moderate to strong (10 to 30 mph); see Table: Wind Effects on the following page.
+**Windy:** Wind speeds are moderate to strong (10 to 30 mph); see Table: Wind Effects on the following page.
 
 
 
@@ -1790,7 +1790,7 @@ Snowstorm:In addition to the wind and precipitation common to other storms, snow
 
 Thunderstorm:In addition to wind and precipitation (usually rain, but sometimes also hail), thunderstorms are accompanied by lightning that can pose a hazard to characters without proper shelter (especially those in metal armor). As a rule of thumb, assume one bolt per minute for a 1-hour period at the center of the storm. Each bolt causes electricity damage equal to 1d10 eight-sided dice. One in ten thunderstorms is accompanied by a tornado (see below).
 
-**Powerful Storms:**Very high winds and torrential precipitation reduce visibility to zero, making Spot, Search, and Listen checks and all ranged weapon attacks impossible. Unprotected flames are automatically extinguished, and protected flames have a 75% chance of being doused. Creatures caught in the area must make a DC 20 Fortitude save or face the effects based on the size of the creature (see Table: Wind Effects). Powerful storms are divided into the
+**Powerful Storms:** Very high winds and torrential precipitation reduce visibility to zero, making Spot, Search, and Listen checks and all ranged weapon attacks impossible. Unprotected flames are automatically extinguished, and protected flames have a 75% chance of being doused. Creatures caught in the area must make a DC 20 Fortitude save or face the effects based on the size of the creature (see Table: Wind Effects). Powerful storms are divided into the
 
 following four types.
 
@@ -2160,13 +2160,13 @@ A creature blinded by darkness can make a Listen check as a free action each rou
 
 FALLING
 
-**Falling Damage:**The basic rule is simple: 1d6 points of damage per 10 feet fallen, to a maximum of 20d6.
+**Falling Damage:** The basic rule is simple: 1d6 points of damage per 10 feet fallen, to a maximum of 20d6.
 
 If a character deliberately jumps instead of merely slipping or falling, the damage is the same but the first 1d6 is nonlethal damage. A DC 15 Jump check or DC 15 Tumble check allows the character to avoid any damage from the first 10 feet fallen and converts any damage from the second 10 feet to nonlethal damage. Thus, a character who slips from a ledge 30 feet up takes 3d6 damage. If the same character deliberately jumped, he takes 1d6 points of nonlethal damage and 2d6 points of lethal damage. And if the character leaps down with a successful Jump or Tumble check, he takes only 1d6 points of nonlethal damage and 1d6 points of lethal damage from the plunge.
 
 Falls onto yielding surfaces (soft ground, mud) also convert the first 1d6 of damage to nonlethal damage. This reduction is cumulative with reduced damage due to deliberate jumps and the Jump skill.
 
-**Falling into Water:**Falls into water are handled somewhat differently. If the water is at least 10 feet deep, the first 20 feet of falling do no damage. The next 20 feet do nonlethal damage (1d3 per 10-foot increment). Beyond that, falling damage is lethal damage (1d6 per additional 10-foot increment).
+**Falling into Water:** Falls into water are handled somewhat differently. If the water is at least 10 feet deep, the first 20 feet of falling do no damage. The next 20 feet do nonlethal damage (1d3 per 10-foot increment). Beyond that, falling damage is lethal damage (1d6 per additional 10-foot increment).
 
 Characters who deliberately dive into water take no damage on a successful DC 15 Swim check or DC 15 Tumble check, so long as the water is at least 10 feet deep for every 30 feet fallen. However, the DC of the check increases by 5 for every 50 feet of the dive.
 
@@ -2294,7 +2294,7 @@ A character who has no air to breathe can hold her breath for 2 rounds per point
 
 When the character fails one of these Constitution checks, she begins to suffocate. In the first round, she falls unconscious (0 hit points). In the following round, she drops to –1 hit points and is dying. In the third round, she suffocates.
 
-**Slow Suffocation:**A Medium character can breathe easily for 6 hours in a sealed chamber measuring 10 feet on a side. After that time, the character takes 1d6 points of nonlethal damage every 15 minutes. Each additional Medium character or significant fire source (a torch, for example) proportionally reduces the time the air will last.
+**Slow Suffocation:** A Medium character can breathe easily for 6 hours in a sealed chamber measuring 10 feet on a side. After that time, the character takes 1d6 points of nonlethal damage every 15 minutes. Each additional Medium character or significant fire source (a torch, for example) proportionally reduces the time the air will last.
 
 Small characters consume half as much air as Medium characters. A larger volume of air, of course, lasts for a longer time.
 

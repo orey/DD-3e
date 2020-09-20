@@ -12,21 +12,21 @@ Telekinesis
 
 Transmutation
 
-**Level:**Sor/Wiz 5
+**Level:** Sor/Wiz 5
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Long (400 ft. + 40 ft./level)
+**Range:** Long (400 ft. + 40 ft./level)
 
-**Target or Targets:**See text
+**Target or Targets:** See text
 
-**Duration:**Concentration (up to 1 round/ level) or instantaneous; see text
+**Duration:** Concentration (up to 1 round/ level) or instantaneous; see text
 
-**Saving Throw:**Will negates (object) or None; see text
+**Saving Throw:** Will negates (object) or None; see text
 
-**Spell Resistance:**Yes (object); see text
+**Spell Resistance:** Yes (object); see text
 
 You move objects or creatures by concentrating on them. Depending on the version selected, the spell can provide a gentle, sustained force, perform a variety of combat maneuvers, or exert a single short, violent thrust.
 
@@ -52,21 +52,21 @@ Telekinetic Sphere
 
 Evocation [Force]
 
-**Level:**Sor/Wiz 8
+**Level:** Sor/Wiz 8
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Effect:**1-ft.-diameter/level sphere, centered around creatures or objects
+**Effect:** 1-ft.-diameter/level sphere, centered around creatures or objects
 
-**Duration:**1 min./level (D)
+**Duration:** 1 min./level (D)
 
-**Saving Throw:**Reflex negates (object)
+**Saving Throw:** Reflex negates (object)
 
-**Spell Resistance:**Yes (object)
+**Spell Resistance:** Yes (object)
 
 This spell functions likeresilient sphere,with the addition that the creatures or objects inside the globe are nearly weightless. Anything contained within antelekinetic sphereweighs only one-sixteenth of its normal weight. You can telekinetically lift anything in the sphere that normally weighs 5,000 pounds or less. The telekinetic control extends from you out to medium range (100 feet + 10 feet per caster level) after the sphere has succeeded in encapsulating its contents.
 
@@ -86,21 +86,21 @@ Telepathic Bond
 
 Divination
 
-**Level:**Sor/Wiz 5
+**Level:** Sor/Wiz 5
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Targets:**You plus one willing creature per three levels, no two of which can be more than 30 ft. apart
+**Targets:** You plus one willing creature per three levels, no two of which can be more than 30 ft. apart
 
-**Duration:**10 min./level (D)
+**Duration:** 10 min./level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You forge a telepathic bond among yourself and a number of willing creatures, each of which must have an Intelligence score of 3 or higher. Each creature included in the link is linked to all the others. The creatures can communicate telepathically through the bond regardless of language. No special power or influence is established as a result of the bond. Once the bond is formed, it works over any distance (although not from one plane to another).
 
@@ -118,21 +118,21 @@ Teleport
 
 Conjuration (Teleportation)
 
-**Level:**Sor/Wiz 5, Travel 5
+**Level:** Sor/Wiz 5, Travel 5
 
-**Components:**V
+**Components:** V
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Personal and touch
+**Range:** Personal and touch
 
-**Target:**You and touched objects or other touched willing creatures
+**Target:** You and touched objects or other touched willing creatures
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None and Will negates (object)
+**Saving Throw:** None and Will negates (object)
 
-**Spell Resistance:**No and Yes (object)
+**Spell Resistance:** No and Yes (object)
 
 This spell instantly transports you to a designated destination, which may be as distant as 100 miles per caster level. Interplanar travel is not possible. You can bring along objects as long as their weight doesn’t exceed your maximum load. You may also bring one additional willing Medium or smaller creature (carrying gear or objects up to its maximum load) or its equivalent (see below) per three caster levels. A Large creature counts as two Medium creatures, a Huge creature counts as two Large creatures, and so forth. All creatures to be transported must be in contact with one another, and at least one of those creatures must be in contact with you. As with all spells where the range is personal and the target is you, you need not make a saving throw, nor is spell resistance applicable to you. Only objects held or in use (attended) by another person receive saving throws and spell resistance.
 
@@ -226,15 +226,15 @@ Teleport Object
 
 Conjuration (Teleportation)
 
-**Level:**Sor/Wiz 7
+**Level:** Sor/Wiz 7
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**One touched object of up to 50 lb./level and 3 cu. ft./level
+**Target:** One touched object of up to 50 lb./level and 3 cu. ft./level
 
-**Saving Throw:**Will negates (object)
+**Saving Throw:** Will negates (object)
 
-**Spell Resistance:**Yes (object)
+**Spell Resistance:** Yes (object)
 
 This spell functions liketeleport,except that it teleports an object, not you. Creatures and magical forces cannot be teleported.
 
@@ -248,7 +248,7 @@ Teleport, Greater
 
 Conjuration (Teleportation)
 
-**Level:**Sor/Wiz 7, Travel 7
+**Level:** Sor/Wiz 7, Travel 7
 
 This spell functions liketeleport,except that there is no range limit and there is no chance you arrive off target. In addition, you need not have seen the destination, but in that case you must have at least a reliable description of the place to which you are teleporting. If you attempt to teleport with insufficient information (or with misleading information), you disappear and simply reappear in your original location. Interplanar travel is not possible.
 
@@ -260,21 +260,21 @@ Teleportation Circle
 
 Conjuration (Teleportation)
 
-**Level:**Sor/Wiz 9
+**Level:** Sor/Wiz 9
 
-**Components:**V, M
+**Components:** V, M
 
-**Casting Time:**10 minutes
+**Casting Time:** 10 minutes
 
-**Range:**0 ft.
+**Range:** 0 ft.
 
-**Effect:**5-ft.-radius circle that teleports those who activate it
+**Effect:** 5-ft.-radius circle that teleports those who activate it
 
-**Duration:**10 min./level (D)
+**Duration:** 10 min./level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 You create a circle on the floor or other horizontal surface that teleports, asgreater teleport,any creature who stands on it to a designated spot. Once you designate the destination for the circle, you can’t change it. The spell fails if you attempt to set the circle to teleport creatures into a solid object, to a place with which you are not familiar and have no clear description, or to another plane.
 
@@ -294,21 +294,21 @@ Temporal Stasis
 
 Transmutation
 
-**Level:**Sor/Wiz 8
+**Level:** Sor/Wiz 8
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**Permanent
+**Duration:** Permanent
 
-**Saving Throw:**Fortitude negates
+**Saving Throw:** Fortitude negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 You must succeed on a melee touch attack. You place the subject into a state of suspended animation. For the creature, time ceases to flow and its condition becomes fixed. The creature does not grow older. Its body functions virtually cease, and no force or effect can harm it. This state persists until the magic is removed (such as by a successfuldispel magicspell or afreedomspell).
 
@@ -322,17 +322,17 @@ Time Stop
 
 Transmutation
 
-**Level:**Sor/Wiz 9, Trickery 9
+**Level:** Sor/Wiz 9, Trickery 9
 
-**Components:**V
+**Components:** V
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1d4+1 rounds (apparent time); see text
+**Duration:** 1d4+1 rounds (apparent time); see text
 
 This spell seems to make time cease to flow for everyone but you. In fact, you speed up so greatly that all other creatures seem frozen, though they are actually still moving at their normal speeds. You are free to act for 1d4+1 rounds of apparent time. Normal and magical fire, cold, gas, and the like can still harm you. While thetime stopis in effect, other creatures are invulnerable to your attacks and spells; you cannot target such creatures with any attack or spell. A spell that affects an area and has a duration longer than the remaining duration of thetime stophave their normal effects on other creatures once thetime stopends. Most spellcasters use the additional time to improve their defenses, summon allies, or flee from combat.
 
@@ -348,21 +348,21 @@ Tiny Hut
 
 Evocation [Force]
 
-**Level:**Brd 3, Sor/Wiz 3
+**Level:** Brd 3, Sor/Wiz 3
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**20 ft.
+**Range:** 20 ft.
 
-**Effect:**20-ft.-radius sphere centered on your location
+**Effect:** 20-ft.-radius sphere centered on your location
 
-**Duration:**2 hours/level (D)
+**Duration:** 2 hours/level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You create an unmoving, opaque sphere of force of any color you desire around yourself. Half the sphere projects above the ground, and the lower hemisphere passes through the ground. As many as nine other Medium creatures can fit into the field with you; they can freely pass into and out of the hut without harming it. However, if you remove yourself from the hut, the spell ends.
 
@@ -380,21 +380,21 @@ Tongues
 
 Divination
 
-**Level:**Brd 2, Clr 4, Sor/Wiz 3
+**Level:** Brd 2, Clr 4, Sor/Wiz 3
 
-**Components:**V, M/DF
+**Components:** V, M/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**10 min./level
+**Duration:** 10 min./level
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 This spell grants the creature touched the ability to speak and understand the language of any intelligent creature, whether it is a racial tongue or a regional dialect. The subject can speak only one language at a time, although it may be able to understand several languages.Tonguesdoes not enable the subject to speak with creatures who don’t speak. The subject can make itself understood as far as its voice carries. This spell does not predispose any creature addressed toward the subject in any way.
 
@@ -410,21 +410,21 @@ Touch of Fatigue
 
 Necromancy
 
-**Level:**Sor/Wiz 0
+**Level:** Sor/Wiz 0
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**1 round/level
+**Duration:** 1 round/level
 
-**Saving Throw:**Fortitude negates
+**Saving Throw:** Fortitude negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 You channel negative energy through your touch, fatiguing the target. You must succeed on a touch attack to strike a target.
 
@@ -442,21 +442,21 @@ Touch of Idiocy
 
 Enchantment (Compulsion) [Mind-Affecting]
 
-**Level:**Sor/Wiz 2
+**Level:** Sor/Wiz 2
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Living creature touched
+**Target:** Living creature touched
 
-**Duration:**10 min./level
+**Duration:** 10 min./level
 
-**Saving Throw:**No
+**Saving Throw:** No
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 With a touch, you reduce the target’s mental faculties. Your successful melee touch attack applies a 1d6 penalty to the target’s Intelligence, Wisdom, and Charisma scores. This penalty can’t reduce any of these scores below 1.
 
@@ -470,17 +470,17 @@ Transformation
 
 Transmutation
 
-**Level:**Sor/Wiz 6
+**Level:** Sor/Wiz 6
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 round/level
+**Duration:** 1 round/level
 
 You become a virtual fighting machine— stronger, tougher, faster, and more skilled in combat. Your mind-set changes so that you relish combat and you can’t cast spells, even from magic items.
 
@@ -498,21 +498,21 @@ Transmute Metal to Wood
 
 Transmutation
 
-**Level:**Drd 7
+**Level:** Drd 7
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Long (400 ft. + 40 ft./level)
+**Range:** Long (400 ft. + 40 ft./level)
 
-**Area:**All metal objects within a 40-ft.-radius burst
+**Area:** All metal objects within a 40-ft.-radius burst
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**Yes (object; see text)
+**Spell Resistance:** Yes (object; see text)
 
 This spell enables you to change all metal objects within its area to wood. Weapons, armor, and other metal objects carried by creatures are affected as well. A magic object made of metal effectively has spell resistance equal to 20 + its caster level against this spell. Artifacts cannot be transmuted. Weapons converted from metal to wood take a –2 penalty on attack and damage rolls. The armor bonus of any armor converted from metal to wood is reduced by 2. Weapons changed by this spell splinter and break on any natural attack roll of 1 or 2, and armor changed by this spell loses an additional point of armor bonus every time it is struck with a natural attack roll of 19 or 20.
 
@@ -526,21 +526,21 @@ Transmute Mud to Rock
 
 Transmutation [Earth]
 
-**Level:**Drd 5, Sor/Wiz 5
+**Level:** Drd 5, Sor/Wiz 5
 
-**Components:**V, S, M/DF
+**Components:** V, S, M/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Area:**Up to two 10-ft. cubes/level (S)
+**Area:** Up to two 10-ft. cubes/level (S)
 
-**Duration:**Permanent
+**Duration:** Permanent
 
-**Saving Throw:**See text
+**Saving Throw:** See text
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 This spell transforms normal mud or quicksand of any depth into soft stone (sandstone or a similar mineral) permanently.
 
@@ -558,21 +558,21 @@ Transmute Rock to Mud
 
 Transmutation [Earth]
 
-**Level:**Drd 5, Sor/Wiz 5
+**Level:** Drd 5, Sor/Wiz 5
 
-**Components:**V, S, M/DF
+**Components:** V, S, M/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Area:**Up to two 10-ft. cubes/level (S)
+**Area:** Up to two 10-ft. cubes/level (S)
 
-**Duration:**Permanent; see text
+**Duration:** Permanent; see text
 
-**Saving Throw:**See text
+**Saving Throw:** See text
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 This spell turns natural, uncut or unworked rock of any sort into an equal volume of mud. Magical stone is not affected by the spell. The depth of the mud created cannot exceed 10 feet. A creature unable to levitate, fly, or otherwise free itself from the mud sinks until hip- or chest-deep, reducing its speed to 5 feet and causing a –2 penalty on attack rolls and AC. Brush thrown atop the mud can support creatures able to climb on top of it. Creatures large enough to walk on the bottom can wade through the area at a speed of 5 feet.
 
@@ -592,21 +592,21 @@ Transport via Plants
 
 Conjuration (Teleportation)
 
-**Level:**Drd 6
+**Level:** Drd 6
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Unlimited
+**Range:** Unlimited
 
-**Target:**You and touched objects or other touched willing creatures
+**Target:** You and touched objects or other touched willing creatures
 
-**Duration:**1 round
+**Duration:** 1 round
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You can enter any normal plant (Medium or larger) and pass any distance to a plant of the same kind in a single round, regardless of the distance separating the two. The entry plant must be alive. The destination plant need not be familiar to you, but it also must be alive. If you are uncertain of the location of a particular kind of destination plant, you need merely designate direction and distance and thetransport via plantsspell moves you as close as possible to the desired location. If a particular destination plant is desired but the plant is not living, the spell fails and you are ejected from the entry plant.
 
@@ -624,21 +624,21 @@ Trap the Soul
 
 Conjuration (Summoning)
 
-**Level:**Sor/Wiz 8
+**Level:** Sor/Wiz 8
 
-**Components:**V, S, M, (F); see text
+**Components:** V, S, M, (F); see text
 
-**Casting Time:**1 standard action or see text
+**Casting Time:** 1 standard action or see text
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One creature
+**Target:** One creature
 
-**Duration:**Permanent; see text
+**Duration:** Permanent; see text
 
-**Saving Throw:**See text
+**Saving Throw:** See text
 
-**Spell Resistance:**Yes; see text
+**Spell Resistance:** Yes; see text
 
 Trap the soulforces a creature’s life force (and its material body) into a gem. The gem holds the trapped entity indefinitely or until the gem is broken and the life force is released, which allows the material body to reform. If the trapped creature is a powerful creature from another plane it can be required to perform a service immediately upon being freed. Otherwise, the creature can go free once the gem imprisoning it is broken.
 
@@ -660,17 +660,17 @@ Tree Shape
 
 Transmutation
 
-**Level:**Drd 2, Rgr 3
+**Level:** Drd 2, Rgr 3
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 hour/level (D)
+**Duration:** 1 hour/level (D)
 
 By means of this spell, you are able to assume the form of a Large living tree or shrub or a Large dead tree trunk with a small number of limbs. The closest inspection cannot reveal that the tree in question is actually a magically concealed creature. To all normal tests you are, in fact, a tree or shrub, although adetect magicspell reveals a faint transmutation on the tree. While in tree form, you can observe all that transpires around you just as if you were in your normal form, and your hit points and save bonuses remain unaffected. You gain a +10 natural armor bonus to AC but have an effective Dexterity score of 0 and a speed of 0 feet. You are immune to critical hits while in tree form. All clothing and gear carried or worn changes with you.
 
@@ -684,17 +684,17 @@ Tree Stride
 
 Conjuration (Teleportation)
 
-**Level:**Drd 5, Rgr 4
+**Level:** Drd 5, Rgr 4
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**1 hour/level or until expended; see text
+**Duration:** 1 hour/level or until expended; see text
 
 You gain the ability to enter trees and move from inside one tree to inside another tree. The first tree you enter and all others you enter must be of the same kind, must be living, and must have girth at least equal to yours. By moving into an oak tree (for example), you instantly know the location of all other oak trees within transport range (see below) and may choose whether you want to pass into one or simply step back out of the tree you moved into. You may choose to pass to any tree of the appropriate kind within the transport range as shown on the following table.
 
@@ -738,9 +738,9 @@ True Resurrection
 
 Conjuration (Healing)
 
-**Level:**Clr 9
+**Level:** Clr 9
 
-**Casting Time:**10 minutes
+**Casting Time:** 10 minutes
 
 This spell functions likeraise dead,except that you can resurrect a creature that has been dead for as long as 10 years per caster level. This spell can even bring back creatures whose bodies have been destroyed, provided that you unambiguously identify the deceased in some fashion (reciting the deceased’s time and place of birth or death is the most common method).
 
@@ -760,21 +760,21 @@ True Seeing
 
 Divination
 
-**Level:**Clr 5, Drd 7, Knowledge 5, Sor/Wiz 6
+**Level:** Clr 5, Drd 7, Knowledge 5, Sor/Wiz 6
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
-**Spell Resistance:**Yes (harmless)
+**Spell Resistance:** Yes (harmless)
 
 You confer on the subject the ability to see all things as they actually are. The subject sees through normal and magical darkness, notices secret doors hidden by magic, sees the exact locations of creatures or objects underblurordisplacementeffects, sees invisible creatures or objects normally, sees through illusions, and sees the true form of polymorphed, changed, or transmuted things. Further, the subject can focus its vision to see into the Ethereal Plane (but not into extradimensional spaces). The range oftrue seeingconferred is 120 feet.
 
@@ -790,17 +790,17 @@ True Strike
 
 Divination
 
-**Level:**Sor/Wiz 1
+**Level:** Sor/Wiz 1
 
-**Components:**V, F
+**Components:** V, F
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Personal
+**Range:** Personal
 
-**Target:**You
+**Target:** You
 
-**Duration:**See text
+**Duration:** See text
 
 You gain temporary, intuitive insight into the immediate future during your next attack. Your next single attack roll (if it is made before the end of the next round) gains a +20 insight bonus. Additionally, you are not affected by the miss chance that applies to attackers trying to strike a concealed target.
 
@@ -814,13 +814,13 @@ Undeath to Death
 
 Necromancy
 
-**Level:**Clr 6, Sor/Wiz 6
+**Level:** Clr 6, Sor/Wiz 6
 
-**Components:**V, S, M/DF
+**Components:** V, S, M/DF
 
-**Area:**Several undead creatures within a 40-ft.-radius burst
+**Area:** Several undead creatures within a 40-ft.-radius burst
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
 This spell functions likecircle of death, except that it destroys undead creatures as noted above.
 
@@ -834,21 +834,21 @@ Undetectable Alignment
 
 Abjuration
 
-**Level:**Brd 1, Clr 2, Pal 2
+**Level:** Brd 1, Clr 2, Pal 2
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**One creature or object
+**Target:** One creature or object
 
-**Duration:**24 hours
+**Duration:** 24 hours
 
-**Saving Throw:**Will negates (object)
+**Saving Throw:** Will negates (object)
 
-**Spell Resistance:**Yes (object)
+**Spell Resistance:** Yes (object)
 
 Anundetectable alignmentspell conceals the alignment of an object or a creature from all forms of divination.
 
@@ -860,21 +860,21 @@ Unhallow
 
 Evocation [Evil]
 
-**Level:**Clr 5, Drd 5
+**Level:** Clr 5, Drd 5
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**24 hours
+**Casting Time:** 24 hours
 
-**Range:**Touch
+**Range:** Touch
 
-**Area:**40-ft. radius emanating from the touched point
+**Area:** 40-ft. radius emanating from the touched point
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**See text
+**Saving Throw:** See text
 
-**Spell Resistance:**See text
+**Spell Resistance:** See text
 
 Unhallowmakes a particular site, building, or structure an unholy site. This has three major effects.
 
@@ -902,21 +902,21 @@ Unholy Aura
 
 Abjuration [Evil]
 
-**Level:**Clr 8, Evil 8
+**Level:** Clr 8, Evil 8
 
-**Components:**V, S, F
+**Components:** V, S, F
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**20 ft.
+**Range:** 20 ft.
 
-**Targets:**One creature/level in a 20-ft.-radius burst centered on you
+**Targets:** One creature/level in a 20-ft.-radius burst centered on you
 
-**Duration:**1 round/level (D)
+**Duration:** 1 round/level (D)
 
-**Saving Throw:**See text
+**Saving Throw:** See text
 
-**Spell Resistance:**Yes (harmless)
+**Spell Resistance:** Yes (harmless)
 
 A malevolent darkness surrounds the subjects, protecting them from attacks, granting them resistance to spells cast by good creatures, and weakening good creatures when they strike the subjects. This abjuration has four effects.
 
@@ -938,21 +938,21 @@ Unholy Blight
 
 Evocation [Evil]
 
-**Level:**Evil 4
+**Level:** Evil 4
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Area:**20-ft.-radius spread
+**Area:** 20-ft.-radius spread
 
-**Duration:**Instantaneous (1d4 rounds); see text
+**Duration:** Instantaneous (1d4 rounds); see text
 
-**Saving Throw:**Will partial
+**Saving Throw:** Will partial
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 You call up unholy power to smite your enemies. The power takes the form of a cold, cloying miasma of greasy darkness.
 
@@ -970,21 +970,21 @@ Unseen Servant
 
 Conjuration (Creation)
 
-**Level:**Brd 1, Sor/Wiz 1
+**Level:** Brd 1, Sor/Wiz 1
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Effect:**One invisible, mindless, shapeless servant
+**Effect:** One invisible, mindless, shapeless servant
 
-**Duration:**1 hour/level
+**Duration:** 1 hour/level
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 Anunseen servantis an invisible, mindless, shapeless force that performs simple tasks at your command. It can run and fetch things, open unstuck doors, and hold chairs, as well as clean and mend. The servant can perform only one activity at a time, but it repeats the same activity over and over again if told to do so as long as you remain within range. It can open only normal doors, drawers, lids, and the like. It has an effective Strength score of 2 (so it can lift 20 pounds or drag 100 pounds). It can trigger traps and such, but it can exert only 20 pounds of force, which is not enough to activate certain pressure plates and other devices. It can’t perform any task that requires a skill check with a DC higher than 10 or that requires a check using a skill that can’t be used untrained. Its speed is 15 feet.
 
@@ -1000,21 +1000,21 @@ Vampiric Touch
 
 Necromancy
 
-**Level:**Sor/Wiz 3
+**Level:** Sor/Wiz 3
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Living creature touched
+**Target:** Living creature touched
 
-**Duration:**Instantaneous/1 hour; see text
+**Duration:** Instantaneous/1 hour; see text
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 You must succeed on a melee touch attack. Your touch deals 1d6 points of damage per two caster levels (maximum 10d6). You gain temporary hit points equal to the damage you deal. However, you can’t gain more than the subject’s current hit points +10, which is enough to kill the subject. The temporary hit points disappear 1 hour later.
 
@@ -1026,21 +1026,21 @@ Veil
 
 Illusion (Glamer)
 
-**Level:**Brd 6, Sor/Wiz 6
+**Level:** Brd 6, Sor/Wiz 6
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Long (400 ft. + 40 ft./level)
+**Range:** Long (400 ft. + 40 ft./level)
 
-**Targets:**One or more creatures, no two of which can be more than 30 ft. apart
+**Targets:** One or more creatures, no two of which can be more than 30 ft. apart
 
-**Duration:**Concentration + 1 hour/level (D)
+**Duration:** Concentration + 1 hour/level (D)
 
-**Saving Throw:**Will negates; see text
+**Saving Throw:** Will negates; see text
 
-**Spell Resistance:**Yes; see text
+**Spell Resistance:** Yes; see text
 
 You instantly change the appearance of the subjects and then maintain that appearance for the spell’s duration. You can make the subjects appear to be anything you wish. The subjects look, feel, and smell just like the creatures the spell makes them resemble. Affected creatures resume their normal appearances if slain. You must succeed on a Disguise check to duplicate the appearance of a specific individual. This spell gives you a +10 bonus on the check.
 
@@ -1054,21 +1054,21 @@ Ventriloquism
 
 Illusion (Figment)
 
-**Level:**Brd 1, Sor/Wiz 1
+**Level:** Brd 1, Sor/Wiz 1
 
-**Components:**V, F
+**Components:** V, F
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Effect:**Intelligible sound, usually speech
+**Effect:** Intelligible sound, usually speech
 
-**Duration:**1 min./level (D)
+**Duration:** 1 min./level (D)
 
-**Saving Throw:**Will disbelief (if interacted with)
+**Saving Throw:** Will disbelief (if interacted with)
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You can make your voice (or any sound that you can normally make vocally) seem to issue from someplace else. You can speak in any language you know. With respect to such voices and sounds, anyone who hears the sound and rolls a successful save recognizes it as illusory (but still hears it).
 
@@ -1082,21 +1082,21 @@ Virtue
 
 Transmutation
 
-**Level:**Clr 0, Drd 0, Pal 1
+**Level:** Clr 0, Drd 0, Pal 1
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Creature touched
+**Target:** Creature touched
 
-**Duration:**1 min.
+**Duration:** 1 min.
 
-**Saving Throw:**Fortitude negates (harmless)
+**Saving Throw:** Fortitude negates (harmless)
 
-**Spell Resistance:**Yes (harmless)
+**Spell Resistance:** Yes (harmless)
 
 The subject gains 1 temporary hit point.
 
@@ -1108,11 +1108,11 @@ Vision
 
 Divination
 
-**Level:**Sor/Wiz 7
+**Level:** Sor/Wiz 7
 
-**Components:**V, S, M, XP
+**Components:** V, S, M, XP
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
 This spell functions likelegend lore,except that it works more quickly but produces some strain on you. You pose a question about some person, place, or object, then cast the spell. If the person or object is at hand or if you are in the place in question, you receive a vision about it by succeeding on a caster level check (1d20 +1 per caster level; maximum +25) against DC 20. If only detailed information on the person, place, or object is known, the DC is 25, and the information gained is incomplete. If only rumors are known, the DC is 30, and the information gained is vague.
 
@@ -1126,21 +1126,21 @@ Wail of the Banshee
 
 Necromancy [Death, Sonic]
 
-**Level:**Death 9, Sor/Wiz 9
+**Level:** Death 9, Sor/Wiz 9
 
-**Components:**V
+**Components:** V
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Area:**One living creature/level within a 40-ft.-radius spread
+**Area:** One living creature/level within a 40-ft.-radius spread
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Fortitude negates
+**Saving Throw:** Fortitude negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 You emit a terrible scream that kills creatures that hear it (except for yourself ). Creatures closest to the point of origin are affected first.
 
@@ -1152,21 +1152,21 @@ Wall of Fire
 
 Evocation [Fire]
 
-**Level:**Drd 5, Fire 4, Sor/Wiz 4
+**Level:** Drd 5, Fire 4, Sor/Wiz 4
 
-**Components:**V, S, M/DF
+**Components:** V, S, M/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Effect:**Opaque sheet of flame up to 20 ft. long/level or a ring of fire with a radius of up to 5 ft. per two levels; either form 20 ft. high
+**Effect:** Opaque sheet of flame up to 20 ft. long/level or a ring of fire with a radius of up to 5 ft. per two levels; either form 20 ft. high
 
-**Duration:**Concentration + 1 round/level
+**Duration:** Concentration + 1 round/level
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 An immobile, blazing curtain of shimmering violet fire springs into existence. One side of the wall, selected by you, sends forth waves of heat, dealing 2d4 points of fire damage to creatures within 10 feet and 1d4 points of fire damage to those past 10 feet but within 20 feet. The wall deals this damage when it appears and on your turn each round to all creatures in the area. In addition, the wall deals 2d6 points of fire damage +1 point of fire damage per caster level (maximum +20) to any creature passing through it. The wall deals double damage to undead creatures.
 
@@ -1184,21 +1184,21 @@ Wall of Force
 
 Evocation [Force]
 
-**Level:**Sor/Wiz 5
+**Level:** Sor/Wiz 5
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Effect:**Wall whose area is up to one 10-ft. square/level
+**Effect:** Wall whose area is up to one 10-ft. square/level
 
-**Duration:**1 round /level (D)
+**Duration:** 1 round /level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 Awall of forcespell creates an invisible wall of force. The wall cannot move, it is immune to damage of all kinds, and it is unaffected by most spells, includingdispel magic. However,disintegrateimmediately destroys it, as does arod of cancellation, asphere of annihilation,or amage’s disjunctionspell. Breath weapons and spells cannot pass through the wall in either direction, althoughdimension door, teleport,and similar effects can bypass the barrier. It blocks ethereal creatures as well as material ones (though ethereal creatures can usually get around the wall by floating under or over it through material floors and ceilings). Gaze attacks can operate through awall of force.
 
@@ -1216,21 +1216,21 @@ Wall of Ice
 
 Evocation [Cold]
 
-**Level:**Sor/Wiz 4
+**Level:** Sor/Wiz 4
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Effect:**Anchored plane of ice, up to one 10-ft. square/level, or hemisphere of ice with a radius of up to 3 ft. + 1 ft./level
+**Effect:** Anchored plane of ice, up to one 10-ft. square/level, or hemisphere of ice with a radius of up to 3 ft. + 1 ft./level
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**Reflex negates; see text
+**Saving Throw:** Reflex negates; see text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 This spell creates an anchored plane of ice or a hemisphere of ice, depending on the version selected. Awall of icecannot form in an area occupied by physical objects or creatures. Its surface must be smooth and unbroken when created. Any creature adjacent to the wall when it is created may attempt a Reflex save to disrupt the wall as it is being formed. A successful save indicates that the spell automatically fails. Fire can melt awall of ice,and it deals full damage to the wall (instead of the normal half damage taken by objects). Suddenly melting awall of icecreates a great cloud of steamy fog that lasts for 10 minutes.
 
@@ -1252,21 +1252,21 @@ Wall of Iron
 
 Conjuration (Creation)
 
-**Level:**Sor/Wiz 6
+**Level:** Sor/Wiz 6
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Effect:**Iron wall whose area is up to one 5-ft. square/level; see text
+**Effect:** Iron wall whose area is up to one 5-ft. square/level; see text
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**See text
+**Saving Throw:** See text
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You cause a flat, vertical iron wall to spring into being. The wall inserts itself into any surrounding nonliving material if its area is sufficient to do so. The wall cannot be conjured so that it occupies the same space as a creature or another object. It must always be a flat plane, though you can shape its edges to fit the available space.
 
@@ -1286,21 +1286,21 @@ Wall of Stone
 
 Conjuration (Creation) [Earth]
 
-**Level:**Clr 5, Drd 6, Earth 5, Sor/Wiz 5
+**Level:** Clr 5, Drd 6, Earth 5, Sor/Wiz 5
 
-**Components:**V, S, M/DF
+**Components:** V, S, M/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Effect:**Stone wall whose area is up to one 5-ft. square/level (S)
+**Effect:** Stone wall whose area is up to one 5-ft. square/level (S)
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**See text
+**Saving Throw:** See text
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 This spell creates a wall of rock that merges into adjoining rock surfaces. Awall of stoneis 1 inch thick per four caster levels and composed of up to one 5-foot square per level. You can double the wall’s area by halving its thickness. The wall cannot be conjured so that it occupies the same space as a creature or another object.
 
@@ -1320,21 +1320,21 @@ Wall of Thorns
 
 Conjuration (Creation)
 
-**Level:**Drd 5, Plant 5
+**Level:** Drd 5, Plant 5
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Effect:**Wall of thorny brush, up to one 10-ft. cube/level (S)
+**Effect:** Wall of thorny brush, up to one 10-ft. cube/level (S)
 
-**Duration:**10 min./level (D)
+**Duration:** 10 min./level (D)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 Awall of thornsspell creates a barrier of very tough, pliable, tangled brush bearing needle-sharp thorns as long as a human’s finger. Any creature forced into or attempting to move through awall of thornstakes slashing damage per round of movement equal to 25 minus the creature’s AC. Dexterity and dodge bonuses to AC do not count for this calculation. (Creatures with an Armor Class of 25 or higher, without considering Dexterity and dodge bonuses, take no damage from contact with the wall.)
 
@@ -1356,21 +1356,21 @@ Warp Wood
 
 Transmutation
 
-**Level:**Drd 2
+**Level:** Drd 2
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Target:**1 Small wooden object/level, all within a 20-ft. radius
+**Target:** 1 Small wooden object/level, all within a 20-ft. radius
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Will negates (object)
+**Saving Throw:** Will negates (object)
 
-**Spell Resistance:**Yes (object)
+**Spell Resistance:** Yes (object)
 
 You cause wood to bend and warp, permanently destroying its straightness, form, and strength. A warped door springs open (or becomes stuck, requiring a Strength check to open, at your option). A boat or ship springs a leak. Warped ranged weapons are useless. A warped melee weapon causes a –4 penalty on attack rolls.
 
@@ -1390,21 +1390,21 @@ Water Breathing
 
 Transmutation
 
-**Level:**Clr 3, Drd 3, Sor/Wiz 3, Water 3
+**Level:** Clr 3, Drd 3, Sor/Wiz 3, Water 3
 
-**Components:**V, S, M/DF
+**Components:** V, S, M/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**Living creatures touched
+**Target:** Living creatures touched
 
-**Duration:**2 hours/level; see text
+**Duration:** 2 hours/level; see text
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
-**Spell Resistance:**Yes (harmless)
+**Spell Resistance:** Yes (harmless)
 
 The transmuted creatures can breathe water freely. Divide the duration evenly among all the creatures you touch.
 
@@ -1420,21 +1420,21 @@ Water Walk
 
 Transmutation [Water]
 
-**Level:**Clr 3, Rgr 3
+**Level:** Clr 3, Rgr 3
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Targets:**One touched creature/level
+**Targets:** One touched creature/level
 
-**Duration:**10 min./level (D)
+**Duration:** 10 min./level (D)
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
-**Spell Resistance:**Yes (harmless)
+**Spell Resistance:** Yes (harmless)
 
 The transmuted creatures can tread on any liquid as if it were firm ground. Mud, oil, snow, quicksand, running water, ice, and even lava can be traversed easily, since the subjects’ feet hover an inch or two above the surface. (Creatures crossing molten lava still take damage from the heat because they are near it.) The subjects can walk, run, charge, or otherwise move across the surface as if it were normal ground.
 
@@ -1448,21 +1448,21 @@ Waves of Exhaustion
 
 Necromancy
 
-**Level:**Sor/Wiz 7
+**Level:** Sor/Wiz 7
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**60 ft.
+**Range:** 60 ft.
 
-**Area:**Cone-shaped burst
+**Area:** Cone-shaped burst
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**No
+**Saving Throw:** No
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Waves of negative energy cause all living creatures in the spell’s area to become exhausted. This spell has no effect on a creature that is already exhausted.
 
@@ -1474,21 +1474,21 @@ Waves of Fatigue
 
 Necromancy
 
-**Level:**Sor/Wiz 5
+**Level:** Sor/Wiz 5
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**30 ft.
+**Range:** 30 ft.
 
-**Area:**Cone-shaped burst
+**Area:** Cone-shaped burst
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**No
+**Saving Throw:** No
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Waves of negative energy render all living creatures in the spell’s area fatigued. This spell has no effect on a creature that is already fatigued.
 
@@ -1500,21 +1500,21 @@ Web
 
 Conjuration (Creation)
 
-**Level:**Sor/Wiz 2
+**Level:** Sor/Wiz 2
 
-**Components:**V, S, M
+**Components:** V, S, M
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Effect:**Webs in a 20-ft.-radius spread
+**Effect:** Webs in a 20-ft.-radius spread
 
-**Duration:**10 min./level (D)
+**Duration:** 10 min./level (D)
 
-**Saving Throw:**Reflex negates; see text
+**Saving Throw:** Reflex negates; see text
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 Webcreates a many-layered mass of strong, sticky strands. These strands trap those caught in them. The strands are similar to spider webs but far larger and tougher. These masses must be anchored to two or more solid and diametrically opposed points or else the web collapses upon itself and disappears. Creatures caught within awebbecome entangled among the gluey fibers. Attacking a creature in a web won’t cause you to become entangled.
 
@@ -1536,9 +1536,9 @@ Weird
 
 Illusion (Phantasm) [Fear, Mind-Affecting]
 
-**Level:**Sor/Wiz 9
+**Level:** Sor/Wiz 9
 
-**Targets:**Any number of creatures, no two of which can be more than 30 ft. apart
+**Targets:** Any number of creatures, no two of which can be more than 30 ft. apart
 
 This spell functions likephantasmal killer, except it can affect more than one creature. Only the affected creatures see the phantasmal creatures attacking them, though you see the attackers as shadowy shapes.
 
@@ -1552,21 +1552,21 @@ Whirlwind
 
 Evocation [Air]
 
-**Level:**Air 8, Drd 8
+**Level:** Air 8, Drd 8
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Long (400 ft. + 40 ft./level)
+**Range:** Long (400 ft. + 40 ft./level)
 
-**Effect:**Cyclone 10 ft. wide at base, 30 ft. wide at top, and 30 ft. tall
+**Effect:** Cyclone 10 ft. wide at base, 30 ft. wide at top, and 30 ft. tall
 
-**Duration:**1 round/level (D)
+**Duration:** 1 round/level (D)
 
-**Saving Throw:**Reflex negates; see text
+**Saving Throw:** Reflex negates; see text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 This spell creates a powerful cyclone of raging wind that moves through the air, along the ground, or over water at a speed of 60 feet per round. You can concentrate on controlling the cyclone’s every movement or specify a simple program. Directing the cyclone’s movement or changing its programmed movement is a standard action for you. The cyclone always moves during your turn. If the cyclone exceeds the spell’s range, it moves in a random, uncontrolled fashion for 1d3 rounds and then dissipates. (You can’t regain control of the cyclone, even if comes back within range.)
 
@@ -1580,21 +1580,21 @@ Whispering Wind
 
 Transmutation [Air]
 
-**Level:**Brd 2, Sor/Wiz 2
+**Level:** Brd 2, Sor/Wiz 2
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**1 mile/level
+**Range:** 1 mile/level
 
-**Area:**10-ft.-radius spread
+**Area:** 10-ft.-radius spread
 
-**Duration:**No more than 1 hour/level or until discharged (destination is reached)
+**Duration:** No more than 1 hour/level or until discharged (destination is reached)
 
-**Saving Throw:**None
+**Saving Throw:** None
 
-**Spell Resistance:**No
+**Spell Resistance:** No
 
 You send a message or sound on the wind to a designated spot. Thewhispering windtravels to a specific location within range that is familiar to you, provided that it can find a way to the location. Awhispering windis as gentle and unnoticed as a zephyr until it reaches the location. It then delivers its whisper-quiet message or other sound. Note that the message is delivered regardless of whether anyone is present to hear it. The wind then dissipates.
 
@@ -1610,21 +1610,21 @@ Wind Walk
 
 Transmutation [Air]
 
-**Level:**Clr 6, Drd 7
+**Level:** Clr 6, Drd 7
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Targets:**You and one touched creature per three levels
+**Targets:** You and one touched creature per three levels
 
-**Duration:**1 hour/level (D); see text
+**Duration:** 1 hour/level (D); see text
 
-**Saving Throw:**No and Will negates (harmless)
+**Saving Throw:** No and Will negates (harmless)
 
-**Spell Resistance:**No and Yes (harmless)
+**Spell Resistance:** No and Yes (harmless)
 
 You alter the substance of your body to a cloudlike vapor (as thegaseous formspell) and move through the air, possibly at great speed. You can take other creatures with you, each of which acts independently.
 
@@ -1642,21 +1642,21 @@ Wind Wall
 
 Evocation [Air]
 
-**Level:**Air 2, Clr 3, Drd 3, Rgr 2, Sor/Wiz 3
+**Level:** Air 2, Clr 3, Drd 3, Rgr 2, Sor/Wiz 3
 
-**Components:**V, S, M/DF
+**Components:** V, S, M/DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Medium (100 ft. + 10 ft./level)
+**Range:** Medium (100 ft. + 10 ft./level)
 
-**Effect:**Wall up to 10 ft./level long and 5 ft./level high (S)
+**Effect:** Wall up to 10 ft./level long and 5 ft./level high (S)
 
-**Duration:**1 round/level
+**Duration:** 1 round/level
 
-**Saving Throw:**None; see text
+**Saving Throw:** None; see text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 An invisible vertical curtain of wind appears. It is 2 feet thick and of considerable strength. It is a roaring blast sufficient to blow away any bird smaller than an eagle, or tear papers and similar materials from unsuspecting hands. (A Reflex save allows a creature to maintain its grasp on an object.) Tiny and Small flying creatures cannot pass through the barrier. Loose materials and cloth garments fly upward when caught in awind wall.Arrows and bolts are deflected upward and miss, while any other normal ranged weapon passing through the wall has a 30% miss chance. (A giant-thrown boulder, a siege engine projectile, and other massive ranged weapons are not affected.) Gases, most gaseous breath weapons, and creatures in gaseous form cannot pass through the wall (although it is no barrier to incorporeal creatures).
 
@@ -1672,21 +1672,21 @@ Wish
 
 Universal
 
-**Level:**Sor/Wiz 9
+**Level:** Sor/Wiz 9
 
-**Components:**V, XP
+**Components:** V, XP
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**See text
+**Range:** See text
 
-**Target, Effect, or Area:**See text
+**Target, Effect, or Area:** See text
 
-**Duration:**See text
+**Duration:** See text
 
-**Saving Throw:**See text
+**Saving Throw:** See text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Wishis the mightiest spell a wizard or sorcerer can cast. By simply speaking aloud, you can alter reality to better suit you.
 
@@ -1734,21 +1734,21 @@ Wood Shape
 
 Transmutation
 
-**Level:**Drd 2
+**Level:** Drd 2
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Touch
+**Range:** Touch
 
-**Target:**One touched piece of wood no larger than 10 cu. ft. + 1 cu. ft./level
+**Target:** One touched piece of wood no larger than 10 cu. ft. + 1 cu. ft./level
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**Will negates (object)
+**Saving Throw:** Will negates (object)
 
-**Spell Resistance:**Yes (object)
+**Spell Resistance:** Yes (object)
 
 Wood shapeenables you to form one existing piece of wood into any shape that suits your purpose. While it is possible to make crude coffers, doors, and so forth, fine detail isn’t possible. There is a 30% chance that any shape that includes moving parts simply doesn’t work.
 
@@ -1760,21 +1760,21 @@ Word of Chaos
 
 Evocation [Chaotic, Sonic]
 
-**Level:**Chaos 7, Clr 7
+**Level:** Chaos 7, Clr 7
 
-**Components:**V
+**Components:** V
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**40 ft.
+**Range:** 40 ft.
 
-**Area:**Nonchaotic creatures in a 40-ft.- radius spread centered on you
+**Area:** Nonchaotic creatures in a 40-ft.- radius spread centered on you
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None or Will negates; see text
+**Saving Throw:** None or Will negates; see text
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Any nonchaotic creature within the area who hears theword of chaossuffers the following ill effects.
 
@@ -1824,21 +1824,21 @@ Word of Recall
 
 Conjuration (Teleportation)
 
-**Level:**Clr 6, Drd 8
+**Level:** Clr 6, Drd 8
 
-**Components:**V
+**Components:** V
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Unlimited
+**Range:** Unlimited
 
-**Target:**You and touched objects or other willing creatures
+**Target:** You and touched objects or other willing creatures
 
-**Duration:**Instantaneous
+**Duration:** Instantaneous
 
-**Saving Throw:**None or Will negates (harmless, object)
+**Saving Throw:** None or Will negates (harmless, object)
 
-**Spell Resistance:**No or Yes (harmless, object)
+**Spell Resistance:** No or Yes (harmless, object)
 
 Word of recallteleports you instantly back to your sanctuary when the word is uttered. You must designate the sanctuary when you prepare the spell, and it must be a very familiar place. The actual point of arrival is a designated area no larger than 10 feet by 10 feet. You can be transported any distance within a plane but cannot travel between planes. You can transport, in addition to yourself, any objects you carry, as long as their weight doesn’t exceed your maximum load. You may also bring one additional willing Medium or smaller creature (carrying gear or objects up to its maximum load) or its equivalent per three caster levels. A Large creature counts as two Medium creatures, a Huge creature counts as two Large creatures, and so forth. All creatures to be transported must be in contact with one another, and at least one of those creatures must be in contact with you. Exceeding this limit causes the spell to fail.
 
@@ -1852,17 +1852,17 @@ Zone of Silence
 
 Illusion (Glamer)
 
-**Level:**Brd 4
+**Level:** Brd 4
 
-**Components:**V, S
+**Components:** V, S
 
-**Casting Time:**1 round
+**Casting Time:** 1 round
 
-**Range:**Personal
+**Range:** Personal
 
-**Area:**5-ft.-radius emanation centered on you
+**Area:** 5-ft.-radius emanation centered on you
 
-**Duration:**1 hour/level (D)
+**Duration:** 1 hour/level (D)
 
 By castingzone of silence, you manipulate sound waves in your immediate vicinity so that you and those within the spell’s area can converse normally, yet no one outside can hear your voices or any other noises from within, including language-dependent or sonic spell effects. This effect is centered on you and moves with you. Anyone who enters the zone immediately becomes subject to its effects, but those who leave are no longer affected. Note, however, that a successful Spot check to read lips can still reveal what’s said inside azone of silence.
 
@@ -1874,21 +1874,21 @@ Zone of Truth
 
 Enchantment (Compulsion) [Mind-Affecting]
 
-**Level:**Clr 2, Pal 2
+**Level:** Clr 2, Pal 2
 
-**Components:**V, S, DF
+**Components:** V, S, DF
 
-**Casting Time:**1 standard action
+**Casting Time:** 1 standard action
 
-**Range:**Close (25 ft. + 5 ft./2 levels)
+**Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Area:**20-ft.-radius emanation
+**Area:** 20-ft.-radius emanation
 
-**Duration:**1 min./level
+**Duration:** 1 min./level
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
-**Spell Resistance:**Yes
+**Spell Resistance:** Yes
 
 Creatures within the emanation area (or those who enter it) can’t speak any deliberate and intentional lies. Each potentially affected creature is allowed a save to avoid the effects when the spell is cast or when the creature first enters the emanation area. Affected creatures are aware of this enchantment. Therefore, they may avoid answering questions to which they would normally respond with a lie, or they may be evasive as long as they remain within the boundaries of the truth. Creatures who leave the area are free to speak as they choose.
 

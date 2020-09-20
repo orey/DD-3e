@@ -26,25 +26,25 @@ A dragon attacks with its powerful claws and bite, and can also use a breath wea
 
 The table below provides space and reach statistics for dragons of various sizes, plus the natural weapons a dragon of a certain size can employ and the damage those attacks deal.
 
-**Bite:**Bite attacks deal the indicated damage plus the dragon’s Strength bonus. A dragon also can use its bite to snatch opponents if it has the Snatch feat.
+**Bite:** Bite attacks deal the indicated damage plus the dragon’s Strength bonus. A dragon also can use its bite to snatch opponents if it has the Snatch feat.
 
-**Claw:**Claw attacks deal the indicated damage plus 1/2 the dragon’s Strength bonus (round down). The dragon also can use its claws to snatch opponents if it has the Snatch feat. Claw attacks are secondary attacks, requiring a –5 penalty on the attack roll. (Many dragons choose the Multiattack feat to lessen this penalty to –2).
+**Claw:** Claw attacks deal the indicated damage plus 1/2 the dragon’s Strength bonus (round down). The dragon also can use its claws to snatch opponents if it has the Snatch feat. Claw attacks are secondary attacks, requiring a –5 penalty on the attack roll. (Many dragons choose the Multiattack feat to lessen this penalty to –2).
 
-**Wing:**The dragon can slam opponents with its wings, even when flying. Wing attacks deal the indicated damage plus 1/2 the dragon’s Strength bonus (round down) and are treated as secondary attacks.
+**Wing:** The dragon can slam opponents with its wings, even when flying. Wing attacks deal the indicated damage plus 1/2 the dragon’s Strength bonus (round down) and are treated as secondary attacks.
 
-**Tail Slap:**The dragon can slap one opponent each round with its tail. A tail slap deals the indicated damage plus 1-1/2 times the dragon’s Strength bonus (round down) and is treated as a secondary attack.
+**Tail Slap:** The dragon can slap one opponent each round with its tail. A tail slap deals the indicated damage plus 1-1/2 times the dragon’s Strength bonus (round down) and is treated as a secondary attack.
 
-**Crush (Ex):**This special attack allows a flying or jumping dragon of at least Huge size to land on opponents as a standard action, using its whole body to crush them. Crush attacks are effective only against opponents three or more size categories smaller than the dragon (though it can attempt normal overrun or grapple attacks against larger opponents).
+**Crush (Ex):** This special attack allows a flying or jumping dragon of at least Huge size to land on opponents as a standard action, using its whole body to crush them. Crush attacks are effective only against opponents three or more size categories smaller than the dragon (though it can attempt normal overrun or grapple attacks against larger opponents).
 
 A crush attack affects as many creatures as can fit under the dragon’s body. Creatures in the affected area must succeed on a Reflex save (DC equal to that of the dragon’s breath weapon) or be pinned, automatically taking bludgeoning damage during the next round unless the dragon moves off them. If the dragon chooses to maintain the pin, treat it as a normal grapple attack. Pinned opponents take damage from the crush each round if they don’t escape.
 
 A crush attack deals the indicated damage plus 1-1/2 times the dragon’s Strength bonus (round down).
 
-**Tail Sweep (Ex):**This special attack allows a dragon of at least Gargantuan size to sweep with its tail as a standard action. Thesweep affects a half-circle with a radius of 30 feet (or 40 feet for a Colossal dragon), extending from anintersection on the edge of the dragon’s space in any direction. Creatures within the swept area are affected if they are four or more size categories smaller than the dragon. A tail sweep automatically deals the indicated damage plus 1-1/2 times the dragon’s Strength bonus (round down). Affected creatures can attempt Reflex saves to take half damage (DC equal to that of the dragon’s breath weapon).
+**Tail Sweep (Ex):** This special attack allows a dragon of at least Gargantuan size to sweep with its tail as a standard action. Thesweep affects a half-circle with a radius of 30 feet (or 40 feet for a Colossal dragon), extending from anintersection on the edge of the dragon’s space in any direction. Creatures within the swept area are affected if they are four or more size categories smaller than the dragon. A tail sweep automatically deals the indicated damage plus 1-1/2 times the dragon’s Strength bonus (round down). Affected creatures can attempt Reflex saves to take half damage (DC equal to that of the dragon’s breath weapon).
 
-**Grappling:**Dragons do not favor grapple attacks, though their crush attack (and Snatch feat, if they know it) use normal grapple rules. A dragon can always use its breath weapon while grappling, as well as its spells and spell-like or supernatural abilities, provided it succeeds on Concentration checks.
+**Grappling:** Dragons do not favor grapple attacks, though their crush attack (and Snatch feat, if they know it) use normal grapple rules. A dragon can always use its breath weapon while grappling, as well as its spells and spell-like or supernatural abilities, provided it succeeds on Concentration checks.
 
-**Breath Weapon (Su):**Using a breath weapon is a standard action. Once a dragon breathes, it can’t breathe again until 1d4 rounds later. If a dragon has more than one type of breath weapon, it still can breathe only once every 1d4 rounds. A blast from a breath weapon always starts at any intersection adjacent to the dragon and extends in a direction of the dragon’s choice, with an area as noted on the table below. If the breath weapon deals damage, creatures caught in the area can attempt Reflex saves to take half damage; the DC depends on the dragon’s age and variety, and is given in each individual entry. Saves against nondamaging breath weapons use the same DC; the kind of saving throw is noted in the variety descriptions. The save DC against a breath weapon is 10 + 1/2 dragon’s HD + dragon’s Con modifier.
+**Breath Weapon (Su):** Using a breath weapon is a standard action. Once a dragon breathes, it can’t breathe again until 1d4 rounds later. If a dragon has more than one type of breath weapon, it still can breathe only once every 1d4 rounds. A blast from a breath weapon always starts at any intersection adjacent to the dragon and extends in a direction of the dragon’s choice, with an area as noted on the table below. If the breath weapon deals damage, creatures caught in the area can attempt Reflex saves to take half damage; the DC depends on the dragon’s age and variety, and is given in each individual entry. Saves against nondamaging breath weapons use the same DC; the kind of saving throw is noted in the variety descriptions. The save DC against a breath weapon is 10 + 1/2 dragon’s HD + dragon’s Con modifier.
 
 Breath weapons come in two basic shapes, line and cone, whose areas vary with the dragon’s size.
 
@@ -106,25 +106,25 @@ Breath weapons come in two basic shapes, line and cone, whose areas vary with th
 
 ![38 MonstersDr-Dw-Table01.png](38 MonstersDr-Dw-Table01.png)
 
-**Frightful Presence (Ex):**A young adult or older dragon can unsettle foes with its mere presence. The ability takes effect automatically whenever the dragon attacks, charges, or flies overhead. Creatures within a radius of 30 feet x the dragon’s age category are subject to the effect if they have fewer HD than the dragon. A potentially affected creature that succeeds on a Will save (DC 10 + 1/2 dragon’s HD + dragon’s Cha modifier) remains immune to that dragon’s frightful presence for 24 hours. On a failure, creatures with 4 or less HD become panicked for 4d6 rounds and those with 5 or more HD become shaken for 4d6 rounds. Dragons ignore the frightful presence of other dragons.
+**Frightful Presence (Ex):** A young adult or older dragon can unsettle foes with its mere presence. The ability takes effect automatically whenever the dragon attacks, charges, or flies overhead. Creatures within a radius of 30 feet x the dragon’s age category are subject to the effect if they have fewer HD than the dragon. A potentially affected creature that succeeds on a Will save (DC 10 + 1/2 dragon’s HD + dragon’s Cha modifier) remains immune to that dragon’s frightful presence for 24 hours. On a failure, creatures with 4 or less HD become panicked for 4d6 rounds and those with 5 or more HD become shaken for 4d6 rounds. Dragons ignore the frightful presence of other dragons.
 
-**Spells:**A dragon knows and casts arcane spells as a sorcerer of the level indicated in its variety description, gaining bonus spells for a high Charisma score. Some dragons can also cast spells from the cleric list or cleric domain lists as arcane spells.
+**Spells:** A dragon knows and casts arcane spells as a sorcerer of the level indicated in its variety description, gaining bonus spells for a high Charisma score. Some dragons can also cast spells from the cleric list or cleric domain lists as arcane spells.
 
-**Spell-Like Abilities:**A dragon’s spell-like abilities depend on its age and variety. It gains the abilities indicated for its age plus all previous ones. Its age category or its sorcerer caster level, whichever is higher, is the caster level for these abilities. The save DC is 10 + dragon’s Cha modifier + spell level. All spell-like abilities are usable once per day unless otherwise noted.
+**Spell-Like Abilities:** A dragon’s spell-like abilities depend on its age and variety. It gains the abilities indicated for its age plus all previous ones. Its age category or its sorcerer caster level, whichever is higher, is the caster level for these abilities. The save DC is 10 + dragon’s Cha modifier + spell level. All spell-like abilities are usable once per day unless otherwise noted.
 
-**Damage Reduction:**Young adult and older dragons have damage reduction. Their natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
+**Damage Reduction:** Young adult and older dragons have damage reduction. Their natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
 
-**Immunities (Ex):**All dragons have immunity tosleepand paralysis effects. Each variety of dragon has immunity to one or two additional forms of attack no matter what its age, as given in its description.
+**Immunities (Ex):** All dragons have immunity tosleepand paralysis effects. Each variety of dragon has immunity to one or two additional forms of attack no matter what its age, as given in its description.
 
-**Spell Resistance (Ex):**As dragons age, they become more resistant to spells and spell-like abilities, as indicated in the variety descriptions.
+**Spell Resistance (Ex):** As dragons age, they become more resistant to spells and spell-like abilities, as indicated in the variety descriptions.
 
-**Blindsense (Ex):**Dragons can pinpoint creatures within a distance of 60 feet. Opponents the dragon can’t actually see still have total concealment against the dragon.
+**Blindsense (Ex):** Dragons can pinpoint creatures within a distance of 60 feet. Opponents the dragon can’t actually see still have total concealment against the dragon.
 
-**Keen Senses (Ex):**A dragon sees four times as well a human in shadowy illumination and twice as well in normal light. It also has darkvision out to 120 feet.
+**Keen Senses (Ex):** A dragon sees four times as well a human in shadowy illumination and twice as well in normal light. It also has darkvision out to 120 feet.
 
-**Skills:**All dragons have skill points equal to (6 + Int modifier, minimum 1) x (Hit Dice + 3). Most dragons purchase the following skills at the maximum ranks possible: Listen, Search, and Spot. The remaining skill points are generally spent on Concentration, Diplomacy, Escape Artist, Intimidate, Knowledge (any), Sense Motive, and Use Magic Device at a cost of 1 skill point per rank. All these skills are considered class skills for dragons. (Each dragon has other class skills as well, as noted in the variety descriptions.)
+**Skills:** All dragons have skill points equal to (6 + Int modifier, minimum 1) x (Hit Dice + 3). Most dragons purchase the following skills at the maximum ranks possible: Listen, Search, and Spot. The remaining skill points are generally spent on Concentration, Diplomacy, Escape Artist, Intimidate, Knowledge (any), Sense Motive, and Use Magic Device at a cost of 1 skill point per rank. All these skills are considered class skills for dragons. (Each dragon has other class skills as well, as noted in the variety descriptions.)
 
-**Feats:**All dragons have one feat, plus additional feats based on Hit Dice just like any other creature. Dragons favor Alertness, Blind-Fight, Cleave, Flyby Attack, Hover, Improved Initiative, Improved Sunder, Power Attack, Snatch, Weapon Focus (claw or bite), Wingover, and any metamagic feat that is available and useful to sorcerers.
+**Feats:** All dragons have one feat, plus additional feats based on Hit Dice just like any other creature. Dragons favor Alertness, Blind-Fight, Cleave, Flyby Attack, Hover, Improved Initiative, Improved Sunder, Power Attack, Snatch, Weapon Focus (claw or bite), Wingover, and any metamagic feat that is available and useful to sorcerers.
 
 
 
@@ -426,21 +426,21 @@ Chromatic dragons form the evil branch of dragonkind. They are aggressive, greed
 
 BLACK DRAGON
 
-**Dragon (Water)**
+**Dragon (Water)** 
 
-**Environment:**Warm marshes
+**Environment:** Warm marshes
 
-**Organization:**Wyrmling, very young, young, juvenile, and young adult: solitary or clutch (2–5); adult, mature adult, old, very old, ancient, wyrm, or great wyrm: solitary, pair, or family (1–2 and 2–5 offspring)
+**Organization:** Wyrmling, very young, young, juvenile, and young adult: solitary or clutch (2–5); adult, mature adult, old, very old, ancient, wyrm, or great wyrm: solitary, pair, or family (1–2 and 2–5 offspring)
 
-**Challenge Rating:**Wyrmling 3; very young 4; young 5; juvenile 7; young adult 9; adult 11; mature adult 14; old 16; very old 18; ancient 19; wyrm 20; great wyrm 22
+**Challenge Rating:** Wyrmling 3; very young 4; young 5; juvenile 7; young adult 9; adult 11; mature adult 14; old 16; very old 18; ancient 19; wyrm 20; great wyrm 22
 
-**Treasure:**Triple standard
+**Treasure:** Triple standard
 
-**Alignment:**Always chaotic evil
+**Alignment:** Always chaotic evil
 
-**Advancement:**Wyrmling 5–6 HD; very young 8–9 HD; young 11–12 HD; juvenile 14–15 HD; young adult 17–18 HD; adult 20–21 HD; mature adult 23–24 HD; old 26–27 HD; very old 29–30 HD; ancient 32–33 HD; wyrm 35–36 HD; great wyrm 38+ HD
+**Advancement:** Wyrmling 5–6 HD; very young 8–9 HD; young 11–12 HD; juvenile 14–15 HD; young adult 17–18 HD; adult 20–21 HD; mature adult 23–24 HD; old 26–27 HD; very old 29–30 HD; ancient 32–33 HD; wyrm 35–36 HD; great wyrm 38+ HD
 
-**Level Adjustment:**Wyrmling +3; very young +3; young +3; juvenile +4; others —
+**Level Adjustment:** Wyrmling +3; very young +3; young +3; juvenile +4; others —
 
 
 
@@ -1070,17 +1070,17 @@ Combat
 
 Black dragons prefer to ambush their targets, using their surroundings as cover. When fighting in heavily forested swamps and marshes, they try to stay in the water or on the ground; trees and leafy canopies limit their aerial maneuverability. When outmatched, a black dragon attempts to fly out of sight, so as not to leave tracks, and hide in a deep pond or bog.
 
-**Breath Weapon (Su):**A black dragon has one type of breath weapon, a line of acid.
+**Breath Weapon (Su):** A black dragon has one type of breath weapon, a line of acid.
 
-**Water Breathing (Ex):**A black dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.
+**Water Breathing (Ex):** A black dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.
 
-**Corrupt Water****(Sp):**Once per day an adult or older black dragon can stagnate 10 cubic feet of water, making it become still, foul, and unable to support animal life. The ability spoils liquids containing water. Magic items (such as potions) and items in a creature’s possession must succeed on a Will save (DC equal to that of the dragon’s frightful presence) or become fouled. This ability is the equivalent of a 1st-level spell. Its range is equal to that of the dragon’s frightful presence.
+**Corrupt Water** **(Sp):** Once per day an adult or older black dragon can stagnate 10 cubic feet of water, making it become still, foul, and unable to support animal life. The ability spoils liquids containing water. Magic items (such as potions) and items in a creature’s possession must succeed on a Will save (DC equal to that of the dragon’s frightful presence) or become fouled. This ability is the equivalent of a 1st-level spell. Its range is equal to that of the dragon’s frightful presence.
 
-**Charm Reptiles****(Sp):**A great wyrm black dragon can use this ability three times per day. It works as amass charmspell that affects only reptilian animals. The dragon can communicate with any charmed reptiles as though casting aspeak with animalsspell. This ability is the equivalent of a 1st-level spell.
+**Charm Reptiles** **(Sp):** A great wyrm black dragon can use this ability three times per day. It works as amass charmspell that affects only reptilian animals. The dragon can communicate with any charmed reptiles as though casting aspeak with animalsspell. This ability is the equivalent of a 1st-level spell.
 
-**Other Spell-Like Abilities:**3/day—darkness(juvenile or older; radius 10 feet per age category),insect plague(ancient or older); 1/day—plant growth(old or older).
+**Other Spell-Like Abilities:** 3/day—darkness(juvenile or older; radius 10 feet per age category),insect plague(ancient or older); 1/day—plant growth(old or older).
 
-**Skills:**Hide, Move Silently, and Swim are considered class skills for black dragons.
+**Skills:** Hide, Move Silently, and Swim are considered class skills for black dragons.
 
 
 
@@ -1088,21 +1088,21 @@ Black dragons prefer to ambush their targets, using their surroundings as cover.
 
 BLUE DRAGON
 
-**Dragon (Earth)**
+**Dragon (Earth)** 
 
-**Environment:**Temperate deserts
+**Environment:** Temperate deserts
 
-**Organization:**Wyrmling, very young, young, juvenile, and young adult: solitary or clutch (2–5); adult, mature adult, old, very old, ancient, wyrm, or great wyrm: solitary, pair, or family (1–2 and 2–5 offspring)
+**Organization:** Wyrmling, very young, young, juvenile, and young adult: solitary or clutch (2–5); adult, mature adult, old, very old, ancient, wyrm, or great wyrm: solitary, pair, or family (1–2 and 2–5 offspring)
 
-**Challenge Ratings:**Wyrmling 3; very young 4; young 6; juvenile 8; young adult 11; adult 14; mature adult 16; old 18; very old 19; ancient 21; wyrm 23; great wyrm 25
+**Challenge Ratings:** Wyrmling 3; very young 4; young 6; juvenile 8; young adult 11; adult 14; mature adult 16; old 18; very old 19; ancient 21; wyrm 23; great wyrm 25
 
-**Treasure:**Triple standard
+**Treasure:** Triple standard
 
-**Alignment:**Always lawful evil
+**Alignment:** Always lawful evil
 
-**Advancement:**Wyrmling 7–8 HD; very young 10–11 HD; young 13–14 HD; juvenile 16–17 HD; young adult 19–20 HD; adult 22–23 HD; mature adult 25–26 HD; old 28–29 HD; very old 31–32 HD; ancient 34–35 HD; wyrm 37–38 HD; great wyrm 40+ HD
+**Advancement:** Wyrmling 7–8 HD; very young 10–11 HD; young 13–14 HD; juvenile 16–17 HD; young adult 19–20 HD; adult 22–23 HD; mature adult 25–26 HD; old 28–29 HD; very old 31–32 HD; ancient 34–35 HD; wyrm 37–38 HD; great wyrm 40+ HD
 
-**Level Adjustment:**Wyrmling +4; very young +4; young +5; others —
+**Level Adjustment:** Wyrmling +4; very young +4; young +5; others —
 
 
 
@@ -1734,15 +1734,15 @@ Combat
 
 Typically, blue dragons attack from above or burrow beneath the sands until opponents come within 100 feet. Older dragons use their special abilities, such ashallucinatory terrain, in concert with these tactics to mask the land and improve their chances to surprise the target. Blue dragons run from a fight only if they are severely damaged, since they view retreat as cowardly.
 
-**Breath Weapon (Su):**A blue dragon has one type of breath weapon, a line of lightning.
+**Breath Weapon (Su):** A blue dragon has one type of breath weapon, a line of lightning.
 
-**Create/Destroy Water****(Sp):**A blue dragon of any age can use this ability three times per day. It works like thecreate waterspell, except that the dragon can decide to destroy water instead of creating it, which automatically spoils unattended liquids containing water. Magic items (such as potions) and items in a creature’s possession must succeed on a Will save (DC equal to that of the dragon’s frightful presence) or be ruined. This ability is the equivalent of a 1st-level spell.
+**Create/Destroy Water** **(Sp):** A blue dragon of any age can use this ability three times per day. It works like thecreate waterspell, except that the dragon can decide to destroy water instead of creating it, which automatically spoils unattended liquids containing water. Magic items (such as potions) and items in a creature’s possession must succeed on a Will save (DC equal to that of the dragon’s frightful presence) or be ruined. This ability is the equivalent of a 1st-level spell.
 
-**Sound Imitation (Ex):**A juvenile or older blue dragon can mimic any voice or sound it has heard, anytime it likes. Listeners must succeed on a Will save (DC equal to that of the dragon’s frightful presence) to detect the ruse.
+**Sound Imitation (Ex):** A juvenile or older blue dragon can mimic any voice or sound it has heard, anytime it likes. Listeners must succeed on a Will save (DC equal to that of the dragon’s frightful presence) to detect the ruse.
 
-**Other Spell-Like Abilities:**3/day—ventriloquism(adult or older); 1/day—hallucinatory terrain(old or older),veil(ancient or older),mirage arcana(great wyrm).
+**Other Spell-Like Abilities:** 3/day—ventriloquism(adult or older); 1/day—hallucinatory terrain(old or older),veil(ancient or older),mirage arcana(great wyrm).
 
-**Skills:**Bluff, Hide, and Spellcraft are considered class skills for blue dragons.
+**Skills:** Bluff, Hide, and Spellcraft are considered class skills for blue dragons.
 
 
 
@@ -1750,21 +1750,21 @@ Typically, blue dragons attack from above or burrow beneath the sands until oppo
 
 GREEN DRAGON
 
-**Dragon (Air)**
+**Dragon (Air)** 
 
-**Environment:**Temperate forests
+**Environment:** Temperate forests
 
-**Organization:**Wyrmling, very young, young, juvenile, and young adult: solitary or clutch (2–5); adult, mature adult, old, very old, ancient, wyrm, or great wyrm: solitary, pair, or family (1–2 and 2–5 offspring)
+**Organization:** Wyrmling, very young, young, juvenile, and young adult: solitary or clutch (2–5); adult, mature adult, old, very old, ancient, wyrm, or great wyrm: solitary, pair, or family (1–2 and 2–5 offspring)
 
-**Challenge Ratings:**Wyrmling 3; very young 4; young 5; juvenile 8; young adult 11; adult 13; mature adult 16; old 18; very old 19; ancient 21; wyrm 22; great wyrm 24
+**Challenge Ratings:** Wyrmling 3; very young 4; young 5; juvenile 8; young adult 11; adult 13; mature adult 16; old 18; very old 19; ancient 21; wyrm 22; great wyrm 24
 
-**Treasure:**Triple standard
+**Treasure:** Triple standard
 
-**Alignment:**Always lawful evil
+**Alignment:** Always lawful evil
 
-**Advancement:**Wyrmling 6–7 HD; very young 9–10 HD; young 12–13 HD; juvenile 15–16 HD; young adult 18–19 HD; adult 21–22 HD; mature adult 24–25 HD; old 27–28 HD; very old 30–31 HD; ancient 33–34 HD; wyrm 36–37 HD; great wyrm 39+ HD
+**Advancement:** Wyrmling 6–7 HD; very young 9–10 HD; young 12–13 HD; juvenile 15–16 HD; young adult 18–19 HD; adult 21–22 HD; mature adult 24–25 HD; old 27–28 HD; very old 30–31 HD; ancient 33–34 HD; wyrm 36–37 HD; great wyrm 39+ HD
 
-**Level Adjustment:**Wyrmling +5; very young +5; young +5; juvenile +6; others —
+**Level Adjustment:** Wyrmling +5; very young +5; young +5; juvenile +6; others —
 
 
 
@@ -2394,13 +2394,13 @@ Green dragons initiate fights with little or no provocation, picking on creature
 
 evoking terror. Sometimes the dragon elects to control a humanoid creature through intimidation andsuggestion.Green dragons especially like to question adventurers to learn more about their society and abilities, what is going on in the countryside, and if there is treasure nearby.
 
-**Breath Weapon (Su):**A green dragon has one type of breath weapon, a cone of corrosive (acid) gas.
+**Breath Weapon (Su):** A green dragon has one type of breath weapon, a cone of corrosive (acid) gas.
 
-**Water Breathing (Ex):**A green dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.
+**Water Breathing (Ex):** A green dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.
 
-**Spell-Like Abilities:**3/day—suggestion(adult or older),dominate person(ancient or older); 1/day—plant growth(old or older),command plants(great wyrm).
+**Spell-Like Abilities:** 3/day—suggestion(adult or older),dominate person(ancient or older); 1/day—plant growth(old or older),command plants(great wyrm).
 
-**Skills:**Bluff, Hide, and Move Silently are considered class skills for green dragons.
+**Skills:** Bluff, Hide, and Move Silently are considered class skills for green dragons.
 
 
 
@@ -2408,21 +2408,21 @@ evoking terror. Sometimes the dragon elects to control a humanoid creature throu
 
 RED DRAGON
 
-**Dragon (Fire)**
+**Dragon (Fire)** 
 
-**Environment:**Warm mountains
+**Environment:** Warm mountains
 
-**Organization:**Wyrmling, very young, young, juvenile, and young adult: solitary or clutch (2–5); adult, mature adult, old, very old, ancient, wyrm, or great wyrm: solitary, pair, or family (1–2 and 2–5 offspring)
+**Organization:** Wyrmling, very young, young, juvenile, and young adult: solitary or clutch (2–5); adult, mature adult, old, very old, ancient, wyrm, or great wyrm: solitary, pair, or family (1–2 and 2–5 offspring)
 
-**Challenge Ratings:**Wyrmling 4; very young 5; young 7; juvenile 10; young adult 13; adult 15; mature adult 18; old 20; very old 21; ancient 23; wyrm 24; great wyrm 26
+**Challenge Ratings:** Wyrmling 4; very young 5; young 7; juvenile 10; young adult 13; adult 15; mature adult 18; old 20; very old 21; ancient 23; wyrm 24; great wyrm 26
 
-**Treasure:**Triple standard
+**Treasure:** Triple standard
 
-**Alignment:**Always chaotic evil
+**Alignment:** Always chaotic evil
 
-**Advancement:**Wyrmling 8–9 HD; very young 11–12 HD; young 14–15 HD; juvenile 17–18 HD; young adult 20–21 HD; adult 23–24 HD; mature adult 26–27 HD; old 29–30 HD; very old 32–33 HD; ancient 35–36 HD; wyrm 38–39 HD; great wyrm 41+ HD
+**Advancement:** Wyrmling 8–9 HD; very young 11–12 HD; young 14–15 HD; juvenile 17–18 HD; young adult 20–21 HD; adult 23–24 HD; mature adult 26–27 HD; old 29–30 HD; very old 32–33 HD; ancient 35–36 HD; wyrm 38–39 HD; great wyrm 41+ HD
 
-**Level Adjustment:**Wyrmling +4; very young +5; young +6; others —
+**Level Adjustment:** Wyrmling +4; very young +5; young +6; others —
 
 
 
@@ -3052,13 +3052,13 @@ Combat
 
 Because red dragons are so confident, they seldom pause to appraise an adversary. On spotting a target, they make a snap decision whether to attack, using one of many strategies worked out ahead of time. A red dragon lands to attack small, weak creatures with its claws and bite rather than obliterating them with its breath weapon, so as not to destroy any treasure they might be carrying.
 
-**Breath Weapon (Su):**A red dragon has one type of breath weapon, a cone of fire.
+**Breath Weapon (Su):** A red dragon has one type of breath weapon, a cone of fire.
 
-**Locate Object****(Sp):**A juvenile or older red dragon can use this ability as the spell of the same name, once per day per age category.
+**Locate Object** **(Sp):** A juvenile or older red dragon can use this ability as the spell of the same name, once per day per age category.
 
-**Other Spell-Like Abilities:**3/day—suggestion(old or older); 1/day—find the path(ancient or older),discern location(great wyrm).
+**Other Spell-Like Abilities:** 3/day—suggestion(old or older); 1/day—find the path(ancient or older),discern location(great wyrm).
 
-**Skills:**Appraise, Bluff, and Jump are considered class skills for red dragons.
+**Skills:** Appraise, Bluff, and Jump are considered class skills for red dragons.
 
 
 
@@ -3066,21 +3066,21 @@ Because red dragons are so confident, they seldom pause to appraise an adversary
 
 WHITE DRAGON
 
-**Dragon (Cold)**
+**Dragon (Cold)** 
 
-**Environment:**Cold mountains
+**Environment:** Cold mountains
 
-**Organization:**Wyrmling, very young, young, juvenile, and young adult: solitary or clutch (2–5); adult, mature adult, old, very old, ancient, wyrm, or great wyrm: solitary, pair, or family (1–2 and 2–5 offspring)
+**Organization:** Wyrmling, very young, young, juvenile, and young adult: solitary or clutch (2–5); adult, mature adult, old, very old, ancient, wyrm, or great wyrm: solitary, pair, or family (1–2 and 2–5 offspring)
 
-**Challenge Ratings:**Wyrmling 2; very young 3; young 4; juvenile 6; young adult 8; adult 10; mature adult 12; old 15; very old 17; ancient 18; wyrm 19; great wyrm 21
+**Challenge Ratings:** Wyrmling 2; very young 3; young 4; juvenile 6; young adult 8; adult 10; mature adult 12; old 15; very old 17; ancient 18; wyrm 19; great wyrm 21
 
-**Treasure:**Triple standard
+**Treasure:** Triple standard
 
-**Alignment:**Always chaotic evil
+**Alignment:** Always chaotic evil
 
-**Advancement:**Wyrmling 4–5 HD; very young 7–8 HD; young 10–11 HD; juvenile 13–14 HD; young adult 16–17 HD; adult 19–20 HD; mature adult 22–23 HD; old 25–26 HD; very old 28–29 HD; ancient 31–32 HD; wyrm 34–35 HD; great wyrm 37+ HD
+**Advancement:** Wyrmling 4–5 HD; very young 7–8 HD; young 10–11 HD; juvenile 13–14 HD; young adult 16–17 HD; adult 19–20 HD; mature adult 22–23 HD; old 25–26 HD; very old 28–29 HD; ancient 31–32 HD; wyrm 34–35 HD; great wyrm 37+ HD
 
-**Level Adjustment:**Wyrmling +2; very young +3; young +3; juvenile +5; others —
+**Level Adjustment:** Wyrmling +2; very young +3; young +3; juvenile +5; others —
 
 
 
@@ -3708,15 +3708,15 @@ Combat
 
 White dragons prefer sudden assaults, swooping down from aloft or bursting from beneath water, snow, or ice. They loose their breath weapon, then try to knock out a single opponent with a follow-up attack.
 
-**Breath Weapon (Su):**A white dragon has one type of breath weapon, a cone of cold.
+**Breath Weapon (Su):** A white dragon has one type of breath weapon, a cone of cold.
 
-**Icewalking (Ex):**This ability works like thespider climbspell, but the surfaces the dragon climbs must be icy. It is always in effect.
+**Icewalking (Ex):** This ability works like thespider climbspell, but the surfaces the dragon climbs must be icy. It is always in effect.
 
-**Freezing Fog****(Sp):**An old or older white dragon can use this ability three times per day. It is similar to asolid fogspell but also causes a rime of slippery ice to form on any surface the fog touches, creating the effect of agreasespell. The dragon is immune to thegreaseeffect because of its icewalking ability. This ability is the equivalent of a 5th-level spell.
+**Freezing Fog** **(Sp):** An old or older white dragon can use this ability three times per day. It is similar to asolid fogspell but also causes a rime of slippery ice to form on any surface the fog touches, creating the effect of agreasespell. The dragon is immune to thegreaseeffect because of its icewalking ability. This ability is the equivalent of a 5th-level spell.
 
-**Other Spell-Like Abilities:**3/day—fog cloud(juvenile or older),gust of wind(adult or older),wall of ice(ancient or older); 1/day—control weather(great wyrm).
+**Other Spell-Like Abilities:** 3/day—fog cloud(juvenile or older),gust of wind(adult or older),wall of ice(ancient or older); 1/day—control weather(great wyrm).
 
-**Skills:**Hide, Move Silently, and Swim are considered class skills for white dragons.
+**Skills:** Hide, Move Silently, and Swim are considered class skills for white dragons.
 
 
 
@@ -3732,21 +3732,21 @@ Metallic dragons make up the good branch of dragonkind, but they are every bit a
 
 BRASS DRAGON
 
-**Dragon (Fire)**
+**Dragon (Fire)** 
 
-**Environment:**Warm deserts
+**Environment:** Warm deserts
 
-**Organization:**Wyrmling, very young, young, juvenile, and young adult: solitary or clutch (2–5); adult, mature adult, old, very old, ancient, wyrm, or great wyrm: solitary, pair, or family (1–2 and 2–5 offspring)
+**Organization:** Wyrmling, very young, young, juvenile, and young adult: solitary or clutch (2–5); adult, mature adult, old, very old, ancient, wyrm, or great wyrm: solitary, pair, or family (1–2 and 2–5 offspring)
 
-**Challenge Ratings:**Wyrmling 3; very young 4; young 6; juvenile 8; young adult 10; adult 12; mature adult 15; old 17; very old 19; ancient 20; wyrm 21; great wyrm 23
+**Challenge Ratings:** Wyrmling 3; very young 4; young 6; juvenile 8; young adult 10; adult 12; mature adult 15; old 17; very old 19; ancient 20; wyrm 21; great wyrm 23
 
-**Treasure:**Triple standard
+**Treasure:** Triple standard
 
-**Alignment:**Always chaotic good
+**Alignment:** Always chaotic good
 
-**Advancement:**Wyrmling 5–6 HD; very young 8–9 HD; young 11–12 HD; juvenile 14–15 HD; young adult 17–18 HD; adult 20–21 HD; mature adult 23–24 HD; old 26–27 HD; very old 29–30 HD; ancient 32–33 HD; wyrm 35–36 HD; great wyrm 38+ HD
+**Advancement:** Wyrmling 5–6 HD; very young 8–9 HD; young 11–12 HD; juvenile 14–15 HD; young adult 17–18 HD; adult 20–21 HD; mature adult 23–24 HD; old 26–27 HD; very old 29–30 HD; ancient 32–33 HD; wyrm 35–36 HD; great wyrm 38+ HD
 
-**Level Adjustment:**Wyrmling +2; very young +3; young +4; juvenile +4; others —
+**Level Adjustment:** Wyrmling +2; very young +3; young +4; juvenile +4; others —
 
 
 
@@ -4378,11 +4378,11 @@ Combat
 
 Brass dragons would rather talk than fight. If an intelligent creature tries to leave without engaging in conversation, the dragon might force compliance in a fit of pique, usingsuggestionor a dose ofsleepgas. A creature put to sleep may wake to find itself pinned or buried to the neck in the sand until the dragon’s thirst for small talk is slaked. When faced with real danger, younger brass dragons fly out of sight, then hide by burrowing into the sand. Older dragons spurn this ploy but still prefer to have the advantage in combat.
 
-**Breath Weapon (Su):**A brass dragon has two types of breath weapon, a line of fire and a cone ofsleep. Creatures within the cone must succeed on a Will save or fall asleep, regardless of HD, for 1d6 rounds plus 1 round per age category of the dragon.
+**Breath Weapon (Su):** A brass dragon has two types of breath weapon, a line of fire and a cone ofsleep. Creatures within the cone must succeed on a Will save or fall asleep, regardless of HD, for 1d6 rounds plus 1 round per age category of the dragon.
 
-**Spell-Like Abilities:**At will—speak with animals;3/day—endure elements(juvenile or older; radius 10 ft. x dragon’s age category); 1/day—suggestion(adult or older),control winds(old or older),control weather(ancient or older).
+**Spell-Like Abilities:** At will—speak with animals;3/day—endure elements(juvenile or older; radius 10 ft. x dragon’s age category); 1/day—suggestion(adult or older),control winds(old or older),control weather(ancient or older).
 
-**Summon Djinni****(Sp):**This ability, usable by a great wyrm brass dragon, works like asummon monsterspell, except that it summons one djinni. This ability is the equivalent of a 7th-level spell.
+**Summon Djinni** **(Sp):** This ability, usable by a great wyrm brass dragon, works like asummon monsterspell, except that it summons one djinni. This ability is the equivalent of a 7th-level spell.
 
 Skills: Bluff, Gather Information, and Survival are considered class skills for brass dragons.
 
@@ -4392,21 +4392,21 @@ Skills: Bluff, Gather Information, and Survival are considered class skills for 
 
 BRONZE DRAGON
 
-**Dragon (Water)**
+**Dragon (Water)** 
 
-**Environment:**Temperate hills
+**Environment:** Temperate hills
 
-**Organization:**Wyrmling, very young, young, juvenile, and young adult: solitary or clutch (2–5); adult, mature adult, old, very old, ancient, wyrm, or great wyrm: solitary, pair, or family (1–2 and 2–5 offspring)
+**Organization:** Wyrmling, very young, young, juvenile, and young adult: solitary or clutch (2–5); adult, mature adult, old, very old, ancient, wyrm, or great wyrm: solitary, pair, or family (1–2 and 2–5 offspring)
 
-**Challenge Ratings:**Wyrmling 3; very young 5; young 7; juvenile 9; young adult 12; adult 15; mature adult 17; old 19; very old 20; ancient 22; wyrm 23; great wyrm 25
+**Challenge Ratings:** Wyrmling 3; very young 5; young 7; juvenile 9; young adult 12; adult 15; mature adult 17; old 19; very old 20; ancient 22; wyrm 23; great wyrm 25
 
-**Treasure:**Triple standard
+**Treasure:** Triple standard
 
-**Alignment:**Always lawful good
+**Alignment:** Always lawful good
 
-**Advancement:**Wyrmling 7–8 HD; very young 10–11 HD; young 13–14 HD; juvenile 16–17 HD; young adult 19–20 HD; adult 22–23 HD; mature adult 25–26 HD; old 28–29 HD; very old 31–32 HD; ancient 34–35 HD; wyrm 37–38 HD; great wyrm 40+ HD
+**Advancement:** Wyrmling 7–8 HD; very young 10–11 HD; young 13–14 HD; juvenile 16–17 HD; young adult 19–20 HD; adult 22–23 HD; mature adult 25–26 HD; old 28–29 HD; very old 31–32 HD; ancient 34–35 HD; wyrm 37–38 HD; great wyrm 40+ HD
 
-**Level Adjustment:**Wyrmling +4; very young +4; young +6; others —
+**Level Adjustment:** Wyrmling +4; very young +4; young +6; others —
 
 ## 
 
@@ -5038,15 +5038,15 @@ Bronze dragons dislike killing animals and would rather bribe them (perhaps with
 
 When attacking they blind their opponents withfog cloudand then charge or, if flying, snatch them up. Against seafaring opponents they conjure up a storm or use their tails to smash the vessels’ hulls. If a dragon is inclined to be lenient, ships might be merely becalmed, fogbound, or broken-masted.
 
-**Breath Weapon (Su):**Bronze dragons have two types of breath weapon, a line of lightning and a cone ofrepulsiongas. Creatures within the cone must succeed on a Will save or be compelled to do nothing but move away from the dragon for 1d6 rounds plus 1 round per age category of the dragon. This is a mind-affecting compulsion enchantment effect.
+**Breath Weapon (Su):** Bronze dragons have two types of breath weapon, a line of lightning and a cone ofrepulsiongas. Creatures within the cone must succeed on a Will save or be compelled to do nothing but move away from the dragon for 1d6 rounds plus 1 round per age category of the dragon. This is a mind-affecting compulsion enchantment effect.
 
-**Water Breathing (Ex):**A bronze dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.
+**Water Breathing (Ex):** A bronze dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.
 
-**Alternate Form (Su):**A young or older bronze dragon can assume any animal or humanoid form of Medium size or smaller as a standard action three times per day. This ability functions as apolymorphspell cast on itself at its caster level, except that the dragon does not regain hit points for changing form and can only assume the form of an animal or humanoid. The dragon can remain in its animal or humanoid form until it chooses to assume a new one or return to its natural form.
+**Alternate Form (Su):** A young or older bronze dragon can assume any animal or humanoid form of Medium size or smaller as a standard action three times per day. This ability functions as apolymorphspell cast on itself at its caster level, except that the dragon does not regain hit points for changing form and can only assume the form of an animal or humanoid. The dragon can remain in its animal or humanoid form until it chooses to assume a new one or return to its natural form.
 
-**Spell-Like Abilities:**At will—speak with animals;3/day—create food and water(adult or older),fog cloud(adult or older),detect thoughts(old or older),control water(ancient or older); 1/day—control weather(great wyrm).
+**Spell-Like Abilities:** At will—speak with animals;3/day—create food and water(adult or older),fog cloud(adult or older),detect thoughts(old or older),control water(ancient or older); 1/day—control weather(great wyrm).
 
-**Skills:**Disguise, Swim, and Survival are considered class skills for bronze dragons.
+**Skills:** Disguise, Swim, and Survival are considered class skills for bronze dragons.
 
 
 
@@ -5054,21 +5054,21 @@ When attacking they blind their opponents withfog cloudand then charge or, if fl
 
 COPPER DRAGON
 
-**Dragon (Earth)**
+**Dragon (Earth)** 
 
-**Environment:**Warm hills
+**Environment:** Warm hills
 
-**Organization:**Wyrmling, very young, young, juvenile, and young adult: solitary or clutch (2–5); adult, mature adult, old, very old, ancient, wyrm, or great wyrm: solitary, pair, or family (1–2 and 2–5 offspring)
+**Organization:** Wyrmling, very young, young, juvenile, and young adult: solitary or clutch (2–5); adult, mature adult, old, very old, ancient, wyrm, or great wyrm: solitary, pair, or family (1–2 and 2–5 offspring)
 
-**Challenge Ratings:**Wyrmling 3; very young 5; young 7; juvenile 9; young adult 11; adult 14; mature adult 16; old 19; very old 20; ancient 22; wyrm 23; great wyrm 25
+**Challenge Ratings:** Wyrmling 3; very young 5; young 7; juvenile 9; young adult 11; adult 14; mature adult 16; old 19; very old 20; ancient 22; wyrm 23; great wyrm 25
 
-**Treasure:**Triple standard
+**Treasure:** Triple standard
 
-**Alignment:**Always chaotic good
+**Alignment:** Always chaotic good
 
-**Advancement:**Wyrmling 6–7 HD; very young 9–10 HD; young 12–13 HD; juvenile 15–16 HD; young adult 18–19 HD; adult 21–22 HD; mature adult 24–25 HD; old 27–28 HD; very old 30–31 HD; ancient 33–34 HD; wyrm 36–37 HD; great wyrm 39+ HD
+**Advancement:** Wyrmling 6–7 HD; very young 9–10 HD; young 12–13 HD; juvenile 15–16 HD; young adult 18–19 HD; adult 21–22 HD; mature adult 24–25 HD; old 27–28 HD; very old 30–31 HD; ancient 33–34 HD; wyrm 36–37 HD; great wyrm 39+ HD
 
-**Level Adjustment:**Wyrmling +2; very young +3; young +4; juvenile +4; others —
+**Level Adjustment:** Wyrmling +2; very young +3; young +4; juvenile +4; others —
 
 
 
@@ -5700,13 +5700,13 @@ A copper dragon appreciates wit and usually doesn’t harm creatures that can re
 
 An angry copper dragon prefers to mire foes usingtransmute rock to mud. The dragon pushes trapped opponents into the mud or snatches and carries them aloft. A copper dragon tries to draw airborne enemies into narrow, stony gorges where it can use its spider climb ability and maneuver them into colliding with the walls.
 
-**Breath Weapon (Su):**A copper dragon has two types of breath weapon, a line of acid and a cone ofslowgas. Creatures within the cone must succeed on a Fortitude save or be slowed for 1d6 rounds plus 1 round per age category of the dragon.
+**Breath Weapon (Su):** A copper dragon has two types of breath weapon, a line of acid and a cone ofslowgas. Creatures within the cone must succeed on a Fortitude save or be slowed for 1d6 rounds plus 1 round per age category of the dragon.
 
-**Spider Climb (Ex):**A copper dragon can climb on stone surfaces as though using thespider climbspell.
+**Spider Climb (Ex):** A copper dragon can climb on stone surfaces as though using thespider climbspell.
 
-**Spell-Like Abilities:**2/day—stone shape(adult or older); 1/day—transmute rock to mudormud to rock(old or older),wall of stone(ancient or older),move earth(great wyrm).
+**Spell-Like Abilities:** 2/day—stone shape(adult or older); 1/day—transmute rock to mudormud to rock(old or older),wall of stone(ancient or older),move earth(great wyrm).
 
-**Skills:**Bluff, Hide, and Jump are considered class skills for copper dragons.
+**Skills:** Bluff, Hide, and Jump are considered class skills for copper dragons.
 
 
 
@@ -5714,21 +5714,21 @@ An angry copper dragon prefers to mire foes usingtransmute rock to mud. The drag
 
 GOLD DRAGON
 
-**Dragon (Fire)**
+**Dragon (Fire)** 
 
-**Environment:**Warm plains
+**Environment:** Warm plains
 
-**Organization:**Wyrmling, very young, young, juvenile, and young adult: solitary or clutch (2–5); adult, mature adult, old, very old, ancient, wyrm, or great wyrm: solitary, pair, or family (1–2 and 2–5 offspring)
+**Organization:** Wyrmling, very young, young, juvenile, and young adult: solitary or clutch (2–5); adult, mature adult, old, very old, ancient, wyrm, or great wyrm: solitary, pair, or family (1–2 and 2–5 offspring)
 
-**Challenge Ratings:**Wyrmling 5; very young 7; young 9; juvenile 11; young adult 14; adult 16; mature adult 19; old 21; very old 22; ancient 24; wyrm 25; great wyrm 27
+**Challenge Ratings:** Wyrmling 5; very young 7; young 9; juvenile 11; young adult 14; adult 16; mature adult 19; old 21; very old 22; ancient 24; wyrm 25; great wyrm 27
 
-**Treasure:**Triple standard
+**Treasure:** Triple standard
 
-**Alignment:**Always lawful good
+**Alignment:** Always lawful good
 
-**Advancement:**Wyrmling 9–10 HD; very young 12–13 HD; young 15–16 HD; juvenile 18–19 HD; young adult 21–22 HD; adult 24–25 HD; mature adult 27–28 HD; old 30–31 HD; very old 33–34 HD; ancient 36–37 HD; wyrm 39–40 HD; great wyrm 42+ HD
+**Advancement:** Wyrmling 9–10 HD; very young 12–13 HD; young 15–16 HD; juvenile 18–19 HD; young adult 21–22 HD; adult 24–25 HD; mature adult 27–28 HD; old 30–31 HD; very old 33–34 HD; ancient 36–37 HD; wyrm 39–40 HD; great wyrm 42+ HD
 
-**Level Adjustment:**Wyrmling +4; very young +5; young +6; others —
+**Level Adjustment:** Wyrmling +4; very young +5; young +6; others —
 
 
 
@@ -6360,19 +6360,19 @@ Combat
 
 Gold dragons usually parley before fighting. When conversing with intelligent creatures, they use Intimidate and Sense Motive to gain the upper hand. In combat, they employblessand theirluck bonus;older dragons use theirluck bonusat the start of each day. They make heavy use of spells in combat. Among their favorites arecloudkill, delayed blast fireball, fire shield, globe of invulnerability, maze, sleep, slow,andstinking cloud.
 
-**Breath Weapon (Su):**A gold dragon has two types of breath weapon, a cone of fire and a cone of weakening gas. Creatures within a cone of weakening gas must succeed on a Fortitude save or take 1 point of Strength damage per age category of the dragon.
+**Breath Weapon (Su):** A gold dragon has two types of breath weapon, a cone of fire and a cone of weakening gas. Creatures within a cone of weakening gas must succeed on a Fortitude save or take 1 point of Strength damage per age category of the dragon.
 
-**Alternate Form (Su):**A gold dragon can assume any animal or humanoid form of Medium size or smaller as a standard action three times per day. This ability functions as apolymorphspell cast on itself at its caster level, except that the dragon does not regain hit points for changing form and can only assume the form of an animal or humanoid. The dragon can remain in its animal or humanoid form until it chooses to assume a new one or return to its natural form.
+**Alternate Form (Su):** A gold dragon can assume any animal or humanoid form of Medium size or smaller as a standard action three times per day. This ability functions as apolymorphspell cast on itself at its caster level, except that the dragon does not regain hit points for changing form and can only assume the form of an animal or humanoid. The dragon can remain in its animal or humanoid form until it chooses to assume a new one or return to its natural form.
 
-**Water Breathing (Ex):**A gold dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged (the cone of fire becomes a cone of superheated steam underwater).
+**Water Breathing (Ex):** A gold dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged (the cone of fire becomes a cone of superheated steam underwater).
 
-**Luck Bonus****(Sp):**Once per day an adult or older gold dragon can touch a gem, usually one embedded in the dragon’s hide, and enspell it to bring good luck. As long as the dragon carries the gem, it and every good creature in a 10-foot radius per age category of the dragon receives a +1 luck bonus on all saving throws and similar rolls, as for astone of good luck. If the dragon gives an enspelled gem to another creature, only that bearer gets the bonus. The effect lasts 1d3 hours plus 3 hours per age category of the dragon but ends if the gem is destroyed. This ability is the equivalent of a 2nd-level spell.
+**Luck Bonus** **(Sp):** Once per day an adult or older gold dragon can touch a gem, usually one embedded in the dragon’s hide, and enspell it to bring good luck. As long as the dragon carries the gem, it and every good creature in a 10-foot radius per age category of the dragon receives a +1 luck bonus on all saving throws and similar rolls, as for astone of good luck. If the dragon gives an enspelled gem to another creature, only that bearer gets the bonus. The effect lasts 1d3 hours plus 3 hours per age category of the dragon but ends if the gem is destroyed. This ability is the equivalent of a 2nd-level spell.
 
-**Detect Gems****(Sp):**An old or older gold dragon can use this ability three times per day. This is a divination effect similar to adetect magicspell, except that it finds only gems. The dragon can scan a 60-degree arc each round: By concentrating for 1 round it knows if there are any gems within the arc; 2 rounds of concentration reveal the exact number of gems; and 3 rounds reveal their exact location, type, and value. This ability is the equivalent of a 2ndlevel spell.
+**Detect Gems** **(Sp):** An old or older gold dragon can use this ability three times per day. This is a divination effect similar to adetect magicspell, except that it finds only gems. The dragon can scan a 60-degree arc each round: By concentrating for 1 round it knows if there are any gems within the arc; 2 rounds of concentration reveal the exact number of gems; and 3 rounds reveal their exact location, type, and value. This ability is the equivalent of a 2ndlevel spell.
 
-**Other Spell-Like Abilities:**3/day—bless(juvenile or older); 1/day—geas/quest(old or older),sunburst(ancient or older),foresight(great wyrm).
+**Other Spell-Like Abilities:** 3/day—bless(juvenile or older); 1/day—geas/quest(old or older),sunburst(ancient or older),foresight(great wyrm).
 
-**Skills:**Disguise, Heal, and Swim are considered class skills for gold dragons.
+**Skills:** Disguise, Heal, and Swim are considered class skills for gold dragons.
 
 
 
@@ -6380,21 +6380,21 @@ Gold dragons usually parley before fighting. When conversing with intelligent cr
 
 SILVER DRAGON
 
-**Dragon (Cold)**
+**Dragon (Cold)** 
 
-**Environment:**Temperate mountains
+**Environment:** Temperate mountains
 
-**Organization:**Wyrmling, very young, young, juvenile, and young adult: solitary or clutch (2–5); adult, mature adult, old, very old, ancient, wyrm, or great wyrm: solitary, pair, or family (1–2 and 2–5 offspring)
+**Organization:** Wyrmling, very young, young, juvenile, and young adult: solitary or clutch (2–5); adult, mature adult, old, very old, ancient, wyrm, or great wyrm: solitary, pair, or family (1–2 and 2–5 offspring)
 
-**Challenge Ratings:**Wyrmling 4; very young 5; young 7; juvenile 10; young adult 13; adult 15; mature adult 18; old 20; very old 21; ancient 23; wyrm 24; great wyrm 26
+**Challenge Ratings:** Wyrmling 4; very young 5; young 7; juvenile 10; young adult 13; adult 15; mature adult 18; old 20; very old 21; ancient 23; wyrm 24; great wyrm 26
 
-**Treasure:**Triple standard
+**Treasure:** Triple standard
 
-**Alignment:**Always lawful good
+**Alignment:** Always lawful good
 
-**Advancement:**Wyrmling 8–9 HD; very young 11–12 HD; young 14–15 HD; juvenile 17–18 HD; young adult 20–21 HD; adult 23–24 HD; mature adult 26–27 HD; old 29–30 HD; very old 32–33 HD; ancient 35–36 HD; wyrm 38–39 HD; great wyrm 41+ HD
+**Advancement:** Wyrmling 8–9 HD; very young 11–12 HD; young 14–15 HD; juvenile 17–18 HD; young adult 20–21 HD; adult 23–24 HD; mature adult 26–27 HD; old 29–30 HD; very old 32–33 HD; ancient 35–36 HD; wyrm 38–39 HD; great wyrm 41+ HD
 
-**Level Adjustment:**Wyrmling +4; very young +4; young +5; others —
+**Level Adjustment:** Wyrmling +4; very young +4; young +5; others —
 
 
 
@@ -7024,15 +7024,15 @@ Combat
 
 Silver dragons are not violent and avoid combat except when faced with highly evil or aggressive foes. If necessary, they usefog cloudorcontrol weatherto blind or confuse opponents before attacking. When angry, they usereverse gravityto fling enemies helplessly into the air, where they can be snatched. Against flying opponents, a silver dragon hides in clouds (creating some withcontrol weatheron clear days), then jumps to the attack when it has the advantage.
 
-**Breath Weapon (Su):**A silver dragon has two types of breath weapon, a cone of cold and a cone of paralyzing gas. Creatures within a cone of paralyzing gas must succeed on a Fortitude save or be paralyzed for 1d6 rounds plus 1 round per age category of the dragon.
+**Breath Weapon (Su):** A silver dragon has two types of breath weapon, a cone of cold and a cone of paralyzing gas. Creatures within a cone of paralyzing gas must succeed on a Fortitude save or be paralyzed for 1d6 rounds plus 1 round per age category of the dragon.
 
-**Alternate Form (Su):**A silver dragon can assume any animal or humanoid form of Medium size or smaller as a standard action three times per day. This ability functions as apolymorphspell cast on itself at its caster level, except that the dragon does not regain hit points for changing form and can only assume the form of an anirmal or humanoid. The dragon can remain in its animal or humanoid form until it chooses to assume a new one or return to its natural form.
+**Alternate Form (Su):** A silver dragon can assume any animal or humanoid form of Medium size or smaller as a standard action three times per day. This ability functions as apolymorphspell cast on itself at its caster level, except that the dragon does not regain hit points for changing form and can only assume the form of an anirmal or humanoid. The dragon can remain in its animal or humanoid form until it chooses to assume a new one or return to its natural form.
 
-**Cloudwalking (Su):**A silver dragon can tread on clouds or fog as though on solid ground. The ability functions continuously but can be negated or resumed at will.
+**Cloudwalking (Su):** A silver dragon can tread on clouds or fog as though on solid ground. The ability functions continuously but can be negated or resumed at will.
 
-**Spell-Like Abilities:**3/day—fog cloud(adult or older),control winds(old or older); 2/day—feather fall(juvenile or older); 1/day—control weather(ancient or older),reverse gravity(great wyrm).
+**Spell-Like Abilities:** 3/day—fog cloud(adult or older),control winds(old or older); 2/day—feather fall(juvenile or older); 1/day—control weather(ancient or older),reverse gravity(great wyrm).
 
-**Skills:**Bluff, Disguise, and Jump are considered class skills for silver dragons.
+**Skills:** Bluff, Disguise, and Jump are considered class skills for silver dragons.
 
 
 
@@ -7140,11 +7140,11 @@ COMBAT
 
 Dragon turtles are fierce fighters and generally attack any creature that threatens their territory or looks like a potential meal.
 
-**Breath Weapon (Su):**Cloud of superheated steam 20 feet high, 25 feet wide, and 50 feet long, once every 1d4 rounds, damage 12d6 fire, Reflex DC 21 half; effective both on the surface and underwater. The save DC is Constitution-based.
+**Breath Weapon (Su):** Cloud of superheated steam 20 feet high, 25 feet wide, and 50 feet long, once every 1d4 rounds, damage 12d6 fire, Reflex DC 21 half; effective both on the surface and underwater. The save DC is Constitution-based.
 
-**Capsize (Ex):**A submerged dragon turtle that surfaces under a boat or ship less than 20 feet long capsizes the vessel 95% of the time. It has a 50% chance to capsize a vessel from 20 to 60 feet long and a 20% chance to capsize one over 60 feet long.
+**Capsize (Ex):** A submerged dragon turtle that surfaces under a boat or ship less than 20 feet long capsizes the vessel 95% of the time. It has a 50% chance to capsize a vessel from 20 to 60 feet long and a 20% chance to capsize one over 60 feet long.
 
-**Skills:**A dragon turtle has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered.
+**Skills:** A dragon turtle has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered.
 
 It can use the run action while swimming, provided it swims in a straight line.
 
@@ -7256,13 +7256,13 @@ COMBAT
 
 A dragonne’s wings are useful only for short flights, carrying the creature for 10 to 30 minutes at a time. Nevertheless, it uses its wings effectively in battle. If opponents attempt to charge or encircle it, the dragonne simply takes to the air and finds a more defensible position.
 
-**Pounce (Ex):**If a dragonne charges, it can make a full attack in the same round.
+**Pounce (Ex):** If a dragonne charges, it can make a full attack in the same round.
 
-**Roar (Su):**A dragonne can loose a devastating roar every 1d4 rounds. All creatures except dragonnes within 120 feet must succeed on a DC 15 Will save or become fatigued. Those within 30 feet who fail their saves become exhausted. The save DC is Charisma-based.
+**Roar (Su):** A dragonne can loose a devastating roar every 1d4 rounds. All creatures except dragonnes within 120 feet must succeed on a DC 15 Will save or become fatigued. Those within 30 feet who fail their saves become exhausted. The save DC is Charisma-based.
 
-**Skills:**Dragonnes have a +4 racial bonus on Listen and Spot checks.
+**Skills:** Dragonnes have a +4 racial bonus on Listen and Spot checks.
 
-**Carrying Capacity:**A light load for a dragonne is up to 348 pounds; a medium load, 349–699 pounds, and a heavy load, 700–1,050 pounds.
+**Carrying Capacity:** A light load for a dragonne is up to 348 pounds; a medium load, 349–699 pounds, and a heavy load, 700–1,050 pounds.
 
 
 
@@ -7368,15 +7368,15 @@ COMBAT
 
 Driders seldom pass up an opportunity to attack other creatures, especially from ambush. They usually begin with a spell assault and often levitate out of the enemy’s reach.
 
-**Poison (Ex):**Injury, Fortitude DC 16, initial and secondary damage 1d6 Str. The save DC is Constitution based.
+**Poison (Ex):** Injury, Fortitude DC 16, initial and secondary damage 1d6 Str. The save DC is Constitution based.
 
-**Spell-Like Abilities:**1/day—dancing lights(DC 13),clairaudience/clairvoyance, darkness, detect good, detect law, detect magic, dispel magic, faerie fire, levitate, suggestion(DC 16). Caster level 6th. The save DCs are Charisma-based.
+**Spell-Like Abilities:** 1/day—dancing lights(DC 13),clairaudience/clairvoyance, darkness, detect good, detect law, detect magic, dispel magic, faerie fire, levitate, suggestion(DC 16). Caster level 6th. The save DCs are Charisma-based.
 
-**Spells:**Driders cast spells as 6th-level clerics, wizards, or sorcerers. Drider clerics can choose from the following domains: Chaos, Destruction, Evil, and Trickery. The typical spells prepared shown here are for a drider sorcerer.
+**Spells:** Driders cast spells as 6th-level clerics, wizards, or sorcerers. Drider clerics can choose from the following domains: Chaos, Destruction, Evil, and Trickery. The typical spells prepared shown here are for a drider sorcerer.
 
 Typical Sorcerer Spells Known(6/7/6/4, base save DC 13 + spell level): 0—daze, detect magic, ghost sound, mage hand, ray of frost, read magic, resistance;1st—mage armor, magic missile, ray of enfeeblement, silent image;2nd—invisibility, web;3rd—lightning bolt.
 
-**Skills:**A drider has a +4 racial bonus on Hide and Move Silently checks. It has a +8 racial bonus on Climb checks and can always choose to take 10 on a Climb check, even if rushed or threatened.
+**Skills:** A drider has a +4 racial bonus on Hide and Move Silently checks. It has a +8 racial bonus on Climb checks and can always choose to take 10 on a Climb check, even if rushed or threatened.
 
 
 
@@ -7486,11 +7486,11 @@ COMBAT
 
 Shy, intelligent, and resolute, dryads are as elusive as they are alluring—they avoid physical combat and are rarely seen unless they wish to be. If threatened, or in need of an ally, a dryad usescharm personorsuggestion,attempting to gain control of the attacker(s) who could help the most against the rest. Any attack on her tree, however, provokes the dryad into a frenzied defense.
 
-**Spell-Like Abilities:**At will—entangle(DC 13),speak with plants, tree shape;3/day—charm person(DC 13),deep slumber(DC 15),tree stride;1/day—suggestion(DC 15).Caster level 6th. The save DCs are Wisdom-based.
+**Spell-Like Abilities:** At will—entangle(DC 13),speak with plants, tree shape;3/day—charm person(DC 13),deep slumber(DC 15),tree stride;1/day—suggestion(DC 15).Caster level 6th. The save DCs are Wisdom-based.
 
-**Tree Dependent (Su):**Each dryad is mystically bound to a single, enormous oak tree and must never stray more than 300 yards from it. Any who do become ill and die within 4d6 hours. A dryad’s oak does not radiate magic.
+**Tree Dependent (Su):** Each dryad is mystically bound to a single, enormous oak tree and must never stray more than 300 yards from it. Any who do become ill and die within 4d6 hours. A dryad’s oak does not radiate magic.
 
-**Wild Empathy (Ex):**This power works like the druid’s wild empathy class feature, except that the dryad has a +6 racial bonus on the check.
+**Wild Empathy (Ex):** This power works like the druid’s wild empathy class feature, except that the dryad has a +6 racial bonus on the check.
 
 
 
@@ -7654,7 +7654,7 @@ COMBAT
 
 Dwarves are experts in combat, effectively using their environment and executing well-planned group attacks. They rarely use magic in fights, since they have few wizards or sorcerers (but dwarven clerics throw themselves into battle as heartily as their fellow warriors). If they have time to prepare, they may build deadfalls or other traps involving stone. In addition to the dwarven waraxe and thrown hammer, dwarves also use warhammers, picks, shortbows, heavy crossbows, and maces.
 
-**Dwarf Traits (Ex):**Dwarves possess the following racial traits.
+**Dwarf Traits (Ex):** Dwarves possess the following racial traits.
 
 —+2 Constitution, –2 Charisma.
 
@@ -7694,7 +7694,7 @@ The information above is for hill dwarves, the most common variety.
 
 There are three other major dwarven subraces, which differ from hill dwarves as follows.
 
-**Deep Dwarf**
+**Deep Dwarf** 
 
 These dwarves live far underground and tend to be more standoffish with non-dwarves.
 
@@ -7702,7 +7702,7 @@ Deep dwarves are the same height as other dwarves, but leaner. Their skin someti
 
 Deep dwarves speak Dwarven and Goblin, and occasionally Draconic or Undercommon.
 
-**Deep Dwarf Traits (Ex):**These traits are in addition to the hill dwarf traits, except where noted.
+**Deep Dwarf Traits (Ex):** These traits are in addition to the hill dwarf traits, except where noted.
 
 —Racial bonus on saves against spells and spell-like abilities increases to +3.
 
@@ -7712,7 +7712,7 @@ Deep dwarves speak Dwarven and Goblin, and occasionally Draconic or Undercommon.
 
 —Light Sensitivity: Deep dwarves are dazzled in bright sunlight or within the radius of adaylightspell.
 
-**Duergar**
+**Duergar** 
 
 Sometimes called gray dwarves, these evil beings dwell in the underground.
 
@@ -7720,7 +7720,7 @@ Most duergar are bald (even the females), and they dress in drab clothing that i
 
 Duergar speak Dwarven and Undercommon.
 
-**Duergar Traits (Ex):**These traits are in addition to the hill dwarf traits, except where noted.
+**Duergar Traits (Ex):** These traits are in addition to the hill dwarf traits, except where noted.
 
 — –4 Charisma instead of –2.
 
@@ -7750,9 +7750,9 @@ Bonus Languages: Draconic, Giant, Goblin, Orc, Terran. This trait replaces the h
 
 The duergar warrior presented here had the following ability scores before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
 
-**Challenge Rating:**Duergar with levels in NPC classes have a CR equal to their character level. Duergar with levels in PC classes have a CR equal to their character level +1.
+**Challenge Rating:** Duergar with levels in NPC classes have a CR equal to their character level. Duergar with levels in PC classes have a CR equal to their character level +1.
 
-**Mountain Dwarf**
+**Mountain Dwarf** 
 
 Mountain dwarves live deeper under the mountains than hill dwarves but generally not as far underground as deep dwarves. They average about 4-1/2 feet tall and have lighter skin and hair than hill dwarves, but the same general appearance.
 
