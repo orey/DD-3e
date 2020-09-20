@@ -11,7 +11,7 @@ DO_NOTHING_BEGIN = ["HTML", "HEAD", "META", "STYLE", "BODY", "FONT", "P",
                     "COL", "TR", "TD"]
 
 DO_NOTHING_END = ["HTML", "HEAD", "META", "STYLE", "BODY", "FONT",
-                    "COL", "TR", "TD", "BR", "A"]
+                    "COL", "TR", "TD", "BR"]
 
 REMOVE_CONTENT = ["STYLE", "COL", "TR", "TD"]
 
@@ -22,10 +22,16 @@ BLANK_LINE = ["TITLE", "H1", "H2", "H3", "H4", "H5", "P"]
 class MyHTMLParser(HTMLParser):
     out = None
     currenttag = ""
+    
     tablenb = 0
     intable = False
+
     verbose = False
     imagelog = open("imagelog.txt", "w")
+
+    inlink = False
+    datalink = ""
+    url = ""
 
     def setOutputFile(self, out, verbose=False):
         self.out = out
@@ -37,7 +43,6 @@ class MyHTMLParser(HTMLParser):
             print("Encountered a start tag:", tag)
         thetag = tag.upper()
         self.currenttag = thetag
-        self.currentattrs = attrs
         if (thetag in DO_NOTHING_BEGIN):
             if (self.verbose):
                 print("Doing nothing")
@@ -60,10 +65,15 @@ class MyHTMLParser(HTMLParser):
         if (thetag == "H5"):
             self.out.write("###### ")
             return
-        if (self.currenttag == "A"):
-            url = self.currentattrs[0][1]
-            self.out.write(" [" + url + "](" + url + ") ")
-            return
+        if (thetag == "A"):
+            if (self.intable):
+                return
+            else:
+                self.inlink = True
+                # getting href value
+                self.url = attrs[0][1]
+                # print("entering a, url = " + self.url)
+                return
         if (thetag == "BR"):
             if (self.intable):
                 return
@@ -103,6 +113,11 @@ class MyHTMLParser(HTMLParser):
             else:
                 self.out.write("**")
                 return
+        if (thetag == "A"):
+            self.out.write(" [" + self.datalink + "](" + self.url + ") ")
+            self.inlink = False
+            #print("exiting a")
+            return
         if (thetag == "P"):
             if (self.ntable):
                 return
@@ -123,6 +138,10 @@ class MyHTMLParser(HTMLParser):
     def handle_data(self, data):
         #print("Encountered some data  :", data)
         if (self.intable):
+            return
+        if (self.inlink):
+            #print("adding data: " + removeBlanks(data))
+            self.datalink += removeBlanks(data)
             return
         if (not (self.currenttag in REMOVE_CONTENT)):
             self.out.write(removeBlanks(data))
