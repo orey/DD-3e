@@ -1,29 +1,5 @@
 zoom 140%
 
-
-
-07 SkillsII-Table01.png
-07 SkillsII-Table02.png
-07 SkillsII-Table03.png
-07 SkillsII-Table04.png
-07 SkillsII-Table05.png
-07 SkillsII-Table06.png
-07 SkillsII-Table07.png
-07 SkillsII-Table08.png
-07 SkillsII-Table09.png
-07 SkillsII-Table10.png
-07 SkillsII-Table11.png
-07 SkillsII-Table12.png
-07 SkillsII-Table13.png
-07 SkillsII-Table14.png
-07 SkillsII-Table15.png
-07 SkillsII-Table16.png
-07 SkillsII-Table17.png
-07 SkillsII-Table18.png
-07 SkillsII-Table19.png
-07 SkillsII-Table20.png
-07 SkillsII-Table21.png
-07 SkillsII-Table22.png
 08 Feats-Table01.png
 08 Feats-Table02.png
 08 Feats-Table03.png
