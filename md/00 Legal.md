@@ -36,7 +36,7 @@ All of the rest of the SRD is Open Game Content as described in Section 1(d) of 
 
 
 
-More information on the Open Game License can be found atwww.wizards.com/d20.
+More information on the Open Game License can be found at [http://www.wizards.com/d20](http://www.wizards.com/d20) www.wizards.com/d20.
 
 
 
