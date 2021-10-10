@@ -1,0 +1,488 @@
+%&pdfLaTeX
+% !TEX encoding = UTF-8 Unicode
+\documentclass{article}
+\usepackage{ifxetex}
+\ifxetex
+\usepackage{fontspec}
+\setmainfont[Mapping=tex-text]{STIXGeneral}
+\else
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\fi
+\usepackage{textcomp}
+
+\usepackage{array}
+\usepackage{amssymb}
+\usepackage{fancyhdr}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\begin{document}
+
+This material is Open Game Content, and is licensed for public use under the terms 
+of the Open Game License v1.0a.
+
+\section*{{\LARGE{}TREASURE}}
+
+\vspace{12pt}
+MONSTERS WITH TREASURE
+
+Every monster has a treasure rating (indicating how much treasure it has, although 
+for some creatures the rating is ``None''). The tables found below are used to 
+determine the specifics. After referencing the level and kind of treasure (coins, 
+goods, items) found in the creature's description, roll on the appropriate row 
+and columns of the proper table.
+
+When generating an encounter dealing with monsters away from their lair, remember 
+that a creature only takes what it can easily carry with it. In the case of a creature 
+that cannot use treasure, that generally means nothing. The monster safeguards 
+or hides its treasure as well as it can, but it leaves it behind when outside the 
+lair.
+
+\vspace{12pt}
+Using the Treasure Table
+
+Cross-reference the level of the treasure on the left with the type of treasure. 
+The level of the treasure is equal to the CR of the monsters in the encounter. 
+A standard treasure (one that includes coins, goods, and items) requires three 
+rolls, one for each category.
+
+\vspace{12pt}
+\begin{tabular}{|>{\raggedright}p{47pt}|>{\raggedright}p{60pt}|>{\raggedright}p{51pt}|>{\raggedright}p{60pt}|}
+\hline
+\multicolumn{4}{|p{218pt}|}{T\textbf{able: Treasure Values per Encounter}}\tabularnewline
+\hline
+E\textbf{ncounter Level} & T\textbf{reasure per Encounter} & E\textbf{ncounter 
+Level} & T\textbf{reasure per Encounter}\tabularnewline
+\hline
+1 & 300 gp & 11 & 7,500 gp\tabularnewline
+\hline
+2 & 600 gp & 12 & 9,800 gp\tabularnewline
+\hline
+3 & 900 gp & 13 & 13,000 gp\tabularnewline
+\hline
+4 & 1,200 gp & 14 & 17,000 gp\tabularnewline
+\hline
+5 & 1,600 gp & 15 & 22,000 gp\tabularnewline
+\hline
+6 & 2,000 gp & 16 & 28,000 gp\tabularnewline
+\hline
+7 & 2,600 gp & 17 & 36,000 gp\tabularnewline
+\hline
+8 & 3,400 gp & 18 & 47,000 gp\tabularnewline
+\hline
+9 & 4,500 gp & 19 & 61,000 gp\tabularnewline
+\hline
+10 & 5,800 gp & 20 & 80,000 gp\tabularnewline
+\hline
+\end{tabular}
+
+\vspace{12pt}
+On average, the PCs should earn one treasure suitable to their level for each encounter 
+they overcome. 
+
+\vspace{12pt}
+\begin{tabular}{|>{\raggedright}p{79pt}|>{\raggedright}p{64pt}|}
+\hline
+\multicolumn{2}{|p{144pt}|}{T\textbf{able: Average Treasure Results}}\tabularnewline
+\hline
+T\textbf{ype } & \subsection*{A\textbf{verage Result}}\tabularnewline
+\hline
+Gem  & 275 gp\tabularnewline
+\hline
+Art object  & 1,100 gp\tabularnewline
+\hline
+Mundane item  & 350 gp\tabularnewline
+\hline
+Minor magic item  & 1,000 gp\tabularnewline
+\hline
+Medium magic item  & 10,000 gp\tabularnewline
+\hline
+Major magic item  & 40,000 gp\tabularnewline
+\hline
+\end{tabular}
+
+\vspace{12pt}
+\begin{tabular}{|>{\raggedright}p{21pt}|>{\raggedright}p{28pt}|>{\raggedright}p{66pt}|>{\raggedright}p{28pt}|>{\raggedright}p{41pt}|>{\raggedright}p{28pt}|>{\raggedright}p{51pt}|}
+\hline
+\multicolumn{7}{|p{266pt}|}{T\textbf{able: Treasure}}\tabularnewline
+\hline
+\subsubsection*{L\textbf{evel}} & d\textbf{\%}---- &  \textbf{Coins ----} & d\textbf{\%} & G\textbf{oods} & d\textbf{\%} & I\textbf{tems}\tabularnewline
+\hline
+1st & 01-14--- &  & 01-90--- &  & 01-71--- & \tabularnewline
+\hline
+ & 15-29 & 1d6 x 1,000 cp & 91-95 & 1 gem & 72-95 & 1 mundane\tabularnewline
+\hline
+ & 30-52 & 1d8 x 100 sp & 96-100 & 1 art & 96-100 & 1 minor\tabularnewline
+\hline
+ & 53-95 & 2d8 x 10 gp &  &  &  & \tabularnewline
+\hline
+ & 96-100 & 1d4 x 10 pp &  &  &  & \tabularnewline
+\hline
+2nd & 01-13--- &  & 01-81--- &  & 01-49--- & \tabularnewline
+\hline
+ & 14-23 & 1d10 x 1,000 cp & 82-95 & 1d3 gems & 50-85 & 1 mundane\tabularnewline
+\hline
+ & 24-43 & 2d10 x 100 sp & 96-100 & 1d3 art & 86-100 & 1 minor\tabularnewline
+\hline
+ & 44-95 & 4d10 x 10 gp &  &  &  & \tabularnewline
+\hline
+ & 96-100 & 2d8 x 10 pp &  &  &  & \tabularnewline
+\hline
+3rd & 01-11--- &  & 01-77--- &  & 01-49--- & \tabularnewline
+\hline
+ & 12-21 & 2d10 x 1,000 cp & 78-95 & 1d3 gems & 50-79 & 1d3 mundane\tabularnewline
+\hline
+ & 22-41 & 4d8 x 100 sp & 96-100 & 1d3 art & 80-100 & 1 minor\tabularnewline
+\hline
+ & 42-95 & 1d4 x 100 gp &  &  &  & \tabularnewline
+\hline
+ & 96-100 & 1d10 x 10 pp &  &  &  & \tabularnewline
+\hline
+4th & 01-11--- &  & 01-70--- &  & 01-42--- & \tabularnewline
+\hline
+ & 12-21 & 3d10 x 1,000 cp & 71-95 & 1d4 gems & 43-62 & 1d4 mundane\tabularnewline
+\hline
+ & 22-41 & 4d12 x 1,000 sp & 96-100 & 1d3 art & 63-100 & 1 minor\tabularnewline
+\hline
+ & 42-95 & 1d6 x 100 gp &  &  &  & \tabularnewline
+\hline
+ & 96-100 & 1d8 x 10 pp &  &  &  & \tabularnewline
+\hline
+5th & 01-10--- &  & 01-60--- &  & 01-57--- & \tabularnewline
+\hline
+ & 11-19 & 1d4 x 10,000 cp & 61-95 & 1d4 gems & 58-67 & 1d4 mundane\tabularnewline
+\hline
+ & 20-38 & 1d6 x 1,000 sp & 96-100 & 1d4 art & 68-100 & 1d3 minor\tabularnewline
+\hline
+ & 39-95 & 1d8 x 100 gp &  &  &  & \tabularnewline
+\hline
+ & 96-100 & 1d10 x 10 pp &  &  &  & \tabularnewline
+\hline
+6th & 01-10--- &  & 01-56--- &  & 01-54--- & \tabularnewline
+\hline
+ & 11-18 & 1d6 x 10,000 cp & 57-92 & 1d4 gems & 55-59 & 1d4 mundane\tabularnewline
+\hline
+ & 19-37 & 1d8 x 1,000 sp & 93-100 & 1d4 art & 60-99 & 1d3 minor\tabularnewline
+\hline
+ & 38-95 & 1d10 x 100 gp & 100 & 1 medium &  & \tabularnewline
+\hline
+ & 96-100 & 1d12 x 10 pp &  &  &  & \tabularnewline
+\hline
+7th & 01-11--- &  & 01-48--- &  & 01-51--- & \tabularnewline
+\hline
+ & 12-18 & 1d10 x 10,000 cp & 49-88 & 1d4 gems & 52-97 & 1d3 minor\tabularnewline
+\hline
+ & 19-35 & 1d12 x 1,000 sp & 89-100 & 1d4 art & 98-100 & 1 medium\tabularnewline
+\hline
+ & 36-93 & 2d6 x 100 gp &  &  &  & \tabularnewline
+\hline
+ & 94-100 & 3d4 x 10 pp &  &  &  & \tabularnewline
+\hline
+8th & 01-10--- &  & 01-45--- &  & 01-48--- & \tabularnewline
+\hline
+ & 11-15 & 1d12 x 10,000 cp & 46-85 & 1d6 gems & 49-96 & 1d4 minor\tabularnewline
+\hline
+ & 16-29 & 2d6 x 1,000 sp & 86-100 & 1d4 art & 97-100 & 1 medium\tabularnewline
+\hline
+ & 30-87 & 2d8 x 100 gp &  &  &  & \tabularnewline
+\hline
+ & 88-100 & 3d6 x 10 pp &  &  &  & \tabularnewline
+\hline
+9th & 01-10--- &  & 01-40--- &  & 01-43--- & \tabularnewline
+\hline
+ & 11-15 & 2d6 x 10,000 cp & 41-80 & 1d8 gems & 44-91 & 1d4 minor\tabularnewline
+\hline
+ & 16-29 & 2d8 x 1,000 sp & 81-100 & 1d4 art & 92-100 & 1 medium\tabularnewline
+\hline
+ & 30-85 & 5d4 x 100 gp &  &  &  & \tabularnewline
+\hline
+ & 86-100 & 2d12 x 10 pp &  &  &  & \tabularnewline
+\hline
+10th & 01-10--- &  & 01-35--- &  & 01-40--- & \tabularnewline
+\hline
+ & 11-24 & 2d10 x 1,000 sp & 36-79 & 1d8 gems & 41-88 & 1d4 minor\tabularnewline
+\hline
+ & 25-79 & 6d4 x 100 gp & 80-100 & 1d6 art & 89-99 & 1 medium\tabularnewline
+\hline
+ & 80-100 & 5d6 x 10 pp & 100 & 1 major &  & \tabularnewline
+\hline
+11th & 01-08--- &  & 01-24--- &  & 01-31--- & \tabularnewline
+\hline
+ & 09-14 & 3d10 x 1,000 sp & 25-74 & 1d10 gems & 32-84 & 1d4 minor\tabularnewline
+\hline
+ & 15-75 & 4d8 x 100 gp & 75-100 & 1d6 art & 85-98 & 1 medium\tabularnewline
+\hline
+ & 76-100 & 4d10 x 10 pp & 99-100 & 1 major &  & \tabularnewline
+\hline
+12th & 01-08--- &  & 01-17--- &  & 01-27--- & \tabularnewline
+\hline
+ & 09-14 & 3d12 x 1,000 sp & 18-70 & 1d10 gems & 28-82 & 1d6 minor\tabularnewline
+\hline
+ & 15-75 & 1d4 x 1,000 gp & 71-100 & 1d8 art & 83-97 & 1 medium\tabularnewline
+\hline
+ & 76-100 & 1d4 x 100 pp & 98-100 & 1 major &  & \tabularnewline
+\hline
+13th & 01-08--- &  & 01-11--- &  & 01-19--- & \tabularnewline
+\hline
+ & 09-75 & 1d4 x 1,000 gp & 12-66 & 1d12 gems & 20-73 & 1d6 minor\tabularnewline
+\hline
+ & 76-100 & 1d10 x 100 pp & 67-100 & 1d10 art & 74-95 & 1 medium\tabularnewline
+\hline
+ & 96-100 & 1 major &  &  &  & \tabularnewline
+\hline
+14th & 01-08--- &  & 01-11--- &  & 01-19--- & \tabularnewline
+\hline
+ & 09-75 & 1d6 x 1,000 gp & 12-66 & 2d8 gems & 20-58 & 1d6 minor\tabularnewline
+\hline
+ & 76-100 & 1d12 x 100 pp & 67-100 & 2d6 art & 59-92 & 1 medium\tabularnewline
+\hline
+ & 93-100 & 1 major &  &  &  & \tabularnewline
+\hline
+15th & 01-03--- &  & 01-09--- &  & 01-11--- & \tabularnewline
+\hline
+ & 04-74 & 1d8 x 1,000 gp & 10-65 & 2d10 gems & 12-46 & 1d10 minor\tabularnewline
+\hline
+ & 75-100 & 3d4 x 100 pp & 66-100 & 2d8 art & 47-90 & 1 medium\tabularnewline
+\hline
+ & 91-100 & 1 major &  &  &  & \tabularnewline
+\hline
+16th & 01-03--- &  & 01-07--- &  & 01-40--- & \tabularnewline
+\hline
+ & 04-74 & 1d12 x 1,000 gp & 08-64 & 4d6 gems & 41-46 & 1d10 minor\tabularnewline
+\hline
+ & 75-100 & 3d4 x 100 pp & 65-100 & 2d10 art & 47-90 & 1d3 medium\tabularnewline
+\hline
+ & 91-100 & 1 major &  &  &  & \tabularnewline
+\hline
+17th & 01-03--- &  & 01-04--- &  & 01-33--- & \tabularnewline
+\hline
+ & 04-68 & 3d4 x 1,000 gp & 05-63 & 4d8 gems & 34-83 & 1d3 medium\tabularnewline
+\hline
+ & 69-100 & 2d10 x 100 pp & 64-100 & 3d8 art & 84-100 & 1 major\tabularnewline
+\hline
+18th & 01-02--- &  & 01-04--- &  & 01-24--- & \tabularnewline
+\hline
+ & 03-65 & 3d6 x 1,000 gp & 05-54 & 3d12 gems & 25-80 & 1d4 medium\tabularnewline
+\hline
+ & 66-100 & 5d4 x 100 pp & 55-100 & 3d10 art & 81-100 & 1 major\tabularnewline
+\hline
+19th & 01-02--- &  & 01-03--- &  & 01-04--- & \tabularnewline
+\hline
+ & 03-65 & 3d8 x 1,000 gp & 04-50 & 6d6 gems & 05-70 & 1d4 medium\tabularnewline
+\hline
+ & 66-100 & 3d10 x 100 pp & 51-100 & 6d6 art & 71-100 & 1 major\tabularnewline
+\hline
+20th & 01-02--- &  & 01-02--- &  & 01-25--- & \tabularnewline
+\hline
+ & 03-65 & 4d8 x 1,000 gp & 03-38 & 4d10 gems & 26-65 & 1d4 medium\tabularnewline
+\hline
+ & 66-100 & 4d10 x 100 pp & 39-100 & 7d6 art & 66-100 & 1d3 major\tabularnewline
+\hline
+\end{tabular}
+
+\vspace{12pt}
+For treasures above 20th level, use the 20th-level row and then add a number of 
+random major items.
+
+\vspace{12pt}
+\begin{tabular}{|>{\raggedright}p{22pt}|>{\raggedright}p{51pt}|>{\raggedright}p{22pt}|>{\raggedright}p{51pt}|>{\raggedright}p{22pt}|>{\raggedright}p{51pt}|}
+\hline
+L\textbf{evel} & M\textbf{agic Items} & L\textbf{evel} & M\textbf{agic Items} & L\textbf{evel} & M\textbf{agic 
+Items}\tabularnewline
+\hline
+21st & +1 & 25th & +9 & 28th & +23\tabularnewline
+\hline
+22nd & +2 & 26th & +12 & 29th & +31\tabularnewline
+\hline
+23rd & +4 & 27th & +17 & 30th & +42\tabularnewline
+\hline
+24th & +6 &  &  &  & \tabularnewline
+\hline
+\end{tabular}
+
+\vspace{12pt}
+\begin{tabular}{|>{\raggedright}p{21pt}|>{\raggedright}p{42pt}|>{\raggedright}p{26pt}|>{\raggedright}p{211pt}|}
+\hline
+\multicolumn{4}{|p{302pt}|}{T\textbf{able: Gems}}\tabularnewline
+\hline
+d\textbf{\%} & V\textbf{alue} & A\textbf{verage} & E\textbf{xamples}\tabularnewline
+\hline
+01-25 & 4d4 gp & 10 gp & Banded, eye, or moss agate; azurite; blue quartz; hematite; 
+lapis lazuli; malachite; obsidian; rhodochrosite; tiger eye turquoise; freshwater 
+(irregular) pearl\tabularnewline
+\hline
+26-50 & 2d4 x 10 gp & 50 gp & Bloodstone; carnelian; chalcedony; chrysoprase; citrine; 
+iolite, jasper; moonstone; onyx; peridot; rock crystal (clear quartz); sard; sardonyx; 
+rose, smoky, or star rose quartz; zircon\tabularnewline
+\hline
+51-70 & 4d4 x 10 gp & 100 gp & Amber; amethyst; chrysoberyl; coral; red or brown-green 
+garnet; jade; jet; white, golden, pink, or silver pearl; red spinel, red-brown 
+or deep green spinel; tourmaline\tabularnewline
+\hline
+71-90 & 2d4 x 100 gp & 500 gp & Alexandrite; aquamarine; violet garnet; black pearl; 
+deep blue spinel; golden yellow topaz\tabularnewline
+\hline
+91-99 & 4d4 x 100 gp & 1,000 gp & Emerald; white, black, or fire opal; blue sapphire; 
+fiery yellow or rich purple corundum; blue or black star sapphire; star ruby\tabularnewline
+\hline
+100 & 2d4 x 1,000 gp & 5,000 gp & Clearest bright green emerald; blue-white, canary, 
+pink, brown, or blue diamond; jacinth\tabularnewline
+\hline
+\end{tabular}
+
+\vspace{12pt}
+\begin{tabular}{|>{\raggedright}p{20pt}|>{\raggedright}p{42pt}|>{\raggedright}p{26pt}|>{\raggedright}p{212pt}|}
+\hline
+\multicolumn{4}{|p{302pt}|}{T\textbf{able: Art Objects}}\tabularnewline
+\hline
+d\textbf{\%} & V\textbf{alue} & A\textbf{verage} & E\textbf{xamples}\tabularnewline
+\hline
+01-10 & 1d10 x 10 gp & 55 gp & Silver ewer; carved bone or ivory statuette; finely 
+wrought small gold bracelet\tabularnewline
+\hline
+11-25 & 3d6 x 10 gp & 105 gp & Cloth of gold vestments; black velvet mask with 
+numerous citrines; silver chalice with lapis lazuli gems\tabularnewline
+\hline
+26-40 & 1d6 x 100 gp & 350 gp & Large well-done wool tapestry; brass mug with jade 
+inlays\tabularnewline
+\hline
+41-50 & 1d10 x 100 gp & 550 gp & Silver comb with moonstones; silver-plated steel 
+longsword with jet jewel in hilt\tabularnewline
+\hline
+51-60 & 2d6 x 100 gp & 700 gp & Carved harp of exotic wood with ivory inlay and 
+zircon gems; solid gold idol (10 lb.)\tabularnewline
+\hline
+61-70 & 3d6 x 100 gp & 1,050 gp & Gold dragon comb with red garnet eye; gold and 
+topaz bottle stopper cork; ceremonial electrum dagger with a star ruby in the pommel\tabularnewline
+\hline
+71-80 & 4d6 x 100 gp & 1,400 gp & Eyepatch with mock eye of sapphire and moonstone; 
+fire opal pendant on a fine gold chain; old masterpiece painting\tabularnewline
+\hline
+81-85 & 5d6 x 100 gp & 1,750 gp & Embroidered silk and velvet mantle with numerous 
+moonstones; sapphire pendant on gold chain\tabularnewline
+\hline
+86-90 & 1d4 x 1,000 gp & 2,500 gp & Embroidered and bejeweled glove; jeweled anklet; 
+gold music box\tabularnewline
+\hline
+91-95 & 1d6 x 1,000 gp & 3,500 gp & Golden circlet with four aquamarines; a string 
+of small pink pearls (necklace)\tabularnewline
+\hline
+96-99 & 2d4 x 1,000 gp & 5,000 gp & Jeweled gold crown; jeweled electrum ring\tabularnewline
+\hline
+100 & 2d6 x 1,000 gp & 7,000 gp & Gold and ruby ring; gold cup set with emeralds\tabularnewline
+\hline
+\end{tabular}
+
+\vspace{12pt}
+\begin{tabular}{|>{\raggedright}p{52pt}|>{\raggedright}p{213pt}|}
+\hline
+\multicolumn{2}{|p{266pt}|}{T\textbf{able: Mundane Items}}\tabularnewline
+\hline
+d\textbf{\%} & M\textbf{undane Item}\tabularnewline
+\hline
+01-17 & Alchemical item\tabularnewline
+\hline
+01-12 & Alchemist's fire (1d4 flasks, 20 gp each)\tabularnewline
+\hline
+13-24 & Acid (2d4 flasks, 10 gp each)\tabularnewline
+\hline
+25-36 & Smokesticks (1d4 sticks, 20 gp each)\tabularnewline
+\hline
+37-48 & Holy water (1d4 flasks, 25 gp each)\tabularnewline
+\hline
+49-62 & Antitoxin (1d4 doses, 50 gp each)\tabularnewline
+\hline
+63-74 & Everburning torch\tabularnewline
+\hline
+75-88 & Tanglefoot bags (1d4 bags, 50 gp each)\tabularnewline
+\hline
+89-100 & Thunderstones (1d4 stones, 30 gp each)\tabularnewline
+\hline
+18-50 & Armor (roll d\%: 01-10 = Small, 11-100 = Medium)\tabularnewline
+\hline
+01-12 & Chain shirt (100 gp)\tabularnewline
+\hline
+13-18 & Masterwork studded leather (175 gp)\tabularnewline
+\hline
+19-26 & Breastplate (200 gp)\tabularnewline
+\hline
+27-34 & Banded mail (250 gp)\tabularnewline
+\hline
+35-54 & Half-plate (600 gp)\tabularnewline
+\hline
+55-80 & Full plate (1,500 gp)\tabularnewline
+\hline
+81-90 & Darkwood\tabularnewline
+\hline
+01-50 & Buckler (205 gp)\tabularnewline
+\hline
+51-100 & Shield (257 gp)\tabularnewline
+\hline
+91-100 & Masterwork shield\tabularnewline
+\hline
+01-17 & Buckler (165 gp)\tabularnewline
+\hline
+18-40 & Light wooden shield (153 gp)\tabularnewline
+\hline
+41-60 & Light steel shield (159 gp)\tabularnewline
+\hline
+61-83 & Heavy wooden shield (157 gp)\tabularnewline
+\hline
+84-100 & Heavy steel shield (170 gp)\tabularnewline
+\hline
+51-83 & Weapons\tabularnewline
+\hline
+01-50 & Masterwork common melee weapon\tabularnewline
+\hline
+51-70 & Masterwork uncommon weapon\tabularnewline
+\hline
+71-100 & Masterwork common ranged weapon\tabularnewline
+\hline
+84-100 & Tools and gear\tabularnewline
+\hline
+01-03 & Backpack, empty (2 gp)\tabularnewline
+\hline
+04-06 & Crowbar (2 gp)\tabularnewline
+\hline
+07-11 & Lantern, bullseye (12 gp)\tabularnewline
+\hline
+12-16 & Lock, simple (20 gp)\tabularnewline
+\hline
+17-21 & Lock, average (40 gp)\tabularnewline
+\hline
+22-28 & Lock, good (80 gp)\tabularnewline
+\hline
+29-35 & Lock, superior (150 gp)\tabularnewline
+\hline
+36-40 & Manacles, masterwork (50 gp)\tabularnewline
+\hline
+41-43 & Mirror, small steel (10 gp)\tabularnewline
+\hline
+44-46 & Rope, silk (50 ft.) (10 gp)\tabularnewline
+\hline
+47-53 & Spyglass (1,000 gp)\tabularnewline
+\hline
+54-58 & Artisan's tools, masterwork (55 gp)\tabularnewline
+\hline
+59-63 & Climber's kit (80 gp)\tabularnewline
+\hline
+64-68 & Disguise kit (50 gp)\tabularnewline
+\hline
+69-73 & Healer's kit (50 gp)\tabularnewline
+\hline
+74-77 & Holy symbol, silver (25 gp)\tabularnewline
+\hline
+78-81 & Hourglass (25 gp)\tabularnewline
+\hline
+82-88 & Magnifying glass (100 gp)\tabularnewline
+\hline
+89-95 & Musical instrument, masterwork (100 gp)\tabularnewline
+\hline
+96-100 & Thieves' tools, masterwork (50 gp) \tabularnewline
+\hline
+\end{tabular}
+
+\newpage
+
+\end{document}
