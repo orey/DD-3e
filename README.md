@@ -1,5 +1,8 @@
-# srd-3.5
-Browsable versions of the SRD 3.5
+# SRD 3.5 en/in PDF français/English
 
-Potentially usable tex template : https://github.com/rpgtex/DND-5e-LaTeX-Template
+You will find here the source of SRD 3.5 in English and French and a consolidated PDF with the translation conventions at the end.
+
+Vous trouverez ici la source du SRD 3.5 en français et en anglais et un PDF consolidé avec les conventions de traductions à la fin.
+
+*Dernière mise à jour : 15 juillet 2023*
 
