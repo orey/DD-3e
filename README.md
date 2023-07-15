@@ -1,12 +1,20 @@
 # Le SRD 3.5 en PDF en français
 
-Vous trouverez ici la source du SRD 3.5 en français et en anglais et un PDF consolidé avec les conventions de traductions à la fin (rare).
+Vous trouverez ici :
+
+* La source du SRD 3.5 en français (format RTF),
+* Un PDF consolidé avec le glossaire des termes à la fin,
+* Un glossaire complet D&D 3.5 et D&D 5 avec la traduction des termes anglais en français.
 
 *Dernière mise à jour : 15 juillet 2023*
 
 # The 3.5 SRD in PDF in English
 
-You will find here the source of SRD 3.5 in English and a consolidated PDF with the translation conventions at the end.
+You will find here :
+
+* The source of SRD 3.5 in English (RTF format),
+* A consolidated PDF with the French glossary at the end,
+* A consolidated glossary with D&D 3.5 and D&D 5 English to French terms.
 
 *Last update: July 15 2023*
 
